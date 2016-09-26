@@ -11,5 +11,5 @@ h1, h2, h3{
 }
 
 @media print{
-	body{max-width: none}
+	body{max-width: none;}
 }
