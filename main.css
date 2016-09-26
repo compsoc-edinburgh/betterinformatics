@@ -1,0 +1,15 @@
+body{
+	margin: 1em;
+	max-width: 40em;
+	padding: 0.62em;
+	font-size: 1.2em;
+	font-family: sans-serif;
+}
+
+h1, h2, h3{
+	line-height: 1.2em;	
+}
+
+@media print{
+	body{max-width: none}
+}
