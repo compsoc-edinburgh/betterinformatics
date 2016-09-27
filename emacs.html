@@ -27,9 +27,9 @@ that the solution given is only for OS X / Linux, but has only been tested
     </li>
      
     <li>If you get an error from this command, Haskell has not been installed
-      correctly. Otherwise, note the response given (eg. <pre>/opt/local/bin/ghci</pre>)</li>
+      correctly. Otherwise, note the response given (eg. <code>/opt/local/bin/ghci</code>)</li>
     <li>The path that must be added to the Emacs path is the above response,
-      but with <pre>/ghci</pre> removed (eg. <pre>/opt/local/bin</pre>).</li>
+      but with <code>/ghci</code> removed (eg. <code>/opt/local/bin</code>).</li>
     <li>Copy the following two lines to the end of your Emacs config file:<br>
       <pre>(setenv "PATH" (concat (getenv "PATH") ":HERE"))
 (setq exec-path (append exec-path '("HERE")))</pre>
