@@ -14,41 +14,36 @@
 
   
 <section>
-  
-<pre>
-One reason for the error `The Haskell process `haskell' has died. Restart?'
-is that Emacs cannot find the location of the GHCi executable. The
-following fix will find this location and add it to the Emacs path. Note
+  <p>One reason for the error `The Haskell process `haskell' has died. Restart?' is that Emacs cannot find the location of the GHCi executable.</p>
+  <p>The following fix will find this location and add it to the Emacs path. Note
 that the solution given is only for OS X / Linux, but has only been tested
-on OS X. Also note that any number of problems seem to produce the same
-error, so this is not guaranteed to work (but when done correctly seemed to
-work for most students at the session on Friday).
+    on OS X.</p>
+  <p>Also note that any number of problems seem to produce the same error, so this is not guaranteed to work (but when done correctly seemed to work for most students at the session on Friday).</p>
+  
+  <ul>
+    <li>Open a terminal.</li>
+    <li>execute the following command:<br>
+        <pre>which ghci</pre>
+    </li>
+     
+    <li>If you get an error from this command, Haskell has not been installed
+      correctly. Otherwise, note the response given (eg. <pre>/opt/local/bin/ghci</pre>)</li>
+    <li>The path that must be added to the Emacs path is the above response,
+      but with <pre>/ghci</pre> removed (eg. <pre>/opt/local/bin</pre>).</li>
+    <li>Copy the following two lines to the end of your Emacs config file:<br>
+      <pre>(setenv "PATH" (concat (getenv "PATH") ":HERE"))
+(setq exec-path (append exec-path '("HERE")))</pre>
+    </li>
+    <li>Replace HERE with the path described above.</li>
+    <li>Restart Emacs.</li>
+  </ul>
+  
+  <p>Note that the Emacs config file is usually located at the path `~/.emacs'.</p>
+  <p>You can also access the Emacs config file by executing the following within Emacs:</p>
 
-  *   Open a terminal.
-  *   execute the following command:
+  <pre>M-: (find-file user-init-file)</pre>
 
-which ghci
-
-  *   If you get an error from this command, Haskell has not been installed
-      correctly. Otherwise, note the response given (eg. `/opt/local/bin/ghci')
-  *   The path that must be added to the Emacs path is the above response,
-      but with `/ghci' removed (eg. `/opt/local/bin').
-  *   Copy the following two lines to the end of your Emacs config file:
-
-(setenv "PATH" (concat (getenv "PATH") ":HERE"))
-(setq exec-path (append exec-path '("HERE")))
-
-  *   Replace HERE with the path described above.
-  *   Restart Emacs.
-
-Note that the Emacs config file is usually located at the path `~/.emacs'.
-You can also access the Emacs config file by executing the following within
-Emacs:
-
-M-: (find-file user-init-file)
-</pre>
 </section>
-
 
 </article></body>
 </html>
