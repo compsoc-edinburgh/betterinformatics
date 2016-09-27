@@ -16,34 +16,37 @@
 <section>
   
 <pre>
+One reason for the error `The Haskell process `haskell' has died. Restart?'
+is that Emacs cannot find the location of the GHCi executable. The
+following fix will find this location and add it to the Emacs path. Note
+that the solution given is only for OS X / Linux, but has only been tested
+on OS X. Also note that any number of problems seem to produce the same
+error, so this is not guaranteed to work (but when done correctly seemed to
+work for most students at the session on Friday).
 
-First we need to get the location of the ghci. In a terminal, type:
+  *   Open a terminal.
+  *   execute the following command:
 
 which ghci
 
-This will give you something like "/usr/local/bin/ghci". The important bit here is "/usr/local/bin"
+  *   If you get an error from this command, Haskell has not been installed
+      correctly. Otherwise, note the response given (eg. `/opt/local/bin/ghci')
+  *   The path that must be added to the Emacs path is the above response,
+      but with `/ghci' removed (eg. `/opt/local/bin').
+  *   Copy the following two lines to the end of your Emacs config file:
 
-Now we need to add this thing to the end of the .emacs file (user file where you're supposed to paste install-haskell.txt)
+(setenv "PATH" (concat (getenv "PATH") ":HERE"))
+(setq exec-path (append exec-path '("HERE")))
 
-in emacs:
-To do this open Emacs and press the key command M-:, that is, pressing
-colon while the Alt key is held. A prompt will appear at the bottom of the screen,
-enter (find-file user-init-file) exactly (including parentheses) and press
-Enter
+  *   Replace HERE with the path described above.
+  *   Restart Emacs.
 
-(File location is ~/.emacs)
+Note that the Emacs config file is usually located at the path `~/.emacs'.
+You can also access the Emacs config file by executing the following within
+Emacs:
 
-
-(setenv "PATH" (concat (getenv "PATH") ":/PATH/TO/GHCI/DIRECTORY"))
-(setq exec-path (append exec-path '("/PATH/TO/GHCI/DIRECTORY")))
-
-Alt-x
-
-"eval-buffer" enter
-
-Save the stupid file. Restart emacs.
-
-It should work. C-c C-l</pre>
+M-: (find-file user-init-file)
+</pre>
 </section>
 
 
