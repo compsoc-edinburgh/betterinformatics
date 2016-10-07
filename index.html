@@ -11,6 +11,25 @@
         <header>
             <h1>Informatics 2016/17</h1>
         </header>
+        
+        <section>
+            <h2>INF1-FP Issues</h2>
+            <ul>
+                <li>
+                    <a href="emacs.html">Emacs: Haskell has died</a>
+                </li>
+                <li>
+                    <pre>import Test.QuickCheck</pre> doesn't work!
+                    <br>
+                    Open up the command line / Terminal, and type <pre>cabal install quickcheck</pre>
+                <li>
+                    "I'm doing <pre>cabal install quickcheck</pre>, but it doesn't work because of something related to satisfying packages... random-1-1...?"
+                    <br>
+                    Solution: Try <pre>sudo ghc-pkg recache</pre>. Then try <pre>cabal install quickcheck</pre> again.
+                </li>
+            </ul>
+        </section>
+        
         <section>
             <h2>Books</h2>
             <ul>
@@ -91,9 +110,6 @@
                     <a href="http://www.laundryview.com/lvs.php?s=264">Laundry tracker</a>
                 </li>
                 <li>
-                    <a href="emacs.html">Emacs: Haskell has died</a>
-                </li>
-                <li>
                     <a href="https://github.com/qaisjp/inf1.hgs.club/">Edit this stupid page</a>
                 </li>
             </ul>
@@ -102,18 +118,7 @@
                     <a href="files/meetups">Meetup photos and stuff (even more private)</a>
                 </li>
             </ul>
-        </section>
-        
-        <section>
-            <h2>Other Haskell Issues</h2>
-            <ul>
-                <li>
-                    "Cannot install QuickCheck because of something related to satisfying packages..."
-                    <br>
-                    Solution: Try `sudo ghc-pkg recache` says. Then try `cabal install quickcheck` again.
-                </li>
-            </ul>
-        </section>
+        </section>        
     </article>
 </body>
 </html>
