@@ -1,0 +1,176 @@
+<!-- THIS FILE IS NOT COVERED BY THE LICENSE IN THIS REPOSITORY! -->
+<!-- This page is a modification of: https://www.inf.ed.ac.uk/teaching/courses/inf1/cl/tools/venn/ -->
+<!-- The creator of this page is unknown. Please send an email to the repository owner if you would like this taken down. -->
+
+<!DOCTYPE HTML>
+<meta charset="utf-8">
+
+<html lang="en">
+
+	<head>
+		<style>
+			circle.light.amber.on{fill:yellow} 
+			circle.light.red.on{fill:red} 
+			circle.light.green.on{fill:green} 
+			body {
+	  			font: 12pt sans-serif;
+			}
+
+			#vennimage { width:20%; float:left;}
+			hr {clear:both}
+			i {font-weight:lighter}
+			code {font-size:14pt;font-style:normal}
+			circle { stroke:black;stroke-width:3pt; fill: none;}
+			circle.universe {stroke-width:5pt;}
+			path {stroke:black; fill: none;fill-rule:evenodd;}
+			path.true {fill:red}
+			input[type=text] {width:500px}
+			input:invalid { color:red }
+		</style>
+
+		<title>Venn Diagrams</title>
+
+		<script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+	</head>
+
+	<body>
+		<p>This is a tool for exploring Venn diagrams. The diagrams presented are randomly generated.</p>
+
+		<p>You can change the first diagram (in the top left corner) by entering a Boolean
+		expression using the three propositional letters <code>R / A / G</code>, and then clicking the "render" button (or pressing enter).</p>
+
+		<p><a href="https://inf1.hgs.club/files/venn/?#">This diagram</a> shows the state represented by each region.</p>
+
+		<p>Your boolean expression must be written in <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators">Javascript notation</a>. As well as the letters <codeR A G</code> and the Boolean
+		operators, <code>||</code> (OR), <code>&amp;&amp;</code> (AND), and
+		<code>!</code> (NOT), you can use the constants <code>true</code>
+		(TRUE) and <code>false</code> (FALSE). You can also use the <a
+		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator">conditional
+		operator</a>
+		&nbsp;<i>condition&nbsp;<code>?</code>&nbsp;expr1&nbsp;<code>:</code>&nbsp;expr2</i>&nbsp;
+		(IF THEN ELSE, or ITE), spaces, and parentheses&nbsp;<code>(&nbsp;)</code>.
+		</p>
+		
+		<hr/>
+
+		<form action="#">
+			<input type="text" id="prop"
+			inputmode="verbatim"
+			pattern="((\|\|)|(&&)|[RAGrag! ()?:]|true|false|1|0)*"
+			placeholder="type your expression here"
+			title="input a Boolean expression using the
+			three propositional letters R A G"></input>
+
+			<input type="submit" value="render" onclick="renderDiagram()"></input>
+		</form>
+		<br/>
+
+		<svg width="256" height="256"> </svg>
+
+
+		<script type="text/javascript"> 
+
+		const x = 256;
+		const I = 128;
+		const R = 2 * I;
+		const R3 = I * Math.sqrt(3);
+		const circles = { red: [-I,-R3/3], amber: [I, -R3/3], green: [0, 2*R3/3] };
+
+
+		const s0 = [R,0],
+		      s1 = [-I, R3],
+		s2 = [-I, -R3];
+
+		function onClick(){
+			var d = (X,Y) => Math.sqrt(Math.pow(X[0]-Y[0],2) + Math.pow(X[1]-Y[1],2));
+
+			for (light in circles){
+				d3.selectAll("circle.light." + light)
+				  .classed("on",d(circles[light],[d3.event.clientX-512,d3.event.clientY-512]) < R)
+				
+				console.log(light + d(circles[light],[d3.event.clientX-512,d3.event.clientY-512]));
+			}
+		}
+
+		var double = (xy) => [2*xy[0],2*xy[1]];
+		var neg = (xy) => [-xy[0],-xy[1]];
+
+		var move = (d) => "M" + d.m + (d.c.map((xy) => " a" + [[R,R] , 0, xy[1], xy[0]].join(", "))) + (d.neg == 1 ? ("M" +[0,3.5*I]+ "a" + [3*I ,3*I ,0,0,0,0,-7*I] + "a" + [3*I ,3*I ,0,0,0,0,7*I]) : "");
+
+		var svg = d3.select("svg")
+		.on('click', onClick)
+		.selectAll("g")
+		.data(d3.range(1))
+		.enter()
+		.append("g")
+		.attr("id", d=> "g"+d)
+		.attr("transform", d => "translate(" + [(0.5+d) * x, 0.5 * x] +")scale(0.25)")
+		.call(venn)
+
+		function venn(svg){
+		svg.selectAll("circle.prop")
+		.data( ["red","amber","green"])
+		.enter()
+		.append("circle")
+		.attr("class", d => d)
+		.classed("prop",true)
+		.attr("cx", d => circles[d][0])
+		.attr("cy", d => circles[d][1])
+		.attr("r", R)
+
+		svg.append("circle")
+		.attr("cx", 0)
+		.attr("cy",0)
+		.attr("r", 3.5*I)
+		.classed("universe",true)
+
+		// svg.selectAll("circle.light")
+		// .data(["red","amber","green"])
+		// .enter()
+		// .append("circle")
+		// .attr("class", d => d)
+		// .classed("light",true)
+		// .attr("r", 40)
+		// .attr("cx", 60-512)
+		// .attr("cy",(d,i) => 60 + 90*i -512)
+
+
+		svg
+		.selectAll("path")
+		.data([{m:[-I,-R3/3],c:[[s0,[0,1]],[s1,[0,1]],[s2,[0,1]]],neg:0,id:"111"},
+		{m:[R,2*R3/3],c:[[s2,[0,0]],[s1,[0,1]],[s0,[0,0]]],neg:0,id:"011"},
+		{m:[-R,2*R3/3],c:[[neg(s1),[0,1]],[neg(s2),[0,0]],[neg(s0),[0,1]]],neg:0,id:"101"},
+		{m:[-I,-R3/3],c:[[s0,[0,1]],[s2,[0,0]],[s1,[0,0]]],neg:0,id:"110"},
+		{m:[0,2*R3/3],c:[[s0,[0,0]],[double(neg(s0)),[1,1]],[s0,[0,0]]],neg:0,id:"001"},
+		{m:[-I,-R3/3],c:[[s1,[0,0]],[double(neg(s1)),[1,1]],[s1,[0,0]]],neg:0,id:"100"},
+		{m:[I,-R3/3],c:[[s2,[0,0]],[double(neg(s2)),[1,1]],[s2,[0,0]]],neg:0,id:"010"},
+		{m:[R,2*R3/3],c:[[double((s2)),[0,0]],[double((s1)),[0,0]],[double((s0)),[0,0]]],neg:1,id:"000"}
+		])
+		.enter()
+		.append("path")
+		.attr("d",move)
+		.classed("true", d => Math.random() > 0.5)
+		}
+
+
+		function bval (expression, id) {
+			var r = id.charAt(0) == 1;
+			var a = id.charAt(1) == 1;
+			var g = id.charAt(2) == 1;
+
+			return eval(expression.toString());
+		}
+
+		function renderDiagram(ev) {
+			var expression = document.getElementById("prop").value.toLowerCase();
+
+			d3.selectAll("#g0 path").classed("true", d => {
+					console.log({e:expression,id: d.id, v:bval(expression, d.id)});
+			      	return bval (expression, d.id);
+		      	}
+		    )
+		}
+
+		</script>
+	</body>
+</html>
