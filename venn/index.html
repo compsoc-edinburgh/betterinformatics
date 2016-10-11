@@ -30,6 +30,7 @@
 
 		<title>Venn Diagrams</title>
 
+    	<link href="/main.css" rel="stylesheet" type="text/css">
 		<script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
 	</head>
 
@@ -161,6 +162,7 @@
 
 		function renderDiagram(ev) {
 			var expression = document.getElementById("prop").value.toLowerCase();
+
 
 			d3.selectAll("#g0 path").classed("true", d => {
 					console.log({e:expression,id: d.id, v:bval(expression, d.id)});
