@@ -63,7 +63,7 @@
 		<hr>
 
 		<section>
-			<form action="#">
+			<form>
 				<input type="text" id="prop"
 				inputmode="verbatim"
 				pattern="((\|\|)|(&&)|[RAGrag!01 ()?:]|true|false)*"
@@ -173,10 +173,11 @@
 
 
 				d3.selectAll("#g0 path").classed("true", d => {
-						console.log({e:expression,id: d.id, v:bval(expression, d.id)});
-					return bval (expression, d.id);
-				}
-			    )
+							console.log({e:expression,id: d.id, v:bval(expression, d.id)});
+						return bval (expression, d.id);
+					}
+			    	)
+				return false;
 			}
 		</script>
 	</body>
