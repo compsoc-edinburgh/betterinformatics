@@ -13,7 +13,7 @@
 			circle.light.red.on{fill:red} 
 			circle.light.green.on{fill:green} 
 			body {
-	  			font: 12pt sans-serif;
+				font: 12pt sans-serif;
 			}
 
 			#vennimage { width:20%; float:left;}
@@ -30,7 +30,7 @@
 
 		<title>Venn Diagrams</title>
 
-    	<link href="/main.css" rel="stylesheet" type="text/css">
+		<link href="/main.css" rel="stylesheet" type="text/css">
 		<script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
 	</head>
 
@@ -69,7 +69,7 @@
 				pattern="((\|\|)|(&&)|[RAGrag!01 ()?:]|true|false)*"
 				placeholder="type your expression here" autofocus>
 
-				<input type="submit" value="render" onclick="renderDiagram()">
+				<input type="submit" value="render" onclick="return renderDiagram()">
 			</form>
 			<br>
 			<svg width="256" height="256"> </svg>
@@ -85,7 +85,7 @@
 
 
 			const s0 = [R,0],
-			      s1 = [-I, R3],
+				  s1 = [-I, R3],
 			s2 = [-I, -R3];
 
 			function onClick(){
@@ -176,7 +176,8 @@
 							console.log({e:expression,id: d.id, v:bval(expression, d.id)});
 						return bval (expression, d.id);
 					}
-			    	)
+				);
+
 				return false;
 			}
 		</script>
