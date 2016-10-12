@@ -119,48 +119,47 @@
 			.call(venn)
 
 			function venn(svg){
-			svg.selectAll("circle.prop")
-			.data( ["red","amber","green"])
-			.enter()
-			.append("circle")
-			.attr("class", d => d)
-			.classed("prop",true)
-			.attr("cx", d => circles[d][0])
-			.attr("cy", d => circles[d][1])
-			.attr("r", R)
+				svg.selectAll("circle.prop")
+				.data( ["red","amber","green"])
+				.enter()
+				.append("circle")
+				.attr("class", d => d)
+				.classed("prop",true)
+				.attr("cx", d => circles[d][0])
+				.attr("cy", d => circles[d][1])
+				.attr("r", R)
 
-			svg.append("circle")
-			.attr("cx", 0)
-			.attr("cy",0)
-			.attr("r", 3.5*I)
-			.classed("universe",true)
+				svg.append("circle")
+				.attr("cx", 0)
+				.attr("cy",0)
+				.attr("r", 3.5*I)
+				.classed("universe",true)
 
-			// svg.selectAll("circle.light")
-			// .data(["red","amber","green"])
-			// .enter()
-			// .append("circle")
-			// .attr("class", d => d)
-			// .classed("light",true)
-			// .attr("r", 40)
-			// .attr("cx", 60-512)
-			// .attr("cy",(d,i) => 60 + 90*i -512)
+				// svg.selectAll("circle.light")
+				// .data(["red","amber","green"])
+				// .enter()
+				// .append("circle")
+				// .attr("class", d => d)
+				// .classed("light",true)
+				// .attr("r", 40)
+				// .attr("cx", 60-512)
+				// .attr("cy",(d,i) => 60 + 90*i -512)
 
 
-			svg
-			.selectAll("path")
-			.data([{m:[-I,-R3/3],c:[[s0,[0,1]],[s1,[0,1]],[s2,[0,1]]],neg:0,id:"111"},
-			{m:[R,2*R3/3],c:[[s2,[0,0]],[s1,[0,1]],[s0,[0,0]]],neg:0,id:"011"},
-			{m:[-R,2*R3/3],c:[[neg(s1),[0,1]],[neg(s2),[0,0]],[neg(s0),[0,1]]],neg:0,id:"101"},
-			{m:[-I,-R3/3],c:[[s0,[0,1]],[s2,[0,0]],[s1,[0,0]]],neg:0,id:"110"},
-			{m:[0,2*R3/3],c:[[s0,[0,0]],[double(neg(s0)),[1,1]],[s0,[0,0]]],neg:0,id:"001"},
-			{m:[-I,-R3/3],c:[[s1,[0,0]],[double(neg(s1)),[1,1]],[s1,[0,0]]],neg:0,id:"100"},
-			{m:[I,-R3/3],c:[[s2,[0,0]],[double(neg(s2)),[1,1]],[s2,[0,0]]],neg:0,id:"010"},
-			{m:[R,2*R3/3],c:[[double((s2)),[0,0]],[double((s1)),[0,0]],[double((s0)),[0,0]]],neg:1,id:"000"}
-			])
-			.enter()
-			.append("path")
-			.attr("d",move)
-			.classed("true", d => Math.random() > 0.5)
+				svg
+				.selectAll("path")
+				.data([{m:[-I,-R3/3],c:[[s0,[0,1]],[s1,[0,1]],[s2,[0,1]]],neg:0,id:"111"},
+				{m:[R,2*R3/3],c:[[s2,[0,0]],[s1,[0,1]],[s0,[0,0]]],neg:0,id:"011"},
+				{m:[-R,2*R3/3],c:[[neg(s1),[0,1]],[neg(s2),[0,0]],[neg(s0),[0,1]]],neg:0,id:"101"},
+				{m:[-I,-R3/3],c:[[s0,[0,1]],[s2,[0,0]],[s1,[0,0]]],neg:0,id:"110"},
+				{m:[0,2*R3/3],c:[[s0,[0,0]],[double(neg(s0)),[1,1]],[s0,[0,0]]],neg:0,id:"001"},
+				{m:[-I,-R3/3],c:[[s1,[0,0]],[double(neg(s1)),[1,1]],[s1,[0,0]]],neg:0,id:"100"},
+				{m:[I,-R3/3],c:[[s2,[0,0]],[double(neg(s2)),[1,1]],[s2,[0,0]]],neg:0,id:"010"},
+				{m:[R,2*R3/3],c:[[double((s2)),[0,0]],[double((s1)),[0,0]],[double((s0)),[0,0]]],neg:1,id:"000"}
+				])
+				.enter()
+				.append("path")
+				.attr("d",move)
 			}
 
 
