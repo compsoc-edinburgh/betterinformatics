@@ -179,7 +179,7 @@
 				    eval(expression.toString()); 
 				} catch (e) {
 				    if (e instanceof SyntaxError) {
-					alert(e.message);
+					alert("Syntax error | " + e.message);
 					return false;
 				    }
 				}
