@@ -169,7 +169,15 @@
 				var a = id.charAt(1) == 1;
 				var g = id.charAt(2) == 1;
 
-				return eval(expression.toString());
+				try {
+				    eval(expression.toString()); 
+				} catch (e) {
+				    if (e instanceof SyntaxError) {
+					alert(e.message);
+				    }
+				}
+				
+				return 0;
 			}
 
 			function renderDiagram(ev) {
