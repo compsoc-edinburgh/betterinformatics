@@ -169,23 +169,22 @@
 				var a = id.charAt(1) == 1;
 				var g = id.charAt(2) == 1;
 
+				var result = 0;
 				try {
-				    eval(expression.toString()); 
+				    result = eval(expression.toString()); 
 				} catch (e) {
 				    if (e instanceof SyntaxError) {
 					alert(e.message);
 				    }
 				}
 				
-				return 0;
+				return result;
 			}
 
 			function renderDiagram(ev) {
 				var expression = document.getElementById("prop").value.toLowerCase();
-
-
 				d3.selectAll("#g0 path").classed("true", d => {
-							console.log({e:expression,id: d.id, v:bval(expression, d.id)});
+						// console.log({e:expression,id: d.id, v:bval(expression, d.id)});
 						return bval (expression, d.id);
 					}
 				);
