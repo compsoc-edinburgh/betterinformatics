@@ -217,15 +217,8 @@
 				try {
 				    bval(expression, "000"); 
 				} catch (e) {
-			 	    var prefix = "Unknown";
-				    if (e instanceof SyntaxError) {
-					prefix = "Syntax";
-				    } else if (e instanceof ReferenceError) {
-				        prefix = "Reference";
-				    }
-				    
 				    $("#errs").show()
-				    $("#errs").html("<strong>" + prefix + " error</strong> " + e.message)
+				    $("#errs").html("<strong>" + e.name + " error</strong> " + e.message)
 				    return false;
 				}
 				
