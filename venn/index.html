@@ -102,7 +102,7 @@
 			<form>
 				<input type="text" id="prop"
 				inputmode="verbatim"
-				pattern="((\|\|)|(&&)|(==)|(and)|(iff)|(x?or)|(not)|[RAGragtfTF!01^ ()?:]|true|false)*"
+				pattern="((\|\|)|(&&)|(==)|([aA][Nn][dD])|([rR][Ee][Dd])|([Aa][Mm][Bb][Ee][Rr])|([Gg][Rr][Ee][Ee][Nn])|([Ii][Ff][Ff])|([Xx]?[Oo][Rr])|([Nn][Oo][Tt])|[RrAaGgTtFf!01^ ()?:]|[Tt][Rr][Uu][Ee]|[Ff][Aa][Ll][Ss][Ee])*"
 				placeholder="type your expression here" autofocus>
 
 				<input type="submit" value="render" onclick="return renderDiagram()">
@@ -196,9 +196,9 @@
 
 
 			function bval (expression, id) {
-				var r = id.charAt(0) == 1;
-				var a = id.charAt(1) == 1;
-				var g = id.charAt(2) == 1;
+				var r = red = id.charAt(0) == 1;
+				var a = amber = id.charAt(1) == 1;
+				var g = green = id.charAt(2) == 1;
 				var t = 1;
 				var f = 0;
 				
