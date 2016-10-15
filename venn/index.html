@@ -224,9 +224,12 @@
 				        prefix = "Reference";
 				    }
 				    
-			            alert(prefix + " error | " + e.message);
+				    $("#errs").show()
+				    $("#errs").html("<strong>" + prefix + " error</strong> " + e.message)
 				    return false;
 				}
+				
+				$("#errs").hide()
 				
 				d3.selectAll("#g0 path").classed("true", d => {
 						// console.log({e:expression,id: d.id, v:bval(expression, d.id)});
