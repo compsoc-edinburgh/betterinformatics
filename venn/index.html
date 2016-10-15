@@ -57,32 +57,34 @@
 					<span class="label label-success">G</span>
 				</li>
 				<li>OR:
+					<span class="label label-info">or</span>
 					<span class="label label-info">||</span>
 					<span class="label label-info">or</span>
 				</li>
 				<li>AND:
-					<span class="label label-info">&amp;&amp;</span>
 					<span class="label label-info">and</span>
+					<span class="label label-info">&amp;&amp;</span>
 				</li>
 				<li>NOT:
-					<span class="label label-info">!</span>
 					<span class="label label-info">not</span>
+					<span class="label label-info">!</span>
 				</li>
 				<li>True:
+					<span class="label label-info">true</span>
 					<span class="label label-info">1</span>
 					<span class="label label-info">T</span>
-					<span class="label label-info">true</span>
 				</li>
 				<li>False:
+					<span class="label label-info">false</span>
 					<span class="label label-info">0</span>
 					<span class="label label-info">F</span>
-					<span class="label label-info">false</span>
 				</li>
 				<li>XOR:
-					<span class="label label-info">^</span>
 					<span class="label label-info">xor</span>
+					<span class="label label-info">^</span>
 				</li>
-				<li>↔:
+				<li>IFF:
+					<span class="label label-info">iff</span>
 					<span class="label label-info">==</span>
 				</li>
 				<li>
@@ -208,10 +210,11 @@
 				expression = replaceAll(expression, "xor", "^")
 				expression = replaceAll(expression, "or", "||")
 				expression = replaceAll(expression, "not", "!")
+				expression = replaceAll(expression, "iff", "==")
 				console.log("Expression", expression);
 				
 				try {
-				    eval(expression.toString()); 
+				    eval(expression); 
 				} catch (e) {
 				    if (e instanceof SyntaxError) {
 					alert("Syntax error | " + e.message);
