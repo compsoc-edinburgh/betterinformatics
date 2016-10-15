@@ -215,10 +215,15 @@
 				try {
 				    eval(expression); 
 				} catch (e) {
+			 	    var prefix = "Unknown";
 				    if (e instanceof SyntaxError) {
-					alert("Syntax error | " + e.message);
-					return false;
+					prefix = "Syntax";
+				    } else if (e instanceof ReferenceError) {
+				        prefix = "Reference";
 				    }
+				    
+			            alert(prefix + " error | " + e.message);
+				    return false;
 				}
 				
 				d3.selectAll("#g0 path").classed("true", d => {
