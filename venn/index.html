@@ -167,15 +167,16 @@
 				.attr("r", 3.5*I)
 				.classed("universe",true)
 
-				// svg.selectAll("circle.light")
-				// .data(["red","amber","green"])
-				// .enter()
-				// .append("circle")
-				// .attr("class", d => d)
-				// .classed("light",true)
-				// .attr("r", 40)
-				// .attr("cx", 60-512)
-				// .attr("cy",(d,i) => 60 + 90*i -512)
+				// comment this shit out
+				svg.selectAll("circle.light")
+				.data(["red","amber","green"])
+				.enter()
+				.append("circle")
+				.attr("class", d => d)
+				.classed("light",true)
+				.attr("r", 40)
+				.attr("cx", 60-512)
+				.attr("cy",(d,i) => 60 + 90*i -512)
 
 
 				svg
