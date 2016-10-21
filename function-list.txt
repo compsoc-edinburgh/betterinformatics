@@ -33,10 +33,10 @@ concat ["go","od","bye"] = "goodbye"                "good" ++ "bye" = "goodbye"
 [9,7,5] !! 1 = 7                                    length [9,7,5] = 3
 
 head :: [a] -> a                                    tail :: [a] -> [a]
-head "goodbye" = ’g’                                tail "goodbye" = "oodbye"
+head "goodbye" = 'g'                                tail "goodbye" = "oodbye"
 
 init :: [a] -> [a]                                  last :: [a] -> a
-init "goodbye" = "goodby"                           last "goodbye" = ’e’
+init "goodbye" = "goodby"                           last "goodbye" = 'e'
 
 takeWhile :: (a->Bool) -> [a] -> [a]                take :: Int -> [a] -> [a]
 takeWhile isLower "goodBye" = "good"                take 4 "goodbye" = "good"
@@ -45,7 +45,7 @@ dropWhile :: (a->Bool) -> [a] -> [a]                drop :: Int -> [a] -> [a]
 dropWhile isLower "goodBye" = "Bye"                 drop 4 "goodbye" = "bye"
 
 elem :: (Eq a) => a -> [a] -> Bool                  replicate :: Int -> a -> [a]
-elem ’d’ "goodbye" = True                           replicate 5 ’*’ = "*****"
+elem 'd' "goodbye" = True                           replicate 5 '*' = "*****"
 
 zip :: [a] -> [b] -> [(a,b)]
 zip [1,2,3,4] [1,4,9] = [(1,1),(2,4),(3,9)]
