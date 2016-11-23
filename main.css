@@ -18,3 +18,10 @@ h1, h2, h3 {
 	text-decoration: none;
 	cursor: text;
 }
+
+section {
+	border: 1px rgba(127,127,127,0.5);
+	border-style: dashed;
+	margin-bottom: 1rem;
+	padding-left: 1em;
+}
