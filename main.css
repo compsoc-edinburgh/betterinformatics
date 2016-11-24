@@ -25,3 +25,18 @@ section {
 	margin-bottom: 1rem;
 	padding-left: 1em;
 }
+
+.links {
+	font-size: 0.8rem;
+	float: right;
+}
+
+.hoverRow {
+	opacity: 0.4;
+	color: rgba(127, 127, 127, 1);
+}
+
+.hoverRow:hover {
+	opacity: 1;
+	color: black;
+}
