@@ -14,7 +14,7 @@ h1, h2, h3 {
 }
 
 .headerText:after {
-	content: "Informatics 2016/17;
+	content: "Informatics 2016/17";
 }
 
 .headerText:hover:after {
