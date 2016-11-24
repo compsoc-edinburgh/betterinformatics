@@ -1,27 +1,42 @@
 body {
-	margin:1em auto;
-	max-width:40em;
-	padding: 0 .62em;
-	font: 1.2em/1.62em sans-serif;
+	  margin:1em auto;
+	  max-width:40em;
+	  padding: 0 .62em;
+	  font: 1.2em/1.62em sans-serif;
 }
 
 h1, h2, h3 {
-	line-height:1.2em;
+	  line-height:1.2em;
 }
 
 @media print{
-	body{max-width:none}
+	  body{max-width:none}
 }
 
 .fakeURL {
-	color: black;
-	text-decoration: none;
-	cursor: text;
+	  color: black;
+	  text-decoration: none;
+	  cursor: text;
 }
 
 section {
-	border: 1px rgba(127,127,127,0.5);
-	border-style: dashed;
-	margin-bottom: 1rem;
-	padding-left: 1em;
+	  border: 1px rgba(127,127,127,0.5);
+	  border-style: dashed;
+	  margin-bottom: 1rem;
+	  padding-left: 1em;
+}
+
+.links {
+    font-size: 0.8rem;
+    float: right;
+}
+
+.hoverRow {
+     opacity: 0.4;
+     color: rgba(127, 127, 127, 1);
+}
+
+.hoverRow:hover {
+    opacity: 1;
+    color: black;
 }
