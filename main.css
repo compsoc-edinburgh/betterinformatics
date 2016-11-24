@@ -13,10 +13,14 @@ h1, h2, h3 {
 	body{max-width:none}
 }
 
-.fakeURL {
-	color: black;
-	text-decoration: none;
-	cursor: text;
+.headerText:after {
+	content: "Informatics 2016/17;
+}
+
+.headerText:hover:after {
+	content: "Forrest Hill is love, Forrest Hill is life.";
+	color: red;
+	font-size: 0.7em;
 }
 
 section {
