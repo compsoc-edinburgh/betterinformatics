@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <title>Fix You a Haskell</title>
     <link href="main.css" rel="stylesheet" type="text/css">
 </head>
+
 <body>
     <article>
         <header>
@@ -13,21 +15,17 @@
             <h1>Haskell has died</h1>
         </header>
         <section>
-            <p>One reason for the error `The Haskell process `haskell' has died. Restart?' is that Emacs cannot find the location of the
-            GHCi executable.</p>
-            <p>The following fix will find this location and add it to the Emacs path. Note that the solution given is only for OS X /
-            Linux, but has only been tested on OS X.</p>
-            <p>Also note that any number of problems seem to produce the same error, so this is not guaranteed to work (but when done
-            correctly seemed to work for most students at the session on Friday).</p>
+            <p>One reason for the error `The Haskell process `haskell' has died. Restart?' is that Emacs cannot find the location of the GHCi executable.</p>
+            <p>The following fix will find this location and add it to the Emacs path. Note that the solution given is only for OS X / Linux, but has only been tested on OS X.</p>
+            <p>Also note that any number of problems seem to produce the same error, so this is not guaranteed to work (but when done correctly seemed to work for most students at the session on Friday).</p>
             <ul>
                 <li>Open a terminal.</li>
                 <li>execute the following command:<br>
                     <pre>which ghci</pre>
                 </li>
-                <li>If you get an error from this command, Haskell has not been installed correctly. Otherwise, note the response given
-                (eg. <code>/opt/local/bin/ghci</code>)</li>
+                <li>If you get an error from this command, Haskell has not been installed correctly. Otherwise, note the response given (eg. <code>/opt/local/bin/ghci</code>)</li>
                 <li>The path that must be added to the Emacs path is the above response, but with <code>/ghci</code> removed (eg.
-                <code>/opt/local/bin</code>).</li>
+                    <code>/opt/local/bin</code>).</li>
                 <li>Copy the following two lines to the end of your Emacs config file:<br>
                     <pre>(setenv "PATH" (concat (getenv "PATH") ":HERE"))
 (setq exec-path (append exec-path '("HERE")))</pre>
@@ -41,4 +39,5 @@
         </section>
     </article>
 </body>
+
 </html>
