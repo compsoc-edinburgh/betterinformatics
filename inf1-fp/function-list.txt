@@ -1,5 +1,3 @@
-This file is probably only relevant for the mid-semester INF1-FP class test.
-
 Basic functions
 ---------------
 div, mod :: Integral a => a -> a -> a
