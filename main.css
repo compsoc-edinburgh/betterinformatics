@@ -45,3 +45,15 @@ section {
 	opacity: 1;
 	color: black;
 }
+
+.examRow {
+	color: white;
+	background-color: red;
+	animation: alert 4s infinite;
+}
+
+@keyframes alert {
+	0% { opacity: 1; color: white; background-color: red; }
+	50% {  color: black; background-color: white; }
+	100% { opacity: 1; color: white; background-color: red; }
+}
