@@ -53,7 +53,8 @@ section {
 }
 
 @keyframes alert {
-	0% { opacity: 1; color: white; background-color: red; }
+	0% { opacity: 1; background-color: red; }
 	50% {  color: black; background-color: white; }
-	100% { opacity: 1; color: white; background-color: red; }
+	75% { color: white; }
+	100% { opacity: 1; background-color: red; }
 }
