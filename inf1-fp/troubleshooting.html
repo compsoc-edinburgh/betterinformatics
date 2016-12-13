@@ -12,9 +12,10 @@
     <article>
         <header>
             <h3><a href="/">Home</a></h3>
-            <h1>Haskell has died</h1>
+            <h1>Troubleshooting Haskell</h1>
         </header>
         <section>
+            <h3>Emacs: Haskell has died</h3>
             <p>One reason for the error `The Haskell process `haskell' has died. Restart?' is that Emacs cannot find the location of the GHCi executable.</p>
             <p>The following fix will find this location and add it to the Emacs path. Note that the solution given is only for OS X / Linux, but has only been tested on OS X.</p>
             <p>Also note that any number of problems seem to produce the same error, so this is not guaranteed to work (but when done correctly seemed to work for most students at the session on Friday).</p>
@@ -36,6 +37,13 @@
             <p>Note that the Emacs config file is usually located at the path `~/.emacs'.</p>
             <p>You can also access the Emacs config file by executing the following within Emacs:</p>
             <pre>M-: (find-file user-init-file)</pre>
+        </section>
+        
+        <section>
+            <h3><code>import Test.QuickCheck</code> doesn't work!</h3>
+            <p>Open up the command line / Terminal, and type <code>cabal install quickcheck</code></p>
+            <p>"I'm doing <code>cabal install quickcheck</code>, but it doesn't work because of something related to satisfying packages... random-1-1...?"</p>
+            <p>Solution: Try <code>sudo ghc-pkg recache</code>. Then try <code>cabal install quickcheck</code> again.</p>
         </section>
     </article>
 </body>
