@@ -7,9 +7,9 @@
         "marker-color": "#cf2f2f",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Apple town",
-        "study spaces": "Math base at 2nd floor and inf base at 3rd floor",
-        "crowded": "its ok"
+        "Location": "Appleton",
+        "Availability": "Math base at 2nd floor and inf base at 3rd floor",
+        "Notes": "Moderate space"
       },
       "geometry": {
         "type": "Point",
@@ -25,9 +25,9 @@
         "marker-color": "#200d0d",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Library",
-        "study spaces": "a lot",
-        "crowded": "during daylight its crowded, its ok at night"
+        "Location": "Library",
+        "Availability": "a lot",
+        "Notes": "Busy during the day, less busy at night"
       },
       "geometry": {
         "type": "Point",
@@ -43,9 +43,9 @@
         "marker-color": "#e02f2f",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "a lot of free rooms you can use for group study",
-        "study spaces": "sometimes",
-        "crowded": "Forrest hill"
+        "Location": "Forrest Hill",
+        "Availability": "Plenty of free rooms outside working hours",
+        "Notes": "A little busy mid-semester"
       },
       "geometry": {
         "type": "Point",
