@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cf2f2f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Apple town",
+        "study spaces": "Math base at 2nd floor and inf base at 3rd floor",
+        "crowded": "its ok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1870007514953613,
+          55.94436659028331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#200d0d",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Library",
+        "study spaces": "a lot",
+        "crowded": "during daylight its crowded, its ok at night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1891465187072754,
+          55.942727840146574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e02f2f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "a lot of free rooms you can use for group study",
+        "study spaces": "sometimes",
+        "crowded": "Forrest hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1921452283859253,
+          55.946020290747676
+        ]
+      }
+    }
+  ]
+}
