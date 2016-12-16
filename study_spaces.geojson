@@ -72,6 +72,24 @@
           55.946020290747676
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#200d0d",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Building": "Noreen and Kenneth Murray Library (King's Buildings Library)",
+        "Spaces": "Plenty",
+        "Availability": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175027,
+          55.922964
+        ]
+      }
     }
   ]
 }
