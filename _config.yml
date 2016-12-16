@@ -12,7 +12,6 @@ quick_links:
     
 collections:
     sections:
-        output: true
 
 defaults:
     - scope:
