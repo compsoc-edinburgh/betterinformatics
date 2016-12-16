@@ -8,7 +8,7 @@ quick_links:
     - name: iFile
       url: https://ifile.inf.ed.ac.uk/
     - name: Private
-      url: /private
+      url: http://private.inf.hgs.club/
     
 collections:
     sections:
