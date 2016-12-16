@@ -7,9 +7,9 @@
         "marker-color": "#cf2f2f",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Location": "Appleton Tower",
-        "Availability": "MathsBase on 2nd floor, InfBASE on 3rd floor",
-        "Notes": "Moderate space"
+        "Building": "Appleton Tower",
+        "Spaces": "MathsBase on 2nd floor, InfBASE on 3rd floor",
+        "Availability": "Moderate space"
       },
       "geometry": {
         "type": "Point",
@@ -25,9 +25,9 @@
         "marker-color": "#200d0d",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Location": "Library",
-        "Availability": "Plenty",
-        "Notes": "Busy during the day, less busy at night"
+        "Building": "Library",
+        "Spaces": "Plenty",
+        "Availability": "Busy during the day, less busy at night"
       },
       "geometry": {
         "type": "Point",
@@ -43,9 +43,9 @@
         "marker-color": "#e02f2f",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Location": "Forrest Hill",
-        "Availability": "Plenty of free rooms outside working hours",
-        "Notes": "A little busy mid-semester"
+        "Building": "Forrest Hill",
+        "Spaces": "Plenty of free rooms outside working hours",
+        "Availability": "A little busy mid-semester"
       },
       "geometry": {
         "type": "Point",
