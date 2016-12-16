@@ -92,8 +92,9 @@
                 </tr>
             </table>
         </section>
-
-        {% for section in site.sections %}
+        
+        {% assign sections = site.sections | where: "exam_over", "false" | sort: "semester" %}
+        {% for section in sections %}
             <section>
                 <h3>
                     {{ section.title }} {% if section.links %}(
