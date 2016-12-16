@@ -15,12 +15,9 @@ exam_over: true
 -   Answers for Poole ([3rd edition], [4th edition])
 -   [42 - calc app capable of Eigenstuff and other linear algebra](http://math-42.com/)
 -   **The Exam** - 3 hours - Open Book
-
-    Section A: 40% - 6 questions - conceptual questions, a bit like Tophat
-    
-    Section B: 60% - 4 questions (pick 3) - longer, conceptual questions
-    
-    You may bring:
+    <br>Section A: 40% - 6 questions - conceptual questions, a bit like Tophat
+    <br>Section B: 60% - 4 questions (pick 3) - longer, conceptual questions
+    <br>You may bring:
     -   the Poole textbook
     -   any non-graphical calculator
     -   any notes (written / printed notes, *nothing bound*)
