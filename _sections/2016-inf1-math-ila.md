@@ -2,6 +2,7 @@
 title: Introduction to Linear Algebra
 year: 1
 semester: 1
+cohort: 2016
 exam_over: true
 ---
 
