@@ -1,0 +1,21 @@
+---
+title: Informatics 2016/17 - semester 1 content
+layout: base
+---
+<header>
+    <h1>
+        <span class="headerText"></span>
+    </h1>
+</header>
+        
+{% assign sections = site.sections | where: "exam_over", "true" | sort: "semester" %}
+{% for section in sections %}
+    <section>
+        <h3>
+            {{ section.title }} {% if section.links %}(
+            {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
+            ){% endif %}
+        </h3>
+        {{ section.content }}
+    </section>
+{% endfor %}
