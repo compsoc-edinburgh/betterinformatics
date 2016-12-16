@@ -1,3 +1,15 @@
+quick_links:
+    - name: GitHub
+      url: https://github.com/qaisjp/inf1.hgs.club/
+    - name: LaundryView
+      url: http://www.laundryview.com/lvs.php?s=264
+    - name: EveryonePrint
+      url: https://www.everyoneprint.is.ed.ac.uk
+    - name: iFile
+      url: https://ifile.inf.ed.ac.uk/
+    - name: Private
+      url: /private
+    
 collections:
     sections:
         output: true
@@ -9,3 +21,4 @@ defaults:
       values:
         semester: 100 # "Other" stuff is pushed to the end
         exam_over: false
+

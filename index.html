@@ -16,11 +16,9 @@
             <h1>
                 <span class="headerText"></span>
                 <small class="links">
-                    <a href="https://github.com/qaisjp/inf1.hgs.club/">GitHub</a> - 
-                    <a href="http://www.laundryview.com/lvs.php?s=264">LaundryView</a> - 
-                    <a href="https://www.everyoneprint.is.ed.ac.uk">EveryonePrint</a> - 
-                    <a href="https://ifile.inf.ed.ac.uk/">iFile</a> - 
-                    <a href="/private">Private</a>
+                    {% for link in site.quick_links %}
+                    <a href="{{link.url}}">{{link.name}}</a>{% if forloop.last == false %} - {% endif %}
+                    {% endfor %}
                 </small>
             </h1>
         </header>
