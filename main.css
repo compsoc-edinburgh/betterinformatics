@@ -27,7 +27,8 @@ section {
 	border: 1px rgba(127,127,127,0.5);
 	border-style: dashed;
 	margin-bottom: 1rem;
-	padding: 1em;
+	padding-left: 1em;
+	padding-right: 1em;
 	background-color: white;
 }
 
