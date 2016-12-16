@@ -40,6 +40,24 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#200d0d",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Building": "Holland House Microlab",
+        "Spaces": "About 30 computers",
+        "Availability": "OK"
+      },
+      "geometry": {
+        "type": "Point",, 
+        "coordinates": [
+          -3.169111,
+          55.938067,
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#e02f2f",
         "marker-size": "medium",
         "marker-symbol": "",
