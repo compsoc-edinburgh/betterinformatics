@@ -96,9 +96,9 @@
         {% for section in site.sections %}
             <section>
                 <h3>
-                    {{ section.title }} (
+                    {{ section.title }} {% if section.links %}(
                     {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
-                    )
+                    ){% endif %}
                 </h3>
                 {{ section.content }}
             </section>
@@ -107,82 +107,6 @@
         <section>
             <h3>Places to study</h3>
             <iframe height='300' width='97.5%' frameborder='0' src='https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/qaisjp/inf1.hgs.club/master/study_spaces.geojson' title='study_spaces.geojson'></iframe>
-        </section>
-
-        <section>
-            <h3>Other</h3>
-            <ul>
-                <li>
-                    <a href="https://quizlet.com/class/3543715/">View the Quizlet class (see next item to join)</a>
-                </li>
-                <li>
-                    <a href="http://homepages.inf.ed.ac.uk/imurray2/pt/outside_courses_16-17.html">Common Outside Course Options for
-                    Informatics Students (2016/17)</a>
-                </li>
-                <li>
-                    <a href="http://pp.inf.ed.ac.uk/">Reset your DICE password</a>
-                </li>
-                <li>
-                    <a href="https://ifile.inf.ed.ac.uk/">Access DICE files online</a>
-                </li>
-                <li>
-                    <a href="http://comp-soc.com/">CompSoc's website</a>
-                </li>
-                <li>
-                    <a href="/year1-semester1.html">Semester 1 content</a>
-                </li>
-            </ul>
-        </section>
-        
-        <section>
-            <h3>
-                Object Oriented Programming (
-                <a href="http://www.inf.ed.ac.uk/teaching/courses/inf1/op/">course page</a>,
-                <a href="https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-op.shtml"><strike>tutorials</strike></a>
-                )
-            </h3>
-            <ul>
-                <li>
-                    Course structure:
-                    <ul>
-                        <li>A 50min lecture, once per week</li>
-                        <li>A 50min tutorial, once per week</li>
-                        <li>A 2hr compulsory lab, once per week</li>
-                    </ul>
-                </li>
-            </ul>
-        </section>
-        
-        <section>
-            <h3>
-                Data and Analysis (
-                <a href="https://blog.inf.ed.ac.uk/da16/">course page</a>,
-                <a href="https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-da.shtml/"><strike>tutorials</strike></a>
-                )
-            </h3>
-            <ul>
-                <li>
-                    Course structure:
-                    <ul>
-                        <li>A 50min lecture, twice per week</li>
-                        <li>A 50min tutorial, once per week, starts week 2</li>
-                        <li>No labs</li>
-                    </ul>
-                </li>
-            </ul>
-        </section>
-        
-        <section>
-            <h3>
-                Calculus and its Applications (
-                <a href="http://www.drps.ed.ac.uk/16-17/dpt/cxmath08058.htm">drps</a>
-                )
-            </h3>
-            <ul>
-                <li>
-                    If you bought your book second-hand, you will need to buy a WebAssign code from somewhere.
-                </li>
-            </ul>
         </section>
     </article>
 
