@@ -13,4 +13,4 @@ title: Other
   [Reset your DICE password]: http://pp.inf.ed.ac.uk/
   [Access DICE files online]: https://ifile.inf.ed.ac.uk/
   [CompSoc’s website]: http://comp-soc.com/
-  [Semester 1 content]: /year1-semester1.html
+  [Semester 1 content]: /sem1/
