@@ -13,7 +13,7 @@ layout: base
     </h1>
 </header>
         
-{% assign sections = site.sections | where: "exam_over", "false" | sort: "semester" %}
+{% assign sections = site.sections | where: "exam_over", "false" | sort: "title" | sort: "semester" %}
 {% for section in sections %}
     <section>
         <h3>
