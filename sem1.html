@@ -1,14 +1,8 @@
 ---
-title: Informatics 2016/17 - semester 1 content
-layout: base
+title: Semester 1
+layout: page
 permalink: /sem1/
 ---
-<header>
-    <h1>
-        <span class="headerText"></span>
-    </h1>
-</header>
-        
 {% assign sections = site.sections | where: "semester", 1 | sort: "title" %}
 {% for section in sections %}
     <section>
@@ -20,3 +14,4 @@ permalink: /sem1/
         {{ section.content }}
     </section>
 {% endfor %}
+
