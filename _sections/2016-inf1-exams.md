@@ -18,7 +18,7 @@ links:
         <th></th>
     </tr>
     
-    <tr>
+    <!--tr>
         <td>FP <a href="https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/exams/exam-allocation-2016.pdf">Group A</a></td>
         <td>FH Computer Lab</td>
         <td>Tues, 20th 09:30-11:30 (2hrs)</td>
@@ -30,20 +30,7 @@ links:
                 <input name="code" type="hidden" id="code" size="15" maxlength="11" value="INFR08013/1">
             </form>
         </td>
-    </tr>
-    <tr>
-        <td>FP <a href="https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/exams/exam-allocation-2016.pdf">Group B</a></td>
-        <td>FH Computer Lab</td>
-        <td>Tues, 20th 14:30-16:30 (2hrs)</td>
-        <td class="examTime" data-time="1482244200"></td>
-        <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm">
-                <input type="hidden" name="searchfrm" value="yes">
-                <input type="submit" value="View">
-                <input name="code" type="hidden" id="code" size="15" maxlength="11" value="INFR08013/2">
-            </form>
-        </td>
-    </tr>
+    </tr-->
     <tr class="hoverRow">
         <td>Intro to CogSci</td>
         <td>Outreach Centre</td>
