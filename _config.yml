@@ -19,5 +19,5 @@ defaults:
         type: "sections"
       values:
         semester: 100 # "Other" stuff is pushed to the end
-        exam_over: false
+        archived: false
 

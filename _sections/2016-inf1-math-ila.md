@@ -3,7 +3,7 @@ title: Introduction to Linear Algebra
 year: 1
 semester: 1
 cohort: 2016
-exam_over: true
+archived: true
 ---
 
 -   **Tip from a (current) 3rd year**: the maths exams are also open
