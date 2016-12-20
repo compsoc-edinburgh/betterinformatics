@@ -17,20 +17,7 @@ links:
         <th></th>
         <th></th>
     </tr>
-
-    <tr class="hoverRow">
-        <td>Persian 1a</td>
-        <td>Patersons Land - G1</td>
-        <td>Mon, 19th 09:00-12:00 (3hrs)</td>
-        <td class="examTime" data-time="1482138000"></td>
-        <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm">
-                <input type="hidden" name="searchfrm" value="yes">
-                <input type="submit" value="View">
-                <input name="code" type="hidden" id="code" size="15" maxlength="11" value="IMES08046">
-            </form>
-        </td>
-    </tr>
+    
     <tr>
         <td>FP <a href="https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/exams/exam-allocation-2016.pdf">Group A</a></td>
         <td>FH Computer Lab</td>
