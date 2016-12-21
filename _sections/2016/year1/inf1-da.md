@@ -13,3 +13,4 @@ links:
     -   A 50min lecture, twice per week
     -   A 50min tutorial, once per week, starts week 2
     -   No labs
+-   The course page above is for last year's course page and is a reasonable guide for what will be in the course this year. There will be a new blog for this year.
