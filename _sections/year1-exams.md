@@ -2,7 +2,7 @@
 title: Exam Dates
 year: 1
 semester: 0
-cohort: 2016
+cohort: 2017
 links:
   - name: search
     url: http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm
@@ -31,19 +31,6 @@ links:
             </form>
         </td>
     </tr-->
-    <tr class="hoverRow">
-        <td>Intro to CogSci</td>
-        <td>Outreach Centre</td>
-        <td>Wed, 21st 09:30-11:30 (2hrs)</td>
-        <td class="examTime" data-time="1482312600"></td>
-        <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm">
-                <input type="hidden" name="searchfrm" value="yes">
-                <input type="submit" value="View">
-                <input name="code" type="hidden" id="code" size="15" maxlength="11" value="PPLS08002">
-            </form>
-        </td>
-    </tr>
 </table>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" async></script>
