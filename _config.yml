@@ -13,6 +13,8 @@ quick_links:
 collections:
     sections:
 
+current_cohort: 2016 # make sure to update section defaults "cohort"
+
 defaults:
     - scope:
         path: ""
@@ -20,4 +22,5 @@ defaults:
       values:
         semester: 100 # "Other" stuff is pushed to the end
         archived: false
+        cohort: 2016 # should be current_cohort
 
