@@ -6,7 +6,7 @@ cohort: 2016
 links:
   - name: course page
     url: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/
-  - name: <strike>tutorials</strike>
+  - name: tutorials
     url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-op.shtml
   - name: piazza
     url: https://piazza.com/ed.ac.uk/spring2017/inf1op/
