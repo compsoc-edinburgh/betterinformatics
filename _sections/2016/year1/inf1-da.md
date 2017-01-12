@@ -6,8 +6,8 @@ cohort: 2016
 links:
   - name: course page
     url: https://blog.inf.ed.ac.uk/da16/
-  - name: <strike>tutorials</strike>
-    url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-da.shtml/
+  - name: tutorials
+    url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-da.shtml
 ---
 -   Course structure:
     -   A 50min lecture, twice per week
