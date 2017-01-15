@@ -9,8 +9,5 @@ links:
   - name: tutorials
     url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-da.shtml
 ---
--   Course structure:
-    -   A 50min lecture, twice per week
-    -   A 50min tutorial, once per week, starts week 2
-    -   No labs
+-   Tutorials start on week 2
 -   The course page above is for last year's course page and is a reasonable guide for what will be in the course this year. There will be a new blog for this year.
