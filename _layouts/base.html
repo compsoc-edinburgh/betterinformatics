@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <title>
-        {% if page.title == "" or page.title == nil %}
+        {% if page.title != "" and page.title != nil %}
             {{ page.title }} - 
         {% endif %}
         Informatics 2016/17
