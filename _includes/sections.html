@@ -1,0 +1,11 @@
+{% for section in sections %}
+    <section>
+        <h3>
+            {{ section.title }} {% if section.links %}(
+            {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
+            ){% endif %}
+        </h3>
+        {{ section.content }}
+    </section>
+{% endfor %}
+
