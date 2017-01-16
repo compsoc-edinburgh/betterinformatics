@@ -18,3 +18,4 @@ links:
       - If you try to buy it online through the system, the code will cost $$$ (yes, three digits).
       - In store it costs £30.
     - **You can use the WebAssign system for free during the first two weeks before it asks you for the code.**
+    - When you try to log in, it will ask for a code or ask you if you want to continue the trial. That's where you enter the code.
