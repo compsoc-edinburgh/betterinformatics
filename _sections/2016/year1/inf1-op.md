@@ -17,11 +17,10 @@ links:
     - There are exactly [two tutorials] taking place in every time slot. You do not need to stick to the same room each week.
       - 1.B09 for the Fundamental tutorial
       - 1.B10 for the Advanced tutorial
-    
--   _Which tutorial should I go to?_
-    - If in doubt, go to a Fundamental tutorial. In week 2 both tutorials will do essentially the same.
-    - The advanced tutorial is for anyone who has questions that go way beyond the current lectures and labs.
-    - It is _especially_ for those who can already get 80% or more on the final exam.
+    -   _Which tutorial should I go to?_
+      - If in doubt, go to a Fundamental tutorial. In week 2 both tutorials will do essentially the same.
+      - The advanced tutorial is for anyone who has questions that go way beyond the current lectures and labs.
+      - It is _especially_ for those who can already get 80% or more on the final exam.
    
 -   There is no required book, but the recommended book **The Java Tutorial: A Short Course on the Basics, Addison-Wesley** is (as mentioned under the Books header of the course page) [accessible online]. It is also in the library (on paper & online).
 
