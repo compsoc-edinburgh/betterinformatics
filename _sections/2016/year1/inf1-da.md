@@ -4,8 +4,10 @@ year: 1
 semester: 2
 cohort: 2016
 links:
-  - name: course page
+  - name: blog
     url: https://blog.inf.ed.ac.uk/da17/
+  - name: fb
+    url: https://www.facebook.com/groups/inf1da2017/
   - name: tutorials
     url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-da.shtml
 ---
