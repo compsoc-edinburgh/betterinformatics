@@ -12,7 +12,7 @@ links:
     url: https://piazza.com/ed.ac.uk/spring2017/inf1op/
 ---
 -   **Allocations**: [tutorials], [labs]
--   **Labs** - these start week one.
+-   **Labs** - these start week on one.
     - There is nothing to submit.
     - You only need to fill out the online form at the end of the week to record your progress.
 -   **[Tutorials](http://www.inf.ed.ac.uk/teaching/courses/inf1/op/tutorials.html)** (read this document!)
