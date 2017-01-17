@@ -11,5 +11,5 @@ links:
   - name: tutorials
     url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-da.shtml
 ---
--   Tutorials start on week 2
+-   Tutorials start on week **3**.
 -   [Last year's blog](https://blog.inf.ed.ac.uk/da16/)
