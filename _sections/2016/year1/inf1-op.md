@@ -12,11 +12,11 @@ links:
     url: https://piazza.com/ed.ac.uk/spring2017/inf1op/
 ---
 -   **Allocations**: [tutorials], [labs]
--   **Labs**
+-   **Labs** - these start week one.
     - There is nothing to submit.
     - You only need to fill out the online form at the end of the week to record your progress.
 -   **[Tutorials](http://www.inf.ed.ac.uk/teaching/courses/inf1/op/tutorials.html)** (read this document!)
-    - These start on week 2. Labs start week one.
+    - These start on week 2.
     - There are exactly [two tutorials] taking place in every time slot. You do not need to stick to the same room each week.
       - 1.B09 for the Fundamental tutorial
       - 1.B10 for the Advanced tutorial
