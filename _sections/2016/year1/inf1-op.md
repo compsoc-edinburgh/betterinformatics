@@ -4,7 +4,7 @@ year: 1
 semester: 2
 cohort: 2016
 links:
-  - name: course page
+  - name: course
     url: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/
   - name: labs
     url: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2017/labs/index.html
