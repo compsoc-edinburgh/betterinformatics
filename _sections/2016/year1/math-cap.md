@@ -4,8 +4,6 @@ year: 1
 semester: 2
 cohort: 2016
 links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/16-17/dpt/cxmath08058.htm
   - name: piazza
     url: http://piazza.com/ed.ac.uk/winter2017/math08058
 ---
