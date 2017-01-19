@@ -10,7 +10,7 @@ links:
 -   If you bought your book second-hand, you will need to buy a
     WebAssign code.
     - First [enroll here](https://www.webassign.net/v4cgi/selfenroll/classkey.html).
-    - You can get the class key from [here](https://www.learn.ed.ac.uk/bbcswebdav/pid-2194925-dt-content-rid-4132148_1/courses/MATH080582016-7SV1SEM2/syllabus-CAP2017.pdf). Make sure you're already logged into Learn before clicking that link.
+    - You can get the class key from [here](https://www.learn.ed.ac.uk/bbcswebdav/pid-2194925-dt-content-rid-4176382_1/courses/MATH080582016-7SV1SEM2/syllabus-CAP2017%281%29.pdf). Make sure you're already logged into Learn before clicking that link.
     - The class key is EVERYTHING on the line with the numbers (the institution code does not contain numbers)
     - To buy a WebAssign code, go into Blackwell's and ask the desk at the back (on the education floor) for a WebAssign code.
       - If you try to buy it online through the system, the code will cost $$$ (yes, three digits).
