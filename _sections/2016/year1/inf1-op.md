@@ -12,7 +12,7 @@ links:
     url: https://piazza.com/ed.ac.uk/spring2017/inf1op/
 ---
 -   **Allocations**: [tutorials], [labs]
--   **Labs** - these start week on one.
+-   **Labs**
     - There is nothing to submit. Attendance is not recorded.
     - You only need to fill out the online form at the end of the week to record your progress.
 -   **[Tutorials](http://www.inf.ed.ac.uk/teaching/courses/inf1/op/tutorials.html)** (read this document!)
@@ -21,6 +21,16 @@ links:
       - 1.B09 for the Fundamental tutorial
       - 1.B10 for the Advanced tutorial
     - _[Which tutorial should I go to?](http://www.inf.ed.ac.uk/teaching/courses/inf1/op/tutorial-list.html)_
+-   **What's the deal with IntelliJ?**
+    - Unfortunately, the exam is optimised for Eclipse. Apparently IntelliJ does dodgy things in the exam, making things scary.
+    - It is recommended that you use Eclipse just for this course, and once you're done, move to the blissful IntelliJ.
+    - If you insist on using IntelliJ, follow these steps for the first run:
+      - Open the command line, and run `idea-ce`. This allows you to start the IDE.
+      - On first run, it will ask you to choose some preferences.
+      - Eventually, on the last screen or so, it will complain about needing an admin or password, or permission issues.
+      - At this point, go back to the command line, and press ctrl-c to force the IDE closed.
+      - From now on, all future runs of `idea-ce` will work fine without needing to follow these instructions.
+    - **Gotchas**: you can't use the "Open project" feature in IntelliJ (because of reasons). To open a project, run the `idea-ce` command with a path to the project file provided to it: `idea-ce path/to/idea/project/file/here`.
 -   **Exam**
     - The exam is 2 hours. It used to be 3 hours in previous years. They will not pressure you for time, don't worry.
     - There is a mock exam in week 11.
