@@ -27,7 +27,7 @@ links:
     - If you insist on using IntelliJ, follow these steps for the first run:
       - Open the command line, and run `idea-ce`. This allows you to start the IDE.
       - On first run, it will ask you to choose some preferences.
-      - Eventually, on the last screen or so, it will complain about needing an admin or password, or permission issues.
+      - Eventually, on the last screen or so, it will complain about permission issues, or needing an admin password.
       - At this point, go back to the command line, and press ctrl-c to force the IDE closed.
       - From now on, all future runs of `idea-ce` will work fine without needing to follow these instructions.
     - **Gotchas**: you can't use the "Open project" feature in IntelliJ (because of reasons). To open a project, run the `idea-ce` command with a path to the project file provided to it: `idea-ce path/to/idea/project/file/here`.
