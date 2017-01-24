@@ -7,6 +7,7 @@ links:
   - name: piazza
     url: http://piazza.com/ed.ac.uk/winter2017/math08058
 ---
+<!--
 -   If you bought your book second-hand, you will need to buy a
     WebAssign code.
     - First [enroll here](https://www.webassign.net/v4cgi/selfenroll/classkey.html).
@@ -17,3 +18,4 @@ links:
       - In store it costs £30.
     - **You can use the WebAssign system for free during the first two weeks before it asks you for the code.**
     - When you try to log in, it will ask for a code or ask you if you want to continue the trial. That's where you enter the code.
+-->
