@@ -7,6 +7,7 @@ links:
   - name: piazza
     url: http://piazza.com/ed.ac.uk/winter2017/math08058
 ---
+- [MathBase timetable](/static/year1/sem2-mathbase-timetable.png)
 <!--
 -   If you bought your book second-hand, you will need to buy a
     WebAssign code.
