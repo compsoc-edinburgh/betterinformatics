@@ -3,6 +3,7 @@ title: Proofs and Problem Solving
 year: 1
 semester: 2
 cohort: 2016
+archived: true
 ---
 
 - The course will follow the book A Concise Introduction to Pure Mathematics, by Martin Liebeck, 4th Ed. 015, CRC Press, £25.99
