@@ -12,6 +12,13 @@ links:
     url: https://piazza.com/ed.ac.uk/spring2017/inf1op/
 ---
 -   **Allocations**: [tutorials], [labs]
+-   <span id="junit">**Setting up JUnit on DICE machines, on Eclipse**</span>
+    1. Right click your project folder in the sidebar, and press Properties.
+    1. On this new screen, select "Java build path" on the left, and then press "Libraries" at the top.
+    1. Click "Add library.." on the right hand side.
+    1. Select "JUnit", press "Next", and then choose JUnit 4, and press finish.
+    1. Press finish on the screen again.
+    1. Now when a test file is selected, simply go to Run -> Run as -> JUnit test to run the test.
 -   **Labs**
     - There is nothing to submit. Attendance is not recorded.
     - You only need to fill out the online form at the end of the week to record your progress.
