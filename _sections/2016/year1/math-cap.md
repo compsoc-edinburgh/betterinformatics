@@ -8,7 +8,7 @@ links:
     url: http://piazza.com/ed.ac.uk/winter2017/math08058
 ---
 - [MathBase timetable](/static/year1/mathbase-sem2-timetable.png)
-- [Notes from an awesome person who did the course last year, Joe: https://moo.joe.fo/cap/reference.pdf](https://moo.joe.fo/cap/reference.pdf)
+- [Notes from an awesome person who did the course last year, Joe](https://moo.joe.fo/cap/reference.pdf)
 
 <!--
 -   If you bought your book second-hand, you will need to buy a
