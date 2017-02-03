@@ -12,6 +12,7 @@ links:
     url: https://piazza.com/ed.ac.uk/spring2017/inf1op/
 ---
 -   **Allocations**: [tutorials], [labs]
+-   [Online book]
 -   <span id="junit">**Setting up JUnit on DICE machines, on Eclipse**</span>
     1. Right click your project folder in the sidebar, and press Properties.
     1. On this new screen, select "Java build path" on the left, and then press "Libraries" at the top.
@@ -19,14 +20,7 @@ links:
     1. Select "JUnit", press "Next", and then choose JUnit 4, and press finish.
     1. Press finish on the screen again.
     1. Now when a test file is selected, simply go to Run -> Run as -> JUnit test to run the test.
--   **Labs**
-    - There is nothing to submit. Attendance is not recorded.
-    - You only need to fill out the online form at the end of the week to record your progress.
 -   **[Tutorials](http://www.inf.ed.ac.uk/teaching/courses/inf1/op/tutorials.html)** (read this document!)
-    - These start on week 2.
-    - There are exactly [two tutorials] taking place in every time slot. You do not need to stick to the same room each week.
-      - 1.B09 for the Fundamental tutorial
-      - 1.B10 for the Advanced tutorial
     - _[Which tutorial should I go to?](http://www.inf.ed.ac.uk/teaching/courses/inf1/op/tutorial-list.html)_
 -   **What's the deal with IntelliJ?**
     - Unfortunately, the exam is optimised for Eclipse. Apparently IntelliJ does dodgy things in the exam, making things scary.
@@ -43,9 +37,8 @@ links:
     - There is a mock exam in week 11.
     - All code must compile for ANY credit at all. If you miss a single semicolon, you get 0 marks. Trip-check if it compiles and is the right file before submitting!
     - Your code must also pass the very basic tests (JUnit tests, these will be provided in the exam for you to check) to get any credit at all.
--   There is no required book, but the recommended book **The Java Tutorial: A Short Course on the Basics, Addison-Wesley** is (as mentioned under the Books header of the course page) [accessible online]. It is also in the library (on paper & online).
 
    [tutorials]: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-op.shtml
    [labs]: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP082_Laboratory_Groups/inf1-op.shtml
    [two tutorials]: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/tutorial-list.html
-   [accessible online]: https://docs.oracle.com/javase/tutorial/
+   [Online book]: https://docs.oracle.com/javase/tutorial/
