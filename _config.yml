@@ -20,6 +20,7 @@ defaults:
         path: ""
         type: "sections"
       values:
+        ordering: 0 # by default, "neutral"
         semester: 100 # "Other" stuff is pushed to the end
         archived: false
         cohort: 2016 # should be current_cohort
