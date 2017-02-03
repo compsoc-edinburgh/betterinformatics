@@ -3,5 +3,5 @@ title: Semester 2
 layout: page
 permalink: /sem2/
 ---
-{% assign sections = site.sections | where: "semester", 2 | sort: "title" %}
+{% assign sections = site.sections | where: "semester", 2 | sort: "title" | sort: "ordering" %}
 {% include sections.html %}
