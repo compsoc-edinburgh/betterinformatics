@@ -3,7 +3,6 @@ title: Logic 1
 year: 1
 semester: 2
 cohort: 2016
-archived: true
 links:
   - name: course page
     url: http://brianrabern.net/logic1.html
@@ -19,7 +18,6 @@ links:
   - `P -> Q`: P, only if Q
   - `Q -> P`: P, if Q
   - `Q -> P`: Only if P, Q
-
 - Rules:
   - `dn`, double negation: `P` becomes `~~P`
   - `r`, repetition: `P` becomes `P`
