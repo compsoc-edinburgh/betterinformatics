@@ -13,6 +13,6 @@ layout: base
     </h1>
 </header>
         
-{% assign sections = site.sections | where: "archived", "false" | where: "cohort", site.current_cohort | sort: "title" | sort: "semester" %}
+{% assign sections = site.sections | where: "archived", "false" | where: "cohort", site.current_cohort | sort: "title" | sort: "ordering" | sort: "semester" %}
 {% include sections.html %}
 
