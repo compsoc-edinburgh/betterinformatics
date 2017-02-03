@@ -2,6 +2,7 @@
 title: Logic 1
 year: 1
 semester: 2
+ordering: 5
 cohort: 2016
 links:
   - name: course page
