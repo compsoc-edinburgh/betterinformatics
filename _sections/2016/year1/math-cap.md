@@ -9,6 +9,7 @@ links:
 ---
 - [MathBase timetable](/static/year1/mathbase-sem2-timetable.png)
 - [Notes from an awesome person who did the course last year, Joe](https://moo.joe.fo/cap/reference.pdf)
+- [SympyGamma](http://www.sympygamma.com/) - sort of like wolfram alpha but also offers explanation for derivations. 
 
 <!--
 -   If you bought your book second-hand, you will need to buy a
