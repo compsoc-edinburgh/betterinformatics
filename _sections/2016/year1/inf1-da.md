@@ -12,3 +12,4 @@ links:
     url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-da.shtml
 ---
 -   [Last year's blog](https://blog.inf.ed.ac.uk/da16/)
+-   [sqlite browser](http://sqlitebrowser.org/) useful for exploring SQL databases - sqlite is just one file database. 
