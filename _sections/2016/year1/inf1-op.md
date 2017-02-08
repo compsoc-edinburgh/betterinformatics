@@ -12,6 +12,7 @@ links:
     url: https://piazza.com/ed.ac.uk/spring2017/inf1op/
 ---
 -   **Allocations**: [tutorials], [labs]
+-   [Offline version of lab work](/static/year1/2016_labs_offline.zip)
 -   [Online book]
 -   <span id="junit">**Setting up JUnit on DICE machines, on Eclipse**</span>
     1. Right click your project folder in the sidebar, and press Properties.
