@@ -13,6 +13,7 @@ links:
 - [Notes from an awesome person who did the course last year, Joe](https://moo.joe.fo/cap/reference.pdf)
 - [SympyGamma](http://www.sympygamma.com/) - a tool similar to WolframAlpha, but also offering explanation for derivations. 
 - [Answers for Essential calculus](http://slader.com/textbook/9781133112280-stewart-essential-calculus-early-transcendentals-2nd-edition/)
+- [Riemann sums](https://www.desmos.com/calculator/tgyr42ezjq) online calculator
 
 <!--
 -   If you bought your book second-hand, you will need to buy a
