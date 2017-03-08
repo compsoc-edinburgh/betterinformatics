@@ -64,7 +64,7 @@ links:
     <tr>
         <td>OP Group B</td>
         <td>Forrest Hill</td>
-        <td>Fri, 12th, 14:30:00-16:30:00 (2hrs)</td>
+        <td>Fri, 12th, 14:30-16:30 (2hrs)</td>
         <td class="examTime" data-time="1494599400"></td>
         <td>
             <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm">
@@ -78,7 +78,7 @@ links:
     <tr class="hoverRow">
         <td>CG</td>
         <td>Playfair Library</td>
-        <td>Mon, 15th, 14:30:00-16:30:00 (2hrs)</td>
+        <td>Mon, 15th, 14:30-16:30 (2hrs)</td>
         <td class="examTime" data-time="1494858600"></td>
         <td>
             <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm">
