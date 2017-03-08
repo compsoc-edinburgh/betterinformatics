@@ -48,7 +48,7 @@ links:
     </tr>
 
     <tr>
-        <td>OP Group A</td>
+        <td>OP (A)</td>
         <td>Forrest Hill</td>
         <td>Fri, 12th, 09:30-11:30 (2hrs)</td>
         <td class="examTime" data-time="1494581400"></td>
@@ -62,7 +62,7 @@ links:
     </tr>
 
     <tr>
-        <td>OP Group B</td>
+        <td>OP (B)</td>
         <td>Forrest Hill</td>
         <td>Fri, 12th, 14:30-16:30 (2hrs)</td>
         <td class="examTime" data-time="1494599400"></td>
