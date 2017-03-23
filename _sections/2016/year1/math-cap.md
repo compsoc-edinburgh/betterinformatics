@@ -15,6 +15,8 @@ links:
 - [Answers for Essential calculus](http://slader.com/textbook/9781133112280-stewart-essential-calculus-early-transcendentals-2nd-edition/)
 - [Riemann sums](https://www.desmos.com/calculator/tgyr42ezjq) online calculator
 - [Lots of formulae](http://mei.org.uk/files/pdf/formula_book_mf2.pdf)
+- [Amazing mindmap](/static/year1/HL_Calculus_Option_Mind_Map.compressed.pdf)
+
 
 <!--
 -   If you bought your book second-hand, you will need to buy a
