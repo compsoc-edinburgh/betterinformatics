@@ -9,6 +9,8 @@ links:
 ---
 <small>**More from a 3rd year**: It's only first year. **You only need 40% and it doesn't contribute to your final grade.** Chill, it's no big deal.</small>
 
+INF1-OP allocations can be found by checking your emails.
+
 <table style="width: 100%;">
     <tr>
         <th>Exam</th>
