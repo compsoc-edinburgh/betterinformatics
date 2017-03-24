@@ -91,7 +91,7 @@ links:
     
     <tr class="hoverRow">
         <td>PPS</td>
-        <td>St. Leonard's Land Games Hall</td>
+        <td>St. Leonard's Games Hall</td>
         <td>Thu, 11th, 09:30-12:30 (3hrs)</td>
         <td class="examTime" data-time="1494495000"></td>
         <td>
