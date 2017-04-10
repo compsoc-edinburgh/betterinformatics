@@ -4,6 +4,7 @@ year: 1
 semester: 2
 ordering: 5
 cohort: 2016
+archived: true
 links:
   - name: course page
     url: http://brianrabern.net/logic1.html
