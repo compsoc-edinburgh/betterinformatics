@@ -5,7 +5,7 @@ semester: 0
 cohort: 2016
 links:
   - name: search
-    url: http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm
+    url: http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm
 ---
 <small>**More from a 3rd year**: It's only first year. **You only need 40% and it doesn't contribute to your final grade.** Chill, it's no big deal.</small>
 
@@ -27,7 +27,7 @@ INF1-OP allocations can be found by checking your emails.
         <td>Mon, 1st, 09:30-11:30 (2hrs)</td>
         <td class="examTime" data-time="1493631000"></td>
         <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm">
+            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
                 <input type="hidden" name="searchfrm" value="yes">
                 <input type="submit" value="View">
                 <input name="code" type="hidden" id="code" size="15" maxlength="11" value="PHIL08004">
@@ -41,7 +41,7 @@ INF1-OP allocations can be found by checking your emails.
         <td>Wed, 3rd, 09:30-12:30 (3hrs)</td>
         <td class="examTime" data-time="1493803800"></td>
         <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm">
+            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
                 <input type="hidden" name="searchfrm" value="yes">
                 <input type="submit" value="View">
                 <input name="code" type="hidden" id="code" size="15" maxlength="11" value="MATH08058">
@@ -55,7 +55,7 @@ INF1-OP allocations can be found by checking your emails.
         <td>Fri, 12th, 09:30-11:30 (2hrs)</td>
         <td class="examTime" data-time="1494581400"></td>
         <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm">
+            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
                 <input type="hidden" name="searchfrm" value="yes">
                 <input type="submit" value="View">
                 <input name="code" type="hidden" id="code" size="15" maxlength="11" value="INFR08014">
@@ -69,7 +69,7 @@ INF1-OP allocations can be found by checking your emails.
         <td>Fri, 12th, 14:30-16:30 (2hrs)</td>
         <td class="examTime" data-time="1494599400"></td>
         <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm">
+            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
                 <input type="hidden" name="searchfrm" value="yes">
                 <input type="submit" value="View">
                 <input name="code" type="hidden" id="code" size="15" maxlength="11" value="INFR08014">
@@ -83,7 +83,7 @@ INF1-OP allocations can be found by checking your emails.
         <td>Thu, 11th, 09:30-12:30 (3hrs)</td>
         <td class="examTime" data-time="1494495000"></td>
         <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm">
+            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
                 <input type="hidden" name="searchfrm" value="yes">
                 <input type="submit" value="View">
                 <input name="code" type="hidden" id="code" size="15" maxlength="11" value="MATH08059">
@@ -97,7 +97,7 @@ INF1-OP allocations can be found by checking your emails.
         <td>Mon, 15th, 14:30-16:30 (2hrs)</td>
         <td class="examTime" data-time="1494858600"></td>
         <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm">
+            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
                 <input type="hidden" name="searchfrm" value="yes">
                 <input type="submit" value="View">
                 <input name="code" type="hidden" id="code" size="15" maxlength="11" value="INFR08020">
@@ -111,7 +111,7 @@ INF1-OP allocations can be found by checking your emails.
         <td>Tues, 16th, 09:30-11:30 (2hrs)</td>
         <td class="examTime" data-time="1494927000"></td>
         <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index3.cfm">
+            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
                 <input type="hidden" name="searchfrm" value="yes">
                 <input type="submit" value="View">
                 <input name="code" type="hidden" id="code" size="15" maxlength="11" value="INFR08015">
