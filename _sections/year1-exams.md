@@ -49,6 +49,20 @@ INF1-OP allocations can be found by checking your emails.
         </td>
     </tr>
 
+    <tr class="hoverRow">
+        <td>PPS</td>
+        <td>St. Leonard's Games Hall</td>
+        <td>Thu, 11th, 09:30-12:30 (3hrs)</td>
+        <td class="examTime" data-time="1494495000"></td>
+        <td>
+            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
+                <input type="hidden" name="searchfrm" value="yes">
+                <input type="submit" value="View">
+                <input name="code" type="hidden" id="code" size="15" maxlength="11" value="MATH08059">
+            </form>
+        </td>
+    </tr>
+
     <tr>
         <td>OP (A)</td>
         <td>Forrest Hill</td>
@@ -77,20 +91,6 @@ INF1-OP allocations can be found by checking your emails.
         </td>
     </tr>
     
-    <tr class="hoverRow">
-        <td>PPS</td>
-        <td>St. Leonard's Games Hall</td>
-        <td>Thu, 11th, 09:30-12:30 (3hrs)</td>
-        <td class="examTime" data-time="1494495000"></td>
-        <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
-                <input type="hidden" name="searchfrm" value="yes">
-                <input type="submit" value="View">
-                <input name="code" type="hidden" id="code" size="15" maxlength="11" value="MATH08059">
-            </form>
-        </td>
-    </tr>
-
     <tr class="hoverRow">
         <td>CG</td>
         <td>Playfair Library</td>
