@@ -16,6 +16,7 @@ links:
 - [Riemann sums](https://www.desmos.com/calculator/tgyr42ezjq) online calculator
 - [Lots of formulae](http://mei.org.uk/files/pdf/formula_book_mf2.pdf)
 - [Amazing mindmap](/static/year1/HL_Calculus_Option_Mind_Map.compressed.pdf)
+- Tests of Convergence: [cheat sheet](http://www.toomey.org/tutor/harolds_cheat_sheets/Harolds_Series_Convergence_Tests_Cheat_Sheet_2016.pdf), [flow chart](https://www.studystandard.com/document/21574/preview)
 
 
 <!--
