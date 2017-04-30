@@ -10,6 +10,8 @@ links:
     url: https://www.facebook.com/groups/inf1da2017/
   - name: tutorials
     url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-da.shtml
+  - name: piazza
+    url: https://piazza.com/class/ixywoaowyjh69a?cid=79
 ---
 -   [Last year's blog](https://blog.inf.ed.ac.uk/da16/)
 -   [SQLite Browser](http://sqlitebrowser.org/) is a useful tool exploring and creating SQL databases that can be saved to a single file.
