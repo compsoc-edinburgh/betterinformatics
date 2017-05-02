@@ -1,8 +1,8 @@
 $(".examTime").each(function() {
-    let fromNow = moment.unix(parseInt($(this).data("time")));
-    if (moment().isAfter(fromNow)) {
+    let examTime = moment.unix(parseInt($(this).data("time")));
+    if (moment().isAfter(examTime)) {
         $(this).text("done!");
         return;
     }
-    $(this).text(fromNow.fromNow(true));
+    $(this).text(examTime.fromNow(true));
 });
