@@ -3,6 +3,7 @@ title: Calculus and its Applications
 year: 1
 semester: 2
 cohort: 2016
+archived: true
 links:
   - name: piazza
     url: http://piazza.com/ed.ac.uk/winter2017/math08058
