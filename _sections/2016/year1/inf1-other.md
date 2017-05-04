@@ -9,4 +9,5 @@ title: Other
 - [Access DICE files online](https://ifile.inf.ed.ac.uk/)
 - [CompSoc’s website](http://comp-soc.com/)
 - [Semester 1 content](/sem1/)
+- [Semester 2 content](/sem2/)
 - [List of Edinburgh tech groups](http://edinburgh2.com/)
