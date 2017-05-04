@@ -19,36 +19,7 @@ INF1-OP allocations can be found by checking your emails, [or here](http://priva
         <th></th>
         <th></th>
     </tr>
-    
-
-    <tr class="hoverRow">
-        <td>Logic</td>
-        <td>Pleasance Sports Hall</td>
-        <td>Mon, 1st, 09:30-11:30 (2hrs)</td>
-        <td class="examTime" data-time="1493631000"></td>
-        <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
-                <input type="hidden" name="searchfrm" value="yes">
-                <input type="submit" value="View">
-                <input name="code" type="hidden" id="code" size="15" maxlength="11" value="PHIL08004">
-            </form>
-        </td>
-    </tr>
-
-    <tr>
-        <td>CAP</td>
-        <td><a href="https://goo.gl/maps/UhJXzk17u1v">St. Leonard's</a> (see "View")</td>
-        <td>Wed, 3rd, 09:30-12:30 (3hrs)</td>
-        <td class="examTime" data-time="1493803800"></td>
-        <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
-                <input type="hidden" name="searchfrm" value="yes">
-                <input type="submit" value="View">
-                <input name="code" type="hidden" id="code" size="15" maxlength="11" value="MATH08058">
-            </form>
-        </td>
-    </tr>
-
+  
     <tr class="hoverRow">
         <td>PPS</td>
         <td>St. Leonard's Games Hall</td>
