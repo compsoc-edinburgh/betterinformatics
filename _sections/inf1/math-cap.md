@@ -2,7 +2,6 @@
 title: Calculus and its Applications
 year: inf1
 semester: 2
-cohort: 2016
 archived: true
 links:
   - name: piazza

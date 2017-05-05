@@ -2,7 +2,6 @@
 title: Exam Dates
 year: inf1
 semester: 0
-cohort: 2016
 links:
   - name: search
     url: http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm

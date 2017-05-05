@@ -4,8 +4,6 @@ collections:
         output: true
         permalink: "/:path"
 
-current_cohort: 2016 # make sure to update section defaults "cohort"
-
 defaults:
     - scope:
         path: ""
@@ -14,7 +12,6 @@ defaults:
         ordering: 0 # by default, "neutral"
         semester: 100 # "Other" stuff is pushed to the end
         archived: false
-        cohort: 2016 # should be current_cohort
 
     - scope:
         path: "" # an empty string here means all files in the project

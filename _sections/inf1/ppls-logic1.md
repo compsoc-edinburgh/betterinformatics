@@ -3,7 +3,6 @@ title: Logic 1
 year: inf1
 semester: 2
 ordering: 5
-cohort: 2016
 archived: true
 links:
   - name: course page

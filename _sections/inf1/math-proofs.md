@@ -2,7 +2,6 @@
 title: Proofs and Problem Solving
 year: inf1
 semester: 2
-cohort: 2016
 archived: true
 ---
 

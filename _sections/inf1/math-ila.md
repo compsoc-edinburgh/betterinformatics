@@ -2,7 +2,6 @@
 title: Introduction to Linear Algebra
 year: inf1
 semester: 1
-cohort: 2016
 archived: true
 ---
 

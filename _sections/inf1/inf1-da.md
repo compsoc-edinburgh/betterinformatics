@@ -2,7 +2,6 @@
 title: Data and Analysis
 year: inf1
 semester: 2
-cohort: 2016
 links:
   - name: blog
     url: https://blog.inf.ed.ac.uk/da17/
