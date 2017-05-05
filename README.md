@@ -1,4 +1,4 @@
-# UofE Informatics 2016/17
+# University of Edinburgh Informatics 2016/17
 
 ## Guidelines for contributing
 
