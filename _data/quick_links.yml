@@ -1,10 +1,14 @@
-- name: GitHub
-  url: https://github.com/qaisjp/inf1.hgs.club/
-- name: LaundryView
-  url: http://www.laundryview.com/lvs.php?s=264
-- name: EveryonePrint
-  url: https://www.everyoneprint.is.ed.ac.uk
-- name: iFile
-  url: https://ifile.inf.ed.ac.uk/
-- name: Private
-  url: http://private.inf1.hgs.club/
+- name: Start
+  url: /
+- name: Year 1
+  url: /inf1
+- name: Year 2
+  url: /inf2
+- name: Year 3
+  url: /inf3
+- name: Year 4
+  url: /inf4
+- name: Masters
+  url: /masters
+- name: Files
+  url: /files

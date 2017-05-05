@@ -13,6 +13,11 @@ h1, h2, h3 {
 	body{max-width:none}
 }
 
+.headerText {
+	text-decoration: none;
+	color: black;
+}
+
 .headerText:after {
 	content: "Better Informatics";
 }

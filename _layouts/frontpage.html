@@ -3,10 +3,10 @@ layout: base
 ---
 <header>
     <h1>
-        <span class="headerText"></span>
+        <a href="/" class="headerText"></a>
         <small class="links">
             {% for link in site.data.quick_links %}
-            <a href="{{link.url}}">{{link.name}}</a>{% if forloop.last == false %} - {% endif %}
+            <a href="{{link.url}}">{{link.name}}</a>{% if forloop.last == false %} &bull; {% endif %}
             {% endfor %}
         </small>
     </h1>
