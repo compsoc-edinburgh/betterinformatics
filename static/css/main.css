@@ -14,11 +14,11 @@ h1, h2, h3 {
 }
 
 .headerText:after {
-	content: "Informatics 2016/17";
+	content: "Better Informatics";
 }
 
 .headerText:hover:after {
-	content: "Forrest Hill is love, Forrest Hill is life.";
+	content: "Are you ready for Appleton Tower?";
 	color: red;
 	font-size: 0.7em;
 }

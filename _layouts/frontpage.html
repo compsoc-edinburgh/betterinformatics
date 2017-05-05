@@ -1,0 +1,31 @@
+---
+layout: base
+---
+<header>
+    <h1>
+        <span class="headerText"></span>
+        <small class="links">
+            {% for link in site.quick_links %}
+            <a href="{{link.url}}">{{link.name}}</a>{% if forloop.last == false %} - {% endif %}
+            {% endfor %}
+        </small>
+    </h1>
+</header>
+
+{{ content }}
+
+{% assign len =  page.path.size | minus: 5 | minus: 7 %}
+{% assign name = page.path | slice: 7, len %}
+{% assign sections = site.sections | where: "archived", "false" | where: "year", name  | sort: "title" | sort: "ordering" | sort: "semester" %}
+
+{% for section in sections %}
+    {% assign size = section.path.size | minus: 9 | minus: 4 %}
+    <section id="{{ section.url | slugify | slice: 9, size }}">
+        <h3>
+            {{ section.title }} {% if section.links %}(
+            {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
+            ){% endif %}
+        </h3>
+        {{ section.content | markdownify }}
+    </section>
+{% endfor %}

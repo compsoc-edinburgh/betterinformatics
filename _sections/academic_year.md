@@ -1,6 +1,6 @@
 ---
 title: Academic year
-year: 2016
+year: start
 ---
 
 These time periods include weekends, as opposed to [the official semester dates](http://www.ed.ac.uk/semester-dates/201617).

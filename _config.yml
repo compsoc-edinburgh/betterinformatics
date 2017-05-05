@@ -9,9 +9,12 @@ quick_links:
       url: https://ifile.inf.ed.ac.uk/
     - name: Private
       url: http://private.inf1.hgs.club/
-    
+
 collections:
     sections:
+    pages:
+        output: true
+        permalink: "/:path"
 
 current_cohort: 2016 # make sure to update section defaults "cohort"
 
@@ -25,3 +28,8 @@ defaults:
         archived: false
         cohort: 2016 # should be current_cohort
 
+    - scope:
+        path: "" # an empty string here means all files in the project
+        type: "pages"
+      values:
+        layout: "frontpage"

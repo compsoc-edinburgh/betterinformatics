@@ -1,6 +1,6 @@
 ---
 title: Exam Dates
-year: 1
+year: inf1
 semester: 0
 cohort: 2016
 links:

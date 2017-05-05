@@ -1,6 +1,6 @@
 ---
 title: Object Oriented Programming
-year: 1
+year: inf1
 semester: 2
 cohort: 2016
 links:
@@ -16,7 +16,19 @@ links:
 -   [Online book]
 -   [Past papers](https://www.inf.ed.ac.uk/teaching/exam_papers/), and their [additional files](http://www.inf.ed.ac.uk/teaching/courses/inf1/op/oldprog.html)
 -   [Automarker service](http://homepages.inf.ed.ac.uk/thospeda/Inf1OP/) - use this to mark your past papers
-{% comment %} 
+-   **Exam** 
+    - The exam is 2 hours. It used to be 3 hours in previous years. They will not pressure you for time, don't worry.
+    - There is a mock exam in week 11.
+    - All code must compile for ANY credit at all. If you miss a single semicolon, you get 0 marks. Trip-check if it compiles and is the right file before submitting!
+    - Your code must also pass the very basic tests (JUnit tests, these will be provided in the exam for you to check) to get any credit at all.
+
+
+   [tutorials]: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-op.shtml
+   [labs]: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP082_Laboratory_Groups/inf1-op.shtml
+   [two tutorials]: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/tutorial-list.html
+   [Online book]: https://docs.oracle.com/javase/tutorial/
+
+<!-- 
 -   <span id="junit">**Setting up JUnit on DICE machines, on Eclipse**</span>
     1. Right click your project folder in the sidebar, and press Properties.
     1. On this new screen, select "Java build path" on the left, and then press "Libraries" at the top.
@@ -36,15 +48,4 @@ links:
       - At this point, go back to the command line, and press ctrl-c to force the IDE closed.
       - From now on, all future runs of `idea-ce` will work fine without needing to follow these instructions.
     - **Gotchas**: you can't use the "Open project" feature in IntelliJ (because of reasons). To open a project, run the `idea-ce` command with a path to the project file provided to it: `idea-ce path/to/idea/project/file/here`.
--   **Exam**
-    - The exam is 2 hours. It used to be 3 hours in previous years. They will not pressure you for time, don't worry.
-    - There is a mock exam in week 11.
-    - All code must compile for ANY credit at all. If you miss a single semicolon, you get 0 marks. Trip-check if it compiles and is the right file before submitting!
-    - Your code must also pass the very basic tests (JUnit tests, these will be provided in the exam for you to check) to get any credit at all.
-{% endcomment %} 
-
-
-   [tutorials]: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-op.shtml
-   [labs]: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP082_Laboratory_Groups/inf1-op.shtml
-   [two tutorials]: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/tutorial-list.html
-   [Online book]: https://docs.oracle.com/javase/tutorial/
+-->

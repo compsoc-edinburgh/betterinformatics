@@ -1,6 +1,6 @@
 ---
 title: Functional Programming
-year: 1
+year: inf1
 semester: 1
 cohort: 2016
 archived: true
