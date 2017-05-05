@@ -5,7 +5,7 @@ layout: base
     <h1>
         <span class="headerText"></span>
         <small class="links">
-            {% for link in site.quick_links %}
+            {% for link in site.data.quick_links %}
             <a href="{{link.url}}">{{link.name}}</a>{% if forloop.last == false %} - {% endif %}
             {% endfor %}
         </small>
