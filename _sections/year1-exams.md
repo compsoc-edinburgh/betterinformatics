@@ -24,13 +24,7 @@ INF1-OP allocations can be found by checking your emails, [or here](http://priva
         <td>St. Leonard's Games Hall</td>
         <td>Thu, 11th, 09:30-12:30 (3hrs)</td>
         <td class="examTime" data-time="1494495000"></td>
-        <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
-                <input type="hidden" name="searchfrm" value="yes">
-                <input type="submit" value="View">
-                <input name="code" type="hidden" id="code" size="15" maxlength="11" value="MATH08059">
-            </form>
-        </td>
+        <td><button onclick="searchExam('MATH08059')">View</button></td>
     </tr>
 
     <tr>
@@ -38,13 +32,7 @@ INF1-OP allocations can be found by checking your emails, [or here](http://priva
         <td>Forrest Hill</td>
         <td>Fri, 12th, 09:30-11:30 (2hrs)</td>
         <td class="examTime" data-time="1494581400"></td>
-        <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
-                <input type="hidden" name="searchfrm" value="yes">
-                <input type="submit" value="View">
-                <input name="code" type="hidden" id="code" size="15" maxlength="11" value="INFR08014">
-            </form>
-        </td>
+        <td><button onclick="searchExam('INFR08014')">View</button></td>
     </tr>
 
     <tr>
@@ -52,13 +40,7 @@ INF1-OP allocations can be found by checking your emails, [or here](http://priva
         <td>Forrest Hill</td>
         <td>Fri, 12th, 14:30-16:30 (2hrs)</td>
         <td class="examTime" data-time="1494599400"></td>
-        <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
-                <input type="hidden" name="searchfrm" value="yes">
-                <input type="submit" value="View">
-                <input name="code" type="hidden" id="code" size="15" maxlength="11" value="INFR08014">
-            </form>
-        </td>
+        <td><button onclick="searchExam('INFR08014')">View</button></td>
     </tr>
     
     <tr class="hoverRow">
@@ -66,13 +48,7 @@ INF1-OP allocations can be found by checking your emails, [or here](http://priva
         <td>Playfair Library</td>
         <td>Mon, 15th, 14:30-16:30 (2hrs)</td>
         <td class="examTime" data-time="1494858600"></td>
-        <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
-                <input type="hidden" name="searchfrm" value="yes">
-                <input type="submit" value="View">
-                <input name="code" type="hidden" id="code" size="15" maxlength="11" value="INFR08020">
-            </form>
-        </td>
+        <td><button onclick="searchExam('INFR08020')">View</button></td>
     </tr>
 
     <tr>
@@ -80,13 +56,7 @@ INF1-OP allocations can be found by checking your emails, [or here](http://priva
         <td>Pleasance Sports Hall</td>
         <td>Tues, 16th, 09:30-11:30 (2hrs)</td>
         <td class="examTime" data-time="1494927000"></td>
-        <td>
-            <form target="__blank" method="post" name="form" action="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">
-                <input type="hidden" name="searchfrm" value="yes">
-                <input type="submit" value="View">
-                <input name="code" type="hidden" id="code" size="15" maxlength="11" value="INFR08015">
-            </form>
-        </td>
+        <td><button onclick="searchExam('INFR08015')">View</button></td>
     </tr>
 </table>
 
