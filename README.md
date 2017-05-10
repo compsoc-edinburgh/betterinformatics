@@ -1,4 +1,4 @@
-# University of Edinburgh Informatics 2016/17
+# Better Informatics
 
 ## Guidelines for contributing
 

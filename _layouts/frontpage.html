@@ -14,7 +14,7 @@ layout: default
 
 {{ content }}
 
-{% assign len =  page.path.size | minus: 5 | minus: 7 %}
+{% assign len =  page.path.size | minus: 3 | minus: 7 %}
 {% assign name = page.path | slice: 7, len %}
 {% assign sections = site.sections | where: "year", name | sort: "title" | sort: "ordering" %}
 
