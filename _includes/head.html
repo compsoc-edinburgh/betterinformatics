@@ -1,0 +1,23 @@
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="{{ site.description }}">
+
+    {% capture title %}{% if page.short-title %}{{ page.short-title }}{% else %}{{ page.title }}{% endif %}{% endcapture %}
+
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:title" content="Better Informatics" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <!-- <meta property="og:image" content="{{ site.url }}/static/img/compsoc-preview.png" /> -->
+    
+    <!-- <link rel="icon" href="{{ site.baseurl }}/static/img/compsoc-favicon.png" type="image/png"> -->
+
+    <title>{% if (title != "") and (title != nil) %}{{ title }} - {% endif %}Better Informatics</title>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/static/css/stylesheet.css?time='{{ site.time }}'">
+
+</head>

@@ -1,0 +1,14 @@
+- url:
+  title: start
+- url: inf1
+  title: 1st year
+- url: inf2
+  title: 2nd year
+- url: inf3
+  title: 3rd year
+- url: inf4
+  title: 4th year
+- url: masters
+  title: masters
+- url: files
+  title: files

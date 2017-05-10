@@ -1,0 +1,6 @@
+<nav id="menu">
+	{% for nav in site.data.navigation %}
+		{% capture navurl %}{{ nav.url | prepend: '/'}}{% endcapture %}
+		<a href='{{ site.baseurl }}/{{ nav.url }}' id='btn_{{ nav.url }}' class='ir {% if page.url == navurl %}active{% endif %}'><h2>{{ nav.title }}</h2></a>
+	{% endfor %}
+</nav>
