@@ -262,9 +262,9 @@ blockquote {
     padding-left: 15px;
     margin-left: 15px
 }
-h1, h2, h3, h4, h5, h6, strong, b {
+h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     display: inline-block;
     width: 100%;
     border-bottom: 1px solid #999;
@@ -416,4 +416,8 @@ h1, h2, h3, h4, h5, h6, strong, b {
 }
 .clearfix {
     *zoom: 1
+}
+
+ul {
+    margin-top: 0px;
 }

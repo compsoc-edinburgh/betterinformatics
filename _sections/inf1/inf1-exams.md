@@ -1,14 +1,15 @@
 ---
 title: Exam Dates
 year: inf1
-semester: 0
+ordering: -10
 links:
   - name: search
     url: http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm
+  - name: inf1-op allocations
+    url: http://private.inf1.hgs.club/INF1-OP%20Exam%20-%2012th%20May%202017.pdf
+
 ---
 <small>**More from a 3rd year**: It's only first year. **You only need 40% and it doesn't contribute to your final grade.** Chill, it's no big deal.</small>
-
-INF1-OP allocations can be found by checking your emails, [or here](http://private.inf1.hgs.club/INF1-OP%20Exam%20-%2012th%20May%202017.pdf).
 
 <table style="width: 100%;">
     <tr>

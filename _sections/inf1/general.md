@@ -1,6 +1,7 @@
 ---
 year: inf1
-title: Other
+title: General
+ordering: -5
 ---
 
 - Blackboard app for [Android](https://play.google.com/store/apps/details?id=com.blackboard.android), [iOS](https://itunes.apple.com/us/app/blackboard-mobile-learn/id376413870?mt=8)

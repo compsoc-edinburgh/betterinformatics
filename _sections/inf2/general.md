@@ -1,6 +1,7 @@
 ---
 year: inf2
-title: Other
+title: General
+ordering: -5
 ---
 
 - 13/14 Feedback Doc - [CLICK ME](https://docs.google.com/document/d/1C3BTdBvHOt7EOjy0tH07WnPNG9D13ZwpRWwfAYii02A/edit)

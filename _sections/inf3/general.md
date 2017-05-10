@@ -1,6 +1,7 @@
 ---
 year: inf3
-title: Other
+title: General
+ordering: -5
 ---
 
 [Year 3](https://drive.google.com/folderview?id=0B2AAOQQZ_8BxS3RGY1YxSXNNZEk&usp=sharing)

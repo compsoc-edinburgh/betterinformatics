@@ -1,9 +1,9 @@
 ---
 ---
 
-**NOTE:** The shared GDrive account had some issues. Contact betterinformatics@gmail.com if you want to have access to it.
+### Adding files
 
-**ADDING FILES**
+**NOTE:** The shared GDrive account had some issues. Contact betterinformatics@gmail.com if you want to have access to it.
 
 Whenever you want to add something to the shared Google Drive folders, do the following:
 
