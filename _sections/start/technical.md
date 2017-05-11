@@ -3,7 +3,7 @@ year: start
 title: Technical
 ---
 
-[web printing interface](https://webprint.inf.ed.ac.uk)
+web printing interfaces: [EveryonePrint](https://www.everyoneprint.is.ed.ac.uk), [WebPrint](https://webprint.inf.ed.ac.uk)
 
 [print balance](https://www.manageprint.is.ed.ac.uk/)
 
