@@ -422,10 +422,14 @@ ul {
     margin-top: 0px;
 }
 
-section > h3 > a {
+.link-icon, .edit-pencil {
     color: #aaa;
 }
 
-section > h3 > a:hover {
+.link-icon, .edit-pencil:hover {
     color: #777;
+}
+
+.edit-pencil {
+    float:right;
 }

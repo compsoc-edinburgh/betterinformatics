@@ -22,12 +22,12 @@ layout: default
     {% assign size = section.path.size | minus: 9 | minus: 4 %}
     <section id="{{ section.title | slugify }}">
         <h3>
-            <a href="#{{ section.title | slugify }}"><i class="fa fa-link" aria-hidden="true"></i></a>
+            <a class="link-icon" href="#{{ section.title | slugify }}"><i class="fa fa-link" aria-hidden="true"></i></a>
             {{ section.title }} {% if section.links %}(
             {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
             ){% endif %}
 
-            <a style="float: right;" href="https://github.com/qaisjp/betterinformatics/blob/master/{{ section.path }}"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+            <a class="edit-pencil" href="https://github.com/{{ site.data.repo }}/blob/master/{{ section.path }}"><i class="fa fa-pencil" aria-hidden="true"></i></a>
         </h3>
         {{ section.content | markdownify }}
     </section>
