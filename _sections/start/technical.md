@@ -5,7 +5,7 @@ title: Technical
 
 [web printing interface](https://webprint.inf.ed.ac.uk)
 
-[print balance](https://www.printbalance.ucs.ed.ac.uk/)
+[print balance](https://www.manageprint.is.ed.ac.uk/)
 
 [accessing your DICE home in a web browser](https://ifile.inf.ed.ac.uk/)
 
