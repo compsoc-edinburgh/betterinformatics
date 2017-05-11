@@ -6,15 +6,14 @@
     {% include head.html %}
 
     <body id="top">
-        <div id="title" class="ir">
-            <h1>Better Informatics</h1>
-        </div>
-
-        {% include nav.html %}
+        <a href="{{ site.baseurl }}/">
+            <div id="title" class="ir">
+                <h1>Better Informatics</h1>
+            </div>
+        </a>
 
         <div id="content">
             <!-- <a href="#" id="edit_link">edit this page</a> -->
-            Hold on a while, we're bringing Better Informatics back. The Drive should be working again, if you come across any problems, please <a href="mailto:betterinformatics@gmail.com">email us</a>. Also, if you own any documents on the Drive, please transfer ownership to <strong>betterinformatics@gmail.com</strong>.
             
             {{ content }}
         </div>
