@@ -10,5 +10,4 @@ permalink: /
 			<br>
 		{% endif %}
 	{% endfor %}
-	<hr>
 </nav>
