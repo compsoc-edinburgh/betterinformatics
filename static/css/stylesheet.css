@@ -322,7 +322,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #menu-small a {
     font-size: 2em;
-    /*margin: .83em 0;*/
+
 }
 
 #menu-small .divider {
@@ -466,6 +466,11 @@ ul {
     margin-top: 0px;
 }
 
+
+.link-icon {
+    margin-left: 10px;
+}
+
 .link-icon, .edit-pencil {
     color: rgba(119, 119, 119, .1);
 }
@@ -477,6 +482,8 @@ ul {
 .edit-pencil {
     float:right;
 }
+
+
 
 .hoverRow {
     opacity: 0.4;

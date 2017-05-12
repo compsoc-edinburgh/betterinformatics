@@ -10,7 +10,7 @@
 		{% capture navurl %}{{ nav.url | prepend: '/'}}{% endcapture %}
 		<a href='{{ site.baseurl }}/{{ nav.url }}'>{{ nav.title }}</a> 
 		{% if forloop.last == false %}
-			<span class="divider"> | </span>
+			<br>
 		{% endif %}
 	{% endfor %}
 	<hr>
