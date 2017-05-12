@@ -423,11 +423,11 @@ ul {
 }
 
 .link-icon, .edit-pencil {
-    color: #aaa;
+    color: rgba(119, 119, 119, .1);
 }
 
-.link-icon, .edit-pencil:hover {
-    color: #777;
+.link-icon:hover, .edit-pencil:hover {
+    color: rgba(119, 119, 119, 1);
 }
 
 .edit-pencil {
