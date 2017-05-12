@@ -238,8 +238,10 @@ textarea {
     color: #000;
     padding: .2em 0
 }
+
 body {
-    width: 960px;
+
+    max-width: 960px;
     height: 800px;
     margin: 0 auto;
     font-family: sans-serif;
@@ -276,7 +278,33 @@ h1, h2, h3, h4, h5, h6 {
     width: 959px;
     height: 192px;
     background-image: url("../img/grey.png")
+
 }
+
+@media screen and (max-width: 960px) {
+  .hide-on-small {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
+
+@media screen and (min-width: 961px) {
+  .hide-on-big {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
+
+
+
 #menu a {
     width: 137px;
     height: 192px;
@@ -315,7 +343,7 @@ h1, h2, h3, h4, h5, h6 {
     background-position: -822px 0
 }
 #title {
-    width: 906px;
+    max-width: 906px;
     height: 29px;
     margin: 10px auto;
     background: url("../img/betterinf-title.png")
