@@ -19,31 +19,7 @@ links:
         <th></th>
         <th></th>
     </tr>
-  
-    <tr class="hoverRow">
-        <td>PPS</td>
-        <td>St. Leonard's Games Hall</td>
-        <td>Thu, 11th, 09:30-12:30 (3hrs)</td>
-        <td class="examTime" data-time="1494495000"></td>
-        <td><button onclick="searchExam('MATH08059')">View</button></td>
-    </tr>
-
-    <tr>
-        <td>OP (A)</td>
-        <td>Forrest Hill</td>
-        <td>Fri, 12th, 09:30-11:30 (2hrs)</td>
-        <td class="examTime" data-time="1494581400"></td>
-        <td><button onclick="searchExam('INFR08014')">View</button></td>
-    </tr>
-
-    <tr>
-        <td>OP (B)</td>
-        <td>Forrest Hill</td>
-        <td>Fri, 12th, 14:30-16:30 (2hrs)</td>
-        <td class="examTime" data-time="1494599400"></td>
-        <td><button onclick="searchExam('INFR08014')">View</button></td>
-    </tr>
-    
+      
     <tr class="hoverRow">
         <td>CG</td>
         <td>Playfair Library</td>
