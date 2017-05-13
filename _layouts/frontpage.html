@@ -3,7 +3,7 @@ layout: default
 ---
 {% include nav.html %}
 
-Hold on a while, we're bringing Better Informatics back. The Drive should be working again, if you come across any problems, please <a href="mailto:betterinformatics@gmail.com">email us</a>. Also, if you own any documents on the Drive, please transfer ownership to <strong>betterinformatics@gmail.com</strong>.
+Hold on a while, we're bringing Better Informatics back. If you come across any problems, or would like to provide feedback please <a href="mailto:betterinformatics@gmail.com">email us</a>. Please don't forget to transfer ownership of Drive files to <strong>betterinformatics@gmail.com</strong>.
 
 {{ content }}
 
@@ -15,8 +15,16 @@ Hold on a while, we're bringing Better Informatics back. The Drive should be wor
     {% assign size = section.path.size | minus: 9 | minus: 4 %}
     <section id="{{ section.title | slugify }}">
         <h3>
-            {{ section.title }} {% if section.links %}(
-            {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
+            {% if section.link %}
+                <a href="{{ section.link }}">
+            {% endif %}
+            {{ section.title }}
+            {% if section.link %}
+                </a>
+            {% endif %}
+
+            {% if section.links %}(
+                {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
             ){% endif %}
 
             <a class="link-icon" href="#{{ section.title | slugify }}"><i class="fa fa-link" aria-hidden="true"></i></a>
