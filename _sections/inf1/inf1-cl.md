@@ -35,7 +35,7 @@ links:
 
   [Understanding Resolution]: https://www.inf.ed.ac.uk/teaching/courses/inf1/cl/notes/resolution/resolution.pdf
   [Solution to the original 4d on the take home exam]: https://www.inf.ed.ac.uk/teaching/courses/inf1/cl/tutorials/2016/solutiontakehome4d.pdf
-  [The venn diagram generator (based on the official version)]: /inf1-cl/venn
+  [The venn diagram generator (based on the official version)]: /resources/inf1-cl/venn
   [Definitions]: https://www.inf.ed.ac.uk/teaching/courses/inf1/cl/notes/ComputationandLogicDefinitions.pdf
   [CNF cheat sheet]: /inf1-cl/inf1-cl-cnf-cheat-sheet.png
   [Propositional formula to CNF converter]: http://logictools.org/

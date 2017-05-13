@@ -21,6 +21,8 @@ Allocations: [tutorials], [labs]
 
 [Automarker service](http://homepages.inf.ed.ac.uk/thospeda/Inf1OP/) - use this to mark your past papers
 
+[Lambda functions tutorial](/resources/inf1-op/lambda.html)
+
 <br>
 
 **About the exam**

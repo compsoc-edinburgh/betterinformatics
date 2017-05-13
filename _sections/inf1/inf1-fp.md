@@ -25,7 +25,7 @@ links:
   [allocations]: https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/exams/exam-allocation-2016.pdf
   [traversals]: https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Programming_Concepts/Tree_traversal_algorithms_for_a_binary_tree
   [official online book]: http://learnyouahaskell.com/chapters
-  [downloadable-lyah]: /inf1-fp/inf1-fp-lyah.zip
-  [basic-library-functions]: /inf1-fp/inf1-fp-function-list.txt
-  [handy-functions]: /inf1-fp/inf1-fp-handy-functions.pdf
-  [troubleshooting]: /inf1-fp/troubleshooting.html
+  [downloadable-lyah]: /resources/inf1-fp/inf1-fp-lyah.zip
+  [basic-library-functions]: /resources/inf1-fp/inf1-fp-function-list.txt
+  [handy-functions]: /resources/inf1-fp/inf1-fp-handy-functions.pdf
+  [troubleshooting]: /resources/inf1-fp/troubleshooting.html
