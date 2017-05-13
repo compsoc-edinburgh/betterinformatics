@@ -281,7 +281,7 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 970px) {
   .hide-on-small {
     visibility: hidden;
     clear: both;
@@ -292,7 +292,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-@media screen and (min-width: 961px) {
+@media screen and (min-width: 971px) {
   .hide-on-big {
     visibility: hidden;
     clear: both;
@@ -305,9 +305,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #title-small {
     margin-left: 20px;
+    margin-right: 20px;
 }
-
-
 
 #menu a {
     width: 137px;
@@ -320,16 +319,41 @@ h1, h2, h3, h4, h5, h6 {
     opacity: 0
 }
 
+#menu-small {
+    text-align: center;
+}
+
 #menu-small a {
-    font-size: 2em;
+    /* Make buttons appear on their own line by default */
+    /* See media query below for how we do it on one line */
+    display: block;
+    
+    /* For on-same-line styling */
+    width: auto;
+    
+    /* Prettify */
+    font-size: 1.2em;
+    text-align: center;
+    color: #777;
+    border: 1px solid #ddd;
 
+    /* Vertical space for each button */
+    margin-top: 10px;
+
+    /* Give the inside of the buttons a bit of space */
+    padding: 5px 10px;
 }
 
-#menu-small .divider {
-    font-size: 2.3em;
-    margin-left: 10px;
+@media screen and (min-width: 650px) {
+    #menu-small a {
+        display: inline-block;
+    }
 }
 
+#menu-small a:hover {
+    color: #104491;
+    border: 1px solid #104491
+}
 
 #menu a:hover {
     opacity: 1
