@@ -4,6 +4,7 @@ title: General
 ordering: -5
 ---
 
+- [LaundryView](http://www.laundryview.com/lvs.php?s=264)
 - [Private files...](http://private.inf1.hgs.club)
 - Blackboard app for [Android](https://play.google.com/store/apps/details?id=com.blackboard.android), [iOS](https://itunes.apple.com/us/app/blackboard-mobile-learn/id376413870?mt=8)
 - [View the Quizlet class (see next item to join)](https://quizlet.com/class/3543715/)
