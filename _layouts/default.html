@@ -8,7 +8,7 @@
     <body id="top">
         <a href="{{ site.baseurl }}/">
             <div id="title-small" class="hide-on-big">
-                <h1>Better Informatics - {{ page.title }}</h1>
+                <h1>Better Informatics {% if hasTitle == "true" %} - {{ page.title }} {% endif %}</h1>
             </div>
 
 
