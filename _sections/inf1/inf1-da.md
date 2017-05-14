@@ -18,6 +18,8 @@ links:
 
 [DbDesigner](https://dbdesigner.net/) allows you to design databases online, and convert them to their related SQL queries.
 
+[DTD examples](http://zvon.org/xxl/DTDTutorial/General/contents.html)
+
 [XPath Tester](http://codebeautify.org/Xpath-Tester)
 
 [XPath Tutorial](https://www.w3schools.com/xml/xpath_intro.asp)
