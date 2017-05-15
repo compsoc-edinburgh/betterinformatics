@@ -1,6 +1,5 @@
 ---
 year: masters
 title: CG
+link: /inf4#cg
 ---
-
--> 4th year
