@@ -1,5 +1,6 @@
 ---
 year: inf2
+semester: 2
 title: INF2B - Algorithms, Data Structures and Learning
 links:
   - name: course page
