@@ -25,4 +25,4 @@ exams:
 
 <small>It's only first year. **You only need 40% and it doesn't contribute to your final grade.** Chill, it's no big deal.</small>
 
-{% include exam.html %}
+{% include exams.html %}
