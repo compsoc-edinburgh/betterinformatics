@@ -11,7 +11,7 @@ links:
 exams:
 
   - name: CG
-    location: Playfair Library
+    location: Playfair Library
     date: Mon, 15th, 14:30-16:30 (2hrs)
     time: 1494858600
     code: INFR08020
@@ -26,7 +26,7 @@ exams:
 ---
 
 
-<small>**More from a 3rd year**: It's only first year. **You only need 40% and it doesn't contribute to your final grade.** Chill, it's no big deal.</small>
+<small>It's only first year. **You only need 40% and it doesn't contribute to your final grade.** Chill, it's no big deal.</small>
 
 <table style="width: 100%;">
     <tr>
