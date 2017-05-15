@@ -7,11 +7,9 @@ links:
     url: http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm
   - name: inf1-op allocations
     url: http://private.inf1.hgs.club/INF1-OP%20Exam%20-%2012th%20May%202017.pdf
-
 exams:
-
   - name: CG
-    location: Playfair Library
+    location: Playfair Library
     date: Mon, 15th, 14:30-16:30 (2hrs)
     time: 1494858600
     code: INFR08020
@@ -22,7 +20,6 @@ exams:
     date: Tues, 16th, 09:30-11:30 (2hrs)
     time: 1494927000
     code: INFR08015
-
 ---
 
 
