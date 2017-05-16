@@ -8,12 +8,6 @@ links:
   - name: inf1-op allocations
     url: http://private.inf1.hgs.club/INF1-OP%20Exam%20-%2012th%20May%202017.pdf
 exams:
-  - name: CG
-    location: Playfair Library
-    date: Mon, 15th, 14:30-16:30 (2hrs)
-    time: 1494858600
-    code: INFR08020
-    optional: true
 
   - name: DA
     location: Pleasance Sports Hall
