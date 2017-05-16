@@ -2,6 +2,7 @@
 title: Exam Dates
 year: inf1
 ordering: -10
+archived: true
 links:
   - name: search
     url: http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm
