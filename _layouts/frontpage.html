@@ -9,7 +9,15 @@ Hold on a while, we're bringing Better Informatics back. If you come across any 
 
 {% assign len =  page.path.size | minus: 3 | minus: 7 %}
 {% assign name = page.path | slice: 7, len %}
+
+{% if page.show-archived%}
+{% assign sections = site.sections | where: "year", name | sort: "title" | sort: "ordering" %}
+{% else %}
 {% assign sections = site.sections | where: "year", name | sort: "title" | sort: "ordering" | where: "archived", "false" %}
+{% endif %}
+
+
+
 
 {% for section in sections %}
     {% assign size = section.path.size | minus: 9 | minus: 4 %}
