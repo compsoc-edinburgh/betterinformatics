@@ -2,7 +2,7 @@
 title: Object Oriented Programming
 year: inf1
 semester: 2
-archived: true
+archived: false
 links:
   - name: course
     url: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/

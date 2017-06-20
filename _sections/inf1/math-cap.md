@@ -2,7 +2,7 @@
 title: Calculus and its Applications
 year: inf1
 semester: 2
-archived: true
+archived: false
 links:
   - name: piazza
     url: http://piazza.com/ed.ac.uk/winter2017/math08058

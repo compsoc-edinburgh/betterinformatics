@@ -2,7 +2,7 @@
 title: Computation and Logic
 year: inf1
 semester: 1
-archived: true
+archived: false
 links:
   - name: course page
     url: https://www.inf.ed.ac.uk/teaching/courses/inf1/cl/

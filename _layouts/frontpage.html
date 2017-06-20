@@ -3,17 +3,20 @@ layout: default
 ---
 {% include nav.html %}
 
-Hold on a while, we're bringing Better Informatics back. If you come across any problems, or would like to provide feedback please <a href="mailto:betterinformatics@gmail.com">email us</a>. Please don't forget to transfer ownership of Drive files to <strong>betterinformatics@gmail.com</strong>.
+<div style="text-align: center;">
+    <a href="https://discord.gg/e4y8Vy5" class="btn">Chat with other students</a>
+    <a href="mailto:betterinformatics@gmail.com" class="btn">Better Informatics Feedback</a>
+    <a href="{{ site.baseurl }}/files" class="btn">Uploading to Drive?</a>
+</div>
 
 {{ content }}
 
 {% assign len =  page.path.size | minus: 3 | minus: 7 %}
 {% assign name = page.path | slice: 7, len %}
 
-{% if page.show-archived%}
 {% assign sections = site.sections | where: "year", name | sort: "title" | sort: "ordering" %}
-{% else %}
-{% assign sections = site.sections | where: "year", name | sort: "title" | sort: "ordering" | where: "archived", "false" %}
+{% if page.show-archived == false %}
+{% assign sections = sections | where: "archived", "false" %}
 {% endif %}
 
 

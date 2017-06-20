@@ -2,7 +2,7 @@
 title: Introduction to Linear Algebra
 year: inf1
 semester: 1
-archived: true
+archived: false
 ---
 
 -   **Tip from a (current) 3rd year**: the maths exams are also open

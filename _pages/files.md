@@ -1,6 +1,8 @@
 ---
 ---
 
+### Please don't forget to transfer ownership of Drive files to <strong>betterinformatics@gmail.com</strong>.
+
 ### Adding files
 
 **NOTE:** The shared GDrive account had some issues. Contact betterinformatics@gmail.com if you want to have access to it.

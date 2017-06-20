@@ -408,18 +408,17 @@ h1, h2, h3, h4, h5, h6 {
 #edit_top input:hover {
     background: #7cabf1
 }
-#edit_link {
-    margin: 0 auto;
-    width: 150px;
-    display: block;
+.btn {
+    display: inline-block;
     border: 1px solid #ddd;
-    left: 0;
-    padding: 5px 10px;
-    font-size: 18px;
+    padding: 10px 15px;
+    font-size: 1rem;
     color: #777;
-    text-align: center
+    text-align: center;
+    margin-bottom: 5px;
+    margin-right: 5px;
 }
-#edit_link:hover {
+.btn:hover {
     color: #104491;
     border: 1px solid #104491
 }

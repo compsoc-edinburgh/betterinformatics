@@ -1,6 +1,7 @@
 ---
 year: start
 title: Useful Links
+ordering: -5
 ---
 
 Informatics Staff and Student Rep Meetings blog - [http://blog.inf.ed.ac.uk/issr/](http://blog.inf.ed.ac.uk/issr/)

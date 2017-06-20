@@ -28,3 +28,4 @@ defaults:
         type: "pages"
       values:
         layout: "frontpage"
+        show-archived: false
