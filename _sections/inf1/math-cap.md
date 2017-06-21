@@ -8,6 +8,8 @@ links:
     url: http://piazza.com/ed.ac.uk/winter2017/math08058
   - name: webassign
     url: https://www.webassign.net/login.html
+  - name: drps
+    url: http://www.drps.ed.ac.uk/17-18/dpt/cxmath08058.htm
 ---
 - [MathBase timetable](/static/year1/mathbase-sem2-timetable.png)
 - [Notes from an awesome person who did the course last year, Joe](/static/year1/cap_reference.pdf) ([src](https://github.com/aptgetmoo/cap))
