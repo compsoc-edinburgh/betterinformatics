@@ -3,6 +3,9 @@ title: Introduction to Linear Algebra
 year: inf1
 semester: 1
 archived: false
+links:
+  - name: drps
+    url: http://www.drps.ed.ac.uk/17-18/dpt/cxmath08057.htm
 ---
 
 -   **Tip from a (current) 3rd year**: the maths exams are also open
