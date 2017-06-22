@@ -11,6 +11,7 @@ links:
   - name: drps
     url: http://www.drps.ed.ac.uk/17-18/dpt/cxmath08058.htm
 ---
+- [Course outline](/resources/math-cap/outline-2016-17.html)
 - [MathBase timetable](/static/year1/mathbase-sem2-timetable.png)
 - [Notes from an awesome person who did the course last year, Joe](/static/year1/cap_reference.pdf) ([src](https://github.com/aptgetmoo/cap))
 - [SympyGamma](http://www.sympygamma.com/) - a tool similar to WolframAlpha, but also offering explanation for derivations. 
