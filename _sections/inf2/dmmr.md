@@ -1,6 +1,6 @@
 ---
 year: inf2
-semester: 2
+semester: 1
 title: DMMR - Discrete Mathematics and Mathematical Reasoning
 links:
   - name: course page
