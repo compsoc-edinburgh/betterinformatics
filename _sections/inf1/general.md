@@ -2,6 +2,9 @@
 year: inf1
 title: General
 ordering: -5
+links:
+  - name: guide
+    url: http://web.inf.ed.ac.uk/infweb/student-services/ito/students/year1
 ---
 
 - [LaundryView](http://www.laundryview.com/lvs.php?s=264)
