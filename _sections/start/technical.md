@@ -21,4 +21,4 @@ web printing interfaces: [EveryonePrint](https://www.everyoneprint.is.ed.ac.uk),
 
 [Information Services contact form](https://ed.unidesk.ac.uk/tas/public/)
 
-how to unsubscribe from a mailing list: send an email to majordomo@lists.ed.ac.uk with the following message in the body: unsubscribe
+unsubscribing from a mailing list: email `majordomo@lists.ed.ac.uk` with `unsubscribe` in the message body
