@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-<h2>
-	{{ page.title }}
-	<a class="edit-pencil" href="https://github.com/{{ site.data.repo }}/blob/master/{{ page.path }}"><i class="fa fa-pencil" aria-hidden="true"></i></a>
-</h2>
+<section>
+	<h2>
+		{{ page.title }}
+		<a class="edit-pencil" href="https://github.com/{{ site.data.repo }}/blob/master/{{ page.path }}"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+	</h2>
 
-{{ content }}
+	{{ content }}
+</section>
