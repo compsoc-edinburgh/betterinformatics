@@ -7,7 +7,7 @@ web printing interfaces: [EveryonePrint](https://www.everyoneprint.is.ed.ac.uk),
 
 [print balance](https://www.manageprint.is.ed.ac.uk/)
 
-[accessing your DICE home in a web browser](https://ifile.inf.ed.ac.uk/)
+[Access DICE files in a web browser](https://ifile.inf.ed.ac.uk/)
 
 [accessing DICE environment](http://computing.help.inf.ed.ac.uk/nx/)
 
