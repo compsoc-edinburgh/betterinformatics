@@ -3,7 +3,7 @@ title: Academic year
 year: start
 ---
 
-These time periods include weekends, as opposed to [the official semester dates](http://www.ed.ac.uk/semester-dates).
+These time periods may include weekends, as opposed to [the official semester dates](http://www.ed.ac.uk/semester-dates).
 
 <!--
 * [Festival of Creative Learning (ILW)](http://www.ed.ac.uk/students/academic-life/innovative-learning): 20th - 26th February 2017
