@@ -1,7 +1,6 @@
 ---
 year: start
 title: Community
-ordering: -10
 ---
 - [CompSoc Edinburgh](http://comp-soc.com/)
 - [Tardis](http://tardis.ed.ac.uk) - student run computing facility
