@@ -15,6 +15,4 @@ ordering: -5
 - [library](http://www.ed.ac.uk/schools-departments/information-services/library-museum-gallery)
 - [feedback policy](http://www.inf.ed.ac.uk/student-services/teaching-organisation/for-taught-students/coursework-and-projects/coursework-assessment-and-feedback)
 - [List of tutorial groups](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/)
-<!--
-[AT room schedule / booking](https://rbs.inf.ed.ac.uk/ito)
--->
+- [Informatics Room Booking System](https://rbs.inf.ed.ac.uk/ito)
