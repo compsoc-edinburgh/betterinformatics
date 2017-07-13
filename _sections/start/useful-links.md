@@ -4,8 +4,7 @@ title: Useful Links
 ordering: -5
 ---
 
-- [InfWeb](http://web.inf.ed.ac.uk/)
-- [Informatics Staff and Student Rep Meetings blog](http://blog.inf.ed.ac.uk/issr/)
+- [InfWeb](http://web.inf.ed.ac.uk/), [Staff and Student Rep Meetings blog](http://blog.inf.ed.ac.uk/issr/)
 - [List of all Informatics courses](http://course.inf.ed.ac.uk/)
 - [Progression Guidance](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/progression-guidance)
 - [course survey reports](http://www.inf.ed.ac.uk/admin/ITO/course-survey-reports/)
