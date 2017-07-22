@@ -3,8 +3,6 @@ year: inf4
 title: IAR
 ---
 
-[<u>Vehicles</u>](http://ge.tt/1ivvhQu/v/0) (PDF)
-
 [May 2013](https://docs.google.com/document/d/1M4VqxYz-Zy-Z75Efqw4Lf8nX68IUI7oOvqYIVbCqd50/edit?usp=sharing)
 
 [May 2012](https://docs.google.com/document/d/1O0LLZXkpOJL7EdQEzXNWW1I4PA8yPKv-eHFkaUCCnAU/edit)
