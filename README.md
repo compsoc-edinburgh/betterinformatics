@@ -9,3 +9,5 @@
 ## Development (not for general contributions)
 
 Build using `docker run --volume=$(pwd):/src:Z  grahamc/jekyll build --watch`
+
+Hacky pull every second `while true; do git pull --ff-only; sleep 1; done`
