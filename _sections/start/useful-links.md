@@ -4,6 +4,7 @@ title: Useful Links
 ordering: -5
 ---
 
+- [Reading List](https://goo.gl/9NkLch)
 - [InfWeb](http://web.inf.ed.ac.uk/), [Staff and Student Rep Meetings blog](http://blog.inf.ed.ac.uk/issr/)
 - [The Marauders Map](https://map.betterinformatics.com) - map of machines
 - [List of all Informatics courses](http://course.inf.ed.ac.uk/)
