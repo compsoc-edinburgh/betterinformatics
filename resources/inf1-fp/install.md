@@ -15,7 +15,7 @@ This guide walks you through getting your development environment set up for INF
 
 ## macOS INSTRUCTIONS INCOMPLETE
 
-1. Get Homebrew — this is a package manager that allows you to install and uninstall software on your computer.
+1. **Get Homebrew** — this is a package manager that allows you to install and uninstall software on your computer.
 
    Do not continue until you have Homebrew installed.
 2. **Install Haskell Platform**
@@ -29,18 +29,22 @@ This guide walks you through getting your development environment set up for INF
    In the terminal, type the following command: `brew cask install visual-studio-code`, and press Enter.
    
    This is the code editor we recommend you to use. You should now have "Visual Studio Code.app" in your Applications folder.
-4. **Get the _Haskero_ extension**
+4. **Set up the _Haskero_ extension**
 
    Haskero is the extension we will use to improve Haskell support in Visual Studio Code.
+   
+   Haskero has some prerequisities, so first run these commands in a terminal:
+   1. `stack config set system-ghc --global true`
+   2. `stack build intero`
 
-   - Open up Visual Studio Code either by selecting it in the Applications folder, or by typing `code` in the terminal.
-   - Click the "squares" icon in the sidebar. This should open up the "Extensions" pane.
-   - Type "Haskero" in the search field, and press Enter.
-   - Click "Install" on the search result. Click "Yes" if it asks to install dependencies.
-   - Click the "Reload" button to reload the current window (this will start the Haskero extension)
-   
-   
+   Now install the extension:
+   1. Open up Visual Studio Code either by selecting it in the Applications folder, or by typing `code` in the terminal.
+   2. Click the "squares" icon in the sidebar. This should open up the "Extensions" pane.
+   3. Type "Haskero" in the search field, and press Enter.
+   4. Click "Install" on the search result. Click "Yes" if it asks to install dependencies.
+   5. Click the "Reload" button to reload the current window (this will start the Haskero extension)
    
  ## Further reading
  
  - [Haskero webpage](https://marketplace.visualstudio.com/items?itemName=Vans.haskero)
+
