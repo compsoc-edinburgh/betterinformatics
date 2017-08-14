@@ -43,7 +43,14 @@ This guide walks you through getting your development environment set up for INF
    3. Type "Haskero" in the search field, and press Enter.
    4. Click "Install" on the search result. Click "Yes" if it asks to install dependencies.
    5. Click the "Reload" button to reload the current window (this will start the Haskero extension)
-   
+ 5. **Set up the _Phoityne_ extension**
+ 
+    This extension allows you to run your Haskell code right within the editor.
+ 
+    1. This extension also has a prerequisite. Run this command: `stack install phoityne-vscode`.
+    1. ... todo path ...
+    1. Click Install on the [extension page](https://marketplace.visualstudio.com/items?itemName=phoityne.phoityne-vscode).
+        
  ## Further reading
  
  - [Haskero webpage](https://marketplace.visualstudio.com/items?itemName=Vans.haskero)
