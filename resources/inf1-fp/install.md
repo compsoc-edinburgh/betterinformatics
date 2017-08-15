@@ -37,7 +37,7 @@ This guide walks you through getting your development environment set up for INF
    1. `stack config set system-ghc --global true`
    2. `stack build intero`
 
-   Now install the extension:
+   Now install the extension by clicking install on the [extension page](https://marketplace.visualstudio.com/items?itemName=Vans.haskero). If that doesn't work, try this:
    1. Open up Visual Studio Code either by selecting it in the Applications folder, or by typing `code` in the terminal.
    2. Click the "squares" icon in the sidebar. This should open up the "Extensions" pane.
    3. Type "Haskero" in the search field, and press Enter.
