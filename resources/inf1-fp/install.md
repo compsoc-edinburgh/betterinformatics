@@ -48,7 +48,7 @@ This guide walks you through getting your development environment set up for INF
     This extension allows you to run your Haskell code right within the editor.
  
     1. This extension also has a prerequisite. Run this command: `stack install phoityne-vscode`.
-    1. ... todo path ...
+    1. ... _todo_: add `~/.local/bin` to path ...
     1. Click Install on the [extension page](https://marketplace.visualstudio.com/items?itemName=phoityne.phoityne-vscode).
         
  ## Further reading
