@@ -9,6 +9,7 @@ links:
   - name: tutorials
     url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-cl.shtml
 ---
+<!--
 -   **Likely exam topics**
     -   Venn diagrams, Karnaugh maps, truth table
     -   Conversion to CNF and Clausal form
@@ -22,6 +23,7 @@ links:
     -   NFA to DFA conversion
     -   Representing an FSM by a regular expression
     -   NOT refutation
+-->
 -   [Solution to the original 4d on the take home exam]
 -   [The venn diagram generator (based on the official version)]
 -   [Definitions] (also available on Quizlet)
@@ -41,6 +43,8 @@ links:
   [Propositional formula to CNF converter]: http://logictools.org/
   [Visualizing satisfiability, validity & entailment]: http://blog.ezyang.com/2012/10/visualizing-satisfiability-validity-and-entailment/
   [FSM Workbench (also contains subset construction)]: http://homepages.inf.ed.ac.uk/s1020995/fsmworkbench/index.html
-  [Learn about regular expressions (has a great cheatsheet)]: http://regexr.com/
+  - **Regular expressions**
+    - [Learn about regular expressions (has a great cheatsheet)]: http://regexr.com/
+    - [Learn Regex The Easy Way]: https://github.com/zeeshanu/learn-regex
   [simulator]: http://ivanzuzak.info/noam/webapps/fsm_simulator/
   [regex/automaton converter]: http://ivanzuzak.info/noam/webapps/fsm2regex/
