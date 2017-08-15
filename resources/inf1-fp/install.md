@@ -50,8 +50,9 @@ This guide walks you through getting your development environment set up for INF
     1. This extension also has a prerequisite. Run this command: `stack install phoityne-vscode`.
     1. ... _todo_: add `~/.local/bin` to path ...
     1. Click Install on the [extension page](https://marketplace.visualstudio.com/items?itemName=phoityne.phoityne-vscode).
-        
- ## Further reading
+
+
+## Further reading
  
  - [Haskero webpage](https://marketplace.visualstudio.com/items?itemName=Vans.haskero)
 
