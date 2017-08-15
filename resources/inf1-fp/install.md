@@ -15,7 +15,7 @@ This guide walks you through getting your development environment set up for INF
 
 ## macOS INSTRUCTIONS INCOMPLETE
 
-1. **Get Homebrew** — this is a package manager that allows you to install and uninstall software on your computer.
+1. **[Get Homebrew](https://brew.sh/)** — this is a package manager that allows you to install and uninstall software on your computer.
 
    Do not continue until you have Homebrew installed.
 2. **Install Haskell Platform**
