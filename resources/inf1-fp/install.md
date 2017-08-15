@@ -1,5 +1,5 @@
 ---
-title: Install Haskell
+title: Install You A Haskell
 layout: page
 ---
 
