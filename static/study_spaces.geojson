@@ -58,24 +58,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#e02f2f",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Building": "Forrest Hill",
-        "Spaces": "Plenty of free rooms outside working hours",
-        "Availability": "A little busy mid-semester"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.1921452283859253,
-          55.946020290747676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#200d0d",
         "marker-size": "medium",
         "marker-symbol": "",
