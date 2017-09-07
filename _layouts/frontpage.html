@@ -36,9 +36,9 @@ layout: default
                 </a>
             {% endif %}
 
-            {% if section.links %}(
+            {% if section.links %}<small>
                 {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
-            ){% endif %}
+            </small>{% endif %}
 
             <a class="link-icon" href="#{{ section.title | slugify }}"><i class="fa fa-link" aria-hidden="true"></i></a>
             <a class="edit-pencil" href="https://github.com/{{ site.data.repo }}/blob/master/{{ section.path }}"><i class="fa fa-pencil" aria-hidden="true"></i></a>
