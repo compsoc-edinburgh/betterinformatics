@@ -6,7 +6,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="{{ site.description }}">
 
-    {% if (page.redirect != "") and (pagee.redirect != nil) %}<meta http-equiv="refresh" content="0;URL='{{ page.redirect }}'" />{% endif %}
+    {% if (page.redirect != "") and (page.redirect != nil) %}<meta http-equiv="refresh" content="0;URL='{{ page.redirect }}'" />{% endif %}
     
     {% capture title %}{% if page.short-title %}{{ page.short-title }}{% else %}{{ page.title }}{% endif %}{% endcapture %}
     {% capture hasTitle %}{% if (title != "") and (title != nil) %}true{% else %}false{% endif %}{% endcapture %}
