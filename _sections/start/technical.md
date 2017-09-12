@@ -19,7 +19,7 @@ web printing interfaces: [EveryonePrint](https://www.everyoneprint.is.ed.ac.uk),
 
 [University VPN service](http://www.ed.ac.uk/schools-departments/information-services/services/computing/desktop-personal/vpn/vpn-service-using)
 
-[DICE contact form](https://www.inf.ed.ac.uk/systems/support/form/)
+[DICE contact form](https://www.inf.ed.ac.uk/systems/support/form/) (computing support)
 
 [Information Services contact form](https://ed.unidesk.ac.uk/tas/public/)
 
