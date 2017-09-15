@@ -1,6 +1,7 @@
 ---
 year: masters
-title: EXC
+title: "EXC: Extreme Computing"
+course-acronym: exc
 ---
 
 [All Lecture Slides in one PDF (2012/2013)](https://drive.google.com/open?id=0B1Bl0XqNwHffcFRkRzRpVTdlNkE&authuser=0)
