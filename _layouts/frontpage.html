@@ -30,6 +30,8 @@ layout: default
         <h3>
             {% if section.link %}
                 <a href="{{ section.link }}">
+            {% else if section.course-acronym %}
+                <a href="http://course.inf.ed.ac.uk/{{ section.course-acronym }}">
             {% endif %}
             {{ section.title }}
             {% if section.link %}
