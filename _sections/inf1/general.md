@@ -9,7 +9,7 @@ links:
 
 - [LaundryView](http://www.laundryview.com/lvs.php?s=264)
 - [Private files...](http://private.inf1.hgs.club)
-- [View the Quizlet class (see next item to join)](https://quizlet.com/class/3543715/)
+- [Join the Quizlet class](https://quizlet.com/join/wNgrn2wSu)
 - [Common Outside Course Options for Informatics Students (2016/17)](http://homepages.inf.ed.ac.uk/imurray2/pt/outside_courses_16-17.html)
 
 - year issues - [google doc](https://docs.google.com/document/d/1u59nYYNTbRK9dqwA-dQ_DbBbm5JyWSrdGXZYRAY61wM/edit)
