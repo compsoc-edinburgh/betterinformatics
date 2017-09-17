@@ -8,8 +8,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "Building": "Appleton Tower",
-        "Spaces": "MathsBase on 2nd floor, InfBASE on 3rd floor",
-        "Availability": "Moderate space"
+        "Spaces": "The main labs are on floors 5 and 6. MathsBase on 2nd floor, InfBASE on 3rd floor",
+        "Availability": "Plenty of space"
       },
       "geometry": {
         "type": "Point",
