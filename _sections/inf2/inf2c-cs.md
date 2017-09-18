@@ -8,3 +8,7 @@ links:
   - name: info
     url: http://course.inf.ed.ac.uk/inf2c-cs/
 ---
+
+- Exam:
+  - Pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
+  
