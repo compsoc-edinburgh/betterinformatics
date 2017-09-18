@@ -31,7 +31,7 @@ layout: default
             {% if section.link %}
                 <a href="{{ section.link }}">
             {% elsif section.course-acronym != "" %}
-                <a href="http://course.inf.ed.ac.uk/{{ section.course-acronym }}">
+                <a href="https://www.inf.ed.ac.uk/teaching/courses/{{ section.course-acronym }}/">
             {% endif %}
             {{ section.title }}
             {% if section.link or (section.course-acronym != "") %}
