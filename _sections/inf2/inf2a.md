@@ -17,4 +17,4 @@ links:
 - Exam: it's a **written** 2hr exam:
   - 5 compulsory short questions (10% each)
   - a choice of 2 out of 3 longer questions (25% each)
-  - Pass: 40% overrall, no exam/coursework hurdle
+  - Pass: 40% overall, no exam/coursework hurdle
