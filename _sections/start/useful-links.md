@@ -17,3 +17,9 @@ ordering: -5
 - [feedback policy](http://www.inf.ed.ac.uk/student-services/teaching-organisation/for-taught-students/coursework-and-projects/coursework-assessment-and-feedback)
 - [List of tutorial groups](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/)
 - [Informatics Room Booking System](https://rbs.inf.ed.ac.uk/ito)
+
+**new** coursework policy (September 2017):
+
+- 5% will be deducted per calendar day, up to 7 days (unless you have a reason for extension)
+- you need to request an extension via the ITO contact form **IN ADVANCE** (unless possible)
+- todo: add official link to this policy
