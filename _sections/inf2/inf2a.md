@@ -13,3 +13,7 @@ links:
 - Assignments (always due 4pm):
   - Assignment 1: given 17th Oct, due 31st Oct
   - Assingment 2: given 17th Nov, due 1st Dec
+
+- Exam: it's a **written** 2hr exam:
+  - 5 compulsory short questions (10% each)
+  - a choice of 2 out of 3 longer questions (25% each)
