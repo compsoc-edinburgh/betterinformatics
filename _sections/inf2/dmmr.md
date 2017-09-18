@@ -12,4 +12,5 @@ links:
 - **It's an open book exam!** Book: Discrete Mathematics and its Applications, by Kenneth H. Rosen
 - **new**: coursework submissions are done on DICE machines using the inbuilt submit system
 - Exam:
+  - 85% in the exam, 15% across the 9 assessments
   - Pass requirement: 40% overall
