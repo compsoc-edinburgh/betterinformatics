@@ -18,4 +18,4 @@ links:
   - 5 compulsory short questions (10% each)
   - a choice of 2 out of 3 longer questions (25% each)
   - Pass: 40% overall, no exam/coursework hurdle
-  - you want 50% on at least 40creds of the courses to do honours though
+    - (do NOT forget honours hurdle mentioned at the top of the page!)
