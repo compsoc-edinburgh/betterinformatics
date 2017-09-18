@@ -1,5 +1,7 @@
 # Better Informatics
 
+[start](https://github.com/compsoc-edinburgh/betterinformatics/tree/master/_sections/start) - [inf1](https://github.com/compsoc-edinburgh/betterinformatics/tree/master/_sections/inf1) - [inf2](https://github.com/compsoc-edinburgh/betterinformatics/tree/master/_sections/inf2) - [inf3](https://github.com/compsoc-edinburgh/betterinformatics/tree/master/_sections/inf3) - [inf4](https://github.com/compsoc-edinburgh/betterinformatics/tree/master/_sections/inf4) - [masters](https://github.com/compsoc-edinburgh/betterinformatics/tree/master/_sections/masters) - 
+
 ## Guidelines for contributing
 
 - In order to contribute you will need GitHub account.
