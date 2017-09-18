@@ -14,7 +14,7 @@ links:
   - Assignment 1: given 17th Oct, due 31st Oct
   - Assignment 2: given 17th Nov, due 1st Dec
 
-- Exam: it's a **written** 2hr exam:
+- Exam: it's a closed book **written** 2hr exam:
   - 5 compulsory short questions (10% each)
   - a choice of 2 out of 3 longer questions (25% each)
   - Pass: 40% overall, no exam/coursework hurdle
