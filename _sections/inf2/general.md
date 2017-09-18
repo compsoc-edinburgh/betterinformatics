@@ -9,7 +9,7 @@ links:
     url: https://lists.inf.ed.ac.uk/mailman/private/ug2-students/
 ---
 
-Entry to Honours requires passes at 50% or above at the first attempt in at least 40 credit points' worth of the Informatics 2 courses listed together with passes in all remaining compulsory courses, or the permission of Head of School.
+**Honours hurdle**: Entry to Honours requires passes at 50% or above at the first attempt in at least 40 credit points' worth of the Informatics 2 courses listed together with passes in all remaining compulsory courses, or the permission of Head of School.
 
 <br>
 
