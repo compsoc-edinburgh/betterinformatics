@@ -495,14 +495,14 @@ ul {
 }
 
 
-section:hover .link-icon, section:hover .edit-pencil {
+section .link-icon, section .edit-pencil {
     color: rgba(119, 119, 119, .7);
     opacity: 1;
 }
-
+/* 
 .link-icon, .edit-pencil {
     opacity: 0;
-}
+} */
 
 section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     color: rgba(119, 119, 119, 1);
