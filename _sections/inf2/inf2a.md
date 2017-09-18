@@ -8,3 +8,5 @@ links:
   - name: info
     url: http://course.inf.ed.ac.uk/inf2a/
 ---
+
+- Lectures start in week 3 (beginning Monday 2 Oct)
