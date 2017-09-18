@@ -10,3 +10,6 @@ links:
 ---
 
 - Tutorials start in week 3 (beginning Monday 2 Oct)
+- Assignments (always due 4pm):
+  - Assignment 1: given 17th Oct, due 31st Oct
+  - Assingment 2: given 17th Nov, due 1st Dec
