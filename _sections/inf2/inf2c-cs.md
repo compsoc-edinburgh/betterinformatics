@@ -9,7 +9,7 @@ links:
   - name: piazza
     url: https://piazza.com/class/j7ithxoc19423b
 ---
-
+- Labs are drop in, and aren't compulsory.
 - Exam:
   - Pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
   
