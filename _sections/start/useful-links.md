@@ -20,6 +20,10 @@ ordering: -5
 
 **new** coursework policy (September 2017):
 
+For courseworks issued more than 8 days in advance:
+
 - 5% will be deducted per calendar day, up to 7 days (unless you have a reason for extension)
 - you need to request an extension via the ITO contact form **IN ADVANCE** (unless possible)
-- todo: add official link to this policy
+- [official policy](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/coursework-projects/late-coursework-extension-requests)
+
+Otherwise (dmmr, inf2c-cs), the old policy applies - no coursework will be accepted past the deadline unless an extention is approved.
