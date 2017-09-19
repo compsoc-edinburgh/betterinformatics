@@ -1,6 +1,7 @@
 ---
 year: inf3
 title: ABS
+course-acronym: abs
 ---
 
 <u>See shared drive for some unofficial solutions.</u>
