@@ -1,11 +1,10 @@
 ---
 title: Functional Programming
 year: inf1
+course-acronym: inf1-fp
 semester: 1
 archived: false
 links:
-  - name: course page
-    url: https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/
   - name: piazza
     url: https://piazza.com/class/ititlgx4mhn31t
   - name: tutorials
