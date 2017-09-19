@@ -7,6 +7,6 @@ links:
   - name: info
     url: http://course.inf.ed.ac.uk/inf2c-se/
 ---
-
-- Exam:
+- No book is _essential_ for this course.
+- Exam, **closed book**:
   - Pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
