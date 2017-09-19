@@ -8,3 +8,4 @@ title: E-learning
 - Russel and Norvig's online AI Class from Stanford - [https://www.ai-class.com/](https://www.ai-class.com/accessibility)
 - MIT OpenCourseware Mathematics - [http://ocw.mit.edu/courses/mathematics/](http://ocw.mit.edu/courses/mathematics/)
 - Accessible videos about cryptography - [http://www.youtube.com/playlist?list=PLB4D701646DAF0817](http://www.youtube.com/playlist?list=PLB4D701646DAF0817)
+- The Google [tech dev guide](https://techdevguide.withgoogle.com) is also a good place to get some practice.
