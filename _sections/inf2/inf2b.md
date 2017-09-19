@@ -2,9 +2,8 @@
 year: inf2
 semester: 2
 title: INF2B - Algorithms, Data Structures and Learning
+course-acronym: inf2b
 links:
-  - name: course page
-    url: https://www.inf.ed.ac.uk/teaching/courses/inf2b/
   - name: info
     url: http://course.inf.ed.ac.uk/inf2b/
 ---
