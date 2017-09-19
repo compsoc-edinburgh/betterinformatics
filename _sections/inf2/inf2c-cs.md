@@ -6,7 +6,7 @@ course-acronym: inf2c-cs
 links:
   - name: info
     url: http://course.inf.ed.ac.uk/inf2c-cs/
-  - piazza:
+  - name: piazza
     url: https://piazza.com/class/j7ithxoc19423b
 ---
 
