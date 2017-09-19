@@ -3,9 +3,8 @@ title: Computation and Logic
 year: inf1
 semester: 1
 archived: false
+course-acronym: inf1-cl
 links:
-  - name: course page
-    url: https://www.inf.ed.ac.uk/teaching/courses/inf1/cl/
   - name: tutorials
     url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-cl.shtml
 ---
