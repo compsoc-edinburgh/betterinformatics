@@ -2,11 +2,12 @@
 year: inf2
 semester: 2
 title: INF2C - Computer Systems
+course-acronym: inf2c-cs
 links:
-  - name: course page
-    url: https://www.inf.ed.ac.uk/teaching/courses/inf2c-cs/
   - name: info
     url: http://course.inf.ed.ac.uk/inf2c-cs/
+  - piazza:
+    url: https://piazza.com/class/j7ithxoc19423b
 ---
 
 - Exam:
