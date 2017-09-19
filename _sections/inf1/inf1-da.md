@@ -1,10 +1,9 @@
 ---
 title: Data and Analysis
 year: inf1
+course-acronym: inf1-da
 semester: 2
 links:
-  - name: blog
-    url: https://blog.inf.ed.ac.uk/da17/
   - name: fb
     url: https://www.facebook.com/groups/inf1da2017/
   - name: tutorials
