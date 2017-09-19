@@ -1,11 +1,10 @@
 ---
 title: Object Oriented Programming
 year: inf1
+course-acronym: inf1-op
 semester: 2
 archived: false
 links:
-  - name: course
-    url: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/
   - name: labs
     url: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2017/labs/index.html
   - name: piazza
