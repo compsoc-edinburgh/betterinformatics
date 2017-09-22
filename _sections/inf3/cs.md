@@ -9,11 +9,10 @@ links:
     url: http://course.inf.ed.ac.uk/cs/
 ---
 
-[August 2010](http://mess.ninjalith.com/cs/exams/2010_resit)
+[August 2010 answers](http://mess.ninjalith.com/cs/exams/2010_resit)
 
-[May 2010](https://docs.google.com/document/d/1u0d0ybDWt_V0Of9sZMqxwg1tyuVzsdKAkrx6Wq31FK8/edit?usp=sharing)
+[May 2010 answers](https://docs.google.com/document/d/1u0d0ybDWt_V0Of9sZMqxwg1tyuVzsdKAkrx6Wq31FK8/edit?usp=sharing)
 
-Past exam solutions in [Dropbox folder](https://www.dropbox.com/sh/ghnefywkooyng61/eaqRs2JcQ7/CS) invalid link
 
 This explains BLP and AB much better than the slides: [i93lbacm(org).pdf](http://profsandhu.com/journals/computer/i93lbacm(org).pdf)
 
