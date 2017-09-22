@@ -1,6 +1,12 @@
 ---
 year: inf3
-title: COMN
+semester: 1
+credits: 20
+title: COMN - Computer Communications and Networks
+course-acronym: comn
+links:
+  - name: info
+    url: http://course.inf.ed.ac.uk/comn/
 ---
 
 <u>See shared drive for some unofficial solutions.</u>
