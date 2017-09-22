@@ -1,6 +1,12 @@
 ---
 year: inf3
-title: CAR
+semester: 2
+credits: 10
+title: Computer Architecture
+course-acronym: car
+links:
+  - name: info
+    url: http://course.inf.ed.ac.uk/car
 ---
 
 [Past papers and solutions](https://drive.google.com/folderview?id=0B2AAOQQZ_8Bxa1dkWEZfbnprUFk&usp=sharing)
