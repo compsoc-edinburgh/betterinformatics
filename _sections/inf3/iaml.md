@@ -1,6 +1,12 @@
 ---
 year: inf3
-title: IAML
+semester: 1
+credits: 20
+title: IAML - Introductory Applied Machine Learning
+course-acronym: iaml
+links:
+  - name: info
+    url: http://course.inf.ed.ac.uk/iaml/
 ---
 
 <u>See shared drive for some unofficial solutions.</u>
