@@ -1,6 +1,12 @@
 ---
 year: inf3
-title: ADS
+semester: 2
+credits: 10
+title: Algorithms and Data Structures
+course-acronym: ads
+links:
+  - name: info
+    url: http://course.inf.ed.ac.uk/ads
 ---
 
 <u>See shared drive for some unofficial solutions.</u>
