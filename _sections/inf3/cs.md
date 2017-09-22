@@ -1,6 +1,12 @@
 ---
 year: inf3
-title: CS
+semester: 1
+credits: 20
+title: Computer Security
+course-acronym: cs
+links:
+  - name: info
+    url: http://course.inf.ed.ac.uk/cs/
 ---
 
 [August 2010](http://mess.ninjalith.com/cs/exams/2010_resit)
