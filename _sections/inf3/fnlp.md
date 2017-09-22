@@ -1,6 +1,12 @@
 ---
 year: inf3
-title: FNLP
+semester: 2
+credits: 10
+title: FNLP - Foundations of Natural Language Processing
+course-acronym: fnlp
+links:
+  - name: info
+    url: http://course.inf.ed.ac.uk/fnlp/
 ---
 
 <u>See shared drive for past papers and solutions.</u>
