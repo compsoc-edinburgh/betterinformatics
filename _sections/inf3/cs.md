@@ -2,7 +2,7 @@
 year: inf3
 semester: 1
 credits: 20
-title: Computer Security
+title: CS - Computer Security
 course-acronym: cs
 links:
   - name: info
