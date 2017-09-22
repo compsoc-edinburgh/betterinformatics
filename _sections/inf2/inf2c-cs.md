@@ -11,7 +11,9 @@ links:
   - name: tutorials
     url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf2c-cs.shtml
 ---
-- Labs are drop in, and aren't compulsory.
-- Exam:
-  - Pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
+- [Binary number system]
+  - [Binary arithmetic](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Data_Representation_and_Practical_Exercise/Fundamentals_of_Data_Representation/Binary_arithmetic)
+- **Logistics**
+  - Labs are drop in, and aren't compulsory.
+  - Exam pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
   
