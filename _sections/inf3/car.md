@@ -2,7 +2,7 @@
 year: inf3
 semester: 2
 credits: 10
-title: Computer Architecture
+title: CAR - Computer Architecture
 course-acronym: car
 links:
   - name: info
