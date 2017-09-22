@@ -1,6 +1,12 @@
 ---
 year: inf3
-title: CCS
+semester: 1
+credits: 10
+title: CCS - Computational Cognitive Science
+course-acronym: ccs
+links:
+  - name: info
+    url: http://course.inf.ed.ac.uk/ccs/
 ---
 
 [Past papers and solutions](https://drive.google.com/folderview?id=0BxLka5IZN36GN1l4ZERHb3Y0UjA&usp=sharing)
