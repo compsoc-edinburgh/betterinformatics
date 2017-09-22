@@ -1,6 +1,12 @@
 ---
 year: inf3
-title: ITCS
+semester: 2
+credits: 10
+title: ITCS - Introduction to Theoretical Computer Science
+course-acronym: itcs
+links:
+  - name: info
+    url: http://course.inf.ed.ac.uk/itcs/
 ---
 
 ITCS concepts (from Julian's guide!) - [Here](https://docs.google.com/document/d/1ju7pc-zGXIov22E25QgsrP9P3fRb4ucKToh_DRIjMuQ/edit?usp=sharing)
