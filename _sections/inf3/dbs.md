@@ -1,6 +1,12 @@
 ---
 year: inf3
-title: DBS
+semester: 1
+credits: 20
+title: DBS -	Database Systems
+course-acronym: dbs
+links:
+  - name: info
+    url: http://course.inf.ed.ac.uk/dbs
 ---
 
 [Official exam papers and solutions - 2005 to 2010](https://www.dropbox.com/sh/qqd05o7mw7watz7/eF0YYWcI9X?v=1swn)
