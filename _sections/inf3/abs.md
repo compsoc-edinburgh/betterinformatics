@@ -1,13 +1,14 @@
 ---
 year: inf3
 semester: 2
-credits: 10
+credits: NOT AVAILABLE IN 2017-2018
 title: ABS - Agent Based Systems
 course-acronym: abs
 links:
   - name: info
-    url: http://course.inf.ed.ac.uk/abs/
+    url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10073.htm
 ---
+**NOT AVAILABLE IN 2017-2018**
 
 <u>See shared drive for some unofficial solutions.</u>
 
