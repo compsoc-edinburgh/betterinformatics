@@ -1,7 +1,14 @@
 ---
 year: inf3
-title: LP
+semester: NOT AVAILABLE IN 2017-2018
+credits: 10
+title: ~~LP - Logic Programming~~
+course-acronym: lp
+links:
+  - name: info
+    url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09031.htm
 ---
+**NOT AVAILABLE IN 2017-2018**
 
 [Official exam papers and solutions](https://drive.google.com/folderview?id=0B2AAOQQZ_8BxTHpRS2d0aXY0WEk&usp=sharing)
 
