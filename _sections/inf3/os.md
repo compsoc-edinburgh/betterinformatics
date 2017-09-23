@@ -1,6 +1,12 @@
 ---
 year: inf3
-title: OS
+semester: 2
+credits: 20
+title: OS - Operating Systems
+course-acronym: os
+links:
+  - name: info
+    url: http://course.inf.ed.ac.uk/os/
 ---
 
 Useful short OS tutorial - [here](http://www.tutorialspoint.com/operating_system/index.htm)
