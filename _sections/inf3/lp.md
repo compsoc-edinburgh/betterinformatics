@@ -2,7 +2,7 @@
 year: inf3
 semester: NOT AVAILABLE IN 2017-2018
 credits: 10
-title: ~~LP - Logic Programming~~
+title: LP - Logic Programming
 course-acronym: lp
 links:
   - name: info
