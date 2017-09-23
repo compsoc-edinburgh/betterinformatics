@@ -1,6 +1,12 @@
 ---
 year: inf3
-title: IVR
+semester: 1
+credits: 10
+title: IVR - Introduction to Vision and Robotics
+course-acronym: ivr
+links:
+  - name: info
+    url: http://course.inf.ed.ac.uk/ivr/
 ---
 
 [Official exam papers and solutions](https://drive.google.com/folderview?id=0B2AAOQQZ_8BxTERUV1NwN0xGZlk&usp=sharing)
