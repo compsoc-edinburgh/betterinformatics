@@ -1,7 +1,8 @@
 ---
 year: inf3
-semester: 2
-credits: NOT AVAILABLE IN 2017-2018
+semester: NOT AVAILABLE IN 2017-2018
+credits: 10
+archived: true
 title: ABS - Agent Based Systems
 course-acronym: abs
 links:
