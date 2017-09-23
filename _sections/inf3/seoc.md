@@ -1,6 +1,7 @@
 ---
 year: inf3
 title: SEOC
+archived: true
 ---
 
 [Official exam papers and solutions](https://drive.google.com/folderview?id=0B2AAOQQZ_8BxT3VZd3RtRlRBcVk&usp=sharing) (before 2010)
