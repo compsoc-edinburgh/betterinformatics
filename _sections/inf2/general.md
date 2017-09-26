@@ -15,5 +15,5 @@ links:
 
 Old content:
 
-- 13/14 Feedback Doc - [CLICK ME](https://docs.google.com/document/d/1C3BTdBvHOt7EOjy0tH07WnPNG9D13ZwpRWwfAYii02A/edit)
-- 12/13 Feedback Doc - [CLICK ME](https://docs.google.com/document/d/1aR5SK_66OL8IshdMS-FLZXKwh-r2HYJlsM-F9ZppXJE/edit#heading=h.wu8a184vmow1)
+- 13/14 [Feedback Doc](https://drive.google.com/open?id=11BuOV_oT9cd7avOQkkrY6XsyO3rmnCzB9dvCULA3ReQ)
+- 12/13 [Feedback Doc](https://drive.google.com/open?id=1aKwLOlYAz9XI3KpqWxvCnocAckfdXLxJfu-SxCoVqds)
