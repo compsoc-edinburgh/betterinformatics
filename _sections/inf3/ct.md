@@ -9,7 +9,7 @@ links:
     url: http://course.inf.ed.ac.uk/ct/
 ---
 
-**NO EXAM**
+- **NO EXAM**
 - [Coursework](https://bitbucket.org/cdubach/ct-17-18/)
 - Deadlines:
   - Part 1 (parser), Thursday 12 October 2017 at 4pm, weight = 20%
