@@ -18,3 +18,4 @@ links:
   - a choice of 2 out of 3 longer questions (25% each)
   - Pass: 40% overall, no exam/coursework hurdle
     - (do NOT forget honours hurdle mentioned at the top of the page!)
+- [J&M 3ed draft](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
