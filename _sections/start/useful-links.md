@@ -15,7 +15,7 @@ ordering: -5
 - [student portal](https://student.inf.ed.ac.uk/) (with all your coursework marks)
 - [library](http://www.ed.ac.uk/schools-departments/information-services/library-museum-gallery)
 - [feedback policy](http://www.inf.ed.ac.uk/student-services/teaching-organisation/for-taught-students/coursework-and-projects/coursework-assessment-and-feedback)
-- [List of tutorial groups](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/)
+- Allocations for: [tutorials](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/), [labs](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP082_Laboratory_Groups/)
 - [Informatics Room Booking System](https://rbs.inf.ed.ac.uk/ito)
 
 **new** coursework policy (September 2017):
