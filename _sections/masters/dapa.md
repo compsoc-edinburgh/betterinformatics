@@ -1,6 +1,7 @@
 ---
 year: masters
 title: DAPA
+course-acronym: dapa
 ---
 
 The course textbook ("Introduction to Parallel Computing") is available online on Safari, for free. You have to log in with your university credentials. [Link](http://betterinformatics.com/page.php?id=DAPA)
