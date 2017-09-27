@@ -1,5 +1,6 @@
 ---
 year: masters
+course-acronym: sp
 title: SP (Secure Programming)
 ---
 
