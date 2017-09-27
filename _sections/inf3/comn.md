@@ -9,6 +9,8 @@ links:
     url: http://course.inf.ed.ac.uk/comn/
 ---
 
+**NEW: EXAM in Dec diet**
+ 
 <u>See shared drive for some unofficial solutions.</u>
 
 This could be useful as well: [link](http://www.ee.ryerson.ca/~courses/cn8800/solutions/Ch7.pdf)
