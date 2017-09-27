@@ -1,6 +1,5 @@
 ---
 year: masters
 title: COPT
+link: /inf4#copt
 ---
-
--> 4th year
