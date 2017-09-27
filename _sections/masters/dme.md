@@ -1,6 +1,7 @@
 ---
 year: masters
 title: DME
+course-acronym: dme
 ---
 
 The discussion of papers on [http://nb.mit.edu](http://nb.mit.edu/)
