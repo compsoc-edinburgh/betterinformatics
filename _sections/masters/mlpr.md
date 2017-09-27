@@ -1,6 +1,7 @@
 ---
 year: masters
 title: MLPR
+course-acronym: mlpr
 ---
 
 <u>Exams:</u>
