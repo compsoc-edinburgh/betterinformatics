@@ -26,7 +26,7 @@ layout: default
 
 {% for section in sections %}
     {% assign size = section.path.size | minus: 9 | minus: 4 %}
-    <section id="{{ section.title | slugify }}">
+    <section id="{% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}">
         <h3>
             {% if section.link %}
                 <a href="{{ section.link }}">
