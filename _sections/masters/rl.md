@@ -1,6 +1,7 @@
 ---
 year: masters
 title: RL
+course-acronym: rl
 ---
 
 <u>Exams + Solutions:</u>
