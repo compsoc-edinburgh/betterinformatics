@@ -8,7 +8,6 @@ links:
 ---
 
 - [LaundryView](http://www.laundryview.com/lvs.php?s=264)
-- [Private files...](http://private.inf1.hgs.club)
 - [Join the Quizlet class](https://quizlet.com/join/wNgrn2wSu)
 - [Common Outside Course Options for Informatics Students (2016/17)](http://homepages.inf.ed.ac.uk/imurray2/pt/outside_courses_16-17.html)
 
