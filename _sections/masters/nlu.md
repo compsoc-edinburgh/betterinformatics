@@ -1,6 +1,7 @@
 ---
 year: masters
 title: NLU
+course-acronym: nlu
 ---
 
 [Sophia's notes](https://docs.google.com/document/d/10h5tzHSrFPT8XrPqT9u6iaxSQnblBUfj1x6hYRan9bE/edit)
