@@ -1,6 +1,5 @@
 ---
 year: masters
 title: AR
+link: /inf4#ar
 ---
-
--> 4th year
