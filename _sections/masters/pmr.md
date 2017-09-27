@@ -1,6 +1,7 @@
 ---
 year: masters
 title: PMR
+course-acronym: pmr
 ---
 
 <u>Exam + Solutions:</u>
