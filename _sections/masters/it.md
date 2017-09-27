@@ -1,5 +1,6 @@
 ---
 year: masters
+course-acronym: it
 title: IT
 ---
 
