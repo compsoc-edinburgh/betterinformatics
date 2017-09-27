@@ -1,6 +1,5 @@
 ---
 year: masters
 title: CNV
+link: /inf4#cnv
 ---
-
--> 4th year
