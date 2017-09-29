@@ -1,6 +1,6 @@
 ---
 year: inf3
-semester: NOT AVAILABLE IN 2017-2018
+semester: 1
 archived: true
 credits: 10
 title: LP - Logic Programming
