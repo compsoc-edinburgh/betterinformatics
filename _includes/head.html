@@ -10,9 +10,10 @@
     
     {% capture title %}{% if page.short-title %}{{ page.short-title }}{% else %}{{ page.title }}{% endif %}{% endcapture %}
     {% capture hasTitle %}{% if (title != "") and (title != nil) %}true{% else %}false{% endif %}{% endcapture %}
-    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:title" content="Better Informatics" />
     <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:type" content="website" />
     <!-- <meta property="og:image" content="{{ site.url }}/static/img/compsoc-preview.png" /> -->
     
     <link rel="icon" href="{{ site.baseurl }}/static/img/favicon.ico" type="image/png">
