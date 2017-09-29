@@ -10,6 +10,8 @@ links:
     url: https://piazza.com/class/j7ithxoc19423b
   - name: tutorials
     url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf2c-cs.shtml
+  - name: labs
+    url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP082_Laboratory_Groups/inf2c-cs.shtml
 ---
 - Binary number system
   - [Binary arithmetic](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Data_Representation_and_Practical_Exercise/Fundamentals_of_Data_Representation/Binary_arithmetic)
