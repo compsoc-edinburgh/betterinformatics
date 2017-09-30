@@ -2,6 +2,7 @@
 year: inf3
 semester: 1
 credits: 20
+archived: false
 title: CT - Compiling Techniques
 course-acronym: ct
 links:
