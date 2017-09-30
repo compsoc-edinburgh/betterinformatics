@@ -2,6 +2,7 @@
 year: inf3
 semester: 1
 credits: 10
+archived: false
 title: EPL - Elements of Programming Languages
 course-acronym: epl
 links:
