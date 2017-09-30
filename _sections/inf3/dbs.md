@@ -19,4 +19,4 @@ links:
 - [May 2013](https://docs.google.com/document/d/188xL9h_Gs4vBvYiTsBbDMLR66GZBKQqxz9R1Nf0rx1I/edit?usp=sharing)
 - [August 2013 resit](https://docs.google.com/document/d/1rzK29pfwig18WOvdQmh131nR2Hhqtj5tFI5Qu1hMgaI/edit?usp=sharing)
 - [May 2014](https://docs.google.com/document/d/1H_kUYAsc1XaDT6BSHiUk69SWi-ydGWjCTPgh1YzwzNA/edit?usp=sharing)
-- [August 2014 resit](https://docs.google.com/document/d/1dlCLqABcEtYYxMtrtlj7QPXJdjXMDsw_dmfXqTP3fiI/edit?usp=sharing)--->
+- [August 2014 resit](https://docs.google.com/document/d/1dlCLqABcEtYYxMtrtlj7QPXJdjXMDsw_dmfXqTP3fiI/edit?usp=sharing) --->
