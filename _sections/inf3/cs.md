@@ -11,7 +11,8 @@ links:
 ---
 
 - **EXAM in May diet**
-- [Lecture recordings]() 
+- **COURSEWORK TBA**
+- [Lecture recordings](https://echo360.org.uk/section/25caf1e5-172e-424e-8490-d6bb4a93b904/home) 
 - [August 2010 answers](http://mess.ninjalith.com/cs/exams/2010_resit)
 - [May 2010 answers](https://docs.google.com/document/d/1u0d0ybDWt_V0Of9sZMqxwg1tyuVzsdKAkrx6Wq31FK8/edit?usp=sharing)
 - This explains BLP and AB much better than the slides: [i93lbacm(org).pdf](http://profsandhu.com/journals/computer/i93lbacm(org).pdf)
