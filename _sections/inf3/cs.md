@@ -10,7 +10,7 @@ links:
     url: http://course.inf.ed.ac.uk/cs/
 ---
 
-- **EXAM in May diet**
+- **EXAM in April/May diet**
 - **COURSEWORK TBA**
 - [Lecture recordings](https://echo360.org.uk/section/25caf1e5-172e-424e-8490-d6bb4a93b904/home) 
 - [August 2010 answers](http://mess.ninjalith.com/cs/exams/2010_resit)
