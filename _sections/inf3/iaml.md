@@ -10,5 +10,6 @@ links:
     url: http://course.inf.ed.ac.uk/iaml/
 ---
 
+- **EXAM in December diet**
 - <u>See shared drive for some unofficial solutions.</u>
 - An amazing online course at Caltech by Yaser Abu-Mostafa - [link](http://work.caltech.edu/previous.html)
