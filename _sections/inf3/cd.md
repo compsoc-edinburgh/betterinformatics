@@ -10,6 +10,7 @@ links:
     url: http://course.inf.ed.ac.uk/cd/
 ---
 
+- **EXAM in December diet**
 - **[PRACTICALS](http://www.inf.ed.ac.uk/teaching/courses/cd/Practicals.html)**
   - Practical 1 due 9th Oct 2017 16:00
   - Practical 2 due 23rd Oct 2017 16:00
