@@ -2,6 +2,7 @@
 year: inf3
 semester: 1
 credits: 10
+archived: false
 title: PI - Professional Issues
 course-acronym: pi
 links:
