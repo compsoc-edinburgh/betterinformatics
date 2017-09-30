@@ -9,3 +9,5 @@ links:
   - name: info
     url: http://course.inf.ed.ac.uk/epl/
 ---
+
+- **EXAM in April/May diet**
