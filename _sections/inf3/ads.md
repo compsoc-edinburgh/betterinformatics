@@ -2,6 +2,7 @@
 year: inf3
 semester: 2
 credits: 10
+archived: false
 title: ADS - Algorithms and Data Structures
 course-acronym: ads
 links:
