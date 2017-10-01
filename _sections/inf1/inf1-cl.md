@@ -41,7 +41,7 @@ links:
   [Solution to the original 4d on the take home exam]: https://www.inf.ed.ac.uk/teaching/courses/inf1/cl/tutorials/2016/solutiontakehome4d.pdf
   [The venn diagram generator (based on the official version)]: /resources/inf1-cl/venn
   [Definitions]: https://www.inf.ed.ac.uk/teaching/courses/inf1/cl/notes/ComputationandLogicDefinitions.pdf
-  [CNF cheat sheet]: /inf1-cl/inf1-cl-cnf-cheat-sheet.png
+  [CNF cheat sheet]: /resources/inf1-cl/inf1-cl-cnf-cheat-sheet.png
   [Propositional formula to CNF converter]: http://logictools.org/
   [Visualizing satisfiability, validity & entailment]: http://blog.ezyang.com/2012/10/visualizing-satisfiability-validity-and-entailment/
   [FSM Workbench (also contains subset construction)]: http://homepages.inf.ed.ac.uk/s1020995/fsmworkbench/index.html
