@@ -7,7 +7,7 @@ ordering: -5
 - [Reading List](https://goo.gl/9NkLch)
 - [InfWeb](http://web.inf.ed.ac.uk/), [Staff and Student Rep Meetings blog](http://blog.inf.ed.ac.uk/issr/)
 - [The Marauders Map](https://map.betterinformatics.com) - map of machines
-- **printing**: [everyoneprint](http://everyoneprint.is.ed.ac.uk), [webprint](http://webprint.inf.ed.ac.uk), [manageprint](http://manageprint.is.ed.ac.uk)
+- **printing**: [everyoneprint](http://www.everyoneprint.is.ed.ac.uk), [webprint](http://webprint.inf.ed.ac.uk), [manageprint](http://www.manageprint.is.ed.ac.uk)
 - [List of all Informatics courses](http://course.inf.ed.ac.uk/)
 - [Progression Guidance](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/progression-guidance)
 - [course survey reports](http://www.inf.ed.ac.uk/admin/ITO/course-survey-reports/)
