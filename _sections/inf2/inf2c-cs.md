@@ -18,6 +18,9 @@ links:
   - [Two's complement](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Data_Representation_and_Practical_Exercise/Fundamentals_of_Data_Representation/Two%27s_complement)
   - [16bit floating point numbers](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Real_Numbers/Floating_point_numbers)
   - [Floating Point numbers explained visually](http://fabiensanglard.net/floating_point_visually_explained/)
+- MIPS
+  - ["The Bible": Appendix A - Assemblers, Linkers and SPIM](http://pages.cs.wisc.edu/~larus/HP_AppA.pdf)
+  - [MIPS Cheat sheet](https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf)
 - **Logistics**
   - Labs are drop in, and aren't compulsory.
   - Exam pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
