@@ -10,17 +10,12 @@ links:
   - name: piazza
     url: https://piazza.com/ed.ac.uk/spring2017/inf1op/
 ---
-Allocations: [tutorials], [labs]
-
-[Offline version of lab work](/static/year1/2016_labs_offline.zip)
-
-[Online book]
-
-[Past papers](https://www.inf.ed.ac.uk/teaching/exam_papers/), and their [additional files](http://www.inf.ed.ac.uk/teaching/courses/inf1/op/oldprog.html)
-
-[Automarker service](http://homepages.inf.ed.ac.uk/thospeda/Inf1OP/) - use this to mark your past papers
-
-[Lambda functions tutorial](/resources/inf1-op/lambdas.html)
+- Allocations: [tutorials], [labs]
+- [Offline version of lab work](/static/year1/2016_labs_offline.zip)
+- [Online book]
+- [Past papers](https://www.inf.ed.ac.uk/teaching/exam_papers/), and their [additional files](http://www.inf.ed.ac.uk/teaching/courses/inf1/op/oldprog.html)
+- [Automarker service](http://homepages.inf.ed.ac.uk/thospeda/Inf1OP/) - use this to mark your past papers
+- [Lambda functions tutorial](/resources/inf1-op/lambdas.html)
 
 <br>
 
