@@ -4,12 +4,13 @@ layout: default
 {% include nav.html %}
 
 <div style="text-align: center;">
-    <a href="{{ site.baseurl }}/chat" class="btn">Chat with other students</a>
-    <a href="{{ site.baseurl }}/community" class="btn">Community</a>
-    <a href="https://drive.google.com/drive/folders/0AIKEqWfeWuQQUk9PVA" class="btn"><strong>NEW</strong> Team Drive</a>
-    </br>
-<!--     <small>Resitting an exam? <a href="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">Check when your exam is</a>.</small> -->
+    <!--     <small>Resitting an exam? <a href="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">Check when your exam is</a>.</small> -->
 </div>
+
+<a href="https://drive.google.com/drive/folders/0AIKEqWfeWuQQUk9PVA" class="btn"><strong>NEW</strong> Team Drive</a>
+<a id="sem1-btn" class="btn">view semester 1</a>
+<a id="sem2-btn" class="btn">view semester 2</a>
+<a id="all-btn" class="btn">view all</a>
 
 {{ content }}
 
@@ -21,16 +22,17 @@ layout: default
 {% assign sections = sections | where: "archived", "false" %}
 {% endif %}
 
-
-
-
 {% for section in sections %}
     {% assign size = section.path.size | minus: 9 | minus: 4 %}
-
+    {% if section.semester == site.data.settings.semester or section.semester == 100 %}
+        {% capture sectionStyle %}{% endcapture %}
+    {% else %}
+        {% capture sectionStyle %}style="display: none;"{% endcapture %}
+    {% endif %}
     {% capture sectionID %}
         {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
     {% endcapture %}
-    <section id="{{ sectionID | strip }}">
+    <section id="{{ sectionID | strip }}" data-semester="{{ section.semester }}" {{ sectionStyle }}>
         <h3>
             {% if section.link %}
                 <a href="{{ section.link }}">
@@ -38,7 +40,7 @@ layout: default
                 <a href="https://www.inf.ed.ac.uk/teaching/courses/{{ section.course-acronym }}/">
             {% endif %}
             {{ section.title }}
-            {% if section.link or (section.course-acronym != "") %}
+            {% if section.link or section.course-acronym != "" %}
                 </a>
             {% endif %}
 

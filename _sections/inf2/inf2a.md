@@ -1,6 +1,6 @@
 ---
 year: inf2
-semester: 2
+semester: 1
 title: INF2A - Processing Formal and Natural Languages
 course-acronym: inf2a
 links:
