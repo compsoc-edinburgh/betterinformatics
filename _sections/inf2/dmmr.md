@@ -13,6 +13,9 @@ links:
 - **It's an open book exam!** Book: Discrete Mathematics and its Applications, by Kenneth H. Rosen
 - **new**: coursework submissions are done on DICE machines using the inbuilt submit system
 - [Trev tutor on DMMR](https://trevtutor.com/discretemath/discretemath1/) and [part 2](https://trevtutor.com/discretemath/discrete-math-2/) - similar to Khan academy
+- Proofs:
+  - [Worksheet: Proofs involving functions](https://faculty.math.illinois.edu/~hildebr/347.summer14/functions-problems.pdf) - with sample proof + proving injectivity/surjectivity
+
 - Exam:
   - 85% in the exam, 15% across the 9 assessments
   - Pass requirement: 40% overall
