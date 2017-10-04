@@ -16,6 +16,4 @@ links:
 - Proofs:
   - [Worksheet: Proofs involving functions](https://faculty.math.illinois.edu/~hildebr/347.summer14/functions-problems.pdf) - with sample proof + proving injectivity/surjectivity
 
-- Exam:
-  - 85% in the exam, 15% across the 9 assessments
-  - Pass requirement: 40% overall
+Course weight: 85% for the exam, 15% across the 9 assessments. Pass requirement: 40% overall
