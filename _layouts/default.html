@@ -37,16 +37,26 @@
         {% if page.layout == "frontpage" %}
             <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
             <script type="text/javascript">
+                var currentSem = {{ site.data.settings.semester }}
                 $(() => {
                     $("#sem1-btn,#sem2-btn,#all-btn").click(btn => {
-                        // First show everything
-                        $("[data-semester]").show();
-
                         var sem = btn.target.id.slice(3, 4);
-                        if (sem == "1") {
-                            $("[data-semester='2']").hide();
-                        } else if (sem == "2") {
-                            $("[data-semester='1']").hide();
+                        if (sem === "1") {
+                            if (currentSem === 1) return;
+                            currentSem = 1;
+                        } else if (sem === "2") {
+                            if (currentSem === 2) return;
+                            currentSem = 2;
+                        } else {
+                            currentSem = 0;
+                        }
+                        // First show everything
+                        $("[data-semester]").animate({opacity: 'show', height: 'show'}, 'fast');
+
+                        if (currentSem === 1) {
+                            $("[data-semester='2']").animate({opacity: 'hide', height: 'hide'}, 'fast');
+                        } else if (currentSem === 2) {
+                            $("[data-semester='1']").animate({opacity: 'hide', height: 'hide'}, 'fast');
                         }
                     });
                 })
