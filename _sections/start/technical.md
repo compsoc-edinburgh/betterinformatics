@@ -4,7 +4,7 @@ title: Technical
 ---
 
 * [Set your initial DICE password](http://pp.inf.ed.ac.uk/)
-* Web printing interfaces: [EveryonePrint](https://www.everyoneprint.is.ed.ac.uk), [WebPrint](https://webprint.inf.ed.ac.uk)
+- **Web printing interfaces**: [EveryonePrint](http://www.everyoneprint.is.ed.ac.uk), [WebPrint](http://webprint.inf.ed.ac.uk), [ManagePrint](http://www.manageprint.is.ed.ac.uk)
 * [Print balance](https://www.manageprint.is.ed.ac.uk/)
 * [Access DICE files in a web browser](https://ifile.inf.ed.ac.uk/)
 * [Accessing DICE environment](http://computing.help.inf.ed.ac.uk/nx/)
