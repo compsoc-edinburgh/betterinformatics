@@ -9,7 +9,7 @@ links:
   - name: info
     url: http://course.inf.ed.ac.uk/inf2a/
 ---
-
+- Useful regex notes can be found here: [inf1-cl](/inf1#inf1-cl)
 - Tutorials start in week 3 (beginning Monday 2 Oct)
 - Assignments (always due 4pm):
   - Assignment 1: given 17th Oct, due 31st Oct
