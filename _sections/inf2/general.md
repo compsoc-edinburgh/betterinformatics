@@ -1,7 +1,7 @@
 ---
 year: inf2
 title: General
-ordering: -5
+pinned: true
 links:
   - name: guide
     url: https://www.inf.ed.ac.uk/teaching/years/ug2/inf2Guide.html

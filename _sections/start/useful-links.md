@@ -1,7 +1,7 @@
 ---
 year: start
 title: Useful Links
-ordering: -5
+pinned: true
 ---
 
 - [Reading List](https://goo.gl/9NkLch)

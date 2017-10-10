@@ -1,7 +1,7 @@
 ---
 year: inf3
 title: General
-ordering: -5
+pinned: true
 ---
 
 - [Year 3 Google Drive](https://drive.google.com/drive/folders/0B2AAOQQZ_8BxODhFamlyZzhTV00)

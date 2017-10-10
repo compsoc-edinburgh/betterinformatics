@@ -1,7 +1,7 @@
 ---
 year: masters
 title: General
-ordering: -5
+pinned: true
 ---
 
 - [Year 5 Google Drive](https://drive.google.com/drive/folders/0B2AAOQQZ_8BxaHBIb1lCYm9SOFE)

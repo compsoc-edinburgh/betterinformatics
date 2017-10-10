@@ -1,0 +1,33 @@
+
+{% for section in sections %}
+{% assign size = section.path.size | minus: 9 | minus: 4 %}
+{% if section.semester == site.data.settings.semester or section.semester == 100 %}
+    {% capture sectionStyle %}{% endcapture %}
+{% else %}
+    {% capture sectionStyle %}style="display: none;"{% endcapture %}
+{% endif %}
+{% capture sectionID %}
+    {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
+{% endcapture %}
+<section id="{{ sectionID | strip }}" data-semester="{{ section.semester }}" {{ sectionStyle }}>
+    <h3>
+        {% if section.link %}
+            <a href="{{ section.link }}">
+        {% elsif section.course-acronym != "" %}
+            <a href="https://www.inf.ed.ac.uk/teaching/courses/{{ section.course-acronym }}/">
+        {% endif %}
+        {{ section.title }}
+        {% if section.link or section.course-acronym != "" %}
+            </a>
+        {% endif %}
+
+        {% if section.links %}<small>
+            {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
+        </small>{% endif %}
+
+        <a class="link-icon" href="#{{ sectionID | strip }}"><i class="fa fa-link" aria-hidden="true"></i></a>
+        <a class="edit-pencil" href="https://github.com/{{ site.data.repo }}/blob/master/{{ section.path }}"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+    </h3>
+    {{ section.content | markdownify }}
+</section>
+{% endfor %}

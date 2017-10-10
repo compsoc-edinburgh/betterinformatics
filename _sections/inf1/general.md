@@ -1,7 +1,7 @@
 ---
 year: inf1
 title: General
-ordering: -5
+pinned: true
 links:
   - name: handbook
     url: http://web.inf.ed.ac.uk/infweb/student-services/ito/students/year1
