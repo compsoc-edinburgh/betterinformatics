@@ -30,12 +30,12 @@ links:
 -   [Propositional formula to CNF converter]
 -   [Visualizing satisfiability, validity & entailment]
 -   **Finite State Machines**
-  -   [FSM Workbench (also contains subset construction)]
-  -   [simulator], [regex/automaton converter]
+    -   [FSM Workbench (also contains subset construction)]
+    -   [simulator], [regex/automaton converter]
 -   **Regular Expressions**
-  -   [regex/automaton converter]
-  -   [Learn Regex The Easy Way]
-  -   [Learn about regular expressions (has a great cheatsheet)]
+    -   [regex/automaton converter]
+    -   [Learn Regex The Easy Way]
+    -   [Learn about regular expressions (has a great cheatsheet)]
 
   [Understanding Resolution]: https://www.inf.ed.ac.uk/teaching/courses/inf1/cl/notes/resolution/resolution.pdf
   [Solution to the original 4d on the take home exam]: https://www.inf.ed.ac.uk/teaching/courses/inf1/cl/tutorials/2016/solutiontakehome4d.pdf
