@@ -10,4 +10,4 @@ links:
 - [LaundryView](http://www.laundryview.com/lvs.php?s=264)
 - [Common Outside Course Options for Informatics Students (2016/17)](http://homepages.inf.ed.ac.uk/imurray2/pt/outside_courses_16-17.html)
 - mailing list archives - [ug1-students](https://lists.inf.ed.ac.uk/mailman/private/ug1-students/)
-- if you have any learning disability go to [disability service](http://www.ed.ac.uk/student-disability-service/about), you have to arrange few weeks before the exams, it takes few hours and can help you significantly during the exams. 
+- if you have a learning disability go to the [disability service](http://www.ed.ac.uk/student-disability-service/about)! make sure you go there long before the exams, it only takes few hours and can help you quite a bit.
