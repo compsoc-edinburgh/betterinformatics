@@ -3,6 +3,7 @@ year: inf2
 semester: 1
 title: INF2A - Processing Formal and Natural Languages
 course-acronym: inf2a
+permalink: /inf2a
 links:
   - name: schedule
     url: https://www.inf.ed.ac.uk/teaching/courses/inf2a/schedule.html
