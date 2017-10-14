@@ -21,6 +21,7 @@ links:
 - MIPS
   - ["The Bible": Appendix A - Assemblers, Linkers and SPIM](http://pages.cs.wisc.edu/~larus/HP_AppA.pdf)
   - [MIPS Cheat sheet](https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf)
+  - [Simple engeneer explaining some dank arrays](https://www.youtube.com/watch?v=ls4QpZD2Cow)
 - **Logistics**
   - Labs are drop in, and aren't compulsory.
   - Exam pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
