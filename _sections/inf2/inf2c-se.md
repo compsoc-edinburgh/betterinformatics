@@ -10,3 +10,4 @@ links:
 - No book is _essential_ for this course.
 - Exam, **closed book**:
   - Pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
+- [Software Requirements Document for a Curricular Information System](http://web.mit.edu/ssit/cis/CISRequirements.html)
