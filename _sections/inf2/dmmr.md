@@ -15,5 +15,6 @@ links:
 - [Trev tutor on DMMR](https://trevtutor.com/discretemath/discretemath1/) and [part 2](https://trevtutor.com/discretemath/discrete-math-2/) - similar to Khan academy
 - Proofs:
   - [Worksheet: Proofs involving functions](https://faculty.math.illinois.edu/~hildebr/347.summer14/functions-problems.pdf) - with sample proof + proving injectivity/surjectivity
+- [2016 worksheet page](https://web.archive.org/web/20160913062041/http://www.inf.ed.ac.uk:80/teaching/courses/dmmr/Tutorial-sheets/)
 
 Course weight: 85% for the exam, 15% across the 9 assessments. Pass requirement: 40% overall
