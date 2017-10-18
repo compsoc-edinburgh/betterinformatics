@@ -11,3 +11,4 @@ links:
 - Exam, **closed book**:
   - Pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
 - [Software Requirements Document for a Curricular Information System](http://web.mit.edu/ssit/cis/CISRequirements.html)
+- [Use Case Scenario/Diagram Example](https://www.lucidchart.com/pages/use-case-scenario-example-and-template-UML)
