@@ -4,7 +4,7 @@ title: Technical
 ---
 
 - [Set your initial DICE password](http://pp.inf.ed.ac.uk/)
-- [Getting audio to work on DICE](/resources/audio.html)
+- [DICE Troubleshooting](/resources/audio.html) - audio not working? window manager crashing?
 - **Web printing interfaces**: [EveryonePrint](http://www.everyoneprint.is.ed.ac.uk), [WebPrint](http://webprint.inf.ed.ac.uk), [ManagePrint](http://www.manageprint.is.ed.ac.uk)
 - [Access DICE files in a web browser](https://ifile.inf.ed.ac.uk/)
 - [Accessing DICE environment](http://computing.help.inf.ed.ac.uk/nx/)
