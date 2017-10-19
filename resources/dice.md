@@ -1,7 +1,9 @@
 ---
-title: Getting audio to work on DICE
+title: Troubleshooting DICE
 layout: page
 ---
+
+### Getting audio to work on DICE
 
 Sometimes audio doesn't always work on DICE. Here's a tutorial to get it working:
 
