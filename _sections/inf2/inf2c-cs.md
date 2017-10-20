@@ -24,7 +24,7 @@ links:
   - [MIPS Cheat sheet](https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf)
   - [very nice blogposts about MIPS](http://davidlovesprogramming.blogspot.co.uk/search/label/Mips)
 - MIPS and Arrays:
-  - [Video explanation of arrays](https://www.youtube.com/watch?v=ls4QpZD2Cow) (by Simple Engineer)
+  - [Video explanation of arrays](https://www.youtube.com/watch?v=ls4QpZD2Cow) (by The Simple Engineer)
   - [Pointer arithmetic](https://courses.washington.edu/css342/zander/css332/pointerarith.html)
 - **Logistics**
   - Labs are drop in, and aren't compulsory.
