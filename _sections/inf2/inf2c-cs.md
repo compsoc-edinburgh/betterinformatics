@@ -24,6 +24,7 @@ links:
   - [MIPS Cheat sheet](https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf)
   - [Simple engineer explaining arrays](https://www.youtube.com/watch?v=ls4QpZD2Cow)
   - [very nice blogposts about MIPS](http://davidlovesprogramming.blogspot.co.uk/search/label/Mips)
+  - [Pointer arithmetic](https://courses.washington.edu/css342/zander/css332/pointerarith.html)
 - **Logistics**
   - Labs are drop in, and aren't compulsory.
   - Exam pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
