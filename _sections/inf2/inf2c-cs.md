@@ -22,8 +22,9 @@ links:
   - ["The Bible": Appendix A - Assemblers, Linkers and SPIM](http://pages.cs.wisc.edu/~larus/HP_AppA.pdf)
   - [MIPS Assembly](https://en.wikibooks.org/wiki/MIPS_Assembly) (wikibook)
   - [MIPS Cheat sheet](https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf)
-  - [Simple engineer explaining arrays](https://www.youtube.com/watch?v=ls4QpZD2Cow)
   - [very nice blogposts about MIPS](http://davidlovesprogramming.blogspot.co.uk/search/label/Mips)
+- MIPS and Arrays:
+  - [Video explanation of arrays](https://www.youtube.com/watch?v=ls4QpZD2Cow) (by Simple Engineer)
   - [Pointer arithmetic](https://courses.washington.edu/css342/zander/css332/pointerarith.html)
 - **Logistics**
   - Labs are drop in, and aren't compulsory.
