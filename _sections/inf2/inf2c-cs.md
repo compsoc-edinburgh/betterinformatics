@@ -23,6 +23,8 @@ links:
   - [MIPS Assembly](https://en.wikibooks.org/wiki/MIPS_Assembly) (wikibook)
   - [MIPS Cheat sheet](https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf)
   - [very nice blogposts about MIPS](http://davidlovesprogramming.blogspot.co.uk/search/label/Mips)
+  - [MIPS syscalls in MARS reference](http://courses.missouristate.edu/kenvollmar/mars/help/syscallhelp.html)
+  - [MIPS instruction reference](http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html)
 - MIPS and Arrays:
   - [Video explanation of arrays](https://www.youtube.com/watch?v=ls4QpZD2Cow) (by The Simple Engineer)
   - [Pointer arithmetic](https://courses.washington.edu/css342/zander/css332/pointerarith.html)
