@@ -28,6 +28,8 @@ links:
 - MIPS and Arrays:
   - [Video explanation of arrays](https://www.youtube.com/watch?v=ls4QpZD2Cow) (by The Simple Engineer)
   - [Pointer arithmetic](https://courses.washington.edu/css342/zander/css332/pointerarith.html)
+- MIPS and The Stack:
+  - [Understanding the Stack](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html)
 - **Logistics**
   - Labs are drop in, and aren't compulsory.
   - Exam pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
