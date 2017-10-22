@@ -1,6 +1,8 @@
 ---
 year: inf4
 title: MASWS (SWS as of 2015 Exam)
+course-acronym: sws
+archived: true
 ---
 
 [May 2010](https://docs.google.com/document/d/1xhLj4-ZENX4gJCFNJdI2ixj4jp5kumN4P3JJOZIH2mM/edit#heading=h.n5kvjvfvoscf)

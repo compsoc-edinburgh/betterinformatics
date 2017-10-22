@@ -1,6 +1,9 @@
 ---
 year: inf4
 title: DS
+course-acronym: ds
+archived: false
+semester: 1
 ---
 
 [May 2014](https://docs.google.com/document/d/1xBJ7DRw832LN_PvdfqMk7KU5KN3x2TcGnyKt0cXTPsU/edit?usp=sharing) (in progress)

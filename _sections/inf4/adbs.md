@@ -1,6 +1,9 @@
 ---
 year: inf4
 title: ADBS
+course-acronym: adbs
+archived: false
+semester: 2
 ---
 
 [Official past exams and solutions](https://www.dropbox.com/sh/yvmhwjcw65a8inw/bm3mMNStEK) by Samuel G. (up to 2010)
