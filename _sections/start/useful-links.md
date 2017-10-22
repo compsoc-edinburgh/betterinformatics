@@ -23,6 +23,6 @@ pinned: true
 For courseworks issued more than 8 days in advance:
 
 - 5% will be deducted per calendar day, up to 7 days (unless you have a reason for extension)
-- you need to request an extension via the ITO contact form **IN ADVANCE** (unless possible)
+- you need to request an extension via the ITO contact form **IN ADVANCE** (unless impossible)
 - [official policy](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/coursework-projects/late-coursework-extension-requests)
     - there are **COURSE EXCEPTIONS** to the new policy, listed at the bottom of the linked policy page... no coursework will be accepted past the deadline unless an extension is approved.
