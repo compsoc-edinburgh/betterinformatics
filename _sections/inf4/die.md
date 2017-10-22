@@ -1,6 +1,8 @@
 ---
 year: inf4
 title: DIE
+course-acronym: die
+archived: true
 ---
 
 [April 2010](https://docs.google.com/document/d/1SmITSKmergIbr5QPqslkwRXC_CB1xFeKpb76kkBpcAA/edit?usp=sharing)

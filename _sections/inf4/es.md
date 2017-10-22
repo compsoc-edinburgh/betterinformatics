@@ -1,6 +1,8 @@
 ---
 year: inf4
 title: ES
+course-acronym: es
+archived: true
 ---
 
 [2014 Revision Guide](https://drive.google.com/file/d/0B2AAOQQZ_8BxS1lUS2Z0Q3AwN3M/edit?usp=sharing)

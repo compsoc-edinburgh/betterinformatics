@@ -1,6 +1,9 @@
 ---
 year: inf4
 title: CAV
+course-acronym: cav
+archived: false
+semester: 2
 ---
 
 [May 2014](https://docs.google.com/document/d/1u2V64EPdtMs3fm8OscvrbaTnEG9Mp5bMKxrvo9wyW20/edit?usp=sharing)

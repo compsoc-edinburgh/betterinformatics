@@ -1,6 +1,9 @@
 ---
 year: inf4
 title: RC
+course-acronym: rc
+archived: false
+semester: 2
 ---
 
 Some [notes on content](https://docs.google.com/document/d/14tTVEBfymC3wgql1dlYfnL5W4q2AftrjhT38-gw40TU/edit) <-- formulas, algorithms, some proofs

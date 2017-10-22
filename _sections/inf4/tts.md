@@ -1,6 +1,7 @@
 ---
 year: inf4
 title: TTS
+archived: true
 ---
 
 Past Papers on google docs, solutions are a work in progress, please feel free to edit

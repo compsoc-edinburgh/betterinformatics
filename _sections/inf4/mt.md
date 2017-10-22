@@ -1,6 +1,9 @@
 ---
 year: inf4
 title: MT
+course-acronym: mt
+archived: false
+semester: 2
 ---
 
 [May 2013 Please contribute :)](https://docs.google.com/document/d/1NG3WacXV3TSmts-uj1CjDhTmDYTmnIxLEHRr3VoSykg/edit?usp=sharing)

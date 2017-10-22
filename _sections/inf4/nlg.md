@@ -1,6 +1,8 @@
 ---
 year: inf4
 title: NLG
+course-acronym: nlg
+archived: true
 ---
 
 [A Beginners Guide to OpenCCG](http://homepages.inf.ed.ac.uk/mmcconvi/openccg/)

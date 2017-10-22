@@ -1,6 +1,9 @@
 ---
 year: inf4
 title: HCI
+course-acronym: hci
+archived: false
+semester: 1
 ---
 
 [Dec 2013](https://docs.google.com/document/d/1XyHHSeCyn7yBnSCEx7vy3uFkcZ30GdF3_zFcQTnQUa0/edit?usp=sharing)
