@@ -30,6 +30,7 @@ links:
   - [Pointer arithmetic](https://courses.washington.edu/css342/zander/css332/pointerarith.html)
 - MIPS and The Stack:
   - [Understanding the Stack](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html)
+- Coursework 1 (2017/18) - [Part B unit test](https://github.com/bnelo12/Pig-Latin-Unit-Tester) (pig latin)
 - **Logistics**
   - Labs are drop in, and aren't compulsory.
   - Exam pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
