@@ -21,7 +21,7 @@ exams:
     code: INFR08008
   - name: INF2C-SE
     location: St. Leonards Land (see "View")
-    date: Monday 18th, 2:30 - 15:30
+    date: Monday 18th, 2:30 - 3:30
     time: 1513607400
     code: INFR08019
 ---
