@@ -17,4 +17,5 @@ links:
   - [Worksheet: Proofs involving functions](https://faculty.math.illinois.edu/~hildebr/347.summer14/functions-problems.pdf) - with sample proof + proving injectivity/surjectivity
 - [2016 worksheet page](https://web.archive.org/web/20160913062041/http://www.inf.ed.ac.uk:80/teaching/courses/dmmr/Tutorial-sheets/)
 - [Congrugence modulo on KA](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/congruence-modulo)
+
 Course weight: 85% for the exam, 15% across the 9 assessments. Pass requirement: 40% overall
