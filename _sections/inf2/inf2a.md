@@ -11,9 +11,7 @@ links:
 ---
 - Useful regex notes can be found here: [inf1-cl](/inf1#inf1-cl)
 - Tutorials start in week 3 (beginning Monday 2 Oct)
-- Assignments (always due 4pm):
-  - Assignment 1: given 17th Oct, due 31st Oct
-  - Assignment 2: given 17th Nov, due 1st Dec
+- Assignment 2: given 17th Nov, due 1st Dec
 
 - Exam: it's a closed book **written** 2hr exam:
   - 5 compulsory short questions (10% each)
