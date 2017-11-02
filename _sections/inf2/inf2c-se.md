@@ -10,6 +10,7 @@ links:
 - No book is _essential_ for this course.
 - Exam, **closed book**:
   - Pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
+- UML Basics: [introduction](https://www.ibm.com/developerworks/rational/library/769.html?ca=drs-), [class diagram](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html?ca=drs-), [sequence diagram](https://www.ibm.com/developerworks/rational/library/3101.html?ca=drs-)
 - [Software Requirements Document for a Curricular Information System](http://web.mit.edu/ssit/cis/CISRequirements.html)
 - [Use Case Scenario/Diagram Example](https://www.lucidchart.com/pages/use-case-scenario-example-and-template-UML)
 - 2016's coursework content, "a restaurant order-management system":
