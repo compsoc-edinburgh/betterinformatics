@@ -8,8 +8,8 @@ links:
     url: http://www.drps.ed.ac.uk/17-18/dpt/cxmath08057.htm
 ---
 
--   **Tip from a (current) 3rd year**: the maths exams are also open
-    book, so I'd recommend taking in past papers with solutions as they
+-   **Tip from a (current) 4th year**: the maths exams are open
+    book, so take in past papers with solutions as they
     reuse questions a lot. They might not necessarily be the same, but
     they'll likely be close enough to give you a hand.
 -   [No bullshit concept maps](https://minireference.com/static/tutorials/conceptmap.pdf) good for seeing the big picture in the course
