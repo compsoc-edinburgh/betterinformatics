@@ -31,6 +31,10 @@ links:
 - MIPS and The Stack:
   - [Understanding the Stack](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html)
 - Coursework 1 (2017/18) - [Task B unit test](https://github.com/bnelo12/Pig-Latin-Unit-Tester) (pig latin)
+
+- Logic Design:
+  - [Excelent tutorial on sequential logic](http://www.electronics-tutorials.ws/sequential/seq_1.html)
+
 - **Logistics**
   - Labs are drop in, and aren't compulsory.
   - Exam pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
