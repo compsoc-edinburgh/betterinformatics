@@ -17,6 +17,8 @@ links:
   - a choice of 2 out of 3 longer questions (25% each)
   - Pass: 40% overall, no exam/coursework hurdle
     - (do NOT forget honours hurdle mentioned at the top of the page!)
+    
+- [Automata tutorial - covering most of the lectures](https://www.tutorialspoint.com/automata_theory/)
 - [EBNF to First/Follow Set Generator](http://hackingoff.com/compilers/predict-first-follow-set)
 - [J&M 3ed draft](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
 - [Pump your lemma proof template](https://courses.engr.illinois.edu/cs373/sp2009/Handouts/pumping-lemma/pumping-lemma.html)
