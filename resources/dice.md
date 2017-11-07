@@ -21,11 +21,11 @@ Sometimes audio doesn't always work on DICE. Here's a tutorial to get it working
 
 WM = window manager
 
-1. Use `Super+F2` to access the terminal (super = windows key)
+1. Use `Ctrl+Alt+F2` to access the terminal
 2. Login on the terminal
 3. Check if it says something like "quota exceeded". If so, you now know why your WM is not loading.
 4. Delete miniconda or anaconda or anything else that may be eating your storage space.
 5. Use `freespace` to confirm you have free storage space.
 6. Use `Ctrl+D` to log out of the terminal.
-7. Use `Super+F1` to return to the login panel.
+7. Use `Ctrl+Alt+F1` to return to the login panel.
 8. Try logging in now.
