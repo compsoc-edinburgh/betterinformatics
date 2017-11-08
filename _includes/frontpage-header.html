@@ -20,6 +20,14 @@
 
     <div id="user" style="display:none;">
         <a href="/mine" class="btn"><span id="user-name"></span>'s courses</a>
-        <a href="https://map.betterinformatics.com/logout?next=https://betterinformatics.com{{ page.url }}" class="btn">Logout</a>
+
+        {% if page.login_required %}
+            {% capture logout_url %}/{% endcapture %}
+        {% else %}
+            {% capture logout_url %}{{ page.url }}{% endcapture %}
+        {% endif %}
+        <a
+            href="https://map.betterinformatics.com/logout?next=https://betterinformatics.com{{ logout_url }}"
+            class="btn">Logout</a>
     </div>
 </div>
