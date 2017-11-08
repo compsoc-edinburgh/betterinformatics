@@ -34,23 +34,9 @@
             s.parentNode.insertBefore(g,s)}(document,'script'));
         </script>
 
-        {% if page.layout == "frontpage" %}
+        {% if page.layout == "frontpage" or page.url == "/mine.html" %}
             <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-            <script type="text/javascript">
-                $(() => {
-                    $("#sem1-btn,#sem2-btn,#all-btn").click(btn => {
-                        // First show everything
-                        $("[data-semester]").show();
-
-                        var sem = btn.target.id.slice(3, 4);
-                        if (sem == "1") {
-                            $("[data-semester='2']").hide();
-                        } else if (sem == "2") {
-                            $("[data-semester='1']").hide();
-                        }
-                    });
-                })
-            </script>
+            <script src="/static/js/main.js"></script>
         {% endif %}
     </body>
 </html>

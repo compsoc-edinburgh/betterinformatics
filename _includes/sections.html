@@ -9,7 +9,7 @@
 {% capture sectionID %}
     {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
 {% endcapture %}
-<section id="{{ sectionID | strip }}" data-semester="{{ section.semester }}" {{ sectionStyle }}>
+<section id="{{ sectionID | strip }}" data-semester="{{ section.semester }}" data-pinned="{{ section.pinned }}" data-year="{{ section.year }}" data-course="{{ section.course-acronym }}" {{ sectionStyle }}>
     <h3>
         {% if section.link %}
             <a href="{{ section.link }}">
