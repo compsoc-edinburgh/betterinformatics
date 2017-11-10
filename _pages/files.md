@@ -1,7 +1,9 @@
 ---
 ---
 
-<h1><a href="https://drive.google.com/drive/folders/0AIKEqWfeWuQQUk9PVA">Here is the <strong>new</strong> team drive</a></h1>
+### Please don't forget to transfer ownership of Drive files to <strong>betterinformatics@gmail.com</strong>.
+
+Files are moving to the new Team Drives folder. **Do not update the old folders as they will be lost.**
 
 <!--
 ### Adding files
@@ -19,4 +21,3 @@ Whenever you want to add something to the shared Google Drive folders, do the fo
 -->
 
 Please, <u>do not convert PDFs to a Google Doc</u>, leave them as PDF files.
-<br>

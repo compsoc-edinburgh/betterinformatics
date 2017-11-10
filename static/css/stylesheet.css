@@ -281,10 +281,6 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
-#bi-interactive {
-    text-align: center;
-}
-
 @media screen and (max-width: 970px) {
   .hide-on-small {
     visibility: hidden;
@@ -304,11 +300,6 @@ h1, h2, h3, h4, h5, h6 {
     margin: 10px auto 5px 20px;
     width: 28%;
     display: none;
-  }
-
-  #bi-interactive {
-    float: right;
-    text-align: initial;
   }
 }
 
@@ -420,7 +411,7 @@ h1, h2, h3, h4, h5, h6 {
 .btn {
     display: inline-block;
     border: 1px solid #ddd;
-    padding: 5px 10px;
+    padding: 10px 15px;
     font-size: 1rem;
     color: #777;
     text-align: center;
