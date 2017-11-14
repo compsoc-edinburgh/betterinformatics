@@ -24,3 +24,4 @@ links:
 - [Pump your lemma proof template](https://courses.engr.illinois.edu/cs373/sp2009/Handouts/pumping-lemma/pumping-lemma.html)
 - 2017/18 coursework 1 - [Microhaskell JUnit Tests](https://github.com/bnelo12/MH-JUnit-Tests)
 - [Order of Complexity](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Problem_Solving/Big_O_Notation#Order_of_Complexity)
+- [Viterbi Algorithm](https://www.youtube.com/watch?v=6JVqutwtzmo)
