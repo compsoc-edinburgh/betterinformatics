@@ -10,5 +10,3 @@ links:
 ---
 
 **Honours hurdle**: Entry to Honours requires passes at 50% or above at the first attempt in at least 40 credit points' worth of the Informatics 2 courses listed together with passes in all remaining compulsory courses, or the permission of Head of School.
-
-**INF2 Feedback**: The Google Form for feeding back to the INF2 Year Reps is [here](https://goo.gl/forms/QReSxj5oNS6Zrzhb2)!
