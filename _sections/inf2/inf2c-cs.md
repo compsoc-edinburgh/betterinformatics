@@ -36,6 +36,11 @@ links:
 - Logic Design:
   - [Excellent tutorial on sequential logic](http://www.electronics-tutorials.ws/sequential/seq_1.html)
 
+- Caches:
+  - [Colorful slides on caches](https://courses.cs.washington.edu/courses/cse378/09wi/lectures/lec15.pdf)
+  - [Implementing LRU - Georgia Tech](https://www.youtube.com/watch?v=bq6N7Ym81iI) 
+
+
 - **Logistics**
   - Labs are drop in, and aren't compulsory.
   - Exam pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
