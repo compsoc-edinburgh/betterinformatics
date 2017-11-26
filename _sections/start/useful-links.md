@@ -15,14 +15,6 @@ pinned: true
 - [ITO contact form](https://www.inf.ed.ac.uk/cgi-bin/iss/contact.cgi)
 - [Student portal](https://student.inf.ed.ac.uk/) (with all your coursework marks)
 - [Library](http://www.ed.ac.uk/schools-departments/information-services/library-museum-gallery)
-- [Feedback policy](http://www.inf.ed.ac.uk/student-services/teaching-organisation/for-taught-students/coursework-and-projects/coursework-assessment-and-feedback)
+- **Policies**: [feedback](http://www.inf.ed.ac.uk/student-services/teaching-organisation/for-taught-students/coursework-and-projects/coursework-assessment-and-feedback), [coursework _(new!)_](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/coursework-projects/late-coursework-extension-requests)
 - Allocations for: [tutorials](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/), [labs](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP082_Laboratory_Groups/)
 
-**new** coursework policy (September 2017):
-
-For courseworks issued more than 8 days in advance:
-
-- 5% will be deducted per calendar day, up to 7 days (unless you have a reason for extension)
-- you need to request an extension via the ITO contact form **IN ADVANCE** (unless impossible)
-- [official policy](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/coursework-projects/late-coursework-extension-requests)
-    - there are **COURSE EXCEPTIONS** to the new policy, listed at the bottom of the linked policy page... no coursework will be accepted past the deadline unless an extension is approved.
