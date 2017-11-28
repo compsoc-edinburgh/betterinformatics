@@ -26,3 +26,4 @@ links:
 - [Order of Complexity](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Problem_Solving/Big_O_Notation#Order_of_Complexity)
 - [Viterbi Algorithm](https://www.youtube.com/watch?v=6JVqutwtzmo)
 - [What is a Context Free Grammar?](http://cs.union.edu/~striegnk/learn-prolog-now/html/node55.html)
+- [Part of Speech tags](https://cs.nyu.edu/grishman/jet/guide/PennPOS.html)
