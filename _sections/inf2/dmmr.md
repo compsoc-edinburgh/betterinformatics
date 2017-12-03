@@ -6,6 +6,8 @@ course-acronym: dmmr
 links:
   - name: info
     url: http://course.inf.ed.ac.uk/dmmr/
+  - name: drive
+    url: /drive?next=0B4SUSkTXjliXbWN0YUF5cEx1ZFE
 ---
 
 85% **non-calculator** open book exam, 15% across 9 assessments. Pass: 40% overall.
