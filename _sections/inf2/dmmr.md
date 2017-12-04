@@ -18,8 +18,10 @@ links:
 - [Trev tutor on DMMR](https://trevtutor.com/discretemath/discretemath1/) and [part 2](https://trevtutor.com/discretemath/discrete-math-2/) - similar to Khan academy
 - **Khan Academy**:
   - [Surjective and Injective functions](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/surjective-onto-and-injective-one-to-one-functions)
+  - [Proof by Induction](https://www.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-induction/v/proof-by-induction)
 - Proofs:
   - [Worksheet: Proofs involving functions](https://faculty.math.illinois.edu/~hildebr/347.summer14/functions-problems.pdf) - with sample proof + proving injectivity/surjectivity
+  - by Induction: solutions to an MEI question (todo)
 - [2016 worksheet page](https://web.archive.org/web/20160913062041/http://www.inf.ed.ac.uk:80/teaching/courses/dmmr/Tutorial-sheets/)
 - [Congrugence modulo on KA](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/congruence-modulo)
 - [Order of Complexity](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Problem_Solving/Big_O_Notation#Order_of_Complexity)
