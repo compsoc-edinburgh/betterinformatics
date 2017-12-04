@@ -15,6 +15,8 @@ links:
 - Useful notes: [logic-1](/inf1#logic-1), [inf1-cl](/inf1#inf1-cl)
 - [List of topics per exam](https://gist.github.com/neanias/058ac1d64386f240bfc38922e764e8a6)
 - [Trev tutor on DMMR](https://trevtutor.com/discretemath/discretemath1/) and [part 2](https://trevtutor.com/discretemath/discrete-math-2/) - similar to Khan academy
+- **Khan Academy**:
+  - [Surjective and Injective functions](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/surjective-onto-and-injective-one-to-one-functions)
 - Proofs:
   - [Worksheet: Proofs involving functions](https://faculty.math.illinois.edu/~hildebr/347.summer14/functions-problems.pdf) - with sample proof + proving injectivity/surjectivity
 - [2016 worksheet page](https://web.archive.org/web/20160913062041/http://www.inf.ed.ac.uk:80/teaching/courses/dmmr/Tutorial-sheets/)
