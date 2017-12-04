@@ -13,6 +13,7 @@ links:
 85% **non-calculator** open book exam, 15% across 9 assessments. Pass: 40% overall.
 
 - Useful notes: [logic-1](/inf1#logic-1), [inf1-cl](/inf1#inf1-cl)
+- [Companion website for textbook](http://highered.mheducation.com/sites/0071315012/student_view0/index.html)
 - [List of topics per exam](https://gist.github.com/neanias/058ac1d64386f240bfc38922e764e8a6)
 - [Trev tutor on DMMR](https://trevtutor.com/discretemath/discretemath1/) and [part 2](https://trevtutor.com/discretemath/discrete-math-2/) - similar to Khan academy
 - **Khan Academy**:
