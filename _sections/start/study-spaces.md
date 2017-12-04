@@ -1,6 +1,7 @@
 ---
 year: start
 title: Places to study
+archived: true
 ---
 Click on each pin for description of each location.
 
