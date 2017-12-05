@@ -11,7 +11,7 @@ pinned: true
 - [List of all Informatics courses](http://course.inf.ed.ac.uk/)
 - [Progression Guidance](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/progression-guidance)
 - [Course survey reports](http://www.inf.ed.ac.uk/admin/ITO/course-survey-reports/)
-- [All recorded videos](http://groups.inf.ed.ac.uk/vision/VIDEO/) (*last update 15/16*)
+- [Lecture recordings for CL, FP, ILA](https://lectures.dylant.org) (Password is appleton, Updates can take up to a week)
 - [ITO contact form](https://www.inf.ed.ac.uk/cgi-bin/iss/contact.cgi)
 - [Student portal](https://student.inf.ed.ac.uk/) (with all your coursework marks)
 - [Library](http://www.ed.ac.uk/schools-departments/information-services/library-museum-gallery)
