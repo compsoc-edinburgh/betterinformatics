@@ -25,7 +25,7 @@ links:
   - RSA Encryption Example - two parts: [computing an example](https://youtu.be/4zahvcJ9glg), [generating the keys](https://www.youtube.com/watch?v=oOcTVTpUsPQ)
   - [Introduction to Combinations](https://youtu.be/Ul4nl1S968E), [Introduction to Permutations](https://youtu.be/JVbbRCVBVRI)
   - [Permutations: accounting for repetitions](https://www.youtube.com/watch?v=1Uy2E2ncazg)
-  - [Relations](https://youtu.be/0dzNlrNJYdc?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS) and the different [kinds of relations](https://youtu.be/q0xN_N7l_Kw?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
+  - [Relations](https://youtu.be/0dzNlrNJYdc?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS) and the different [kinds of relations](https://youtu.be/q0xN_N7l_Kw?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)... and [equivalence relations](https://youtu.be/T6RUxvJR8i4?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS). This guy is great, isn't he?
 - Proofs:
   - [Worksheet: Proofs involving functions](https://faculty.math.illinois.edu/~hildebr/347.summer14/functions-problems.pdf) - with sample proof + proving injectivity/surjectivity
   - by Induction: solutions to an MEI question (todo)
