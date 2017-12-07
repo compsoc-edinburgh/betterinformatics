@@ -1,9 +1,12 @@
 ---
+redirect: /drive
 ---
 
-### Please don't forget to transfer ownership of Drive files to <strong>betterinformatics@gmail.com</strong>.
+### Please don't forget to transfer ownership of Drive files to <strong>admin@betterinformatics.com</strong>.
 
 Files are moving to the new Team Drives folder. **Do not update the old folders as they will be lost.**
+
+Please, <u>do not convert PDFs to a Google Doc</u>, leave them as PDF files.
 
 <!--
 ### Adding files
@@ -19,5 +22,3 @@ Whenever you want to add something to the shared Google Drive folders, do the fo
 
 > ![](/static/img/drive.png)
 -->
-
-Please, <u>do not convert PDFs to a Google Doc</u>, leave them as PDF files.
