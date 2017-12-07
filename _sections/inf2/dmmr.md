@@ -26,6 +26,8 @@ links:
 - Proofs:
   - [Worksheet: Proofs involving functions](https://faculty.math.illinois.edu/~hildebr/347.summer14/functions-problems.pdf) - with sample proof + proving injectivity/surjectivity
   - by Induction: solutions to an MEI question (todo)
+  - [Introduction to Combinations](https://youtu.be/Ul4nl1S968E), [Introduction to Permutations](https://youtu.be/JVbbRCVBVRI)
+  - [Permutations: accounting for repetitions](https://www.youtube.com/watch?v=1Uy2E2ncazg)
 - [2016 worksheet page](https://web.archive.org/web/20160913062041/http://www.inf.ed.ac.uk:80/teaching/courses/dmmr/Tutorial-sheets/)
 - [Congrugence modulo](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/congruence-modulo) (Khan Academy)
 - [Order of Complexity](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Problem_Solving/Big_O_Notation#Order_of_Complexity)
