@@ -10,6 +10,8 @@ links:
     url: /drive?next=0B4SUSkTXjliXbWN0YUF5cEx1ZFE
 ---
 
+[**Online (flipped-classroom) version of this course. 10x better than the lectures.**](https://youtu.be/rdXw7Ps9vxc?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
+
 85% **non-calculator** open book exam, 15% across 9 assessments. Pass: 40% overall.
 
 - Useful notes: [logic-1](/inf1#logic-1), [inf1-cl](/inf1#inf1-cl)
