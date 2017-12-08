@@ -17,4 +17,4 @@ pinned: true
 - [Library](http://www.ed.ac.uk/schools-departments/information-services/library-museum-gallery)
 - **Policies**: [feedback](http://www.inf.ed.ac.uk/student-services/teaching-organisation/for-taught-students/coursework-and-projects/coursework-assessment-and-feedback), [coursework _(new!)_](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/coursework-projects/late-coursework-extension-requests)
 - Allocations for: [tutorials](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/), [labs](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP082_Laboratory_Groups/)
-
+- [Special arrangements exams](https://www.ed.ac.uk/student-administration/exams/special-arrangements-exams), click on Access your timetable 
