@@ -10,6 +10,8 @@ links:
     url: /drive?next=0B4SUSkTXjliXbWN0YUF5cEx1ZFE
 ---
 
+**Tip**: If you actually try and do well for the coursework, you'll need less than 40% in the exam to pass the course.
+
 [**Online (flipped-classroom) version of this course. 10x better than the lectures.**](https://youtu.be/rdXw7Ps9vxc?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 
 85% **non-calculator** open book exam, 15% across 9 assessments. Pass: 40% overall.
