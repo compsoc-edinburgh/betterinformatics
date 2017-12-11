@@ -26,14 +26,7 @@
                 <a href="mailto:betterinformatics@gmail.com" class="btn">Send us feedback</a>
             </div>
         </div>
-
-        <script>
-            var _gaq=[['_setAccount','UA-5993154-18'],['_trackPageview']];
-            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-            g.src='//www.google-analytics.com/ga.js';
-            s.parentNode.insertBefore(g,s)}(document,'script'));
-        </script>
-
+        
         {% if page.layout == "frontpage" %}
             <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
             <script type="text/javascript">
@@ -52,5 +45,16 @@
                 })
             </script>
         {% endif %}
+        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110956746-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-110956746-1');
+        </script>
+
     </body>
 </html>
