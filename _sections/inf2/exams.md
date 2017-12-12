@@ -15,7 +15,7 @@ exams:
     time: 1513175400
     code: INFR08018
   - name: INF2A
-    location: Appleton and Pleasance, (see "View")
+    location: See "View"
     date: Friday 15th, 2:30 - 4:30
     time: 1513348200
     code: INFR08008
