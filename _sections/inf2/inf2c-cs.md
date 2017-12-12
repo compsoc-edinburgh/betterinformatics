@@ -34,8 +34,8 @@ links:
 - Coursework 1 (2017/18) - [Task B unit test](https://github.com/bnelo12/Pig-Latin-Unit-Tester) (pig latin)
 
 - Datapath:
- - [Instruction Breakdown/Datapath Tutorial](https://www.youtube.com/watch?v=oETOwVBzu1s)
- - [ECEN350: MIPS Datapath Tutorial (Part 2)](https://www.youtube.com/watch?v=FcP8BMTLqc4)
+  - [Instruction Breakdown/Datapath Tutorial](https://www.youtube.com/watch?v=oETOwVBzu1s)
+  - [ECEN350: MIPS Datapath Tutorial (Part 2)](https://www.youtube.com/watch?v=FcP8BMTLqc4)
 
 - Logic Design:
   - [Excellent tutorial on sequential logic](http://www.electronics-tutorials.ws/sequential/seq_1.html)
