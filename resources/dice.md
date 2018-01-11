@@ -25,6 +25,7 @@ WM = window manager
 2. Login on the terminal
 3. Check if it says something like "quota exceeded". If so, you now know why your WM is not loading.
 4. Delete miniconda or anaconda or anything else that may be eating your storage space.
+   -  You can delete the contents of `~/.cache/tracker`, which can grow pretty big.
 5. Use `freespace` to confirm you have free storage space.
 6. Use `Ctrl+D` to log out of the terminal.
 7. Use `Ctrl+Alt+F1` to return to the login panel.
