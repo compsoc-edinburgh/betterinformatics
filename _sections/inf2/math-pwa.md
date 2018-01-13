@@ -2,6 +2,9 @@
 year: inf2
 semester: 2
 title: PWA - Probability with Applications
+links:
+  - name: piazza
+    url: https://piazza.com/ed.ac.uk/spring2018/math08067
 ---
 
 - [Summary](https://github.com/compsoc-edinburgh/bi-pwa)
