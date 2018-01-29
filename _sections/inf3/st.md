@@ -11,4 +11,4 @@ links:
 ---
 
 - **EXAM in April/May diet**
-- [Official exam papers and solutions](https://drive.google.com/folderview?id=0B2AAOQQZ_8BxdXhiT3EwQWNOb2c&usp=sharing)
+- [Official exam papers and solutions](/drive?next=0B2AAOQQZ_8BxTEV2eU1uQWQ0WU0)

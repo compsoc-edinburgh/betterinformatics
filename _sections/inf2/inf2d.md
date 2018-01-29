@@ -9,4 +9,5 @@ links:
 ---
 
 - [Some multiple choice questions (docx)](/resources/inf2d/inf2d_sortedMCQ.docx)
-
+- [Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
+](https://github.com/aimacode/aima-python)
