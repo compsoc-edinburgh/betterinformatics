@@ -25,3 +25,5 @@ Approximate Frequency Counts over Data Streams: [paper](http://www.vldb.org/conf
 [Revision notes](https://docs.google.com/document/d/15kjOb_2WWnClMvEErnytvo7m3uQ7JAXXO3e4ameI9u4/edit) - Started by Stefan Adamov
 
 [Revision Notes](https://github.com/mrknmc/edi-notes/tree/master/ug4/exc) - Mark Nemec on Github
+
+[Revision Notes by Ben Shaw](https://github.com/benshaaw/revision/tree/master/EXC)
