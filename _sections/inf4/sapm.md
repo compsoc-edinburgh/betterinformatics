@@ -17,3 +17,5 @@ What-you-need-to-know-for-the-exam course summary [slides](https://drive.google.
 [May 2011](https://docs.google.com/document/d/1_bJDOUFugqlGADxMEKptLMEtL0BmO-s0Pkzt_8UcKj4/edit)
 
 [May 2010](https://docs.google.com/document/d/16Lqh2pycCFHC5IzGDLfk2v7LoTyhBU8pnqWJ8DzdpW4/edit)
+
+[Revision notes by Ben Shaw](https://github.com/benshaaw/revision/tree/master/SAPM)
