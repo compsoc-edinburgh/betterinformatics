@@ -12,3 +12,5 @@ links:
 - [Joint probability distributions](http://homepage.stat.uiowa.edu/~rdecook/stat2020/notes/ch5_pt1.pdf)
 - **Khan Academy**
   - [Binomial probability](https://www.khanacademy.org/math/probability/binomial-probability-a2)
+- **Calculators**
+  - [Binomial distribution](http://stattrek.com/online-calculator/binomial.aspx)
