@@ -10,7 +10,11 @@ links:
 - [Summary](https://github.com/compsoc-edinburgh/bi-pwa)
 - [Cheat Sheet](/resources/pwa/PwA_Cheat_Sheet.pdf) [(source)](/resources/pwa/pwa_cheat_sheet.tex)
 - [Joint probability distributions](http://homepage.stat.uiowa.edu/~rdecook/stat2020/notes/ch5_pt1.pdf)
-- **Khan Academy**
-  - [Binomial probability](https://www.khanacademy.org/math/probability/binomial-probability-a2)
+
+- **Videos**
+  - [Binomial probability](https://www.khanacademy.org/math/probability/binomial-probability-a2) (Khan Academy)
+  - Intro to [Poisson distribution](https://youtu.be/jmqZG6roVqU) (jbstatistics)
+  
+  
 - **Calculators**
   - [Individual and cumulative binomial probabilities](http://stattrek.com/online-calculator/binomial.aspx)
