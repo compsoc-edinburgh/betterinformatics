@@ -13,4 +13,4 @@ links:
 - **Khan Academy**
   - [Binomial probability](https://www.khanacademy.org/math/probability/binomial-probability-a2)
 - **Calculators**
-  - [Binomial distribution](http://stattrek.com/online-calculator/binomial.aspx)
+  - [Individual and cumulative binomial probabilities](http://stattrek.com/online-calculator/binomial.aspx)
