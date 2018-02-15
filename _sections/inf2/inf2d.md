@@ -12,3 +12,4 @@ links:
 - [Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 ](https://github.com/aimacode/aima-python)
 - [Alpha-Beta pruning interactive example](http://inst.eecs.berkeley.edu/~cs61b/fa14/ta-materials/apps/ab_tree_practice/)
+- [Another AB pruning example - allowing you to create your own tree](http://proof.github.io/minimax/)
