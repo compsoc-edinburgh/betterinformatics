@@ -15,3 +15,4 @@ links:
 - Example Lab using numpy, scipy, pandas, and matplotlib: [Similarity and recommender systems](https://github.com/bnelo12/ALD/blob/master/Similarity%20and%20Recommender%20Systems.ipynb)
 - [Amazing interactive examples from from USFCA](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Wikibook covering most of the stuff we are doing](https://en.wikibooks.org/wiki/Data_Structures)
+- [Karatsuba Multiplication in 13 minutes](https://www.youtube.com/watch?v=JCbZayFr9RE) (video)
