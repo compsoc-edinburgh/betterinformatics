@@ -5,6 +5,8 @@ layout: page
 
 ### Getting audio to work on DICE
 
+**Automate this!** This command does the below: `pacmd set-card-profile alsa_card.pci-0000_00_1f.3 output:analog-stereo`.
+
 Sometimes audio doesn't always work on DICE. Here's a tutorial to get it working:
 
 1. Plug in audio to regular audio jack (not speaker+mic jack)
