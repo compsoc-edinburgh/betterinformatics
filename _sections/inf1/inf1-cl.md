@@ -28,7 +28,7 @@ links:
 -   [Definitions] (also available on Quizlet)
 -   [CNF cheat sheet]
 -   [Propositional formula to CNF converter]
--   [boolexman(http://labs.boramalper.org/boolexman/) (boolean expression manipulator)
+-   [boolexman](http://labs.boramalper.org/boolexman/) (boolean expression manipulator)
 -   [Visualizing satisfiability, validity & entailment]
 -   **Finite State Machines**
     -   [FSM Workbench (also contains subset construction)]
