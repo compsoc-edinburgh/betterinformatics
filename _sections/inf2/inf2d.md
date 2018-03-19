@@ -6,6 +6,8 @@ course-acronym: inf2d
 links:
   - name: info
     url: http://course.inf.ed.ac.uk/inf2d/
+  - name: piazza
+    url: https://piazza.com/class?nid=j8vrdotz8xx2x1
 ---
 
 - [Some multiple choice questions (docx)](/resources/inf2d/inf2d_sortedMCQ.docx)
