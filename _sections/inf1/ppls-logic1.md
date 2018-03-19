@@ -3,7 +3,7 @@ title: Logic 1
 year: inf1
 semester: 2
 ordering: 5
-archived: false
+archived: true
 links:
   - name: course page
     url: http://brianrabern.net/logic1.html
