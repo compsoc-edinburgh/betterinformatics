@@ -18,6 +18,7 @@ links:
 - Installing [GNU Octave on macOS](http://www.schoeps.org/home/2018/01/how-to-compile-gnu-octave-with-openblas-on-macos/) (much lighter than MATLAB)
 - **NumPy**: [quickstart tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
 - Example Lab using numpy, scipy, pandas, and matplotlib: [Similarity and recommender systems](https://github.com/bnelo12/ALD/blob/master/Similarity%20and%20Recommender%20Systems.ipynb)
+- **Why can't I paste using Ctrl+V in MatLab???** - The default settings are odd. Go to Preferences -> MATLAB -> Keyboard -> Shortcuts, change _Emacs Default Set_ to _Windows Default Set_.
 
 **ADS**
 
