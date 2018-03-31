@@ -6,7 +6,7 @@ course-acronym: inf2b
 links:
   - name: info
     url: http://course.inf.ed.ac.uk/inf2b/
-  - name: piazza
+  - name: piazza (learning)
     url: https://piazza.com/class/jc7iuf9dssg44f
 ---
 
