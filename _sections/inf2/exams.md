@@ -1,28 +1,23 @@
 ---
 year: inf2
-semester: 1
+semester: 2
 title: Exams
 pinned: true
 exams:
-  - name: DMMR
-    location: St. Leonards Land (see "View")
-    date: Friday 8th, 2:30 - 4:30
-    time: 1512743400
-    code: INFR08023
-  - name: INF2C-CS
-    location: See "View"
-    date: Wednesday 13th, 2:30 - 3:30 
-    time: 1513175400
-    code: INFR08018
-  - name: INF2A
-    location: See "View"
-    date: Friday 15th, 2:30 - 4:30
-    time: 1513348200
-    code: INFR08008
-  - name: INF2C-SE
-    location: St. Leonards Land (see "View")
-    date: Monday 18th, 2:30 - 3:30
-    time: 1513607400
-    code: INFR08019
+  - code: MATH08067
+    date: Wed 02 May, 09:30 - 12:30
+    location: St. Leonard's Land (SEE "View")
+    name: PWA
+    time: 1525249800.0
+  - code: INFR08009
+    date: Fri 04 May, 09:30 - 11:30
+    location: St. Leonard's Land (SEE "View")
+    name: INF2B
+    time: 1525422600.0
+  - code: INFR08010
+    date: Mon 14 May, 09:30 - 11:30
+    location: St. Leonard's Land (SEE "View")
+    name: INF2D
+    time: 1526286600.0
 ---
 {% include exams.html %}
