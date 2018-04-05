@@ -6,14 +6,12 @@ pinned: true
 exams:
   - code: INFR09009
     date: Tue 01 May, 09:30 - 11:30
-    location: Appleton Tower Concourse
+    location: Appleton Concourse
     name: Computer Architecture
     time: 1525163400.0
   - code: INFR10057
     date: Mon 07 May, 09:30 - 11:30
-    location: St. Leonard's Land Gym 4 (Please enter via VIEWCRAIG GARDENS)_(SPLIT SURNAME
-      A-E),  St. Leonard's Land Gym 3 (Please enter via VIEWCRAIG GARDENS)_(SPLIT SURNAME
-      F-Z)
+    location: St. Leonard's Land (See "VIEW")
     name: Software Testing
     time: 1525681800.0
   - code: INFR09047
@@ -23,12 +21,12 @@ exams:
     time: 1525959000.0
   - code: INFR10059
     date: Wed 16 May, 14:30 - 16:30
-    location: McEwan Hall - Foyer Room 1 & 2 (Enter via the Pavilion)
+    location: McEwan Hall (See "VIEW")
     name: Introduction to Theoretical Computer Science
     time: 1526477400.0
   - code: INFR10052
     date: Thu 17 May, 14:30 - 16:30
-    location: Appleton Tower Concourse
+    location: Appleton Concourse
     name: Algorithms and Data Structures
     time: 1526563800.0
   - code: INFR09028
