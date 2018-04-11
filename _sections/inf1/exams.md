@@ -4,35 +4,35 @@ semester: 2
 title: Exams
 pinned: true
 exams:
-  - name: CAP
-    location: St. Leonards Land (CHECK "View")
-    date: Mon 30th of April, 9:30 - 12:30
-    time: 1525077000
-    code: MATH08058
-  - name: INF1-OP (Group A)
-    location: Appleton Tower Computer Lab
-    date: Tues 8th of May, 9:30 - 11:30
-    time: 1525768200
-    code: INFR08014/1
-  - name: INF1-OP (Group B)
-    location: Appleton Tower Computer Lab
-    date: Tues 8th, 14:30 - 16:30
-    time: 1525779000
-    code: INFR08014/2
-  - name: INF1-DA
-    location: St. Leonards Land (CHECK "View")
-    date: Fri 11th, 9:30 to 11:30
-    time: 1526027400
-    code: INFR08015
-  - name: PPS
-    location: The Pleasance Sports Hall
-    date: Thu 19th, 9:30 - 12:30 
-    time: 1526545800
-    code: MATH08059
-  - name: INF1-CG
-    location: The Pleasance Sports Hall
-    date: Tues 22nd, 14:30 - 16:30 
-    time: 1526995800
-    code: INFR08020
+  - code: MATH08058
+    date: Mon 30 April, 09:30 - 12:30
+    location: St. Leonard's Land / Pleasance Sports Hall (CHECK "View")
+    name: CAP
+    time: 1525077000.0
+  - code: INFR08014/1
+    date: Tue 08 May, 09:30 - 11:30
+    location: AT Computer Lab
+    name: INF1-OP - Group A
+    time: 1525768200.0
+  - code: INFR08014/2
+    date: Tue 08 May, 14:30 - 16:30
+    location: AT Computer Lab
+    name: INF1-OP - Group B
+    time: 1525786200.0
+  - code: INFR08015
+    date: Fri 11 May, 09:30 - 11:30
+    location: St. Leonard's Land / Pleasance Sports Hall (CHECK "View")
+    name: INF1-DA
+    time: 1526027400.0
+  - code: MATH08059
+    date: Thu 17 May, 09:30 - 12:30
+    location: Pleasance Sports Hall
+    name: PPS
+    time: 1526545800.0
+  - code: INFR08020
+    date: Tue 22 May, 14:30 - 16:30
+    location: Pleasance Sports Hall
+    name: INF1-CG
+    time: 1526995800.0
 ---
 {% include exams.html %}
