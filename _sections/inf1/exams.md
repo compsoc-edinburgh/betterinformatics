@@ -6,7 +6,7 @@ pinned: true
 exams:
   - code: MATH08058
     date: Mon 30 April, 09:30 - 12:30
-    location: St. Leonard's Land / Pleasance Sports Hall (CHECK "View")
+    location: Split Location (CHECK "View")
     name: CAP
     time: 1525077000.0
   - code: INFR08014/1
@@ -21,7 +21,7 @@ exams:
     time: 1525786200.0
   - code: INFR08015
     date: Fri 11 May, 09:30 - 11:30
-    location: St. Leonard's Land / Pleasance Sports Hall (CHECK "View")
+    location: Split Location (CHECK "View")
     name: INF1-DA
     time: 1526027400.0
   - code: MATH08059
