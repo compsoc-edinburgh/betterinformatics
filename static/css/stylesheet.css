@@ -513,7 +513,13 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     float:right;
 }
 
+.cs-logo {
+    opacity: 0.6;
+}
 
+.cs-logo:hover {
+    opacity: 1;
+}
 
 .hoverRow {
     opacity: 0.4;
