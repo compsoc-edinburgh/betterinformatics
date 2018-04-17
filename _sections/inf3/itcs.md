@@ -13,5 +13,4 @@ links:
 - **EXAM in April/May diet**
 - ITCS concepts (from Julian's guide!) - [Here](/drive?next=1cbOe1QqKVX-YldZAd5CrjyK91ktZSRDu06tNYpmW0XQ)
 - Tutorial notes - [Here (Shared GDrive)](/drive?next=0B2AAOQQZ_8BxNGJTemM1UEljMGM) (original page: [link](https://homepages.inf.ed.ac.uk/jcb/itcs-tutorial-notes/))
-- CI - [Official past papers and solutions](https://drive.google.com/folderview?id=0B2AAOQQZ_8BxS0tNamZQRUprMmc&usp=sharing)
-- Some useful definitions and proofs - [link](https://docs.google.com/document/d/1UDkgT_aDprn0KXGzrKozHstb03-LZqk1J64VcgDHmrA/edit)
+- Some useful definitions and proofs - [link](/drive?next=1WZcgNYWL9qApP3Fv6N_XTvHq2FlJU_ED6nWi09-Hna4)
