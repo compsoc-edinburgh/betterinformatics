@@ -14,6 +14,9 @@ links:
 
 **Learning**
 
+- [What is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk) (3blue1brown)
+- [Using neural nets to recognise handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
+
 - [MATLAB for use at home](https://www.ed.ac.uk/information-services/computing/desktop-personal/software/main-software-deals/matlab/matlab-homeuse) (free)
 - Installing [GNU Octave on macOS](http://www.schoeps.org/home/2018/01/how-to-compile-gnu-octave-with-openblas-on-macos/) (much lighter than MATLAB)
 - **NumPy**: [quickstart tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
