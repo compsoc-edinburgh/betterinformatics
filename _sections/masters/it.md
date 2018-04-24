@@ -1,6 +1,7 @@
 ---
 year: masters
 course-acronym: it
+archived: true
 title: IT
 ---
 
