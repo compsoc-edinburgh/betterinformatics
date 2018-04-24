@@ -20,13 +20,15 @@
         {% if section.link or section.course-acronym != "" %}
             </a>
         {% endif %}
-
-        {% if section.links %}<small>
+        
+        <small>
+        {% if section.links %}
             {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
-            {% if section.course-acronym != "" and site.data.courses[section.course-acronym] %}
-                | <a href="{{ site.data.courses[section.course-acronym].euclid_url }}">drps</a>
-            {% endif %}
-        </small>{% endif %}
+        {% endif %}
+        {% if section.course-acronym != "" and site.data.courses[section.course-acronym] %}
+            | <a href="{{ site.data.courses[section.course-acronym].euclid_url }}">drps</a>
+        {% endif %}
+        </small>
 
         <a class="link-icon" href="#{{ sectionID | strip }}"><i class="fa fa-link" aria-hidden="true"></i></a>
         <a class="edit-pencil" href="https://github.com/{{ site.data.repo }}/blob/master/{{ section.path }}"><i class="fa fa-pencil" aria-hidden="true"></i></a>
