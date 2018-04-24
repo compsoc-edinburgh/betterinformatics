@@ -11,7 +11,7 @@ exams:
   time: 1525077000.0
 - code: INFR10005
   date: Mon 30 April, 14:30 - 16:30
-  location: ...
+  location: (..)
   name: Intelligent Autonomous Robotics
   time: 1525095000.0
 - code: INFR11062
