@@ -109,7 +109,7 @@ exams:
   time: 1526373000.0
 - code: INFR11023
   date: Wed 16 May, 09:30 - 11:30
-  location: McEwan Hall - Main Building
+  location: McEwan Hall
   name: Parallel Programming Languages and Systems
   time: 1526459400.0
 - code: INFR11069
