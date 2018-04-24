@@ -33,7 +33,6 @@ pinned: true
   location: Playfair Library
   name: FNLP
   time: 1526650200.0
-
 ---
 {% include exams.html %}
 
