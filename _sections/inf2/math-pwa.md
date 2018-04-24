@@ -8,6 +8,7 @@ links:
 ---
 
 - [Summary](https://github.com/compsoc-edinburgh/bi-pwa)
+- [7th edition solution booklet](/drive?next=1vJ-EXu3Xn7xJqotPASS7tgjpWsi2NMVg)
 - [Cheat Sheet](/resources/pwa/PwA_Cheat_Sheet.pdf) [(source)](/resources/pwa/pwa_cheat_sheet.tex)
 - [Another cheat sheet with guides on distributions](/resources/pwa/probscheatsheet.pdf)
 - [Joint probability distributions](http://homepage.stat.uiowa.edu/~rdecook/stat2020/notes/ch5_pt1.pdf)
