@@ -23,6 +23,9 @@
 
         {% if section.links %}<small>
             {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
+            {% if section.course-acronym != "" and site.data.courses[section.course-acronym] %}
+                | <a href="{{ site.data.courses[section.course-acronym].euclid_url }}">drps</a>
+            {% endif %}
         </small>{% endif %}
 
         <a class="link-icon" href="#{{ sectionID | strip }}"><i class="fa fa-link" aria-hidden="true"></i></a>
