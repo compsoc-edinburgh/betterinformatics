@@ -11,6 +11,7 @@ adbs:
   euclid_code: INFR11011
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11011.htm
   name: Advanced Databases
+  year: 4
 ads:
   acronym: ADS
   cw_exam_ratio: 25/75
@@ -19,6 +20,7 @@ ads:
   euclid_code: INFR10052
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10052.htm
   name: Algorithms and Data Structures
+  year: 3
 agta:
   acronym: AGTA
   cw_exam_ratio: 30/70
@@ -27,6 +29,7 @@ agta:
   euclid_code: INFR11020
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11020.htm
   name: Algorithmic Game Theory and its Applications
+  year: 4
 ailp:
   acronym: AILP
   cw_exam_ratio: 100/0
@@ -35,6 +38,7 @@ ailp:
   euclid_code: INFR09043
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09043.htm
   name: AI Large Practical
+  year: 3
 ale1:
   acronym: ALE1
   cw_exam_ratio: 30/70
@@ -43,6 +47,7 @@ ale1:
   euclid_code: INFR11069
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11069.htm
   name: Adaptive Learning Environments 1
+  year: 4
 anlp:
   acronym: ANLP
   cw_exam_ratio: 30/70
@@ -51,6 +56,7 @@ anlp:
   euclid_code: INFR11125
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11125.htm
   name: Accelerated Natural Language Processing
+  year: 5
 ar:
   acronym: AR
   cw_exam_ratio: 40/60
@@ -59,6 +65,7 @@ ar:
   euclid_code: INFR09042
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09042.htm
   name: Automated Reasoning
+  year: 3
 asr:
   acronym: ASR
   cw_exam_ratio: 30/70
@@ -67,6 +74,7 @@ asr:
   euclid_code: INFR11033
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11033.htm
   name: Automatic Speech Recognition
+  year: 4
 atfd:
   acronym: ATFD
   cw_exam_ratio: 100/0
@@ -75,6 +83,7 @@ atfd:
   euclid_code: INFR11122
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11122.htm
   name: Advanced Topics in Foundations of Databases
+  year: 5
 av:
   acronym: AV
   cw_exam_ratio: 30/70
@@ -83,6 +92,7 @@ av:
   euclid_code: INFR11031
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11031.htm
   name: Advanced Vision
+  year: 4
 av-dl:
   acronym: AV-DL
   cw_exam_ratio: ''
@@ -91,6 +101,7 @@ av-dl:
   euclid_code: INFR11151
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11151.htm
   name: Advanced Vision (Distance Learning)
+  year: 5
 bdl:
   acronym: BDL
   cw_exam_ratio: ''
@@ -99,6 +110,7 @@ bdl:
   euclid_code: INFR11144
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11144.htm
   name: Blockchains and Distributed Ledgers
+  year: 4
 bio1:
   acronym: BIO1
   cw_exam_ratio: 30/70
@@ -107,6 +119,7 @@ bio1:
   euclid_code: INFR11016
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11016.htm
   name: Bioinformatics 1
+  year: 5
 bio2:
   acronym: BIO2
   cw_exam_ratio: 30/70
@@ -115,6 +128,7 @@ bio2:
   euclid_code: INFR11005
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11005.htm
   name: Bioinformatics 2
+  year: 5
 ca:
   acronym: CA
   cw_exam_ratio: 20/80
@@ -123,6 +137,7 @@ ca:
   euclid_code: INFR11111
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11111.htm
   name: Computer Algebra
+  year: 4
 car:
   acronym: CAR
   cw_exam_ratio: 25/75
@@ -131,6 +146,7 @@ car:
   euclid_code: INFR09009
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09009.htm
   name: Computer Architecture
+  year: 3
 cav:
   acronym: CAV
   cw_exam_ratio: 30/70
@@ -139,6 +155,7 @@ cav:
   euclid_code: INFR11067
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11067.htm
   name: Computer Animation & Visualisation
+  year: 4
 ccn:
   acronym: CCN
   cw_exam_ratio: 100/0
@@ -147,6 +164,7 @@ ccn:
   euclid_code: INFR11036
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11036.htm
   name: Computational Cognitive Neuroscience
+  year: 5
 ccs:
   acronym: CCS
   cw_exam_ratio: 25/75
@@ -155,6 +173,7 @@ ccs:
   euclid_code: INFR10054
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10054.htm
   name: Computational Cognitive Science
+  year: 3
 cd:
   acronym: CD
   cw_exam_ratio: 40/60
@@ -163,6 +182,7 @@ cd:
   euclid_code: INFR09046
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09046.htm
   name: Computer Design
+  year: 3
 cdi1:
   acronym: CDI1
   cw_exam_ratio: 100/0
@@ -171,6 +191,7 @@ cdi1:
   euclid_code: INFR11094
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11094.htm
   name: Case Studies in Design Informatics 1
+  year: 5
 cdi2:
   acronym: CDI2
   cw_exam_ratio: 100/0
@@ -179,6 +200,7 @@ cdi2:
   euclid_code: INFR11095
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11095.htm
   name: Case Studies in Design Informatics 2
+  year: 5
 cg:
   acronym: CG
   cw_exam_ratio: 30/70
@@ -187,6 +209,7 @@ cg:
   euclid_code: INFR11021
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11021.htm
   name: Computer Graphics
+  year: 4
 cmc:
   acronym: CMC
   cw_exam_ratio: ''
@@ -195,6 +218,7 @@ cmc:
   euclid_code: INFR11102
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11102.htm
   name: Computational Complexity
+  year: 4
 cn:
   acronym: CN
   cw_exam_ratio: 25/75
@@ -203,6 +227,7 @@ cn:
   euclid_code: INFR11049
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11049.htm
   name: Computer Networking
+  year: 4
 comn:
   acronym: COMN
   cw_exam_ratio: 40/60
@@ -211,6 +236,7 @@ comn:
   euclid_code: INFR10074
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10074.htm
   name: Computer Communications and Networks
+  year: 3
 copt:
   acronym: COPT
   cw_exam_ratio: 25/75
@@ -219,6 +245,7 @@ copt:
   euclid_code: INFR11032
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11032.htm
   name: Compiler Optimisation
+  year: 4
 cp:
   acronym: CP
   cw_exam_ratio: 10/90
@@ -227,6 +254,7 @@ cp:
   euclid_code: INFR08022
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08022.htm
   name: Computer Programming Skills and Concepts
+  year: 1
 cqi:
   acronym: CQI
   cw_exam_ratio: 30/70
@@ -235,6 +263,7 @@ cqi:
   euclid_code: INFR11128
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11128.htm
   name: Categories and Quantum Informatics
+  year: 5
 cs:
   acronym: CS
   cw_exam_ratio: 25/75
@@ -243,6 +272,7 @@ cs:
   euclid_code: INFR10067
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10067.htm
   name: Computer Security
+  year: 3
 cslp:
   acronym: CSLP
   cw_exam_ratio: 100/0
@@ -251,6 +281,7 @@ cslp:
   euclid_code: INFR09044
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09044.htm
   name: Computer Science Large Practical
+  year: 3
 ct:
   acronym: CT
   cw_exam_ratio: 100/0
@@ -259,6 +290,7 @@ ct:
   euclid_code: INFR10065
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10065.htm
   name: Compiling Techniques
+  year: 3
 dbs:
   acronym: DBS
   cw_exam_ratio: 25/75
@@ -267,6 +299,7 @@ dbs:
   euclid_code: INFR10070
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10070.htm
   name: Database Systems
+  year: 3
 diss:
   acronym: DISS
   cw_exam_ratio: 100/0
@@ -275,6 +308,7 @@ diss:
   euclid_code: INFR11077
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11077.htm
   name: MSc Dissertation (Informatics)
+  year: 5
 dme:
   acronym: DME
   cw_exam_ratio: 50/50
@@ -283,6 +317,7 @@ dme:
   euclid_code: INFR11007
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11007.htm
   name: Data Mining and Exploration
+  year: 5
 dmmr:
   acronym: DMMR
   cw_exam_ratio: 15/85
@@ -291,6 +326,7 @@ dmmr:
   euclid_code: INFR08023
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08023.htm
   name: Discrete Mathematics and Mathematical Reasoning
+  year: 2
 dmr:
   acronym: DMR
   cw_exam_ratio: 40/60
@@ -299,6 +335,7 @@ dmr:
   euclid_code: INFR11090
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11090.htm
   name: Decision Making in Robots and Autonomous Agents
+  year: 5
 ds:
   acronym: DS
   cw_exam_ratio: 25/75
@@ -307,6 +344,7 @@ ds:
   euclid_code: INFR11022
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11022.htm
   name: Distributed Systems
+  year: 4
 epl:
   acronym: EPL
   cw_exam_ratio: 25/75
@@ -315,6 +353,7 @@ epl:
   euclid_code: INFR10061
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10061.htm
   name: Elements of Programming Languages
+  year: 3
 exc:
   acronym: EXC
   cw_exam_ratio: 50/50
@@ -323,6 +362,7 @@ exc:
   euclid_code: INFR11088
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11088.htm
   name: Extreme Computing
+  year: 4
 fnlp:
   acronym: FNLP
   cw_exam_ratio: 30/70
@@ -331,6 +371,7 @@ fnlp:
   euclid_code: INFR09028
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09028.htm
   name: Foundations of Natural Language Processing
+  year: 3
 fv:
   acronym: FV
   cw_exam_ratio: 0/100
@@ -339,6 +380,7 @@ fv:
   euclid_code: INFR11129
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11129.htm
   name: Formal Verification
+  year: 4
 hci:
   acronym: HCI
   cw_exam_ratio: 30/70
@@ -347,6 +389,7 @@ hci:
   euclid_code: INFR11017
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11017.htm
   name: Human-Computer Interaction
+  year: 4
 iaml:
   acronym: IAML
   cw_exam_ratio: 25/75
@@ -355,6 +398,7 @@ iaml:
   euclid_code: INFR10069
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10069.htm
   name: Introductory Applied Machine Learning
+  year: 3
 iaml-dl:
   acronym: IAML-DL
   cw_exam_ratio: ''
@@ -363,6 +407,7 @@ iaml-dl:
   euclid_code: INFR11152
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11152.htm
   name: Introductory Applied Machine Learning (Distance Learning)
+  year: 5
 iar:
   acronym: IAR
   cw_exam_ratio: 50/50
@@ -371,6 +416,7 @@ iar:
   euclid_code: INFR10005
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10005.htm
   name: Intelligent Autonomous Robotics
+  year: 4
 ijp:
   acronym: IJP
   cw_exam_ratio: 100/0
@@ -379,6 +425,7 @@ ijp:
   euclid_code: INFR09021
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09021.htm
   name: Introduction to Java Programming
+  year: 5
 ijp-dl:
   acronym: IJP-DL
   cw_exam_ratio: ''
@@ -387,6 +434,7 @@ ijp-dl:
   euclid_code: INFR09050
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09050.htm
   name: Introduction to Java Programming (Distance Learning)
+  year: 5
 imc:
   acronym: IMC
   cw_exam_ratio: 10/90
@@ -395,6 +443,7 @@ imc:
   euclid_code: INFR11131
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11131.htm
   name: Introduction to Modern Cryptography
+  year: 4
 inf1-cg:
   acronym: INF1-CG
   cw_exam_ratio: 40/60
@@ -403,6 +452,7 @@ inf1-cg:
   euclid_code: INFR08020
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08020.htm
   name: Informatics 1 - Cognitive Science
+  year: 1
 inf1-cl:
   acronym: INF1-CL
   cw_exam_ratio: 0/100
@@ -411,6 +461,7 @@ inf1-cl:
   euclid_code: INFR08012
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08012.htm
   name: Informatics 1 - Computation and Logic
+  year: 1
 inf1-da:
   acronym: INF1-DA
   cw_exam_ratio: 0/100
@@ -419,6 +470,7 @@ inf1-da:
   euclid_code: INFR08015
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08015.htm
   name: Informatics 1 - Data and Analysis
+  year: 1
 inf1-fp:
   acronym: INF1-FP
   cw_exam_ratio: 10/90
@@ -427,6 +479,7 @@ inf1-fp:
   euclid_code: INFR08013
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08013.htm
   name: Informatics 1 - Functional Programming
+  year: 1
 inf1-op:
   acronym: INF1-OP
   cw_exam_ratio: 0/100
@@ -435,6 +488,7 @@ inf1-op:
   euclid_code: INFR08014
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08014.htm
   name: Informatics 1 - Object-Oriented Programming
+  year: 1
 inf2a:
   acronym: INF2A
   cw_exam_ratio: 25/75
@@ -443,6 +497,7 @@ inf2a:
   euclid_code: INFR08008
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08008.htm
   name: Informatics 2A - Processing Formal and Natural Languages
+  year: 2
 inf2b:
   acronym: INF2B
   cw_exam_ratio: 25/75
@@ -451,6 +506,7 @@ inf2b:
   euclid_code: INFR08009
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08009.htm
   name: Informatics 2B - Algorithms, Data Structures, Learning
+  year: 2
 inf2c-cs:
   acronym: INF2C-CS
   cw_exam_ratio: 40/60
@@ -459,6 +515,7 @@ inf2c-cs:
   euclid_code: INFR08018
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08018.htm
   name: Informatics 2C - Introduction to Computer Systems
+  year: 2
 inf2c-se:
   acronym: INF2C-SE
   cw_exam_ratio: 40/60
@@ -467,6 +524,7 @@ inf2c-se:
   euclid_code: INFR08019
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08019.htm
   name: Informatics 2C - Introduction to Software Engineering
+  year: 2
 inf2d:
   acronym: INF2D
   cw_exam_ratio: 25/75
@@ -475,6 +533,7 @@ inf2d:
   euclid_code: INFR08010
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08010.htm
   name: Informatics 2D - Reasoning and Agents
+  year: 2
 iotssc:
   acronym: IoTSSC
   cw_exam_ratio: ''
@@ -483,6 +542,7 @@ iotssc:
   euclid_code: INFR11146
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11146.htm
   name: Internet of Things Systems, Security, and the Cloud (IoTSSC)
+  year: 4
 ipp:
   acronym: IPP
   cw_exam_ratio: 100/0
@@ -491,6 +551,7 @@ ipp:
   euclid_code: INFR11147
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11147.htm
   name: Informatics Project Proposal
+  year: 5
 iqc:
   acronym: IQC
   cw_exam_ratio: 10/90
@@ -499,6 +560,7 @@ iqc:
   euclid_code: INFR11099
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11099.htm
   name: Introduction to Quantum Computing
+  year: 4
 irds:
   acronym: IRDS
   cw_exam_ratio: 100/0
@@ -507,6 +569,7 @@ irds:
   euclid_code: INFR11138
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11138.htm
   name: Introduction to Research in Data Science
+  year: 5
 irr:
   acronym: IRR
   cw_exam_ratio: 100/0
@@ -515,6 +578,7 @@ irr:
   euclid_code: INFR11136
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11136.htm
   name: Informatics Research Review
+  year: 5
 itcs:
   acronym: ITCS
   cw_exam_ratio: 30/70
@@ -523,6 +587,7 @@ itcs:
   euclid_code: INFR10059
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10059.htm
   name: Introduction to Theoretical Computer Science
+  year: 3
 ivc:
   acronym: IVC
   cw_exam_ratio: ''
@@ -531,6 +596,7 @@ ivc:
   euclid_code: INFR11140
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11140.htm
   name: Image and Vision Computing
+  year: 5
 ivr:
   acronym: IVR
   cw_exam_ratio: 40/60
@@ -539,6 +605,7 @@ ivr:
   euclid_code: INFR09019
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09019.htm
   name: Introduction to Vision and Robotics
+  year: 3
 ivr-dl:
   acronym: IVR-DL
   cw_exam_ratio: ''
@@ -547,6 +614,7 @@ ivr-dl:
   euclid_code: INFR11153
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11153.htm
   name: Introduction to Vision and Robotics (Distance Learning)
+  year: 5
 mdi:
   acronym: MDI
   cw_exam_ratio: 100/0
@@ -555,6 +623,7 @@ mdi:
   euclid_code: INFR11097
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11097.htm
   name: Masters Dissertation (Design Informatics)
+  year: 5
 mi:
   acronym: MI
   cw_exam_ratio: 30/70
@@ -563,6 +632,7 @@ mi:
   euclid_code: INFR11079
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11079.htm
   name: Music Informatics
+  year: 5
 mip1:
   acronym: MIP1
   cw_exam_ratio: 100/0
@@ -571,6 +641,7 @@ mip1:
   euclid_code: INFR10051
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10051.htm
   name: MInf Project (Part 1)
+  year: 4
 mip2:
   acronym: MIP2
   cw_exam_ratio: 100/0
@@ -579,6 +650,7 @@ mip2:
   euclid_code: INFR11093
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11093.htm
   name: MInf Project (Part 2)
+  year: 5
 mlp:
   acronym: MLP
   cw_exam_ratio: 100/0
@@ -587,6 +659,7 @@ mlp:
   euclid_code: INFR11132
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11132.htm
   name: Machine Learning Practical
+  year: 4
 mlpr:
   acronym: MLPR
   cw_exam_ratio: 20/80
@@ -595,6 +668,7 @@ mlpr:
   euclid_code: INFR11130
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11130.htm
   name: Machine Learning & Pattern Recognition
+  year: 4
 mt:
   acronym: MT
   cw_exam_ratio: ''
@@ -603,6 +677,7 @@ mt:
   euclid_code: INFR11062
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11062.htm
   name: Machine Translation
+  year: 4
 nc:
   acronym: NC
   cw_exam_ratio: 25/75
@@ -611,6 +686,7 @@ nc:
   euclid_code: INFR11008
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11008.htm
   name: Neural Computation
+  year: 5
 nip:
   acronym: NIP
   cw_exam_ratio: 25/75
@@ -619,6 +695,7 @@ nip:
   euclid_code: INFR11035
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11035.htm
   name: Neural Information Processing
+  year: 5
 nlu:
   acronym: NLU
   cw_exam_ratio: 30/70
@@ -627,6 +704,7 @@ nlu:
   euclid_code: INFR11061
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11061.htm
   name: Natural Language Understanding
+  year: 4
 os:
   acronym: OS
   cw_exam_ratio: 30/70
@@ -635,6 +713,7 @@ os:
   euclid_code: INFR09047
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09047.htm
   name: Operating Systems
+  year: 3
 pa:
   acronym: PA
   cw_exam_ratio: 25/75
@@ -643,6 +722,7 @@ pa:
   euclid_code: INFR11024
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11024.htm
   name: Parallel Architectures
+  year: 4
 pdiot:
   acronym: PDIoT
   cw_exam_ratio: ''
@@ -651,6 +731,7 @@ pdiot:
   euclid_code: INFR11150
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11150.htm
   name: Principles and Design of IoT Systems
+  year: 4
 perp:
   acronym: PERP
   cw_exam_ratio: 100/0
@@ -659,6 +740,7 @@ perp:
   euclid_code: INFR11108
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11108.htm
   name: Pervasive Parallelism
+  year: 5
 pi:
   acronym: PI
   cw_exam_ratio: 15/85
@@ -667,6 +749,7 @@ pi:
   euclid_code: INFR10022
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10022.htm
   name: Professional Issues
+  year: 3
 pm:
   acronym: PM
   cw_exam_ratio: 25/75
@@ -675,6 +758,7 @@ pm:
   euclid_code: INFR11082
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11082.htm
   name: Performance Modelling
+  year: 4
 pmr:
   acronym: PMR
   cw_exam_ratio: 20/80
@@ -683,6 +767,7 @@ pmr:
   euclid_code: INFR11134
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11134.htm
   name: Probabilistic Modelling and Reasoning
+  year: 5
 ppls:
   acronym: PPLS
   cw_exam_ratio: 20/80
@@ -691,6 +776,7 @@ ppls:
   euclid_code: INFR11023
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11023.htm
   name: Parallel Programming Languages and Systems
+  year: 4
 proj:
   acronym: PROJ
   cw_exam_ratio: 100/0
@@ -699,6 +785,7 @@ proj:
   euclid_code: INFR10044
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10044.htm
   name: Honours Project (Informatics)
+  year: 4
 rasrt:
   acronym: RASRT
   cw_exam_ratio: 100/0
@@ -707,6 +794,7 @@ rasrt:
   euclid_code: INFR11118
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11118.htm
   name: Robotics and Autonomous Systems Research Thesis
+  year: 5
 rc:
   acronym: RC
   cw_exam_ratio: 30/70
@@ -715,6 +803,7 @@ rc:
   euclid_code: INFR11089
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11089.htm
   name: Randomness and Computation
+  year: 4
 rl:
   acronym: RL
   cw_exam_ratio: 20/80
@@ -723,6 +812,7 @@ rl:
   euclid_code: INFR11010
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11010.htm
   name: Reinforcement Learning
+  year: 5
 rlsc:
   acronym: RLSC
   cw_exam_ratio: ''
@@ -731,6 +821,7 @@ rlsc:
   euclid_code: INFR11142
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11142.htm
   name: Robot Learning and Sensorimotor Control
+  year: 5
 rss:
   acronym: RSS
   cw_exam_ratio: 50/50
@@ -739,6 +830,7 @@ rss:
   euclid_code: INFR11092
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11092.htm
   name: 'Robotics: Science and Systems'
+  year: 5
 rtds:
   acronym: RTDS
   cw_exam_ratio: 100/0
@@ -747,6 +839,7 @@ rtds:
   euclid_code: INFR11106
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11106.htm
   name: MSc by Research Thesis (Data Science)
+  year: 5
 rtds+:
   acronym: RTDS+
   cw_exam_ratio: 100/0
@@ -755,6 +848,7 @@ rtds+:
   euclid_code: INFR11107
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11107.htm
   name: MSc by Research Thesis (Data Science; 120pt)
+  year: 5
 rtpp:
   acronym: RTPP
   cw_exam_ratio: 100/0
@@ -763,6 +857,7 @@ rtpp:
   euclid_code: INFR11109
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11109.htm
   name: MSc by Research Thesis (Pervasive Parallelism)
+  year: 5
 sapm:
   acronym: SAPM
   cw_exam_ratio: 25/75
@@ -771,6 +866,7 @@ sapm:
   euclid_code: INFR11038
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11038.htm
   name: Software Architecture, Process, and Management
+  year: 4
 sdp:
   acronym: SDP
   cw_exam_ratio: 100/0
@@ -779,6 +875,7 @@ sdp:
   euclid_code: INFR09032
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09032.htm
   name: System Design Project
+  year: 3
 selp:
   acronym: SELP
   cw_exam_ratio: 100/0
@@ -787,6 +884,7 @@ selp:
   euclid_code: INFR09045
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09045.htm
   name: Software Engineering Large Practical
+  year: 3
 sp:
   acronym: SP
   cw_exam_ratio: 30/70
@@ -795,6 +893,7 @@ sp:
   euclid_code: INFR11098
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11098.htm
   name: Secure Programming
+  year: 4
 st:
   acronym: ST
   cw_exam_ratio: 25/75
@@ -803,6 +902,7 @@ st:
   euclid_code: INFR10057
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10057.htm
   name: Software Testing
+  year: 3
 stn:
   acronym: STN
   cw_exam_ratio: 40/60
@@ -811,6 +911,7 @@ stn:
   euclid_code: INFR11124
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11124.htm
   name: Social and Technological Networks
+  year: 4
 thf:
   acronym: THF
   cw_exam_ratio: ''
@@ -819,6 +920,7 @@ thf:
   euclid_code: INFR11141
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11141.htm
   name: 'The Human Factor: Working with Users'
+  year: 5
 tnlp:
   acronym: TNLP
   cw_exam_ratio: 100/0
@@ -827,6 +929,7 @@ tnlp:
   euclid_code: INFR11113
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11113.htm
   name: Topics in Natural Language Processing
+  year: 4
 tspl:
   acronym: TSPL
   cw_exam_ratio: 25/75
@@ -835,6 +938,7 @@ tspl:
   euclid_code: INFR11114
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11114.htm
   name: Types and Semantics for Programming Languages
+  year: 4
 ttds:
   acronym: TTDS
   cw_exam_ratio: ''
@@ -843,4 +947,5 @@ ttds:
   euclid_code: INFR11145
   euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11145.htm
   name: Text Technologies for Data Science
+  year: 4
 
