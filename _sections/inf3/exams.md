@@ -3,6 +3,7 @@ year: inf3
 semester: 2
 title: Exams
 pinned: true
+exams:
 - code: INFR09009
   date: Tue 01 May, 09:30 - 11:30
   location: AT Concourse
@@ -34,6 +35,7 @@ pinned: true
   name: FNLP
   time: 1526650200.0
 ---
+
 {% include exams.html %}
 
 <br>[View more...](https://betterinformatics.com/resources/inf3-exams)
