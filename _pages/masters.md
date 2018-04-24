@@ -1,5 +1,5 @@
 ---
 title: Masters
-short-title: masters
+short-title: INF5
 year: 5
 ---
