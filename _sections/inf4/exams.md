@@ -61,7 +61,7 @@ exams:
   time: 1525699800.0
 - code: INFR11049
   date: Tue 08 May, 09:30 - 11:30
-  location: St. Leonard's Land G(..)
+  location: St. Leonard's Land (..)
   name: Computer Networking
   time: 1525768200.0
 - code: INFR11020
