@@ -1,4 +1,6 @@
 ---
+title: INF4 Exams
+layout: page
 exams:
 - code: INFR11011
   date: Mon 30 April, 09:30 - 11:30
