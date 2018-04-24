@@ -1,0 +1,846 @@
+# This document was automatically generated
+# using data from http://course.inf.ed.ac.uk
+#
+# Last update: 24/04/2018 07:45:01
+
+adbs:
+  acronym: ADBS
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11011
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11011.htm
+  name: Advanced Databases
+ads:
+  acronym: ADS
+  cw_exam_ratio: 25/75
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR10052
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10052.htm
+  name: Algorithms and Data Structures
+agta:
+  acronym: AGTA
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11020
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11020.htm
+  name: Algorithmic Game Theory and its Applications
+ailp:
+  acronym: AILP
+  cw_exam_ratio: 100/0
+  delivery: S1
+  diet: ''
+  euclid_code: INFR09043
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09043.htm
+  name: AI Large Practical
+ale1:
+  acronym: ALE1
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11069
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11069.htm
+  name: Adaptive Learning Environments 1
+anlp:
+  acronym: ANLP
+  cw_exam_ratio: 30/70
+  delivery: S1
+  diet: December
+  euclid_code: INFR11125
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11125.htm
+  name: Accelerated Natural Language Processing
+ar:
+  acronym: AR
+  cw_exam_ratio: 40/60
+  delivery: S1
+  diet: 'VUG: December; April/May'
+  euclid_code: INFR09042
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09042.htm
+  name: Automated Reasoning
+asr:
+  acronym: ASR
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11033
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11033.htm
+  name: Automatic Speech Recognition
+atfd:
+  acronym: ATFD
+  cw_exam_ratio: 100/0
+  delivery: S2
+  diet: ''
+  euclid_code: INFR11122
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11122.htm
+  name: Advanced Topics in Foundations of Databases
+av:
+  acronym: AV
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11031
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11031.htm
+  name: Advanced Vision
+av-dl:
+  acronym: AV-DL
+  cw_exam_ratio: ''
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11151
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11151.htm
+  name: Advanced Vision (Distance Learning)
+bdl:
+  acronym: BDL
+  cw_exam_ratio: ''
+  delivery: S1
+  diet: 'VUG: December; April/May'
+  euclid_code: INFR11144
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11144.htm
+  name: Blockchains and Distributed Ledgers
+bio1:
+  acronym: BIO1
+  cw_exam_ratio: 30/70
+  delivery: S1
+  diet: December
+  euclid_code: INFR11016
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11016.htm
+  name: Bioinformatics 1
+bio2:
+  acronym: BIO2
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11005
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11005.htm
+  name: Bioinformatics 2
+ca:
+  acronym: CA
+  cw_exam_ratio: 20/80
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11111
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11111.htm
+  name: Computer Algebra
+car:
+  acronym: CAR
+  cw_exam_ratio: 25/75
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR09009
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09009.htm
+  name: Computer Architecture
+cav:
+  acronym: CAV
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11067
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11067.htm
+  name: Computer Animation & Visualisation
+ccn:
+  acronym: CCN
+  cw_exam_ratio: 100/0
+  delivery: S1
+  diet: ''
+  euclid_code: INFR11036
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11036.htm
+  name: Computational Cognitive Neuroscience
+ccs:
+  acronym: CCS
+  cw_exam_ratio: 25/75
+  delivery: S1
+  diet: 'April/May; VUG: December'
+  euclid_code: INFR10054
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10054.htm
+  name: Computational Cognitive Science
+cd:
+  acronym: CD
+  cw_exam_ratio: 40/60
+  delivery: S1
+  diet: December
+  euclid_code: INFR09046
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09046.htm
+  name: Computer Design
+cdi1:
+  acronym: CDI1
+  cw_exam_ratio: 100/0
+  delivery: S1
+  diet: ''
+  euclid_code: INFR11094
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11094.htm
+  name: Case Studies in Design Informatics 1
+cdi2:
+  acronym: CDI2
+  cw_exam_ratio: 100/0
+  delivery: S1
+  diet: ''
+  euclid_code: INFR11095
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11095.htm
+  name: Case Studies in Design Informatics 2
+cg:
+  acronym: CG
+  cw_exam_ratio: 30/70
+  delivery: S1
+  diet: 'April/May; VUG: December'
+  euclid_code: INFR11021
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11021.htm
+  name: Computer Graphics
+cmc:
+  acronym: CMC
+  cw_exam_ratio: ''
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11102
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11102.htm
+  name: Computational Complexity
+cn:
+  acronym: CN
+  cw_exam_ratio: 25/75
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11049
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11049.htm
+  name: Computer Networking
+comn:
+  acronym: COMN
+  cw_exam_ratio: 40/60
+  delivery: S1
+  diet: December
+  euclid_code: INFR10074
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10074.htm
+  name: Computer Communications and Networks
+copt:
+  acronym: COPT
+  cw_exam_ratio: 25/75
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11032
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11032.htm
+  name: Compiler Optimisation
+cp:
+  acronym: CP
+  cw_exam_ratio: 10/90
+  delivery: S1
+  diet: December
+  euclid_code: INFR08022
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08022.htm
+  name: Computer Programming Skills and Concepts
+cqi:
+  acronym: CQI
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11128
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11128.htm
+  name: Categories and Quantum Informatics
+cs:
+  acronym: CS
+  cw_exam_ratio: 25/75
+  delivery: S1
+  diet: 'April/May; VUG: December'
+  euclid_code: INFR10067
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10067.htm
+  name: Computer Security
+cslp:
+  acronym: CSLP
+  cw_exam_ratio: 100/0
+  delivery: S1
+  diet: ''
+  euclid_code: INFR09044
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09044.htm
+  name: Computer Science Large Practical
+ct:
+  acronym: CT
+  cw_exam_ratio: 100/0
+  delivery: S1
+  diet: ''
+  euclid_code: INFR10065
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10065.htm
+  name: Compiling Techniques
+dbs:
+  acronym: DBS
+  cw_exam_ratio: 25/75
+  delivery: S1
+  diet: 'VUG: December'
+  euclid_code: INFR10070
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10070.htm
+  name: Database Systems
+diss:
+  acronym: DISS
+  cw_exam_ratio: 100/0
+  delivery: B5+
+  diet: ''
+  euclid_code: INFR11077
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11077.htm
+  name: MSc Dissertation (Informatics)
+dme:
+  acronym: DME
+  cw_exam_ratio: 50/50
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11007
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11007.htm
+  name: Data Mining and Exploration
+dmmr:
+  acronym: DMMR
+  cw_exam_ratio: 15/85
+  delivery: S1
+  diet: December
+  euclid_code: INFR08023
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08023.htm
+  name: Discrete Mathematics and Mathematical Reasoning
+dmr:
+  acronym: DMR
+  cw_exam_ratio: 40/60
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11090
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11090.htm
+  name: Decision Making in Robots and Autonomous Agents
+ds:
+  acronym: DS
+  cw_exam_ratio: 25/75
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11022
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11022.htm
+  name: Distributed Systems
+epl:
+  acronym: EPL
+  cw_exam_ratio: 25/75
+  delivery: S1
+  diet: 'April/May; VUG: December'
+  euclid_code: INFR10061
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10061.htm
+  name: Elements of Programming Languages
+exc:
+  acronym: EXC
+  cw_exam_ratio: 50/50
+  delivery: S1
+  diet: 'April/May; VUG: December'
+  euclid_code: INFR11088
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11088.htm
+  name: Extreme Computing
+fnlp:
+  acronym: FNLP
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR09028
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09028.htm
+  name: Foundations of Natural Language Processing
+fv:
+  acronym: FV
+  cw_exam_ratio: 0/100
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11129
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11129.htm
+  name: Formal Verification
+hci:
+  acronym: HCI
+  cw_exam_ratio: 30/70
+  delivery: S1
+  diet: December; April/May
+  euclid_code: INFR11017
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11017.htm
+  name: Human-Computer Interaction
+iaml:
+  acronym: IAML
+  cw_exam_ratio: 25/75
+  delivery: S1
+  diet: December
+  euclid_code: INFR10069
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10069.htm
+  name: Introductory Applied Machine Learning
+iaml-dl:
+  acronym: IAML-DL
+  cw_exam_ratio: ''
+  delivery: S1
+  diet: December
+  euclid_code: INFR11152
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11152.htm
+  name: Introductory Applied Machine Learning (Distance Learning)
+iar:
+  acronym: IAR
+  cw_exam_ratio: 50/50
+  delivery: S1
+  diet: 'VUG: December; April/May'
+  euclid_code: INFR10005
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10005.htm
+  name: Intelligent Autonomous Robotics
+ijp:
+  acronym: IJP
+  cw_exam_ratio: 100/0
+  delivery: S1
+  diet: ''
+  euclid_code: INFR09021
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09021.htm
+  name: Introduction to Java Programming
+ijp-dl:
+  acronym: IJP-DL
+  cw_exam_ratio: ''
+  delivery: S1
+  diet: ''
+  euclid_code: INFR09050
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09050.htm
+  name: Introduction to Java Programming (Distance Learning)
+imc:
+  acronym: IMC
+  cw_exam_ratio: 10/90
+  delivery: S1
+  diet: 'VUG: December; April/May'
+  euclid_code: INFR11131
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11131.htm
+  name: Introduction to Modern Cryptography
+inf1-cg:
+  acronym: INF1-CG
+  cw_exam_ratio: 40/60
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR08020
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08020.htm
+  name: Informatics 1 - Cognitive Science
+inf1-cl:
+  acronym: INF1-CL
+  cw_exam_ratio: 0/100
+  delivery: S1
+  diet: December
+  euclid_code: INFR08012
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08012.htm
+  name: Informatics 1 - Computation and Logic
+inf1-da:
+  acronym: INF1-DA
+  cw_exam_ratio: 0/100
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR08015
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08015.htm
+  name: Informatics 1 - Data and Analysis
+inf1-fp:
+  acronym: INF1-FP
+  cw_exam_ratio: 10/90
+  delivery: S1
+  diet: December
+  euclid_code: INFR08013
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08013.htm
+  name: Informatics 1 - Functional Programming
+inf1-op:
+  acronym: INF1-OP
+  cw_exam_ratio: 0/100
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR08014
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08014.htm
+  name: Informatics 1 - Object-Oriented Programming
+inf2a:
+  acronym: INF2A
+  cw_exam_ratio: 25/75
+  delivery: S1
+  diet: December
+  euclid_code: INFR08008
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08008.htm
+  name: Informatics 2A - Processing Formal and Natural Languages
+inf2b:
+  acronym: INF2B
+  cw_exam_ratio: 25/75
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR08009
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08009.htm
+  name: Informatics 2B - Algorithms, Data Structures, Learning
+inf2c-cs:
+  acronym: INF2C-CS
+  cw_exam_ratio: 40/60
+  delivery: S1
+  diet: December
+  euclid_code: INFR08018
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08018.htm
+  name: Informatics 2C - Introduction to Computer Systems
+inf2c-se:
+  acronym: INF2C-SE
+  cw_exam_ratio: 40/60
+  delivery: S1
+  diet: December
+  euclid_code: INFR08019
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08019.htm
+  name: Informatics 2C - Introduction to Software Engineering
+inf2d:
+  acronym: INF2D
+  cw_exam_ratio: 25/75
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR08010
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08010.htm
+  name: Informatics 2D - Reasoning and Agents
+iotssc:
+  acronym: IoTSSC
+  cw_exam_ratio: ''
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11146
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11146.htm
+  name: Internet of Things Systems, Security, and the Cloud (IoTSSC)
+ipp:
+  acronym: IPP
+  cw_exam_ratio: 100/0
+  delivery: S2
+  diet: ''
+  euclid_code: INFR11147
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11147.htm
+  name: Informatics Project Proposal
+iqc:
+  acronym: IQC
+  cw_exam_ratio: 10/90
+  delivery: S1
+  diet: 'VUG: December; April/May'
+  euclid_code: INFR11099
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11099.htm
+  name: Introduction to Quantum Computing
+irds:
+  acronym: IRDS
+  cw_exam_ratio: 100/0
+  delivery: S1
+  diet: ''
+  euclid_code: INFR11138
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11138.htm
+  name: Introduction to Research in Data Science
+irr:
+  acronym: IRR
+  cw_exam_ratio: 100/0
+  delivery: S1
+  diet: ''
+  euclid_code: INFR11136
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11136.htm
+  name: Informatics Research Review
+itcs:
+  acronym: ITCS
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR10059
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10059.htm
+  name: Introduction to Theoretical Computer Science
+ivc:
+  acronym: IVC
+  cw_exam_ratio: ''
+  delivery: S1
+  diet: December
+  euclid_code: INFR11140
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11140.htm
+  name: Image and Vision Computing
+ivr:
+  acronym: IVR
+  cw_exam_ratio: 40/60
+  delivery: S1
+  diet: 'VUG: December; April/May'
+  euclid_code: INFR09019
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09019.htm
+  name: Introduction to Vision and Robotics
+ivr-dl:
+  acronym: IVR-DL
+  cw_exam_ratio: ''
+  delivery: S1
+  diet: December; April/May
+  euclid_code: INFR11153
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11153.htm
+  name: Introduction to Vision and Robotics (Distance Learning)
+mdi:
+  acronym: MDI
+  cw_exam_ratio: 100/0
+  delivery: FLEX
+  diet: ''
+  euclid_code: INFR11097
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11097.htm
+  name: Masters Dissertation (Design Informatics)
+mi:
+  acronym: MI
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11079
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11079.htm
+  name: Music Informatics
+mip1:
+  acronym: MIP1
+  cw_exam_ratio: 100/0
+  delivery: FLEX
+  diet: ''
+  euclid_code: INFR10051
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10051.htm
+  name: MInf Project (Part 1)
+mip2:
+  acronym: MIP2
+  cw_exam_ratio: 100/0
+  delivery: FLEX
+  diet: ''
+  euclid_code: INFR11093
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11093.htm
+  name: MInf Project (Part 2)
+mlp:
+  acronym: MLP
+  cw_exam_ratio: 100/0
+  delivery: YR
+  diet: ''
+  euclid_code: INFR11132
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11132.htm
+  name: Machine Learning Practical
+mlpr:
+  acronym: MLPR
+  cw_exam_ratio: 20/80
+  delivery: S1
+  diet: December
+  euclid_code: INFR11130
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11130.htm
+  name: Machine Learning & Pattern Recognition
+mt:
+  acronym: MT
+  cw_exam_ratio: ''
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11062
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11062.htm
+  name: Machine Translation
+nc:
+  acronym: NC
+  cw_exam_ratio: 25/75
+  delivery: S1
+  diet: 'VUG: December; April/May'
+  euclid_code: INFR11008
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11008.htm
+  name: Neural Computation
+nip:
+  acronym: NIP
+  cw_exam_ratio: 25/75
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11035
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11035.htm
+  name: Neural Information Processing
+nlu:
+  acronym: NLU
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11061
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11061.htm
+  name: Natural Language Understanding
+os:
+  acronym: OS
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR09047
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09047.htm
+  name: Operating Systems
+pa:
+  acronym: PA
+  cw_exam_ratio: 25/75
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11024
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11024.htm
+  name: Parallel Architectures
+pdiot:
+  acronym: PDIoT
+  cw_exam_ratio: ''
+  delivery: S1
+  diet: April/May
+  euclid_code: INFR11150
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11150.htm
+  name: Principles and Design of IoT Systems
+perp:
+  acronym: PERP
+  cw_exam_ratio: 100/0
+  delivery: S1
+  diet: ''
+  euclid_code: INFR11108
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11108.htm
+  name: Pervasive Parallelism
+pi:
+  acronym: PI
+  cw_exam_ratio: 15/85
+  delivery: S1
+  diet: December
+  euclid_code: INFR10022
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10022.htm
+  name: Professional Issues
+pm:
+  acronym: PM
+  cw_exam_ratio: 25/75
+  delivery: S1
+  diet: 'April/May; VUG: December'
+  euclid_code: INFR11082
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11082.htm
+  name: Performance Modelling
+pmr:
+  acronym: PMR
+  cw_exam_ratio: 20/80
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11134
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11134.htm
+  name: Probabilistic Modelling and Reasoning
+ppls:
+  acronym: PPLS
+  cw_exam_ratio: 20/80
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11023
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11023.htm
+  name: Parallel Programming Languages and Systems
+proj:
+  acronym: PROJ
+  cw_exam_ratio: 100/0
+  delivery: YR
+  diet: ''
+  euclid_code: INFR10044
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10044.htm
+  name: Honours Project (Informatics)
+rasrt:
+  acronym: RASRT
+  cw_exam_ratio: 100/0
+  delivery: B5+
+  diet: ''
+  euclid_code: INFR11118
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11118.htm
+  name: Robotics and Autonomous Systems Research Thesis
+rc:
+  acronym: RC
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11089
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11089.htm
+  name: Randomness and Computation
+rl:
+  acronym: RL
+  cw_exam_ratio: 20/80
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11010
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11010.htm
+  name: Reinforcement Learning
+rlsc:
+  acronym: RLSC
+  cw_exam_ratio: ''
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11142
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11142.htm
+  name: Robot Learning and Sensorimotor Control
+rss:
+  acronym: RSS
+  cw_exam_ratio: 50/50
+  delivery: S1
+  diet: December
+  euclid_code: INFR11092
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11092.htm
+  name: 'Robotics: Science and Systems'
+rtds:
+  acronym: RTDS
+  cw_exam_ratio: 100/0
+  delivery: B5+
+  diet: ''
+  euclid_code: INFR11106
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11106.htm
+  name: MSc by Research Thesis (Data Science)
+rtds+:
+  acronym: RTDS+
+  cw_exam_ratio: 100/0
+  delivery: YR
+  diet: ''
+  euclid_code: INFR11107
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11107.htm
+  name: MSc by Research Thesis (Data Science; 120pt)
+rtpp:
+  acronym: RTPP
+  cw_exam_ratio: 100/0
+  delivery: YR
+  diet: ''
+  euclid_code: INFR11109
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11109.htm
+  name: MSc by Research Thesis (Pervasive Parallelism)
+sapm:
+  acronym: SAPM
+  cw_exam_ratio: 25/75
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11038
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11038.htm
+  name: Software Architecture, Process, and Management
+sdp:
+  acronym: SDP
+  cw_exam_ratio: 100/0
+  delivery: S2
+  diet: ''
+  euclid_code: INFR09032
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09032.htm
+  name: System Design Project
+selp:
+  acronym: SELP
+  cw_exam_ratio: 100/0
+  delivery: S1
+  diet: ''
+  euclid_code: INFR09045
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr09045.htm
+  name: Software Engineering Large Practical
+sp:
+  acronym: SP
+  cw_exam_ratio: 30/70
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR11098
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11098.htm
+  name: Secure Programming
+st:
+  acronym: ST
+  cw_exam_ratio: 25/75
+  delivery: S2
+  diet: April/May
+  euclid_code: INFR10057
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10057.htm
+  name: Software Testing
+stn:
+  acronym: STN
+  cw_exam_ratio: 40/60
+  delivery: S1
+  diet: 'April/May; VUG: December'
+  euclid_code: INFR11124
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11124.htm
+  name: Social and Technological Networks
+thf:
+  acronym: THF
+  cw_exam_ratio: ''
+  delivery: S2
+  diet: ''
+  euclid_code: INFR11141
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11141.htm
+  name: 'The Human Factor: Working with Users'
+tnlp:
+  acronym: TNLP
+  cw_exam_ratio: 100/0
+  delivery: S2
+  diet: ''
+  euclid_code: INFR11113
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11113.htm
+  name: Topics in Natural Language Processing
+tspl:
+  acronym: TSPL
+  cw_exam_ratio: 25/75
+  delivery: S1
+  diet: December
+  euclid_code: INFR11114
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11114.htm
+  name: Types and Semantics for Programming Languages
+ttds:
+  acronym: TTDS
+  cw_exam_ratio: ''
+  delivery: S1
+  diet: 'April/May; VUG: December'
+  euclid_code: INFR11145
+  euclid_url: http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11145.htm
+  name: Text Technologies for Data Science
+
