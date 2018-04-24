@@ -28,6 +28,9 @@
         {% endif %}
         {% if course %}
             | <a href="{{ site.data.courses[section.course-acronym].euclid_url }}">drps</a>
+            {% if course.year != section.year %}
+            This course is misplaced. It should be on the year {{ course.year }} page.
+            {% endif %}
         {% endif %}
         </small>
 
