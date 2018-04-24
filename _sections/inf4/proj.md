@@ -1,6 +1,8 @@
 ---
 year: inf4
-title: PROJ
+title: Honours Project
+course-acronym: proj
+pinned: true
 ---
 
 [A Template-based Model for Automatic Image Description (2014)](https://drive.google.com/file/d/0B2AAOQQZ_8BxdXpkWlpfczQ0dFU/edit?usp=sharing), [feedback](https://drive.google.com/file/d/0B2AAOQQZ_8BxVk5DX0hNSGU1Qjg/edit?usp=sharing), with Mirella Lapata (83%)
