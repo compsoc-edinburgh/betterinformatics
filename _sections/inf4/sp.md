@@ -1,5 +1,5 @@
 ---
-year: masters
+year: inf4
 course-acronym: sp
 title: SP (Secure Programming)
 ---
