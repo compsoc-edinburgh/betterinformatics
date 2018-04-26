@@ -1,5 +1,5 @@
 ---
-year: masters
+year: inf4
 title: "EXC: Extreme Computing"
 course-acronym: exc
 ---
