@@ -11,4 +11,4 @@ links:
 
 - **EXAM in April/May diet**
 
-Unofficial past paper solutions can be found in the [Team Drive](/files).
+Unofficial past paper solutions can be found in the [EPL folder in the Team Drive](/drive?next=0B2AAOQQZ_8BxYjhfTUNsR2dEaTQ).
