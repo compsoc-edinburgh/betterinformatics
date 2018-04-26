@@ -7,8 +7,6 @@ url: "https://betterinformatics.com" # update previous line
 domain: "betterinformatics.com" # update next line
 baseurl: "" # does not include hostname
 
-markdown: redcarpet
-
 collections:
     sections:
     pages:
