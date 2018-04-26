@@ -1,5 +1,6 @@
 ---
 year: inf4
+semester: 1
 title: "EXC: Extreme Computing"
 course-acronym: exc
 ---
