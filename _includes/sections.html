@@ -9,7 +9,7 @@
 {% capture sectionID %}
     {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
 {% endcapture %}
-{% assign course = site.data.courses[section.course-acronym] %}
+{% assign course = site.data.courses.list[section.course-acronym] %}
 <section id="{{ sectionID | strip }}" data-semester="{{ section.semester }}" {{ sectionStyle }}>
     <h3>
         {% if section.link %}
@@ -27,7 +27,7 @@
             {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
         {% endif %}
         {% if course %}
-            | <a href="{{ site.data.courses[section.course-acronym].euclid_url }}">drps</a>
+            | <a href="{{ course.euclid_url }}">drps</a>
             {% if course.year != page.year %}
             This course is misplaced. It should be on the year {{ course.year }} page.
             {% endif %}
