@@ -115,7 +115,7 @@ function showCalculatorError(str) {
 function updateCalculation() {
     showCalculatorError("");
 
-    const toSolve = "#" + $(lockButtons).filter("button:disabled")[0].id.replace("lock", "tar");
+    const toSolve = "#" + $(lockButtons).filter("button:disabled")[0].id.replace(/lock/g, "tar");
     console.log("Solving", toSolve)
     $(toSolve).val("");
 
@@ -190,14 +190,14 @@ function updateCalculation() {
 }
 
 const lockButtons = "#cw-lock-all, #cw-lock-cw, #cw-lock-exam"
-const targetInputs = lockButtons.replace("lock", "tar");
+const targetInputs = lockButtons.replace(/lock/g, "tar");
 function handleLock() {
     // Reset everything to normal
     $(lockButtons).removeAttr('disabled');
     $(targetInputs).removeAttr('disabled');
     $(lockButtons).text("lock me!");
 
-    const input = $("#" + this.id.replace("lock", "tar"));
+    const input = $("#" + this.id.replace(/lock/g, "tar"));
     input.val("");
     input.attr("disabled", true);
 
