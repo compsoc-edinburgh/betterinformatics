@@ -8,7 +8,7 @@ pinned: true
 - [InfWeb](http://web.inf.ed.ac.uk/), [Staff and Student Rep Meetings blog](http://blog.inf.ed.ac.uk/issr/)
 - [The Marauders App](https://mapp.betterinformatics.com) - map of machines
 - **Web printing interfaces**: [EveryonePrint](http://www.everyoneprint.is.ed.ac.uk), [ManagePrint](http://www.manageprint.is.ed.ac.uk)
-- [List of all Informatics courses](http://course.inf.ed.ac.uk/)
+- [List of all Informatics courses](http://course.inf.ed.ac.uk/), [Coursework Calculator](/calculator)
 - [Progression Guidance](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/progression-guidance)
 - [Course survey reports](http://www.inf.ed.ac.uk/admin/ITO/course-survey-reports/)
 - [Lecture recordings for CL, FP, ILA](https://lectures.dylant.org) (Password is appleton, Updates can take up to a week)
