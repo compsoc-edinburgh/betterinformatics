@@ -1,0 +1,242 @@
+---
+title: Coursework Calculator
+layout: page
+---
+
+<p>
+    Notes:
+    <ul>
+        <li>
+            <strong>Last updated from <a href="http://course.inf.ed.ac.uk">course.inf.ed.ac.uk</a>:</strong> {{ site.data.courses.last_update }}
+        </li>
+        <li>
+            If course.inf.ed.ac.uk counts "exam%" to be the total of written exam% and practical exam%, then this does too.
+        </li>
+        <li>
+            Disabled fields are missing data on the "Work%/Exam%" column on course.inf.ed.ac.uk
+        </li>
+        <li>
+            Selecting a course (optional) will:
+            <ul>
+                <li>automatically fill in the cw/exam weighting</li>
+                <li>link you to drps</li>
+            </ul>
+        </li>
+        <li>
+            Don't forget to visit drps to:
+            <ul>
+                <li>double check the cw/exam weighting</li>
+                <li>check for any additional assessment info (such as a requirement to pass the exam)</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Instructions.</strong>
+            <!-- I deliberately avoid saying "to pass" because there might be other reqs to pass -->
+            If you want to see how much you need in your exam to get 40% overall, first
+            <ul>
+                <li>Select your course.</li>
+                <li>Click <button onclick="alert('not this one')">lock me!</button> next to "Exam"</li>
+                <li>Fill in how much you got in your coursework (in x%).</li>
+                <li>Fill in <code>40</code> in the "Overall" field</li>
+                <!--
+                <li>???</li>
+                <li>PROFIT!</li>
+                -->
+                <li>The "Exam" field should now tell you how much you need in your exam to get 40% overall.</li>
+            </ul>
+        </li>
+    </ul>
+</p>
+
+
+<h3>Calculator</h3>
+
+<p>
+    <strong>Select course:</strong>
+
+    {% assign courses = site.data.courses.list %}
+    <select id="course-list">
+        <option>(select a course)</option>
+        {% for course in courses %}
+            <option data-acronym="{{ course[0] }}"
+                {% unless course[1].cw_exam_ratio %}
+                    disabled="disabled"
+                {% endunless %}
+            >{{ course[0] }}: {{ course[1].name }}</option>
+        {% endfor %}
+    </select>
+    <a href="#" id="course-descriptor" style="display: none">drps</a>
+
+    <br><br>
+
+    <p id="ccalc-error" style="color: red; font-weight: bold;"></p>
+    <strong>Weighting</strong> (select course above to fill this in)
+    <ul>
+        <li>
+            <strong>Coursework: </strong>
+            <input id="cw-w8-cw" style="width: 2rem"></input>%
+        </li>
+        <li>
+            <strong>Exam: </strong>
+            <input id="cw-w8-exam"  style="width: 2rem"></input>%
+        </li>
+    </ul>
+    <br>
+    <strong>Targets</strong> (lock one, fill other two)
+    <ul>
+        <li>
+            Exam:
+            <input id="cw-tar-exam"></input>% <button id="cw-lock-exam"></button>
+        </li>
+        <li>
+            Coursework:
+            <input id="cw-tar-cw"></input>% <button id="cw-lock-cw"></button>
+        </li>
+        <li>
+            Overall:
+            <input id="cw-tar-all"></input>% <button id="cw-lock-all"></button>
+        </li>
+    </ul>
+</p>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+const courseData = {{ courses | jsonify }};
+
+function showCalculatorError(str) {
+    if (str === "") {
+        $("#ccalc-error").text("");
+        return;
+    }
+
+    $("#ccalc-error").text("Error: " + str);
+}
+
+function updateCalculation() {
+    showCalculatorError("");
+
+    const toSolve = "#" + $(lockButtons).filter("button:disabled")[0].id.replace("lock", "tar");
+    console.log("Solving", toSolve)
+    $(toSolve).val("");
+
+    var overall = $("#cw-tar-all").val(), exam = $("#cw-tar-exam").val(), cw = $("#cw-tar-cw").val();
+    var ratio_cw = $("#cw-w8-cw").val(), ratio_exam = $("#cw-w8-exam").val();
+
+    if ((overall != "") && (exam != "") && (cw != "")) {
+        showCalculatorError("Only fill two of three targets");
+        return;
+    }
+
+
+    // If at least 2 are empty
+    if (
+        ((overall == "") && (exam == "") && (cw == ""))
+        || ((overall == "") && (exam == "") && (cw != ""))
+        || ((overall != "") && (exam == "") && (cw == ""))
+        || ((overall == "") && (exam != "") && (cw == ""))
+    ) {
+        console.log("At least 2 are empty.")
+        return;
+    }
+
+    if (overall != "") {
+        overall = parseInt(overall);
+    }
+    if (exam != "") {
+        exam = parseInt(exam);
+    }
+    if (cw != "") {
+        cw = parseInt(cw);
+    }
+
+    ratio_cw = parseInt(ratio_cw);
+    ratio_exam = parseInt(ratio_exam);
+
+    if (isNaN(ratio_cw) || isNaN(ratio_exam)) {
+        showCalculatorError("Invalid cw/exam weightings");
+        return;
+    }
+
+    if (isNaN(overall) || isNaN(exam) || isNaN(cw)) {
+        showCalculatorError("Numbers only please");
+        return;
+    }
+
+    ratio_cw /= 100;
+    ratio_exam /= 100;
+
+    const solveOverall = toSolve === "#cw-tar-all";
+    const solveExam = toSolve === "#cw-tar-exam";
+    const solveCw = toSolve === "#cw-tar-cw";
+
+    if (solveOverall) {
+        // overall = (cw * ratio_cw) + (exam * ratio_exam);
+        const result = (cw * ratio_cw) + (exam * ratio_exam);
+        $("#cw-tar-all").val(result);
+        console.log("#cw-tar-all", result);
+    } else if (solveExam || solveCw) {
+        // exam = (overall - (cw * ratio_cw)) / ratio_exam
+        // cw = (overall - (exam * ratio_exam)) / ratio_cw
+        // obj = (overall - inner) / outer
+        const inner = solveExam ? (cw * ratio_cw) : (exam * ratio_exam);
+        const outer = solveExam ? ratio_exam : ratio_cw;
+        const obj = solveExam ? "#cw-tar-exam" : "#cw-tar-cw";
+        const result = (overall - inner) / outer;
+        $(obj).val(result);
+        console.log(obj, result);
+    } else {
+        showCalculatorError("I can't into math.")
+    }
+}
+
+const lockButtons = "#cw-lock-all, #cw-lock-cw, #cw-lock-exam"
+const targetInputs = lockButtons.replace("lock", "tar");
+function handleLock() {
+    // Reset everything to normal
+    $(lockButtons).removeAttr('disabled');
+    $(targetInputs).removeAttr('disabled');
+    $(lockButtons).text("lock me!");
+
+    const input = $("#" + this.id.replace("lock", "tar"));
+    input.val("");
+    input.attr("disabled", true);
+
+    $(this).attr("disabled", true);
+    $(this).text('locked');
+
+    updateCalculation();
+}
+
+function changeCourse() {
+    const acronym = $(this).find("option:selected").data('acronym');
+    const course = courseData[acronym];
+    if (!course) {
+        $("#course-descriptor").hide();
+        return;
+    }
+
+    $("#course-descriptor").show();
+    $("#course-descriptor").attr('href', course.euclid_url);
+
+    if (course.cw_exam_ratio === null) {
+        showCalculatorError("course.inf.ed.ac.uk is missing a cw/exam ratio for this course");
+        return;
+    }
+
+    $("#cw-w8-cw").val(course.cw_exam_ratio[0]);
+    $("#cw-w8-exam").val(course.cw_exam_ratio[1]);
+
+    updateCalculation();
+}
+
+function loadCourseCalculator() {
+    $("#course-list").change(changeCourse)
+
+    $("input").on('input', updateCalculation);
+    $(lockButtons).click(handleLock);
+
+    handleLock.bind($("#cw-lock-all")[0])();
+}
+
+$(loadCourseCalculator);
+</script>
