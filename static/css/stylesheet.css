@@ -388,6 +388,9 @@ h1, h2, h3, h4, h5, h6 {
     margin: 10px auto;
     background: url("../img/betterinf-title.png")
 }
+#title:hover {
+    opacity: 0.5;
+}
 #content {
     padding: 30px 20px 100px 20px
 }
