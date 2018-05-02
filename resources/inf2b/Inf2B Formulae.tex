@@ -1,0 +1,824 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{commath}
+\usepackage{relsize}
+
+\author{Ben Southall}
+\title{Inf2B Summary and Formulae}
+
+\usepackage{bm,xstring}
+\newcommand{\bh}[1]{\bm{\hat{#1}}}
+\newcommand{\su}[2]{\sum\limits_{#1}^{#2}}
+\newcommand{\re}[1]{\frac{1}{#1}}
+
+\newcommand{\samplemean}[2]{\re{#2}\su{\MakeLowercase{#2}}{#2}#1_{\MakeLowercase{#2}}}
+
+\DeclareMathSizes{10}{12}{9}{5}
+
+\begin{document}
+	
+	{\LARGE Inf2B Learning Summary and Equations}
+	\begin{center}
+	
+	{\Large Version 1.0}
+
+	
+	{\Large May 2018}
+	
+	{\Large Ben Southall}
+	
+		\end{center}
+	
+	\section{Notation}
+	
+	Generally I have followed the notation used in the slides and the lecture notes. However I have made a few small deviations when I personally have found the lecture notes to cause confusion.
+	In all cases, I follow the convention that when iterating or summing over dimensions, an upper-case letter represents the highest index or a set, and the corresponding lower-case letter represents an index. For example,
+	\begin{center}
+		$ \sum\limits_d^D(...) $ \qquad for d $\epsilon$ D
+	\end{center}
+	
+	Generally, I use the following conventions for letters used as indices/sizes and sets:
+	
+	d, D - dimensions of vector-space, normally the dimensions or individual components of a feature vector. When using a matrix, d corresponds to an element representing the dth dimension of a feature-vector, but this could be in either direction of the matrix itself. For document classification, however, these letters represent documents.
+
+	n, N - a number of a set, generally the training samples or test samples.
+
+	k, K - the classes in classification problems.
+	
+	i,j - these are used in the notes but I prefer not to use i and j for general indices as I find it is quick to forget exactly what they are indexing. Therefore I will only use i and j when it is obvious that we are indexing over something for which there is no other clear choice of letter to use.
+	
+	Typically in a summation or product the indices start at 1 and go to the number at the top. If there is any divergence from this it will be noted explicitly. For example, the following are all equivalent:
+	\begin{center}
+		$\sum\limits_n^N(...) = \sum\limits_{n=1}^N(...) = \sum\limits_{n \epsilon N}(...) $
+	\end{center}
+	This last one demonstrates my informal use of th capital letter as if it were a set, this does not mean N is itself a set but rather $n \epsilon N$ is a shorthand for $n \epsilon \{1..N\}$
+	
+	The notes often use an alternative letter when we are considering alternative cases of the same type of thing, for wantt of better phrasing. For example, when considering a class k, the notes use the letter l to sum over all the other classes in K. In this case, I prefer to use k' to refer to a class that is not class k, so that I can remember what we're talking about. For example, 
+	
+	\begin{center}
+		
+		$		\frac{p(\mathbf{x}|C_k)P(C_k)}{\sum\limits_{k'}^Kp(\mathbf{x}|C_{k'})P(C_{k'})}
+		$
+	\end{center}
+	
+	Here, as we're summing over all classes K but we're considering a class k in the numerator, so we use k' to index the other classes in the denominator.
+	
+	Vectors will appear in bold face and in an exam I would underline them. Matrices in the notes appear in bold face, I will diverge from the notes' notation at times by using a capital bold letter in these notes for clarity.
+	
+	I am using this notation because on a personal level I sometimes find I get confused in the lecture notes and have adopted my own personal style that is only slightly different but will help me remember what I am doing more clearly. I hope it makes sense to you too. My strategy in the exam will be to be explicit about what notation I am using and if you did choose to follow my notation that would be a good idea, however if in doubt I can only recommend following the notation used in lectures verbatim. I have not *yet* asked Hiroshi about how strict the notation will be marked.
+	
+	
+
+	
+	
+	
+	\section{Distance and Similarity Measures}
+
+		\subsection{Distance Measures}
+		There are various ways of measuring how far two items are in D-dimensional vector-space. The \textit{Manhattan} or \textit{City-block} distance measures how far two items are from each other as if walking along a series of square blocks, as the streets are arranged in a modern city. It is called the \textit{$L_{1}$ norm} and is calculated thus:
+			\begin{center}
+			$
+			r_{1}(\textbf{a}, \textbf{b}) = \sum\limits_d^D\abs{a_d - b_d} 
+			$
+			
+			\end{center}
+			
+		The Euclidean distance is the 'normal' distance measure for basic geometry that we are used to using,
+		\begin{center}
+			$
+			r_{2}(\textbf{a}, \textbf{b}) = \abs{a-b} = \sqrt{\sum\limits_d^D(a_{d} - b_{d})^{2}} = \sqrt{\textbf{(a-b)}\cdot\textbf{(a-b)}}
+			$
+		\end{center}
+		
+		This measures the distance between two points, but is highly dependent on the units in question. We can normalise this to a similarity measure between 0 and 1 that is therefore independent of the scale of the numbers involved. For this, we use
+		\begin{center}
+\textsc{			$sim(\textbf{a}, \textbf{b}) = \frac{1}{1+r_2(\textbf{a}, \textbf{b})}$}
+		\end{center}
+		Thinking about how this works, when x and y are the same point, the Euclidean distance is 0 and the value is 1. When they are infinitely far away, the similarity is 0.
+		
+		The Hamming distance between two items is simply the number of items thsat differ. The binary strings "01101001" and "10101010" have a Hamming distance of 4.
+		\subsection{Correlation}
+			Correlation is different from distance. Distance measures whether different points are close to each other, whereas correlation measures if they follow a general trend - if when x is large, y is too, and when x is small, y is too. 
+			
+			The Pearson Correlation Co-efficient is defined as 
+			\begin{center}
+				$\rho(a, b) = 
+				\frac{1}{N-1} \sum\limits_n^N
+				\frac{(a_n - \mu_a)}{\sigma_a}
+				\frac{(b_n - \mu_b)}{\sigma_b} $				
+			\end{center}
+			where $\mu$ is the mean and $\sigma$ is the variance. Dissecting this, $(a_n - \mu_a)$
+			 is the straight-line distance from a to the mean value of a, and this is normalised by the variance of a. Therefore we have a relative measure of the deviation of a point from the mean. Because we take the product of the left- and right-hand sides, if a is greater than its mean when b is greater than its mean, the result is positive and we have a positive correlation. Conversely, if a is greater than its mean when b is less than its mean, the correlation is negative. This is a bit like how we take the covariance, except the covariance is a measure of how spread-out the data values are, and the correlation is a measure of whether the values follow a similar trend.
+			 
+			 When we are using vectors, we can represent this in the following way:
+			 \begin{center}
+			 	$ \frac {
+			 		(\mathbf{x}-\mathbf{\bar x}) \cdot (\mathbf{y}-\mathbf{\bar y})
+			 	}{
+				 	\abs{x-\bar x} \abs{y - \bar y}
+			 	}
+			 		 $
+			 \end{center}
+			 which is the same as the cosine of the angle between $x-\bar x$ and $y - \bar y$. This is one if they are both in the same direction (positive correlation), -1 if they are opposite (negative correlation) and 0 or very small if they are perpendicular (no correlation)
+			 
+			 We can also express the correlation succintly as 
+			 
+			 \begin{center}
+			 	$\rho(\textbf{a}, \textbf{b}) = \frac{COV(\textbf{a}, \textbf{b})}{\sigma_a \sigma_b}$
+			 \end{center}
+			 
+		\subsection{Recommender Systems}
+			For recommender systems, we have a set of known relations between two variables, let's assume this is a matrix $\bm M$ of c against f, using the film example, c is a critic and f is a film, amd $M_{c,f}$ is the rating given by a critic to a film. We want to find a film that a user u will like. The most basic theory is to graph in multiple dimensions. Each critic $c_i$ is a point in F dimensions, the value for each dimension being the value that the particular critic gave to that film. For example, if we have three critics, $c_1, c_2, c_3$ and $c_4$ and three films, $f_1, f_2,$ and $f_3$, then let's say
+			
+			\begin{center}
+				$
+					\bm M = \begin{bmatrix} 5 & 4 & 2 \\ 1 & 3 & 3 \\ 4 & 1 & 4 \\ 1 & 2 & 5 \end{bmatrix}  
+					\Rightarrow
+					\bm f_1 = \begin{bmatrix} 5 \\ 1 \\ 4 \\ 1 \end{bmatrix} , \bm c_1 = \begin{bmatrix} 5 & 4 & 2 \end{bmatrix}   
+				$
+			\end{center}
+			
+			To recap, in this case, we want to consider our \textit{users} as the points, and the \textit{items that are being reviewed} as the dimensions in this vector space. This is because we want to compare the location of a new user to that of the existing users, and use this to estimate what to recommend. We are recommending films to users, not users to films, so the film scores are the dimensions, and the users/critics are the points. 
+			
+			We use the Euclidean distance to work out how far existing critics' ratings are from the user's ratings, for those films the user has reviewed. We then normalise these using the similarity measure:
+			
+			\begin{center}
+				$sim(\bm{c_u}, \bm{c_i}) = \frac{1}{1 + \sqrt{\sum\limits_{f\epsilon F_u \cap F_i} (\bm M_{u,f} - \bm M_{i,f})^2}} $
+			\end{center}
+			where $f\epsilon F_u, \cap F_i$ expresses that we want the Euclidean distance between critic i and the new user, for all those films that both have rated already. We can't have the Euclidean distance in dimensions representing a film that either one or both hasn't rated yet.
+ 
+			
+			We could then recommend to the user the film that the closest critic most highly rated. Or we could use an average to smooth this out a bit and consider all critics.  For a film f that the user has not yet rated, we can complete the gaps in the user's critic vector $\bm c_u$ to make a complete, estimated critic vector $\bh c_u$:
+			
+			\begin{center}
+				$
+				\bh c_{uf} = \frac{1}{C}\sum\limits_c^C M_{c,f}
+				$
+			\end{center}
+			We average over all the critics their entry in the ratings matrix for that film, and assign this value to the gap in the user's entry.
+			 These two options aren't a very sophisticated system - using the closest critic's favourite film, if a critic gave a very bizarre rating for one film, this will enter into our system. And by averaging, we smooth it out but lose our sense of picking a close critic. So we combine these two into a method where we average, but weight our average by similarity:
+			 
+			 \begin{center}
+			 	$\bh c_{uf} = \frac{1}{\sum\limits_c^C sim(\bm M_c, \bm M_u)}\sum\limits_c^C(sim(\bm M_c, \bm M_u)\bm M_{cf})	$
+			 \end{center}
+			 
+			 Or, using vector notation,
+			 
+			 \begin{center}
+			 	$\bh x_{uf} = \frac{1}{\sum\limits_c^C sim(\bm x_c, \bm x_u)}\sum\limits_c^C(sim(\bm x_c, \bm x_u)\bm x_{cf})	$
+			 \end{center}
+			 
+			 By using correlation, instead of looking for the distance between film ratings, we look for how well film ratings occur in a pattern. For example, the vectors $\begin{bmatrix} 1 & 2 & 3 \end{bmatrix}$ and $\begin{bmatrix} 61 & 62 & 63 \end{bmatrix}$ have a large Euclidian distance measure but their values in each dimension are similar. If a critic ranks all films consistently lower than others, then a way to normalise the score is to take a measure from the mean of that critic's scores.
+			 
+			 \begin{center}
+			 	$
+				 	\bar x_c = \frac{1}{F}\sum\limits_f^F x_{cf}
+				 	$
+				 	
+				 	$
+				 	s_c = \sqrt{\frac{1}{F - 1}\sum\limits_f^F (x_{cm} - \bar x_c)^2}
+			 	$
+			 \end{center}
+			 
+			 If we then define the score for a critic c and a film f as $z_{cf}$, then this score has a mean of 0 and a (sample) standard deviation of 1:
+			 
+			 \begin{center}
+			 	$ z_{cf} = \frac{x_{cf} - \bar x_c}{s_c} $
+			 \end{center}
+			 
+			 We can also use the Pearson Correlation Co-efficient. 
+			 
+			 \begin{center}
+			 	$
+				 	r_{c_1c_2} = \re{F-1}\su{f}{F}(z_{c_1f})(z_{c_2f})
+				 	= \re{F-1}\su{f}{F}(\frac{x_{c_1f} - \bar x_{c_1}}{s_{c_1}})(\frac{x_{c_2f} - \bar x_{c_2}}{s_{c_2}})
+			 	$
+			 \end{center}
+			 
+			 
+			 This has the advantage that $-1 \leq r_{c_1c_2} \leq 1$ and so 1 can be added to give a similarity measure.
+			
+	\section{K-Means Clustering}
+		Cluster analysis is different from classification. In classification, there is some inherent difference between members of different classes, and the learning is a supervised process. With clustering we are simply trying to group points to reduce the amount of data we have to handle. Hierarchical clustering uses a tree-like structure and can be top-down or bottom-up. Partitional clustering divides the input space into non-overlapping clusters. K-means clustering is an example of this.
+		
+		K-means clustering to group D-dimensional vectors into K clusters:\newline
+		
+		Pick K random points to serve as cluster centres.
+		
+		Assign each point to the nearest cluster.
+		
+		Make each cluster centre the mean of its assigned vectors.
+		
+		If the cluster centre has moved, repeat from the assignment stage. \newline
+		
+		We use the mean-squared error function to find the distances of points $\bm x_n$ from the cluster centre $\bm m_k$:
+		
+		\begin{center}
+			$
+				E = \re N \su{k}{K} \su{n}{N} z_{nk} \abs{ \bm x_n - \bm m_k}^2 \quad \quad z_{nk}
+				= \begin{cases} 1 & \mbox{if } n\mbox{ belongs to class k} \\ 0 & \mbox{otherwise} \end{cases}
+			$
+			
+		\end{center}
+
+		The mean-square error function measures how far points are from their cluster means, but not how far clusters are from each other. K-means clustering is guaranteed to converge on a local minimum of the error function, but not encessarily the global minimum error. Where data are split far away and the cluster centre is in the middle, we may end up with one very large cluster rather than two smaller ones. Also, a large cloud of data can gradually pull a small cluster's cluster centre away from a good location for it 
+	\begin{center}
+		$
+			\min\limits_{z_{kn}} \frac{1}{N} \sum\limits_k^K\sum\limits_n^N z_{kn}\abs{\bm x_n - \bm m_k}^2
+		$
+	\end{center}
+	
+	\section{Dimensionality Reduction}
+	
+	For dimensionality reduction, we want to take D-dimensional data and reduce it to a (e.g.) 2-dimensional plane that facilitates visualisation of the data. For this, we take the dot product with (two) unit vectors, here called $\bh u$ and $\bh v$. For optimum viewing, we want the variance along these dimensions to be at maxima. Therefore the aim is the following maximisation problem:
+	
+	\begin{center}
+		$
+			\max\limits_{\bh u, \bh v} Var(u) + Var(v)$, subject to $\bh u \bot \bh v 
+			$ 
+			
+			where 
+			$ u_n = \bh u \centerdot \bm x_n, v_n = \bh v \centerdot \bm x_n, 
+		$
+	\end{center}
+	
+	$\bh u$ and $\bh v$ are the two eigenvectors with the largest eigenvalues of the covariance matrix, $\bm S$:
+	
+	\begin{center}
+		$ \bm S = \re{N-1}\su{n}{N}(\bm{x_n} - \bm{\bar x})(\bm{x_n} - \bm{\bar x})^T $
+		
+		$ \bm{\bar x} = \samplemean{\bm x}{N} $
+	\end{center}
+	
+	Apparently calculating eigenvectors is beyond the scope of the course.
+	
+	\section{K-Nearest-Neighbour Classification}
+	
+	In K-NN Classification, we have a set of N classified examples, X, and a set Z of observed vectors to be classified.
+	
+	for $\bm z \epsilon Z$
+	
+	\quad \quad for $\bm x \epsilon X$
+	
+	\quad \quad \quad \quad calculate distance $r(\bm z, \bm x)$ between $\bm z$ and $\bm x $
+	
+	
+	\quad \quad let $U_k(\bm z)$ be a subset of $X$ that contains the k nearest samples to $\bm z$
+	
+	\quad \quad let the class of $\bm z, c(\bm z) = \mathop{argmax} \limits_{c' \epsilon  C} \su{\bm x' \epsilon U_k(\bm z)}{} \delta_{c' c(x')}$
+	
+
+	\begin{center}
+		where 
+		{\small 
+		$\delta_{ab} = 	 \begin{cases} 1 & \mbox{if } a=b \\ 0 & \mbox{otherwise} \end{cases} $
+	}
+	\end{center}
+	
+	I.e. for each test point, for all the training data, we find the k closest points and pick the mode of the classes for these k nearest points.
+	
+	\section{Naïve Bayes}
+	
+	Bayes' theorem is a basic observation that we can calculate the probability that we observe a given that b is 'true' from the probability that we observe b given that a is 'true', and the probability of observing a in the first place. For classification, we express the probability that an observed feature vector $\bm x$ belongs to a class $C_k$ from the probability that within class $C_k$ we can find a feature vector $\bm x$ and the probsability that in any class we can find a feature vector $\bm x$.
+	
+	\begin{center}
+		$
+		P(C_k|\mathbf{x}) = \frac{p(\mathbf{x}|C_k)P(C_k)}{p(\mathbf{x})}
+		=
+		\frac{p(\mathbf{x}|C_k)P(C_k)}{\sum\limits_{k'}^Kp(\mathbf{x}|C_{k'})P(C_{k'})}
+		$
+	\end{center} 
+	
+	Here, $P(C_k|\bm x)$ is the \textit{posterior probability}, the probability that when we see $\bm x$, it belongs to class $C_k$. We normally assign $\bm x$ to the class with the highest posterior probability. $p(\bm x|C_k)$ is the \textit{likelihood} that within class k we would find a feature vector \textbf{x}, and $P(C_k)$ is the \textit{prior probability}, the probability that class k appears - this takes into account that some classes are more prevalent than others. If we give a photograph of a fruit to our model that has a height-to-width ratio equally matching the known ratios for a lemon and a dragonfruit, but we're in Scotmid, then it's most likely a lemon. Or, failing that, a bottle of Buckfast.
+	
+	When we are faced with a classification problem, $p(\bm x)$ can usually be omitted. This is because we have already observed x, now we need to decide on the most likely class for x. $p(\bm{x})$ makes no difference to the calculation of to which class we should assign $\bm x$. However in this case, we need to remember then that if we do omit this, the result is no longer a true probability. The results for all classes won't sum to unity.
+	
+	For D dimensions, with Naïve Bayes, we assume that each dimension is independent of each other. Therefore,
+	
+	\begin{center}
+		
+
+		$P(\bm x|C_k) = P(x_1, x_2, ..., x_D|C_k)$
+		\newline \newline
+		$= P(x_1|x_2, ..., x_D, C_k) P(x_2|x_3, ..., x_D, C_k) ... P(x_D|C_k)$
+		\newline \newline
+		$\simeq  P(x_1|C_k)P(x_2|C_k)...P(x_D|C_k)$
+
+	\end{center}
+	
+		\section{Document Classification}
+		
+		For document classification, we have two document models - the Bernoulli Model and the Multinomial Model.
+		They are based on two mathematical distributions of the same names.
+		\subsection{The Bernoulli, Binomial, and Multinomial Distributions}
+		When we are simulating a boolean process, such as tossing a coin, we have two outcomes. If we represent one outcome as being true, then $k = 0$ when the outcome is false and $k = 1$ when the outcome is true; k represents the number of times the outcome is 'true'.
+		When the probability that $k = 1$ is $p$, then if we have a random variable $X$, we can model $X$ by the Bernoulli distribution:
+		
+		\begin{center}
+			$ P(X = 0) = p, P(X = 1) = (1-p)$
+			
+			therefore
+			
+			$P(X=k) = kp + (1-k)(1-p) = p^k(1-p)^{1-k} $
+		\end{center}
+		We can then simulate the outcomes for a value of $k$ (0 or 1). 
+		
+		When we repeat this process multiple times, we get the binomial distribution:
+		
+		\begin{center}
+			$
+			P(X = k) = 	\binom{n}{k} p^k (1-p)^{n-k}
+			$	
+		\end{center} 
+		Here, we drop the restricion that $k \epsilon \{0,1\}$, rather $k \leq n$ represents the number of times that the outcome is 'true' and $p^k$ represents the chance of picking this outcome k times. The binomial co-efficient takes account of the fact that the order in which we pick the outcomes doesn't matter, as long as there are k of them. So we have repetitions.
+		
+		\begin{center}
+			$ \binom{n}{k} = \frac{n!}{r!(n-r)!} $
+		\end{center}
+		$n!$ represents the number of ways of picking n items when the order of them matters, and we divide by $r!$ because we don't care about the order of the 'true' outcomes, and by $(n-r)!$ because we don't care about the order of the 'false' outcomes.
+		
+		When we have more than two outcomes, let us have n items which can belong to one of D classes. I.e. the binomial model represents the special case where D=2, and the Bernoulli distribution represents the special case where D=2 and n=1. For a particular class d, let $n_d$ represent the number of items of class d. We take these as repeats, i.e. the items of class d are indistinguishable from each other. Using the string "hello" as an example, n = 5, D = 4, and the l is repeated so $n_l$ is 2. If we imagine selecting colourful stickers from a bag to spell out the word hello, it doesn't matter in which order we pick the 'l's.
+		
+		Therefore, again, we have $n!$ permutations, but for each $d$, we have $n_d$ permutations that are equivalent. The multinomial co-efficient is therefore:
+		
+		\begin{center}
+			$ \frac{n!}{\prod\limits_d^D n_d!} $
+		\end{center}
+		
+		To model a probabilistic distribution then,  let $p_d$ represent the probability of drawing an item of type d. If n items are drawn at random from a large set, then let $\bm x$ model the distribution with $x_d$ representing the number of times an item of type d is drawn. Therefore,
+		
+		\begin{center}
+			$ P(\bm x) = \frac{n!}{\prod\limits_d^D n_d!} \prod\limits_d^D p_d^{x_d} $
+		\end{center}
+		
+		Here, $p_d^{x_d}$ representd the probability of drawing an item of type d, the number of times in $x_d$ we want to model. So the left-hand side, the multinomial co-efficient represents the number of equivalent permutations, and the right-hand side represents the probability of one permutation. 
+		
+		\subsection{The Multinomial Document Model}
+		
+		
+		For each model we have a vocabulary w consisting of V words or word stems that are of interest to us in classifying documents into different categories. For a document $d$ in a test sample of $D$ documents, using Naïve Bayes,
+		
+		\begin{center}
+			$ P(C_k|\bm d) \propto P(\bm d|C_k)P(C_k) $
+		\end{center}
+		
+		
+		We estimate the probabilities of individual words:
+		
+		\begin{center}
+			$ \hat P(w_v|C_k) = \frac{\text{Number of documents in class k where $w_v$ is observed}}{\text{number of documents in class k}}$
+		\end{center}
+		
+		Class $C_k$ has $N_k$ documents in it, and document $\bm D_d^k$ is document d, belonging to class $C_k$.
+		
+		In the Bernoulli model, document $\bm D_d^k$ is a feature vector in $V$ dimensions, with each element, $D_{dv}^k$ representing the number of ocurrences in the document of word $v$. $n_k(w_v)$ represents the number of ocurrences of word $v$ in documents observed in class k during training. 
+		
+		We find the probability that a word $v$ occurs in a document of class k using the estimates from the training feature vectors. The the posterior probability that document d belongs to class k is estimated using Naïve Bayes, using a multinomial distribution on the probability of the individual words in the document. The multinomial model  uses the probabilities of drawing each word found in the document from the vocabulary, using the calculated probabilities that these words would occur in class k documents. The number of draws is thus the length of the document.
+		
+		\begin{center}
+			{\LARGE $ \hat P(w_v|C_k) = \frac{\su{n}{N_k} D^k_{nv}}{ \su{v'}{V} \su{n}{N_k} D^k_{nv'}  } $ }
+		\end{center} 
+		
+		Here we are summing over all the documents of class k $\{1..N_k\}$ and counting the ocurrences of word v, and dividing it by the ocurrences of all words in documents of class k. Here, we use $\bm D^k_n$ to represent the set of documents of class k, however the lecture notes use the notation 
+		
+		\begin{center}
+			{\LARGE $ \hat P(w_t|C_k) = \frac{\su{i}{N} x_{it}z_{ik}} {\su{s}{\abs V} \su{i}{N} x_{it}z_{ik}} $ }
+		\end{center} 
+		
+		where $\bm x_n$ is a document that may or may not be in class k, and so $z_{ik}$ is 1 when document $\bm x_n$ is in class k and 0 otherwise. In either case, they are both equivalent and equivalent to
+		
+		\begin{center}
+			{\LARGE $\frac{n_k(w_v)}{\su{v'}{V}n_k(w_{v'})}$ }
+		\end{center}
+		
+		For our multinomial model then, let $\bm x$ represent the feature vector for document d in class k, $D^k_d$. Recall that 
+		\begin{center}
+			$
+			\prod\limits_v^V P(w_v|C_k)^{x_v}
+			$
+		\end{center}
+		
+		gives the probability of drawing a single, unique string of words from the vocabulary that matches the document we see, and 
+		
+		\begin{center}
+			$ \frac{n!}{\prod\limits_v^V x_v!}  $
+		\end{center}
+		
+		normalises this to take into account that firstly, we're not interested in the order the words come in, and secondly, when we have repeated words, there are several orders of drawing them all of which have the same result. Therefore,
+		
+		
+		\begin{center}
+		{ \LARGE	$
+			P(\bm x|C_k) = \frac{n!}{\prod\limits_v^V x_v!} 	\prod\limits_v^V P(w_v|C_k)^{x_v}
+			$ }
+		\end{center}
+		
+		Again, as this is a classification problem, the multinomial co-efficient doesn't depend on the class and so can be omitted. So, 
+		
+		\begin{center}
+			$ P(C_k|\bm x) \propto P(\bm x|C_k)P(C_k) $
+			$ \propto (\prod\limits_v^V P(w_v|C_k)^{x_v} )P(C_k)$
+		\end{center}
+		
+		If we need the actual probability, then whilst the above expression is proportional to the probability but not equal to it, 
+		
+		\begin{center}
+			{\Large $ \hat{P}(\bm x|C_k) = \frac{P(\bm x|C_k)P(C_k)}{\su{k'}{K}P(\bm x|C_{k'})P(C_{k'})}$}
+		\end{center}
+		
+		
+		\subsection{The Bernoulli Document Model}
+		
+		In the Bernoulli model, the feature vector $\bm x = \bm D^k_d$ represents whether or not each word is present in the document, and not the frequency of ocurrences. We use the Bernoulli distribution to model the chance of picking out the feature vector representing the document and then use Naïve Bayes as before.
+		
+		\begin{center}
+			$
+			P(\bm x|C_k) = \prod\limits_v^V \left[ x_vP(w_v|C_k) + (1-x_v)(1-P(w_v|C_k))\right] 
+			$
+		\end{center}
+		As the model only takes into account presence or absence of a word, the estimated likelihood of the word is easier to calculate:
+		
+		\begin{center}
+			$ \hat{P}(w_v|C_k) = \frac{n_k(w_t)}{N_k} $
+		\end{center}
+		That's simply the number of documents in which word v ocurrs over the total number of documents, all within class k. So for the Bernoulli model,  $\hat{P}(w_v|C_k)$ represents the proportion of documents, whereas in the multinomial model, it represents the frequency of the word itself.
+		
+		For both models, $P(C_k)$ is the number of documents of class k over the number of documents, $\frac{N_k}{N}$.
+		A difference between the two models is that in the Bernoulli model, if a word does not occur in class k, that effects the probability of drawing document d, whilst in the multinomial model, only the presence of words in the vocabulary effects the probabilities.
+		
+	
+	
+	\section{Gaussian Classifiers}
+	
+	We use Gaussians because they fit a lot of data. When we observe data in many scenarios, they fit a 'bell curve' and this can be modelled by a Gaussian. So when we don't have enough samples to calculate a specific model for the data, we can assume that it fits a Gaussian distribution and this normally gives a satisfactory result.
+	In one dimension, the Gaussian function is as such:
+	
+	\begin{center}
+	\Large 	$
+			p(x|\mu, \sigma^2) = 
+			N(x|\mu, \sigma^2) =
+			\frac{1}{\sqrt{ 2\pi\sigma^2}}  e^{-\frac{(x-\mu)^2}{2\sigma^2}}
+		$
+	\end{center}
+	
+	For multiple dimensions, the formula induces last night's dinner. Let's see it in action:
+	
+		\begin{center}
+			\LARGE 
+			$
+			p(\bm x| \bm \mu,\bm \Sigma) = 
+			\frac{1}{
+				(2\pi)^{\frac{D}{2}}
+				\abs{\bm \Sigma}^{\frac{1}{2}}
+			}{
+				e^{
+					-\frac{1}{2}
+					(\bm x - \bm \mu)^T
+					\bm \Sigma^{-1}
+					(\bm x - \bm \mu)	
+				}
+			}
+			$
+		\end{center}
+		
+
+		We estimate the parameters $ \bm{\hat{\mu} } $ and $\bm{\hat{\Sigma}}$ from the sample data like so:
+		
+		\begin{center}
+			$
+				\bm{\hat{\mu}} = \frac{1}{N}\sum\limits_{n}^{N}\bm x_n
+			$
+				
+			$
+				\bm{\hat{\Sigma}} = \frac{1}{N-1}\sum\limits_n^N(\bm x - \bh{\mu})(\bm x - \bh{\mu})^T 
+			$
+		\end{center}
+		
+		For this exam, we will need to be able to find the inverse of a 2x2 matrix:
+		
+		\begin{center}
+			$
+				\bm A  \begin{bmatrix} a & b \\ c & d \end{bmatrix} 
+				\Longrightarrow A^{-1}  = 
+				\frac{1}{\abs{\bm A}} 
+				\begin{bmatrix} d & -b \\ -c & a \end{bmatrix}
+				=
+				\frac{1}{ad-bc} 
+				\begin{bmatrix} d & -b \\ -c & a \end{bmatrix}
+			$
+		\end{center}
+		
+		Using the covariance matrix, we can get the correlation co-efficient:
+		
+		\begin{center}
+		\Large	$
+				\rho(\bm x_i, \bm x_j) = \frac{\sigma_{ij}}{\sqrt{\sigma_{ii}\sigma_{jj}}}
+			$
+		\end{center}
+		
+		
+		Using a Gaussian to perform a basic classification, 
+		
+		\begin{center}
+			$ P(C_k|x) \propto P(x|C_k)P(C_k) = N(x;\mu, \sigma^2)$
+		\end{center}
+			Taking the natural logarithm of this gives the log likelihood,
+			
+			\begin{center}
+				$
+					LL(x|\mu_k, \sigma_k^2) = ln \text{ } p(x|\mu_k, \sigma_k^2)	
+					\quad = \quad \re{2}(-ln(2\pi) - ln(\sigma_k^2) - \frac{(x -  \mu_k)^2}{\sigma_k^2}
+				$
+			\end{center}
+			
+			The log posterior probability is therefore 
+			
+			\begin{center}
+				$ LL(x|C_k) + ln \text{ }P(C_k) + \kappa $
+			\end{center}
+			where $\kappa$ is some constant
+			
+			For two-class problems, we can take the ratio of these and base our decision on whether the result is greater than 1 or not, or for multiple classes, we can take the largest value and assign the feature vector to that class.
+	
+	\section{Discriminant Functions}
+	
+	The aim of a discriminant function is to define the boundary between regions associated with different classes. When deciding on a suitable discriminant function, we are trying to minimise the error rate, that is, the rate of misclassification.
+	
+	\begin{center}
+		$ P(Error) = \su{k}{K} \su{k'}{K} P(\bm x \epsilon \mathcal{R}_{k'} | k \neq k', x \epsilon C_k)P(C_k) $
+	\end{center}
+	
+	We sum the probability that $\bm x$ is misclassified into any region $\mathcal{R}_{k'}$ that is not the correct region, $\mathcal{R}_{k}$. For continuous probabilities, we would integrate over the region instead. Let's not.
+	
+	For a discriminant function $y_k$, we assign $\bm x$ to class $C_k$ if 
+	\begin{center}
+		$y_k(\bm x) > y_{k'}(\bm x) \quad  \forall \text{  }k' \epsilon K, \quad  k' \ne k $
+	\end{center}
+	
+	Using the log posterior probability as a discriminant function, 
+	
+	\begin{equation*}
+			y_k(\bm x) = ln\text{ }P(C_k|x) = ln\text{  }p(x|C_k) + ln\text{  }P(C_k) + \kappa
+	\end{equation*}
+	\begin{equation*}
+		= -\re{2}(\bm x-\bm \mu)^T\bm \Sigma_k^{-1}(\bm x-\bm\mu)
+			-\re{2} ln \abs{ \bm \Sigma_k} + ln\text{}P(C_k) + \kappa
+	\end{equation*}
+	
+	If the dimensions of our feature vectors are independent from each other, and the covariance is class-independent, then this reduces to a linear function:
+	
+	
+	\begin{equation*}
+	y_k(\bm x) = \bm \mu_k^T\bm \Sigma_k^{-1}\bm x \text{  }-\text{  }\re{2}\bm \mu_k^T\bm \Sigma_k^{-1}\bm \mu_k \text{  }+\text{  } ln\text{ }P(C_k)
+	\end{equation*}
+	
+	We can summarise this as follows:
+	
+	
+	\begin{equation*}
+	\text{Let } \bm w_k^T = \bm \mu_k^T\bm \Sigma_k^{-1} \text{  and  } w_{k0} = -\re{2}\bm w_k^T\bm \mu_k \text{  }+\text{  } ln\text{ }P(C_k)
+	\end{equation*}
+	then 
+	\begin{equation*}
+	y_k(\bm x) = \bm w_k^T\bm x + w_{k0}
+	\end{equation*}
+	
+	$\bm w_k^T$ is known as the weight vector, and $w_{k0}$ as the bias for the class.
+	
+	For a spherical Gaussian, 
+	
+	\begin{equation*}
+		\Sigma^{-1} = \re{\sigma^2}\bm I
+	\end{equation*}
+	
+	so 
+	
+	\begin{equation*}
+		y_k(\bm x) = \frac{\abs{\bm x - \bm \mu_k}^2}{2\sigma^2} + ln\text{}P(C_k)
+	\end{equation*}
+	
+	\begin{equation*}
+	 = \re{2\sigma^2}[(\bm x - \bm \mu_k)^T(\bm x - \bm \mu_k)] + ln\text{}P(C_k)
+	\end{equation*}
+	
+	When expanded, as $\bm{x^Tx}$ is class-independent,  
+	\begin{equation*}
+		y_k(\bm x) = \re{2\sigma^2} (\abs{\bm \mu_k}^2 - (\bm{\mu_k^Tx} - \bm{x^T\mu_k})) + ln\text{}P(C_k)
+	\end{equation*}
+	
+
+	\section{Neural Networks}
+	
+	Right, get ready for this, kids.
+	
+	A neural network can be used to estimate the weights for a discriminant function without needing to have an underlying mathematical model, such as the Gaussian distribution. Single-layer networks can only output linear discriminant functions, that is, hyperplanes through the D-dimensional vector space. But multi-layer networks can be non-linear and so can produce arbitrarily complex decision boundaries. 
+	
+	A neural network node can produce exactly one decision boundary, that is, it can only separate two things. It takes a feature vector $\bm x$ as input, multiplies it against a weight matrix and produces a scalar output, $y$. The lecture notes use a matrix for this and make it more complicated, this matrix simply represents multiple discriminant functions for multiple classes. We will just consider the single-class function.
+	Using the discriminant functions from before, 
+	
+	\begin{equation*}
+		y_k = w_{k0} + \bm{w_k^Tx}
+	\end{equation*}
+	We modify $\bm w_k$ to add $w_0$, and modify $\bm x$ to add 1 do the above reduces to 
+
+	\begin{equation*}
+		y_k = \bm{w_k^Tx}
+	\end{equation*}
+	
+	There are different types of neural networks. For linear networks with the step activation function, $y_k$ is 0 or 1, depending on which of the two classes the node assigns $\bm x$ to. In this case, we train the network with a series of training vectors (probably as a matrix), and a vector $\bm t$ where $t_n$ is 0 if $y_n$ should be 0 or 1 if $y_n$ should be 1.
+	Our aim is to choose the weights in $w_k$ so as to minimise the number of misclasifications. For N samples in the training set, we use the sum-of-squares error function,
+	
+	\begin{equation*}
+		E(\bm w) = \re{2} \su{n}{N} \abs{y_n - t_n}^2
+	\end{equation*} 
+	
+	\begin{equation*}
+	= \re{2} \su{n}{N} \abs{\bm {w_k^Tx_n} - t_n}^2
+	\end{equation*} 
+	
+	Because the output of the nodes is binary, we can't train the network based on this output, however we can train it using the error function as this is a smooth, continuous function. We want to find the gradient of the function, 
+	
+	\begin{equation*}
+		\nabla_{\bm w} E(\bm w_k) = (\pd{E}{w_{k0}} \text{  } ... \text{  } \pd{E}{w_{kd}})
+	\end{equation*}
+	The gradient is a vector in D dimensions representing the direction in which the error function increases most rapidly. Therefore, subtracting a small amount of this from the weights updates them to 
+	
+	For an iteration $\tau$, 
+	
+	\begin{equation*}
+		w_{ki}^{\tau + 1} = w_{ki}^{\tau} - \eta \pd{E}{w_{ki}} 
+	\end{equation*}
+	
+	For a single node,
+	
+	\begin{equation*}
+		E(\bm w_k) = \re{2} \su{n}{N} \su{d}{D}(w_{kd}x_{nd} - t_{n})
+	\end{equation*}
+	
+	\begin{equation*}
+		\pd{E}{w_{kd}} = \su{n}{N} \su{d'}{D}(w_{kd'}x_{nd'} - t_{n})x_{nd}
+	\end{equation*}
+	\begin{equation*}
+		= \su{n}{N} (y_n - t_{n})x_{nd}
+	\end{equation*}
+	
+	\begin{equation*}
+		= \su{n}{N} (\delta_n)x_{nd} \text{  where  } \delta_n = y_n - t_n
+	\end{equation*}
+	
+	Thus if the output from the node matches the expected output for that sample, the value is 0 and the weight is not adjusted.
+	
+	The following algorithm summarises this (sorry about the abhorrent spacing):\newline \newline
+	\quad while not converged
+	
+	\quad \quad $\Delta w_{kd} = 0 \text{ } \forall \text{ }k,d$
+	
+	\quad \quad for $n \epsilon N$
+	
+	\quad \quad \quad for $k \epsilon K$
+	
+	\quad \quad \quad \quad $y_{nk} = \su{d}{D} w_{kd}x_{nd}$
+	
+	\quad \quad \quad \quad $\delta_nk = y_{nk} - t_n$
+	
+	\quad \quad \quad \quad for $d \epsilon D$
+
+	\quad \quad \quad \quad \quad	$\Delta w_{kd} = \Delta w_{kd} + \delta_{nk}x_{nd} $
+	
+	\quad for $k \epsilon K$
+	
+	\quad \quad $ w_{k} = w_{k} - \eta w_k $
+	\newline \newline \newline
+	
+	We can also estimate $w_0$ from the input data:
+	
+	
+	\begin{equation*}
+		\bar{\bm x} = \re{N} \su{n}{N} \bm x_n 
+	\end{equation*}
+	
+	\begin{equation*}
+		\bar{t}_k = \re{N} \su{n}{N} t_{nk}
+	\end{equation*}
+	
+	\begin{equation*}
+		w_{k0} = \bar t_k - \su{d}{D} w_{kd}\bar x_d
+	\end{equation*}
+	
+	This is the difference between the mean number of samples has class k and the network outputs of class k, over all the training samples.
+	
+	Perceptrons are linear neural networks that produce a binary output. After applying the weights to the input, the summation phase, the output is passed into a function that returns 1 if the output is over a critical value or 0 if it is below that value. With the step function, no number of layers of the network can make any decision boundary that is not linear, but if we use a different function after the summation phase, we can make non-linear decisions and so can make arbitrarily complex decision boundaries.
+	
+	What happens if we would like a neural network whose output estimates the posterior probability of the class? Then we would like an \textit{activation function} that looks like the probability distribution for a two-class Gaussian. It turns out that the logistic sigmoid looks roughly like this, and also is differentiable over all input values, so it can be used in gradient descent training.
+	
+	Let $a$ be the activation value, then $a = \bm w^T\bm x$, then 
+	\begin{center}
+		$
+			y(\bm x) = g(a) = g(\bm w_k^T \bm x) = \frac{1}{1 + e^{(\bm w_k^T \bm x)}} 
+		$
+	\end{center}
+	
+	Note thet here, we are using $w_k$ to be the vector including the bias $w_0$, and x to have the additional one prepended for this. For two classes, if 
+	
+	\begin{equation*}
+		\bm w_k^T \bm x = ln \frac{P(\bm x|C_k)(PC_k)}{P(\bm x|C_k')(PC_k')}
+	\end{equation*}
+	
+	then 
+	
+	\begin{equation*}
+		P(C_k|\bm x) = y(\bm x) = g(a) = \re{1 + e^{-a}}
+	\end{equation*}
+	
+	This means for two-class problems, when using the logistic sigmoid, if the weights produced a log probability ratio, the output would actually be a posterior probability. It tuns out if we train our network well, using the sigmoid, the output of the neural network looks enough like a probability that we can use it as such. 
+	
+	We can train the network using gradient descent too, however the error function is different, so the derivative will be too.
+	
+	\begin{equation*}
+		E(\bm w) = \re{2} \su{n}{N} \su{k}{K}(\text{ } g(\bm w_k^T \bm x_n)\text{} - t_{nk}\text{ })^2
+	\end{equation*}
+	
+	\begin{equation*}
+		\pd{E_n}{W_{kd}} = \pd{E_n}{y_{nk}} \pd{y_{nk}}{a_nk{}} \pd{a_{nk}}{w_{kd}}
+	\end{equation*}
+	
+	\begin{equation*}
+		= \delta_{nk}\text{ }g'(a_{nk})\text{ }x_{nd}
+	\end{equation*}
+	
+	\begin{equation*}
+	\Rightarrow \pd{E}{w_{kd}} = \su{n}{N} g(a_{nk})(1-g(a_{nk}))\text{ }\delta_{nk}\text{ }\text{ }x_{nd}
+	\end{equation*}
+	
+	\begin{equation*}
+	\Rightarrow w_{kd} = w_{kd} - {\Huge \eta}[  g(a_{nk})(1-g(a_{nk}))\text{ }(y_{nk} - t_{nk})\text{ }\text{ }x_{nd} ]
+	\end{equation*}
+	
+	For multiple classes, we use the Softmax activation function instead.
+	\begin{center}
+		$
+			P(C_k | \bm x) = y_k(\bm x) = g(a_k) 
+			= \frac{\mathlarger{e^{(a_k)}}}{\sum\limits_{k'}^K \mathlarger{e^{(a_{k'})}}} 
+			= \frac{\mathlarger{e^{(\bm w_{k}^T \bm x)}}}{\sum\limits_{k'}^K \mathlarger{e^{(\bm w_{k'}^T \bm x)}}} 
+		$
+	\end{center}	
+	
+	For both of these, the output addds to 1 and each output is the posterior probability of class k.
+	
+	For Softmax, 
+	
+	ust 
+	\begin{equation*}
+		\pd{E}{W_{kd}} = \su{k'}{K} \delta_{nk'}\text{ }y_{k'}I_{kk'} - y_{k'}y_k
+	\end{equation*}
+	
+	where $I_{ab}$ = 1 iff $a = b$ and 0 otherwise.
+	
+	\section{Appendix: JSome of the Lyrics to Cry for You by September}
+\begin{center}
+	I never had to say goodbye
+
+	You must have known I wouldn't stay
+
+	While you were talking about our life
+
+	You killed the beauty of today
+
+
+	
+
+	Forever and ever
+
+	Life is now or never
+
+	Forever never comes around
+
+	People love and let go
+
+
+	
+
+	Forever and ever
+
+	Life is now or never
+
+	Forever's gonna slow you down
+
+
+	
+
+	You'll never see me again
+
+	So now who's gonna cry for you
+
+	You'll never see me again
+
+	No matter what you do
+	
+\end{center}
+
+\end{document}
