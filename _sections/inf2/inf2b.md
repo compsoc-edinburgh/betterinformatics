@@ -11,6 +11,7 @@ links:
 ---
 
 - Revision Hive Mind doc: [CLICK ME](https://drive.google.com/folderview?id=0BzxEStTA9O-SamF2YWFWRFJCNGc&usp=sharing)
+- [Revision Formulae for Learning Thread (pdf)](/resources/inf2b/Inf2B_Formulae.pdf) [(LaTex)](/resources/inf2b/Inf2B_Formulae.tex)
 
 **Learning**
 
