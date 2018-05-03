@@ -35,7 +35,7 @@ layout: page
             If you want to see how much you need in your exam to get 40% overall, first
             <ul>
                 <li>Select your course.</li>
-                <li>Click <button onclick="alert('not this one')">lock me!</button> next to "Exam"</li>
+                <li>Click <button onclick="alert('not this one')">calculate me!</button> next to "Exam"</li>
                 <li>Fill in how much you got in your coursework (in x%).</li>
                 <li>Fill in <code>40</code> in the "Overall" field</li>
                 <!--
@@ -195,14 +195,14 @@ function handleLock() {
     // Reset everything to normal
     $(lockButtons).removeAttr('disabled');
     $(targetInputs).removeAttr('disabled');
-    $(lockButtons).text("lock me!");
+    $(lockButtons).text("calculate me!");
 
     const input = $("#" + this.id.replace(/lock/g, "tar"));
     input.val("");
     input.attr("disabled", true);
 
     $(this).attr("disabled", true);
-    $(this).text('locked');
+    $(this).text('calculated');
 
     updateCalculation();
 }
