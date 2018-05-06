@@ -10,14 +10,11 @@ links:
     url: https://piazza.com/class/jc7iuf9dssg44f
 ---
 
-- Revision Hive Mind doc: [CLICK ME](https://drive.google.com/folderview?id=0BzxEStTA9O-SamF2YWFWRFJCNGc&usp=sharing)
-- [Revision Formulae for Learning Thread (pdf)](/resources/inf2b/Inf2B_Formulae.pdf) [(LaTex)](/resources/inf2b/Inf2B_Formulae.tex)
-
 **Learning**
 
 - [What is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk) (3blue1brown)
 - [Using neural nets to recognise handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
-
+- [Revision Formulae for Learning Thread (pdf)](/resources/inf2b/Inf2B_Formulae.pdf) [(LaTex)](/resources/inf2b/Inf2B_Formulae.tex)
 
 
 - [MATLAB for use at home](https://www.ed.ac.uk/information-services/computing/desktop-personal/software/main-software-deals/matlab/matlab-homeuse) (free)
