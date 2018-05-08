@@ -17,7 +17,7 @@ If you share one of the above links directly, users without access will be prese
 **This is bad!** There is an automated system to add users to the Team Drive.
 
 <p>
-You can just click the <a href="/drive" class=btn>**new** team drive</a> button at the top, and this will just prompt you to log in and associate your
+You can just click the <a href="/drive" class="btn">new team drive</a> button at the top, and this will just prompt you to log in and associate your
 Informatics DICE account (to prove you're an inf student) with a Google account (to use Google Drive).
 </p>
 
