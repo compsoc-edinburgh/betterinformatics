@@ -17,6 +17,16 @@ links:
 - [Revision Formulae for Learning Thread (pdf)](/resources/inf2b/Inf2B_Formulae.pdf) [(LaTex)](/resources/inf2b/Inf2B_Formulae.tex)
 
 
+**ADS**
+
+- [Introduction to ADS](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/) (gitbook, non inf)
+- [Amazing interactive examples from from USFCA](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Wikibook covering most of the stuff we are doing](https://en.wikibooks.org/wiki/Data_Structures)
+- [Karatsuba Multiplication in 13 minutes](https://www.youtube.com/watch?v=JCbZayFr9RE) (video, watchable at 1.25x)
+
+
+**Learning coursework** 
+
 - [MATLAB for use at home](https://www.ed.ac.uk/information-services/computing/desktop-personal/software/main-software-deals/matlab/matlab-homeuse) (free)
 - Installing [GNU Octave on macOS](http://www.schoeps.org/home/2018/01/how-to-compile-gnu-octave-with-openblas-on-macos/) (much lighter than MATLAB)
 - **NumPy**: [quickstart tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
@@ -27,11 +37,3 @@ links:
    - [Interactive veronoi knn explorer](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
    - [Interactive SVM examples, similar to discriminant functions](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)
    - [Linear classifiers](http://cs231n.github.io/linear-classify/) the content seems to better explain the lectures on NN and discriminant functions
-
-
-**ADS**
-
-- [Introduction to ADS](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/) (gitbook, non inf)
-- [Amazing interactive examples from from USFCA](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- [Wikibook covering most of the stuff we are doing](https://en.wikibooks.org/wiki/Data_Structures)
-- [Karatsuba Multiplication in 13 minutes](https://www.youtube.com/watch?v=JCbZayFr9RE) (video, watchable at 1.25x)
