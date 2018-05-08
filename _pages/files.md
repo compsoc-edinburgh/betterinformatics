@@ -12,7 +12,9 @@ When you share a link (see types of links below), only people who are added to t
 
 If you share one of the above links directly, users without access will be presented with the below interface:
 
+<center>
 [![Google Drive request access](https://i.imgur.com/DYAMx8ol.png)](https://i.imgur.com/DYAMx8o.png)
+</center>
 
 **This is bad!** There is an automated system to add users to the Team Drive.
 
