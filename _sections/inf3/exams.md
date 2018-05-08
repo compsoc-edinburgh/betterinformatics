@@ -38,4 +38,4 @@ exams:
 
 {% include exams.html %}
 
-<br>[View more...](https://betterinformatics.com/resources/inf3-exams)
+[View more...](https://betterinformatics.com/resources/inf3-exams)
