@@ -16,10 +16,9 @@ If you share one of the above links directly, users without access will be prese
 
 **This is bad!** There is an automated system to add users to the Team Drive.
 
-<p>
-You can just click the <a href="/drive" class="btn">new team drive</a> button at the top, and this will just prompt you to log in and associate your
+
+You can just click the <a href="/drive" style="padding: 0 0.5em;" class="btn"><strong>new</strong> team drive</a> button at the top, and this will just prompt you to log in and associate your
 Informatics DICE account (to prove you're an inf student) with a Google account (to use Google Drive).
-</p>
 
 **If you would like to directly send a link to someone in a group chat**... copy the bolded bit in the URLs above and paste
 it in the section indicated below by `ID_HERE`:
