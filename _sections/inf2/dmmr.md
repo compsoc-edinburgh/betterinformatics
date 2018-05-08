@@ -16,11 +16,11 @@ links:
 
 85% **non-calculator** open book exam, 15% across 9 assessments. Pass: 40% overall.
 
-- Useful notes: [logic-1](/inf1#logic-1), [inf1-cl](/inf1#inf1-cl)
+- Some [inf1-cl](/inf1#inf1-cl) links may be useful.
 - [Companion website for textbook](http://highered.mheducation.com/sites/0071315012/student_view0/index.html)
 - [List of topics per exam](https://gist.github.com/neanias/058ac1d64386f240bfc38922e764e8a6)
 - [Trev tutor on DMMR](https://trevtutor.com/discretemath/discretemath1/) and [part 2](https://trevtutor.com/discretemath/discrete-math-2/) - similar to Khan academy
-- [Course notes](https://github.com/eonu/dmmr)
+- [Course notes](https://github.com/eonu/dmmr) by Edwin Onuonga (2017-18)
 - **Videos**
   - [Surjective and Injective functions](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/surjective-onto-and-injective-one-to-one-functions)
   - [Proof by Induction](https://www.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-induction/v/proof-by-induction)
