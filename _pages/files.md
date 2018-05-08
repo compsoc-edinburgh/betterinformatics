@@ -1,3 +1,6 @@
+---
+---
+
 ### [Please read the welcome document.](/drive?next=1W1xVJs_RvV3KBbk1bKjsDvYUyUitER4jVbuae-nUFx8)
 
 When you share a link (see types of links below), only people who are added to the Better Informatics Team Drive have access.
