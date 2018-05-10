@@ -27,7 +27,7 @@
             {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
         {% endif %}
         {% if course %}
-            | <a href="{{ course.euclid_url }}">drps</a>
+            | <a href="{{ course.euclid_url }}">drps</a>, <a href="http://course.inf.ed.ac.uk/{{ section.course-acronym }}">info</a>
             {% if course.year != page.year %}
             This course is misplaced. It should be on the year {{ course.year }} page.
             {% endif %}
