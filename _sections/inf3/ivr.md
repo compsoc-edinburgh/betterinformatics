@@ -6,8 +6,6 @@ archived: false
 title: IVR - Introduction to Vision and Robotics
 course-acronym: ivr
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/ivr/
 ---
 
 - **EXAM in April/May diet**

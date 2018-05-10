@@ -6,8 +6,6 @@ archived: false
 title: CS - Computer Security
 course-acronym: cs
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/cs/
 ---
 
 - **EXAM in April/May diet**

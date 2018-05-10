@@ -5,8 +5,6 @@ title: INF2D - Reasoning and Agents
 course-acronym: inf2d
 pinned: true # temporary pinned as last inf exam
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/inf2d/
   - name: piazza
     url: https://piazza.com/class?nid=j8vrdotz8xx2x1
 ---

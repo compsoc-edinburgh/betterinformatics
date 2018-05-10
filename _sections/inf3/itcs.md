@@ -6,8 +6,6 @@ archived: false
 title: ITCS - Introduction to Theoretical Computer Science
 course-acronym: itcs
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/itcs/
 ---
 
 - **EXAM in April/May diet**

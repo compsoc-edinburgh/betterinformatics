@@ -4,8 +4,6 @@ semester: 1
 title: DMMR - Discrete Mathematics and Mathematical Reasoning
 course-acronym: dmmr
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/dmmr/
   - name: drive
     url: /drive?next=0B4SUSkTXjliXbWN0YUF5cEx1ZFE
 ---

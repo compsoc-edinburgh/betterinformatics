@@ -6,8 +6,6 @@ archived: false
 title: DBS -	Database Systems
 course-acronym: dbs
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/dbs
 ---
 
 - **EXAM in December diet**

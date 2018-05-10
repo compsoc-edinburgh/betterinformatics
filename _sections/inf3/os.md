@@ -6,8 +6,6 @@ archived: false
 title: OS - Operating Systems
 course-acronym: os
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/os/
 ---
 
 - **EXAM in April/May diet**

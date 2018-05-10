@@ -6,8 +6,6 @@ archived: false
 title: CT - Compiling Techniques
 course-acronym: ct
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/ct/
 ---
 
 - **NO EXAM**

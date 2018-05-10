@@ -6,8 +6,6 @@ archived: false
 title: AR - Automated Reasoning
 course-acronym: ar
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/ar/
 ---
 
 - **EXAM in April/May diet**

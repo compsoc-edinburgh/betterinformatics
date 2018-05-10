@@ -6,8 +6,6 @@ archived: false
 title: FNLP - Foundations of Natural Language Processing
 course-acronym: fnlp
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/fnlp/
 ---
 
 - **EXAM in April/May diet** *See shared drive for past papers and solutions.*

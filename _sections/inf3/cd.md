@@ -6,8 +6,6 @@ archived: false
 title: CD - Computer Design 
 course-acronym: cd
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/cd/
 ---
 
 - **EXAM in December diet**

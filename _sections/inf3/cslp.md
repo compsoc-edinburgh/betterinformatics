@@ -6,8 +6,6 @@ archived: false
 title: CSLP - Computer Science Large Practical
 course-acronym: cslp
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/cslp/
 ---
 
 - **NO EXAM**

@@ -4,8 +4,6 @@ semester: 1
 title: INF2C - Software Engineering
 course-acronym: inf2c-se
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/inf2c-se/
   - name: piazza
     url: https://piazza.com/class/j7reoafzetw5pt
 ---

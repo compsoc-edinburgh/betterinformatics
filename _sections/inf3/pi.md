@@ -6,8 +6,6 @@ archived: false
 title: PI - Professional Issues
 course-acronym: pi
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/pi/
 ---
 
 - **EXAM in December diet**

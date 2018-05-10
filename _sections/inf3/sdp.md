@@ -6,8 +6,6 @@ archived: false
 title: SDP - System Design Project
 course-acronym: sdp
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/sdp
 ---
 
 - **NO EXAM**

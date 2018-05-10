@@ -6,8 +6,6 @@ archived: false
 title: AILP - AI Large Practical
 course-acronym: ailp
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/ailp
 ---
 
 - **NO EXAM**

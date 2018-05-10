@@ -6,8 +6,6 @@ course-acronym: inf2a
 links:
   - name: schedule
     url: https://www.inf.ed.ac.uk/teaching/courses/inf2a/schedule.html
-  - name: info
-    url: http://course.inf.ed.ac.uk/inf2a/
 ---
 - Useful regex notes can be found here: [inf1-cl](/inf1#inf1-cl)
 - Assignment 2: given 17th Nov, due 1st Dec
