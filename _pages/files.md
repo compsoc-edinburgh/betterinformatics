@@ -3,7 +3,7 @@
 
 ### [Please read the welcome document.](/drive?next=1W1xVJs_RvV3KBbk1bKjsDvYUyUitER4jVbuae-nUFx8)
 
-## [If you want to leave the Drive, click here.](https://groups.google.com/a/betterinformatics.com/forum/#!myforums)
+### [If you want to leave the Drive, click here.](https://groups.google.com/a/betterinformatics.com/forum/#!myforums)
 
 When you share a link (see types of links below), only people who are added to the Better Informatics Team Drive have access.
 
