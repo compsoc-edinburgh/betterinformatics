@@ -20,4 +20,5 @@ links:
 - [XPath Tutorial](https://www.w3schools.com/xml/xpath_intro.asp)
 - [A Level Database Wikibook](https://en.wikibooks.org/wiki/A-level_Computing/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Databases) (make sure you visit this on the desktop)
 - [Visgean's incomplete notes covering most of the coursework](https://paper.dropbox.com/doc/Data-iEDC320SH3inY01zculiN)
+- [DA Quizlet](https://quizlet.com/286735221/inf1-data-and-analysis-flash-cards/)
 - **How to pass**: you can learn everything off the slides.
