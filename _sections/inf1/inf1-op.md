@@ -10,6 +10,8 @@ links:
   - name: piazza
     url: https://piazza.com/ed.ac.uk/spring2017/inf1op/
 ---
+> _the key to passing is practicing_
+
 - Allocations: [tutorials], [labs]
 - [Offline version of lab work](/static/year1/2016_labs_offline.zip)
 - [Online book]
