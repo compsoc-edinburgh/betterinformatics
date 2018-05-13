@@ -1,6 +1,7 @@
 
-{% for section in sections %}
+{% assign section=page %}
 {% assign size = section.path.size | minus: 9 | minus: 4 %}
+{{ size }}
 {% if section.semester == site.data.settings.semester or section.semester == 100 %}
     {% capture sectionStyle %}{% endcapture %}
 {% else %}
@@ -40,6 +41,5 @@
         <a class="link-icon" href="#{{ sectionID | strip }}"><i class="fa fa-link" aria-hidden="true"></i></a>
         <a class="edit-pencil" href="https://github.com/{{ site.data.repo }}/blob/master/{{ section.path }}"><i class="fa fa-pencil" aria-hidden="true"></i></a>
     </h3>
-    {{ section.content | markdownify }}
+    {{ section }}
 </section>
-{% endfor %}

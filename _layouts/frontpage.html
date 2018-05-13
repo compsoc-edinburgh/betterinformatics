@@ -25,18 +25,22 @@ layout: default
 
 <!-- First show pinned sections -->
 
-{% assign sections = site.sections | where: "year", name | where: "pinned", true | sort: "title" %}
+{% assign sections = site.sections | where: "year", page.year | where: "pinned", true | sort: "title" %}
 {% if page.show-archived == false %}
 {% assign sections = sections | where: "archived", "false" %}
 {% endif %}
 
-{% include sections.html sections=sections %}
+{% for section in sections %}
+    {{ section }}
+{% endfor %}
 
 <!-- Then show non-pinned sections -->
 
-{% assign sections = site.sections | where: "year", name | where: "pinned", false | sort: "title" %}
+{% assign sections = site.sections | where: "year", page.year | where: "pinned", false | sort: "title" %}
 {% if page.show-archived == false %}
 {% assign sections = sections | where: "archived", "false" %}
 {% endif %}
 
-{% include sections.html sections=sections %}
+{% for section in sections %}
+    {{ section }}
+{% endfor %}
