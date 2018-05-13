@@ -5,11 +5,12 @@ course-acronym: inf1-op
 semester: 2
 archived: false
 links:
-  - name: labs
+  - name: piazza
+    url: https://piazza.com/class/j6gifdt4bnq3ha
+  - name: labs
     url: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2018/labs/index.html
-  - name: piazza
-    url: https://piazza.com/ed.ac.uk/spring2017/inf1op/
 ---
+
 > _the key to passing is practicing_
 
 - Allocations: [tutorials], [labs]
