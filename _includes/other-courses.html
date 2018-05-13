@@ -1,0 +1,24 @@
+<!-- Rendering other eligible courses -->
+<!-- Create empty sections array -->
+{% assign sections = ''|split:''%}
+
+{% for section in site.sections %}
+    {% assign course = site.data.courses.list[section.course-acronym] %}
+    {% if page.levels contains course.level and page.year != section.year and section.course-acronym != "proj" %}
+        {% assign sections = sections|push:section%}
+    {% endif %}
+{% endfor %}
+
+{% if sections.size > 0 %}
+<p>
+    <strong title="These courses are intended for other years, but you can still take them.">Other courses: </strong>
+    {% for section in sections %}
+        {% capture sectionID %}
+            {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
+        {% endcapture %}
+
+        <a href="/inf{{ section.year }}#{{ sectionID | strip }}">
+        {{ section.course-acronym }}</a>{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+</p>
+{% endif %}
