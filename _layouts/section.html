@@ -1,6 +1,5 @@
 
 {% assign section=page %}
-{% assign size = section.path.size | minus: 9 | minus: 4 %}
 {% if section.semester == site.data.settings.semester or section.semester == 100 %}
     {% capture sectionStyle %}{% endcapture %}
 {% else %}
