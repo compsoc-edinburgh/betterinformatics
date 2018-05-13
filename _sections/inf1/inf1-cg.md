@@ -16,9 +16,10 @@ links:
 **Priority reading list**
 
 All of the readings are examinable, but if you want to prioritise, here is the recommended order:
-(1) Chapters 1-4 and 7 of the Pinker book, minus places where there's no relevance to lecture content
-(2) Chapter 4 of Harley's "Psychology of Language"
-(3) Any paper covering something you're not sure you fully understand. For example, if you're not 100% clear on perceptrons, have a look at the Gurney reading
+
+* Chapters 1-4 and 7 of the Pinker book, minus places where there's no relevance to lecture content
+* Chapter 4 of Harley's "Psychology of Language"
+* Any paper covering something you're not sure you fully understand. For example, if you're not 100% clear on perceptrons, have a look at the Gurney reading
 
 
 
