@@ -1,5 +1,5 @@
 ---
-year: masters
+year: 5
 semester: 2
 title: Exams
 pinned: true

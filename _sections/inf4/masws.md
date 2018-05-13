@@ -1,5 +1,5 @@
 ---
-year: inf4
+year: 4
 title: MASWS (SWS as of 2015 Exam)
 course-acronym: sws
 archived: true

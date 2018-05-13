@@ -5,7 +5,7 @@ contents = f.read()
 
 
 def filer(title, content):
-	return "---\nyear: masters\ntitle: {}\n---\n\n{}\n".format(title, content)
+	return "---\nyear: 5\ntitle: {}\n---\n\n{}\n".format(title, content)
 
 matches = re.findall(r"\n\*\*(.*?)\*\*\n\n((?:.|\n)*?)(?=\*\*)", contents)
 for row in matches:

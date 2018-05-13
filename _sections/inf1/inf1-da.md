@@ -1,6 +1,6 @@
 ---
 title: Data and Analysis
-year: inf1
+year: 1
 course-acronym: inf1-da
 semester: 2
 links:

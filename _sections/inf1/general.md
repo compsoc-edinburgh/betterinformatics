@@ -1,5 +1,5 @@
 ---
-year: inf1
+year: 1
 title: General
 pinned: true
 links:

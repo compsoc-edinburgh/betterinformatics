@@ -1,5 +1,5 @@
 ---
-year: inf3
+year: 3
 title: SP (Speech Processing)
 semester: 1
 link: http://www.speech.zone/courses/speech-processing/

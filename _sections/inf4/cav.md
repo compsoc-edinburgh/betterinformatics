@@ -1,5 +1,5 @@
 ---
-year: inf4
+year: 4
 title: CAV
 course-acronym: cav
 archived: false

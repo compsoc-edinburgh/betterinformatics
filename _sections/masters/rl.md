@@ -1,5 +1,5 @@
 ---
-year: masters
+year: 5
 title: RL
 course-acronym: rl
 ---

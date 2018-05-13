@@ -1,5 +1,5 @@
 ---
-year: inf3
+year: 3
 semester: 1
 credits: 20
 archived: false

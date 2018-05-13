@@ -1,5 +1,5 @@
 ---
-year: inf2
+year: 2
 semester: 2
 title: INF2D - Reasoning and Agents
 course-acronym: inf2d

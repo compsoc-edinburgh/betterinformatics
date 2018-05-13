@@ -1,5 +1,5 @@
 ---
-year: inf4
+year: 4
 title: ES
 course-acronym: es
 archived: true

@@ -1,5 +1,5 @@
 ---
-year: inf2
+year: 2
 title: INF2B - Algorithms, Data Structures and Learning
 semester: 2
 course-acronym: inf2b

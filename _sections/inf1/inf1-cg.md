@@ -1,6 +1,6 @@
 ---
 title: Cognitive Science
-year: inf1
+year: 1
 course-acronym: inf1-cg
 semester: 2
 links:

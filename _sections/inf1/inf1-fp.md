@@ -1,6 +1,6 @@
 ---
 title: Functional Programming
-year: inf1
+year: 1
 course-acronym: inf1-fp
 semester: 1
 archived: false

@@ -1,6 +1,6 @@
 ---
 title: Calculus and its Applications
-year: inf1
+year: 1
 semester: 2
 archived: false
 links:

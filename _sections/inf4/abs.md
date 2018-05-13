@@ -1,5 +1,5 @@
 ---
-year: inf4
+year: 4
 title: ABS
 link: /inf3#abs 
 course-acronym: abs

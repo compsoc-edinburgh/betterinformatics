@@ -1,5 +1,5 @@
 ---
-year: inf1
+year: 1
 semester: 2
 title: Exams
 pinned: true

@@ -1,5 +1,5 @@
 ---
-year: masters
+year: 5
 title: PMR
 course-acronym: pmr
 ---

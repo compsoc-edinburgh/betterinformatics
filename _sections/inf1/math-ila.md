@@ -1,6 +1,6 @@
 ---
 title: Introduction to Linear Algebra
-year: inf1
+year: 1
 semester: 1
 archived: false
 links:

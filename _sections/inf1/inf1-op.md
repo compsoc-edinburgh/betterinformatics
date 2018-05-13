@@ -1,6 +1,6 @@
 ---
 title: Object Oriented Programming
-year: inf1
+year: 1
 course-acronym: inf1-op
 semester: 2
 archived: false

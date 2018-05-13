@@ -1,6 +1,6 @@
 ---
 title: Logic 1
-year: inf1
+year: 1
 semester: 2
 ordering: 5
 archived: true

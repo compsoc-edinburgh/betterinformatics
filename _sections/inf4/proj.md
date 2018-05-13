@@ -1,5 +1,5 @@
 ---
-year: inf4
+year: 4
 title: Honours Project
 course-acronym: proj
 pinned: true
