@@ -30,9 +30,7 @@ layout: default
 {% assign sections = sections | where: "archived", "false" %}
 {% endif %}
 
-{% for section in sections %}
-    {{ section }}
-{% endfor %}
+{{ sections }}
 
 <!-- Then show non-pinned sections -->
 
@@ -41,6 +39,4 @@ layout: default
 {% assign sections = sections | where: "archived", "false" %}
 {% endif %}
 
-{% for section in sections %}
-    {{ section }}
-{% endfor %}
+{{ sections }}
