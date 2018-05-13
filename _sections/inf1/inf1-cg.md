@@ -17,9 +17,9 @@ links:
 
 All of the readings are examinable, but if you want to prioritise, here is the recommended order:
 
-* Chapters 1-4 and 7 of the Pinker book, minus places where there's no relevance to lecture content
+* Chapters 1, 2, 3, 4 and 7 of Pinker's "Words and Rules", minus places where there's no relevance to lecture content
 * Chapter 4 of Harley's "Psychology of Language"
-* Any paper covering something you're not sure you fully understand. For example, if you're not 100% clear on perceptrons, have a look at the Gurney reading
+* Any academic paper covering something you're not sure you fully understand. For example, if you're not 100% clear on perceptrons, have a look at the Gurney reading
 
 
 
