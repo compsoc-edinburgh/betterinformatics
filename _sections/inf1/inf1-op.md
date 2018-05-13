@@ -10,7 +10,6 @@ links:
   - name: labs
     url: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2018/labs/index.html
 ---
-
 > _the key to passing is practicing_
 
 - Allocations: [tutorials], [labs]
