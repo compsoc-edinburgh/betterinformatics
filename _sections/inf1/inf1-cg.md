@@ -12,6 +12,7 @@ links:
 - [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - really clear videos explaining neural networks and backprop
 - [Visualising clustering](https://www.youtube.com/watch?v=wvsE8jm1GzE) - video from Google
 - [Deduction vs Induction](https://www.youtube.com/watch?v=iRcNQkWNWNk)
+- [Word Learning Models](https://drive.google.com/drive/folders/1Tb7WG3bdE5vop2ZR2nGlrkUXxu-9y2zj)
 
 
 **Priority reading list**
