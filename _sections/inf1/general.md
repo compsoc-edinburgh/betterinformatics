@@ -6,7 +6,7 @@ links:
   - name: handbook
     url: http://web.inf.ed.ac.uk/infweb/student-services/ito/students/year1
 ---
-> _don't stress yourself out, first year doesn't matter_
+> _don't stress yourself out too much, first year doesn't count towards your degree_
 
 - **[Facebook Group Chat](https://m.me/join/AbYnOGX74CmlbzQ2)**
 - [LaundryView](http://www.laundryview.com/lvs.php?s=264)
