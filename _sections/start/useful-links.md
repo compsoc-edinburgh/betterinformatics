@@ -17,7 +17,7 @@ pinned: true
 - [**Semester timetable**](https://www.ed.ac.uk/semester-dates)
 - **Policies**: [feedback](http://www.inf.ed.ac.uk/student-services/teaching-organisation/for-taught-students/coursework-and-projects/coursework-assessment-and-feedback), [coursework _(new!)_](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/coursework-projects/late-coursework-extension-requests)
 - Allocations for: [tutorials](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/), [labs](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP082_Laboratory_Groups/)
-- [Spotify on DICE](https://tardis.ed.ac.uk/~joe/spotify.html)
+- [Spotify on DICE](https://tardis.ed.ac.uk/~joe/entries/spotify.html)
 - Facebook groups:
   - [School of Informatics](https://facebook.com/groups/informatics.uoe) - for school wide discussion
   - [CompSoc Members](https://facebook.com/groups/compsocedinburgh) - for Informatics related events
