@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: ""
+year: start
 ---
 
 <nav id="menu-small" class="hide-on-big">

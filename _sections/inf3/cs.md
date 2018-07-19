@@ -1,13 +1,11 @@
 ---
-year: inf3
+year: 3
 semester: 1
 credits: 20
 archived: false
 title: CS - Computer Security
 course-acronym: cs
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/cs/
 ---
 
 - **EXAM in April/May diet**

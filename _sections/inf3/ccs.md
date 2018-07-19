@@ -1,13 +1,11 @@
 ---
-year: inf3
+year: 3
 semester: 1
 credits: 10
 archived: false
 title: CCS - Computational Cognitive Science
 course-acronym: ccs
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/ccs/
 ---
 
 - **EXAM in April/May diet**

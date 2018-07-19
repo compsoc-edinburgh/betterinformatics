@@ -1,13 +1,11 @@
 ---
-year: inf3
+year: 3
 semester: 1
 credits: 20
 archived: false
 title: IAML - Introductory Applied Machine Learning
 course-acronym: iaml
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/iaml/
 ---
 
 - **EXAM in December diet**

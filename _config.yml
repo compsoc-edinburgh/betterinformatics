@@ -22,6 +22,7 @@ defaults:
         semester: 100 # "Other" stuff is pushed to the end
         archived: false
         course-acronym: ""
+        layout: "section"
 
     - scope:
         path: "" # an empty string here means all files in the project

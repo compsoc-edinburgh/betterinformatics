@@ -1,8 +1,9 @@
 ---
-year: inf2
+year: 2
 semester: 2
 title: Exams
 pinned: true
+archived: true
 exams:
   - code: MATH08067
     date: Wed 02 May, 09:30 - 12:30

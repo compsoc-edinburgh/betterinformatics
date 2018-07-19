@@ -1,13 +1,11 @@
 ---
-year: inf3
+year: 3
 semester: 2
 credits: 10
 archived: false
 title: CAR - Computer Architecture
 course-acronym: car
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/car
 ---
 
 - **EXAM in April/May diet**

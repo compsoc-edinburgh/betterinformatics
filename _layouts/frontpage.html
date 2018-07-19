@@ -4,15 +4,17 @@ layout: default
 {% include nav.html %}
 
 <div style="margin: 10px; display: flex; justify-content: center">
-<!--small style="text-align: center; padding: 10px; background-color: rgba(200, 200, 200, 0.2); border-radius: 10px; margin-bottom: 10px; margin-top: 10px;">
-    <a href="http://www.scripts.sasg.ed.ac.uk/registry/examinations/index.cfm">Here's the exam timetable</a>.</strong>
-</small-->
+<small style="text-align: center; padding: 10px; background-color: rgba(200, 200, 200, 0.2); border-radius: 10px; margin-bottom: 10px; margin-top: 10px;">
+    <a href="https://bunnies.io/">Have a smashing summer, everyone!</a>
+</small>
 </div>
 
 <a href="/drive?next=0AIKEqWfeWuQQUk9PVA" class="btn"><strong>new</strong> team drive</a>
-<a id="sem1-btn" class="btn">view semester 1</a>
-<a id="sem2-btn" class="btn">view semester 2</a>
-<a id="all-btn" class="btn">view all</a>
+{% if page.year and page.year != "start" %}
+    <a id="sem1-btn" class="btn">view semester 1</a>
+    <a id="sem2-btn" class="btn">view semester 2</a>
+    <a id="all-btn" class="btn">view all</a>
+{% endif %}
 
 {{ content }}
 
@@ -22,18 +24,20 @@ layout: default
 
 <!-- First show pinned sections -->
 
-{% assign sections = site.sections | where: "year", name | where: "pinned", true | sort: "title" %}
+{% assign sections = site.sections | where: "year", page.year | where: "pinned", true | sort: "title" %}
 {% if page.show-archived == false %}
 {% assign sections = sections | where: "archived", "false" %}
 {% endif %}
 
-{% include sections.html sections=sections %}
+{{ sections }}
 
 <!-- Then show non-pinned sections -->
 
-{% assign sections = site.sections | where: "year", name | where: "pinned", false | sort: "title" %}
+{% assign sections = site.sections | where: "year", page.year | where: "pinned", false | sort: "title" %}
 {% if page.show-archived == false %}
 {% assign sections = sections | where: "archived", "false" %}
 {% endif %}
 
-{% include sections.html sections=sections %}
+{{ sections }}
+
+{% include other-courses.html %}

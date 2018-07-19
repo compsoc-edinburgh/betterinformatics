@@ -1,5 +1,5 @@
 ---
-year: inf3
+year: 3
 title: SEOC
 archived: true
 ---

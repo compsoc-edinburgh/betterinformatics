@@ -1,13 +1,11 @@
 ---
-year: inf3
+year: 3
 semester: 1
 credits: 10
 archived: false
 title: PI - Professional Issues
 course-acronym: pi
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/pi/
 ---
 
 - **EXAM in December diet**

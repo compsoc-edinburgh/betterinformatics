@@ -1,5 +1,5 @@
 ---
-year: inf4
+year: 4
 title: MLPR
 link: "/masters#mlpr"
 course-acronym: mlpr

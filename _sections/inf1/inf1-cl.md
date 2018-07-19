@@ -1,6 +1,6 @@
 ---
 title: Computation and Logic
-year: inf1
+year: 1
 semester: 1
 archived: false
 course-acronym: inf1-cl

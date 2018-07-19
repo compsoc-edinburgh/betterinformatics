@@ -256,9 +256,6 @@ a {
 a:hover {
     color: #4e8eec
 }
-p {
-    margin: 0
-}
 blockquote {
     border-left: 5px solid #ccc;
     padding-left: 15px;
@@ -388,6 +385,9 @@ h1, h2, h3, h4, h5, h6 {
     margin: 10px auto;
     background: url("../img/betterinf-title.png")
 }
+#title:hover {
+    opacity: 0.5;
+}
 #content {
     padding: 30px 20px 100px 20px
 }
@@ -488,6 +488,7 @@ h1, h2, h3, h4, h5, h6 {
 ul {
     margin-top: 0px;
     margin-bottom: 0px;
+    padding-left: 20px;
 }
 
 

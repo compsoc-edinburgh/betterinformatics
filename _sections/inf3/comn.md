@@ -1,13 +1,11 @@
 ---
-year: inf3
+year: 3
 semester: 1
 credits: 20
 archived: false
 title: COMN - Computer Communications and Networks
 course-acronym: comn
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/comn/
 ---
 
 - **NEW: EXAM in December diet**

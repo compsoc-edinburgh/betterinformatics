@@ -1,17 +1,16 @@
 ---
 title: Introduction to Linear Algebra
-year: inf1
+year: 1
 semester: 1
 archived: false
 links:
   - name: drps
     url: http://www.drps.ed.ac.uk/17-18/dpt/cxmath08057.htm
 ---
+> _the maths exams are open book, so take in past paper solutions (with an index)
+  as they reuse questions a lot. they might not necessarily be the same,
+  but they'll likely be close enough to give you a hand_
 
--   **Tip from a (current) 4th year**: the maths exams are open
-    book, so take in past papers with solutions as they
-    reuse questions a lot. They might not necessarily be the same, but
-    they'll likely be close enough to give you a hand.
 -   [No bullshit concept maps](https://minireference.com/static/tutorials/conceptmap.pdf) good for seeing the big picture in the course
 -   [Linear algebra explained in 4 pages](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf) good resource to give you general idea. Might be worthwhile to go through it before the start of the course.
 -   [Explanatory videos from Mathapptician](https://www.youtube.com/watch?v=S6yJY2NrVL0&list=PL9NlTZRdFADdc4yn_OVDpv-2pDiOKU7KH&index=3)

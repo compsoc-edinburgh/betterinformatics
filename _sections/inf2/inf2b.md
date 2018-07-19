@@ -1,23 +1,29 @@
 ---
-year: inf2
+year: 2
 title: INF2B - Algorithms, Data Structures and Learning
 semester: 2
 course-acronym: inf2b
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/inf2b/
   - name: piazza (learning)
     url: https://piazza.com/class/jc7iuf9dssg44f
 ---
-
-- Revision Hive Mind doc: [CLICK ME](https://drive.google.com/folderview?id=0BzxEStTA9O-SamF2YWFWRFJCNGc&usp=sharing)
 
 **Learning**
 
 - [What is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk) (3blue1brown)
 - [Using neural nets to recognise handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
+- [Revision Formulae for Learning Thread (pdf)](/resources/inf2b/Inf2B_Formulae.pdf) [(LaTex)](/resources/inf2b/Inf2B_Formulae.tex)
 
 
+**ADS**
+
+- [Introduction to ADS](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/) (gitbook, non inf)
+- [Amazing interactive examples from from USFCA](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Wikibook covering most of the stuff we are doing](https://en.wikibooks.org/wiki/Data_Structures)
+- [Karatsuba Multiplication in 13 minutes](https://www.youtube.com/watch?v=JCbZayFr9RE) (video, watchable at 1.25x)
+
+
+**Learning coursework** 
 
 - [MATLAB for use at home](https://www.ed.ac.uk/information-services/computing/desktop-personal/software/main-software-deals/matlab/matlab-homeuse) (free)
 - Installing [GNU Octave on macOS](http://www.schoeps.org/home/2018/01/how-to-compile-gnu-octave-with-openblas-on-macos/) (much lighter than MATLAB)
@@ -29,11 +35,3 @@ links:
    - [Interactive veronoi knn explorer](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
    - [Interactive SVM examples, similar to discriminant functions](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)
    - [Linear classifiers](http://cs231n.github.io/linear-classify/) the content seems to better explain the lectures on NN and discriminant functions
-
-
-**ADS**
-
-- [Introduction to ADS](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/) (gitbook, non inf)
-- [Amazing interactive examples from from USFCA](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- [Wikibook covering most of the stuff we are doing](https://en.wikibooks.org/wiki/Data_Structures)
-- [Karatsuba Multiplication in 13 minutes](https://www.youtube.com/watch?v=JCbZayFr9RE) (video, watchable at 1.25x)

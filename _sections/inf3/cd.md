@@ -1,13 +1,11 @@
 ---
-year: inf3
+year: 3
 semester: 1
 credits: 20
 archived: false
 title: CD - Computer Design 
 course-acronym: cd
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/cd/
 ---
 
 - **EXAM in December diet**

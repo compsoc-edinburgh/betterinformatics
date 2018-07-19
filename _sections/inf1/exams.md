@@ -1,8 +1,9 @@
 ---
-year: inf1
+year: 1
 semester: 2
 title: Exams
 pinned: true
+archived: true
 exams:
   - code: MATH08058
     date: Mon 30 April, 09:30 - 12:30

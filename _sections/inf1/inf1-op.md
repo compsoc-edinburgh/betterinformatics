@@ -1,21 +1,24 @@
 ---
 title: Object Oriented Programming
-year: inf1
+year: 1
 course-acronym: inf1-op
 semester: 2
 archived: false
 links:
-  - name: labs
-    url: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2017/labs/index.html
   - name: piazza
-    url: https://piazza.com/ed.ac.uk/spring2017/inf1op/
+    url: https://piazza.com/class/j6gifdt4bnq3ha
+  - name: labs
+    url: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2018/labs/index.html
 ---
+
+> _the key to passing is practicing_
+
 - Allocations: [tutorials], [labs]
 - [Offline version of lab work](/static/year1/2016_labs_offline.zip)
 - [Online book]
 - [Past papers](https://www.inf.ed.ac.uk/teaching/exam_papers/), and their [additional files](http://www.inf.ed.ac.uk/teaching/courses/inf1/op/oldprog.html)
 - [Some past paper answers](https://tardis.ed.ac.uk/~qaisjp/exams/index.html)
-- [Automarker service](http://homepages.inf.ed.ac.uk/thospeda/Inf1OP/) - use this to mark your past papers
+- [Automarker service](https://groups.inf.ed.ac.uk/inf1-op/) - use this to mark your past papers
 - [Lambda functions tutorial](/resources/inf1-op/lambdas.html)
 
 <br>

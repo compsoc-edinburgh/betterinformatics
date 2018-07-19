@@ -1,6 +1,5 @@
 ---
-year: inf4
-semester: 1
+year: 4
 title: "EXC: Extreme Computing"
 course-acronym: exc
 ---
@@ -10,6 +9,8 @@ course-acronym: exc
 [All Lecture Slides in one PDF (2014/2015)](https://drive.google.com/open?id=0B1Bl0XqNwHffWmtNMUJPNGlNV3c&authuser=0)
 
 <u>Exam + Solutions:</u>
+
+[May '16 & '17](https://docs.google.com/document/d/1PjhZN0l4XYvxQezcBiX79OjhT8TENUj_Ce8CISYsZ7s/edit?usp=sharing)
 
 [may 2013](https://docs.google.com/document/d/1IZ_NDo6B4D9Dov9R0mIPACidyE0tGsv1Jvpgg7nvMMo)
 

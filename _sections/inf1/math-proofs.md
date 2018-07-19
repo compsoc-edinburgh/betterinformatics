@@ -1,6 +1,6 @@
 ---
 title: Proofs and Problem Solving
-year: inf1
+year: 1
 semester: 2
 archived: false
 ---

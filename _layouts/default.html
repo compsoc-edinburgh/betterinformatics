@@ -34,6 +34,12 @@
             <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
             <script type="text/javascript">
                 $(() => {
+                    // If a course is provided, show everything
+                    if (window.location.hash) {
+                        $("[data-semester]").show();
+                        $(location.hash).find("h3").css("background-color", "rgba(255, 255, 0, 0.2)")
+                    }
+
                     $("#sem1-btn,#sem2-btn,#all-btn").click(btn => {
                         // First show everything
                         $("[data-semester]").show();

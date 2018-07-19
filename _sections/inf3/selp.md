@@ -1,13 +1,11 @@
 ---
-year: inf3
+year: 3
 semester: 1
 credits: 20
 archived: false
 title: SELP - Software Engineering Large Practical
 course-acronym: selp
 links:
-  - name: info
-    url: http://course.inf.ed.ac.uk/selp/
 ---
 
 - **NO EXAM**
