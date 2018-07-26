@@ -1,24 +1,137 @@
-<table style="width: 100%;">
-    <tr>
-        <th>Exam</th>
-        <th>Location</th>
-        <th>Date</th>
-        <th></th>
-        <th></th>
-    </tr>
+<div id='exam-timetable-table' style="display:none">
 
+    Click on title/venue/date to expand.
+    <table style="width: 100%;">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Exam</th>
+                <th>Venue</th>
+                <th>Date</th>
+                <!-- <th></th>
+                <th></th> -->
+            </tr>
+        </thead>
 
-    {% for exam in page.exams %}
-    <tr {% if exam.optional %}class="hoverRow"{% endif %}>
-      <td>{{ exam.name }}</td>
-      <td>{{ exam.location }}</td>
-      <td>{{ exam.date }}</td>
-      <td class="examTime" data-time="{{ exam.time }}"></td>
-      <td><button onclick="searchExam('{{ exam.code }}')">View</button></td>
-    </tr>
-    {% endfor %}
-</table>
+        <tbody>
+            <!-- <tr>
+                <td>name</td>
+                <td>location</td>
+                <td>date</td>
+                <td class="examTime" data-time="time"></td>
+                <td><button onclick="searchExam('code')">View</button></td>
+            </tr> -->
+        </tbody>
+    </table>
+</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.16.0/moment.min.js"></script>
-<script src="/static/js/exam-script.js"></script>
+<script>
+    const courses = JSON.parse(`{{ site.data.courses | jsonify }}`);
+    // const pageCourses = ` site.sections | where: "year", page.year | where: "archived", false | jsonify `
+    // console.log(pageCourses)
+    const year = parseInt(`{{ page.year }}`);
+
+    const fail = () => $("#get-exam-timetable").html("<p>something broke, sorry</p>");
+    const readVenue = venues => {
+        let s = '';
+        venues.forEach(v => {
+            s += v.location + ', ';
+        })
+        return s.slice(0, -2);
+    }
+    const showExamTimetable = exams => {
+        exams.forEach(exam => {
+            if (exam.venues.length != 1) {
+                console.log(exam);
+            }
+        })
+        // console.log(exams)
+        const ourCourses = [];
+        Object.keys(courses.list).forEach(function(key) {
+            const course = courses.list[key];
+            if (course.year == year) {
+                ourCourses[course.euclid_code] = course.acronym;
+            }
+        });
+
+        const results = [];
+        exams.forEach(exam => {
+            exam.code = exam.title.split(" ")[0];
+            const acronym = ourCourses[exam.code];
+            // console.log(code);
+            if (acronym) {
+                const course = courses.list[acronym];
+                exam.acronym = acronym;
+                exam.venue = readVenue(exam.venues);
+                exam.title = exam.title.slice(exam.code.length + 3);
+                exam.date = "date";
+
+                const timeText = exam.start_date + ' ' + exam.start_time.replace(" a.m.", "am").replace(" p.m.", "pm");
+                const time = moment(timeText, "dddd, Do MMMM YYYY hh:mma");
+                if (moment().isAfter(time)) {
+                    exam.time = "done!";
+                    return;
+                }
+                exam.timeRel = time.fromNow(true);
+                exam.timeAbs = timeText;
+                exam.time = moment.unix(time);
+
+                results.push(exam);
+            }
+        })
+
+        // console.log(results)
+        results.sort((a, b) => {return a.time > b.time ? 1 : -1});
+        // console.log(results)
+
+        const table = $("#exam-timetable-table");
+        const body = table.find('tbody');
+        body.html(``);
+
+        const clickyText = (t, a, b) => {
+            t.click(() => t.text(
+                t.text() === b ? a : b
+            ));
+            t.text(b);
+        }
+
+        results.forEach(exam => {
+            let shortTitle = exam.title.slice(-40);
+            if (shortTitle !== exam.title) {
+                shortTitle = '...' + shortTitle;
+            }
+            const t = $("<td/>");
+            clickyText(t, exam.title, shortTitle);
+            
+            let shortVenue = exam.venue.slice(0, 40)
+            if (shortVenue !== exam.venue) {
+                shortVenue + '...';
+            }
+            const v = $("<td/>");
+            clickyText(v, exam.venue, shortVenue);
+            
+            const d = $("<td/>");
+            clickyText(d, exam.timeAbs, exam.timeRel);
+
+            const tr = $("<tr/>");
+            tr.append($("<td/>", {text:exam.acronym}));
+            tr.append(t);
+            tr.append(v);
+            tr.append(d);
+
+            body.append(tr);
+        })
+
+        table.show();
+    }
+
+    $(() => {
+        $("#get-exam-timetable").click(() => {
+            $.ajax("https://betterinformatics.com/search/", {dataType: 'json'})
+            .done(data => showExamTimetable(data.data)).fail(fail);
+            return false;
+        });
+    })
+</script>

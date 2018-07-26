@@ -21,6 +21,18 @@ layout: default
 {% assign len =  page.path.size | minus: 3 | minus: 7 %}
 {% assign name = page.path | slice: 7, len %}
 
+{% if site.data.settings.examSeason %}
+<section id="exams">
+    <h3>Exams
+        <small>
+            |
+            <a id='get-exam-timetable' href='#'>view timetable here</a>,
+            <a href="https://exams.is.ed.ac.uk">official list</a>
+        </small>
+    </h3>
+    {% include exams.html %}
+</section>
+{% endif %}
 
 <!-- First show pinned sections -->
 
