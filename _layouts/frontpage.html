@@ -21,7 +21,7 @@ layout: default
 {% assign len =  page.path.size | minus: 3 | minus: 7 %}
 {% assign name = page.path | slice: 7, len %}
 
-{% if site.data.settings.examSeason %}
+{% if site.data.settings.examSeason and page.year and page.year != "start" %}
 <section id="exams">
     <h3>Exams
         <small>
