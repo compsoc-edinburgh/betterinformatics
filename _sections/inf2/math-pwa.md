@@ -9,7 +9,7 @@ links:
 ---
 
 - [Summary](https://github.com/compsoc-edinburgh/bi-pwa)
-- [7th edition solution booklet](http://seaver-faculty.pepperdine.edu/dstrong/17F.350/Solutions.pdf)
+- Solutions: [9ed](http://www.slader.com/textbook/9780321794772-a-first-course-in-probability-9th-edition/)
 - [Cheat Sheet](/resources/math-pwa/PwA_Cheat_Sheet.pdf) [(source)](/resources/math-pwa/pwa_cheat_sheet.tex)
 - [Another cheat sheet with guides on distributions](/resources/math-pwa/probscheatsheet.pdf)
 - [Joint probability distributions](http://homepage.stat.uiowa.edu/~rdecook/stat2020/notes/ch5_pt1.pdf)
