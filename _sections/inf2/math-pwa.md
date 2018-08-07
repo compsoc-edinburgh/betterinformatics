@@ -22,6 +22,8 @@ links:
   - [Binomial probability](https://www.khanacademy.org/math/probability/binomial-probability-a2) (Khan Academy)
   - Intro to [Poisson distribution](https://youtu.be/jmqZG6roVqU) (jbstatistics)
   - Intro to probability (followed by conditional probability) - [playlist](https://www.youtube.com/watch?v=ibINrxJLvlM&list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS&index=65&t=0s) (Trefor Bazett) - this video to end of playlist
+  - [Bayes Theorem](https://www.youtube.com/watch?v=gTaxZplxFEw&index=2&list=PLX2gX-ftPVXX6DBktUuLiax4aIjypHUVE&t=9s) (
+Michel van Biezen)
   
 - **Calculators**
   - [Individual and cumulative binomial probabilities](http://stattrek.com/online-calculator/binomial.aspx)
