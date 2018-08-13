@@ -16,6 +16,7 @@ links:
 - [Revision Formulae for Learning Thread (pdf)](/resources/inf2b/Inf2B_Formulae.pdf) [(LaTex)](/resources/inf2b/Inf2B_Formulae.tex)
 - **Pearson Correlation Coefficient**
   - [Benedict K's YouTube series](https://www.youtube.com/playlist?list=PLBb5Losa2uqGClVDDErdTaY1_RCyuH3mr)
+  - [Calculating correlation coefficient r](https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/correlation-coefficient-r/v/calculating-correlation-coefficient-r) (KhanAcademy)
 
 **ADS**
 
