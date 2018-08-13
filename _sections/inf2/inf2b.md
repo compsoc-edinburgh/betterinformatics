@@ -14,7 +14,7 @@ links:
 - [Using neural nets to recognise handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [Revision Formulae for Learning Thread (pdf)](/resources/inf2b/Inf2B_Formulae.pdf) [(LaTex)](/resources/inf2b/Inf2B_Formulae.tex)
 - **Pearson Correlation Coefficient**
-  - [Explained in Three Easy Steps](https://youtu.be/ugd4k3dC_8Y) (number three will surprise you!) \[video\]
+  - [Benedict K's YouTube series](https://www.youtube.com/playlist?list=PLBb5Losa2uqGClVDDErdTaY1_RCyuH3mr)
 
 **ADS**
 
