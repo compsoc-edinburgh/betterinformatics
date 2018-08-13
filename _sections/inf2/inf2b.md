@@ -1,4 +1,5 @@
 ---
+github: https://betterinformatics.com/inf2 # too lazy to press the back button
 year: 2
 title: INF2B - Algorithms, Data Structures and Learning
 semester: 2
