@@ -13,7 +13,8 @@ links:
 - [What is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk) (3blue1brown)
 - [Using neural nets to recognise handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [Revision Formulae for Learning Thread (pdf)](/resources/inf2b/Inf2B_Formulae.pdf) [(LaTex)](/resources/inf2b/Inf2B_Formulae.tex)
-
+- **Pearson Correlation Coefficient**
+  - [Explained in Three Easy Steps](https://youtu.be/ugd4k3dC_8Y) (number three will surprise you!) \[video\]
 
 **ADS**
 
