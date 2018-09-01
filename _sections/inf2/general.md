@@ -9,6 +9,6 @@ links:
     url: https://lists.inf.ed.ac.uk/mailman/private/ug2-students/
 ---
 
-- **[Facebook Group Chat](https://m.me/join/AbYHRzZgs1H8NlZN)**
+- **[Facebook Group Chat](https://m.me/join/AbYnOGX74CmlbzQ2)**
 - **Honours hurdles**: refer to your [DRPS programme](http://www.drps.ed.ac.uk/)
 - **INF2 Feedback**: The Google Form for feeding back to the INF2 Year Reps is [here](https://goo.gl/forms/QReSxj5oNS6Zrzhb2)!
