@@ -13,7 +13,7 @@ links:
 <!--- [Coursework](https://bitbucket.org/cdubach/ct-17-18/)-->
 - [Official past papers and solutions](/drive?next=1MkgKYEtwcUjhy0FAERcVshSDPbRXDrm0)
 - Deadlines:
-  - Part 1 (parser): Thursday 11 October 2018, 11am, weight = 20%
-  - Part 2 (ast builder + semantic analyser): Thursday 25 October 2018, 11am, weight = 20%
-  - Part 3 (code generator): Thursday 15 November 2018, 11am, weight = 30%
+  - Part 1 (parser): week 4, Thursday 11 October 2018, 11am, weight = 20%
+  - Part 2 (ast builder + semantic analyser): week 6, Thursday 25 October 2018, 11am, weight = 20%
+  - Part 3 (code generator): week 9, Thursday 15 November 2018, 11am, weight = 30%
   - Part 4 (LLVM-based compiler pass): Monday 14 January 2019, 10am, weight = 30%
