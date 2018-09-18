@@ -11,7 +11,7 @@ links:
 ---
 
 <!--- [Coursework](https://bitbucket.org/cdubach/ct-17-18/)-->
-- [Gitlab](https://git.ecdf.ed.ac.uk)
+- [Gitlab](https://git.ecdf.ed.ac.uk/cdubach/ct-18-19)
 - [Official past papers and solutions](/drive?next=1MkgKYEtwcUjhy0FAERcVshSDPbRXDrm0)
 - Your compiler can take up to ten seconds to finish.
 - Deadlines:
