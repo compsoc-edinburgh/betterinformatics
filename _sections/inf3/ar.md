@@ -1,6 +1,6 @@
 ---
 year: 3
-title: AR
+title: AR - Automated Reasoning
 course-acronym: ar
 archived: false
 semester: 1
