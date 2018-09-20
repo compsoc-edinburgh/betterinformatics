@@ -1,5 +1,5 @@
 ---
-title: Computation and Logic
+title: INF1A: Logic
 year: 1
 semester: 1
 archived: false
