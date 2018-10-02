@@ -10,8 +10,7 @@ links:
     url: https://piazza.com/ed.ac.uk/fall2018/ct
 ---
 
-<!--- [Coursework](https://bitbucket.org/cdubach/ct-17-18/)-->
-- [Gitlab](https://git.ecdf.ed.ac.uk/cdubach/ct-18-19)
+- [GitLab](https://git.ecdf.ed.ac.uk/cdubach/ct-18-19)
 - [Official past papers and solutions](/drive?next=1MkgKYEtwcUjhy0FAERcVshSDPbRXDrm0)
 - Your compiler can take up to ten seconds to finish.
 - [Wikipedia: Operator-precedence parser](https://en.wikipedia.org/wiki/Operator-precedence_parser)
