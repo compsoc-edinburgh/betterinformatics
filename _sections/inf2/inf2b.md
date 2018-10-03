@@ -14,6 +14,7 @@ links:
 - [What is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk) (3blue1brown)
 - [Using neural nets to recognise handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [Revision Formulae for Learning Thread (pdf)](/resources/inf2b/Inf2B_Formulae.pdf) [(LaTex)](/resources/inf2b/Inf2B_Formulae.tex)
+- [Learning notes](https://github.com/eonu/inf2b-learning) - Missing: perceptrons, single-layer and double-layer neural networks sections
 - **Pearson Correlation Coefficient**
   - [Benedict K's YouTube series](https://www.youtube.com/playlist?list=PLBb5Losa2uqGClVDDErdTaY1_RCyuH3mr)
   - [Calculating correlation coefficient r](https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/correlation-coefficient-r/v/calculating-correlation-coefficient-r) (KhanAcademy)
