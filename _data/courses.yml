@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 31/08/2018 07:45:01
+# Last update: 05/10/2018 07:45:02
 
-last_update: 31/08/2018 07:45:01
+last_update: 05/10/2018 07:45:02
 list:
   adbs:
     acronym: ADBS
@@ -103,7 +103,7 @@ list:
     - 40
     - 60
     delivery: S1
-    diet: 'April/May; VUG: December'
+    diet: 'VUG: December; April/May'
     euclid_code: INFR09042
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr09042.htm
     level: 9
@@ -139,8 +139,8 @@ list:
     acronym: AV
     credits: 10
     cw_exam_ratio:
-    - 25
-    - 75
+    - 30
+    - 70
     delivery: S2
     diet: April/May
     euclid_code: INFR11031
@@ -152,8 +152,8 @@ list:
     acronym: AV-DL
     credits: 10
     cw_exam_ratio:
-    - 25
-    - 75
+    - 30
+    - 70
     delivery: S2
     diet: April/May
     euclid_code: INFR11151
@@ -213,6 +213,19 @@ list:
     level: 11
     name: Computer Algebra
     year: 4
+  cav:
+    acronym: CAV
+    credits: 10
+    cw_exam_ratio:
+    - 30
+    - 70
+    delivery: S2
+    diet: April/May
+    euclid_code: INFR11067
+    euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11067.htm
+    level: 11
+    name: Computer Animation & Visualisation
+    year: 4
   ccn:
     acronym: CCN
     credits: 10
@@ -233,7 +246,7 @@ list:
     - 25
     - 75
     delivery: S1
-    diet: 'April/May; VUG: December'
+    diet: 'VUG: December; April/May'
     euclid_code: INFR10054
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10054.htm
     level: 10
@@ -278,32 +291,32 @@ list:
     level: 11
     name: Case Studies in Design Informatics 2
     year: 5
-  cg:
-    acronym: CG
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    diet: 'April/May; VUG: December'
-    euclid_code: INFR11021
-    euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11021.htm
-    level: 11
-    name: Computer Graphics
-    year: 4
   cmc:
     acronym: CMC
     credits: 10
     cw_exam_ratio:
     - 25
     - 75
-    delivery: S2
-    diet: December; December
+    delivery: S1
+    diet: December
     euclid_code: INFR11102
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11102.htm
     level: 11
     name: Computational Complexity
     year: 4
+  comn:
+    acronym: COMN
+    credits: 20
+    cw_exam_ratio:
+    - 40
+    - 60
+    delivery: S2
+    diet: April/May
+    euclid_code: INFR10074
+    euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10074.htm
+    level: 10
+    name: Computer Communications and Networks
+    year: 3
   copt:
     acronym: COPT
     credits: 10
@@ -720,19 +733,6 @@ list:
     level: 9
     name: Foundations of Natural Language Processing
     year: 3
-  fv:
-    acronym: FV
-    credits: 10
-    cw_exam_ratio:
-    - 0
-    - 100
-    delivery: S2
-    diet: April/May
-    euclid_code: INFR11129
-    euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11129.htm
-    level: 11
-    name: Formal Verification
-    year: 4
   hci:
     acronym: HCI
     credits: 10
@@ -828,8 +828,8 @@ list:
     cw_exam_ratio:
     - 10
     - 90
-    delivery: S1
-    diet: 'VUG: December; VUG: December; April/May; April/May'
+    delivery: S2
+    diet: ''
     euclid_code: INFR11131
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11131.htm
     level: 11
@@ -985,7 +985,7 @@ list:
     - 10
     - 90
     delivery: S1
-    diet: 'VUG: December; April/May'
+    diet: 'April/May; VUG: December'
     euclid_code: INFR11099
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11099.htm
     level: 11
@@ -1063,7 +1063,7 @@ list:
     - 30
     - 70
     delivery: S1
-    diet: April/May; December
+    diet: December
     euclid_code: INFR09019
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr09019.htm
     level: 9
@@ -1076,7 +1076,7 @@ list:
     - 30
     - 70
     delivery: S1
-    diet: April/May
+    diet: December
     euclid_code: INFR11153
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11153.htm
     level: 11
@@ -1238,19 +1238,6 @@ list:
     level: 9
     name: Operating Systems
     year: 3
-  pa:
-    acronym: PA
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    diet: April/May
-    euclid_code: INFR11024
-    euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11024.htm
-    level: 11
-    name: Parallel Architectures
-    year: 4
   pdiot:
     acronym: PDIoT
     credits: 20
@@ -1372,27 +1359,14 @@ list:
     acronym: RL
     credits: 10
     cw_exam_ratio:
-    - 20
-    - 80
+    - 25
+    - 75
     delivery: S2
     diet: April/May
     euclid_code: INFR11010
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11010.htm
     level: 11
     name: Reinforcement Learning
-    year: 5
-  rlsc:
-    acronym: RLSC
-    credits: 20
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S2
-    diet: April/May
-    euclid_code: INFR11142
-    euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11142.htm
-    level: 11
-    name: Robot Learning and Sensorimotor Control
     year: 5
   rss:
     acronym: RSS
@@ -1576,4 +1550,3 @@ list:
     level: 11
     name: Usable Security and Privacy
     year: 4
-
