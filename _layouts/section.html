@@ -1,6 +1,19 @@
 
 {% assign section=page %}
-{% if section.semester == site.data.settings.semester or section.semester == 100 %}
+{% assign course = site.data.courses.list[section.course-acronym] %}
+{% if course %}
+    {% if course.delivery == "S1" %}
+        {% assign semester = 1 %}
+    {% elsif course.delivery == "S2" %}
+        {% assign semester = 2 %}
+    {% else %}
+        {% assign semester = 100 %}
+    {% endif %}
+{% else %}
+    {% assign semester = section.semester %}
+{% endif %}
+
+{% if semester == site.data.settings.semester or semester == 100 %}
     {% capture sectionStyle %}{% endcapture %}
 {% else %}
     {% capture sectionStyle %}style="display: none;"{% endcapture %}
@@ -8,8 +21,7 @@
 {% capture sectionID %}
     {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
 {% endcapture %}
-{% assign course = site.data.courses.list[section.course-acronym] %}
-<section id="{{ sectionID | strip }}" data-semester="{{ section.semester }}" {{ sectionStyle }}>
+<section id="{{ sectionID | strip }}" data-semester="{{ semester }}" {{ sectionStyle }}>
     <h3>
         {% if section.link %}
             <a href="{{ section.link }}">
