@@ -22,7 +22,7 @@
     {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
 {% endcapture %}
 <section id="{{ sectionID | strip }}" data-semester="{{ semester }}" {{ sectionStyle }}>
-    <h3 style="display: flex; justify-content: space-between;">
+    <h3>
         <span>
             {% if section.link %}
                 <a href="{{ section.link }}">
