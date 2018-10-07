@@ -8,8 +8,6 @@ course-acronym: cs
 links:
 ---
 
-- **COURSEWORK:**
-  - [Networking](http://www.inf.ed.ac.uk/teaching/courses/cs/1718/pracs/networking-cw.pdf) due October 16th, 16:00
 - [Lecture recordings](https://echo360.org.uk/section/25caf1e5-172e-424e-8490-d6bb4a93b904/home) 
 - [August 2010 answers](http://mess.ninjalith.com/cs/exams/2010_resit)
 - [May 2010 answers](https://docs.google.com/document/d/1u0d0ybDWt_V0Of9sZMqxwg1tyuVzsdKAkrx6Wq31FK8/edit?usp=sharing)

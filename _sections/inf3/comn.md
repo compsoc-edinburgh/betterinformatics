@@ -8,9 +8,6 @@ course-acronym: comn
 links:
 ---
 
-- **[COURSEWORK (TBA)](http://www.inf.ed.ac.uk/teaching/courses/comn/)**
-  - Part 1 due 20th October 2017 16:00
-  - Part 2 due 24th November 2017 16:00
 - <u>See shared drive for some unofficial solutions.</u>
 - Video explaining CRC calculation - [link](http://www.youtube.com/watch?v=0apqZ4jsGmI)
 - Wiki explaining CRC calculation - [link](http://en.wikipedia.org/wiki/Cyclic_redundancy_check)
