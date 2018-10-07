@@ -15,4 +15,5 @@ links:
 - Video explaining CRC calculation - [link](http://www.youtube.com/watch?v=0apqZ4jsGmI)
 - Wiki explaining CRC calculation - [link](http://en.wikipedia.org/wiki/Cyclic_redundancy_check)
 - [Revision notes by Ben Shaw](https://github.com/benshaaw/revision/tree/master/COMN)
-<!--- BROKEN, MIGHT WANT TO UPDATE This could be useful as well: [link](http://www.ee.ryerson.ca/~courses/cn8800/solutions/Ch7.pdf)--->
+- https://web.archive.org/web/20081209125106/http://www.ee.ryerson.ca/~courses/cn8800/solutions/Ch7.pdf
+
