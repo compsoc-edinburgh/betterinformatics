@@ -8,7 +8,6 @@ course-acronym: comn
 links:
 ---
 
-- **NEW: EXAM in December diet**
 - **[COURSEWORK (TBA)](http://www.inf.ed.ac.uk/teaching/courses/comn/)**
   - Part 1 due 20th October 2017 16:00
   - Part 2 due 24th November 2017 16:00

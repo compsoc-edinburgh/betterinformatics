@@ -8,7 +8,6 @@ course-acronym: cs
 links:
 ---
 
-- **EXAM in April/May diet**
 - **COURSEWORK:**
   - [Networking](http://www.inf.ed.ac.uk/teaching/courses/cs/1718/pracs/networking-cw.pdf) due October 16th, 16:00
 - [Lecture recordings](https://echo360.org.uk/section/25caf1e5-172e-424e-8490-d6bb4a93b904/home) 

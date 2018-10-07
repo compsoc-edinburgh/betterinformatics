@@ -8,7 +8,6 @@ course-acronym: dbs
 links:
 ---
 
-- **EXAM in December diet**
 - [Official exam papers and solutions - 2005 to 2010](https://www.dropbox.com/sh/qqd05o7mw7watz7/eF0YYWcI9X?v=1swn)
 - Unofficial/Official solutions to past papers can be found in the drive! 
 - Questions and answers from the DBS textbook - [link](http://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf)

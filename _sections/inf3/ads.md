@@ -8,7 +8,7 @@ course-acronym: ads
 links:
 ---
 
-- **EXAM in April/May diet** *See shared drive for some unofficial solutions.*
+- *See shared drive for some unofficial solutions.*
 - An unofficial set of programming assignments based on the ADS material - [website](http://uoeadspractice.wordpress.com/)
 - Sorting algorithms 1 - [interactive](http://www.bluffton.edu/~nesterd/java/SortingDemo.html)
 - Sorting algorithms 2 - [website](http://www.sorting-algorithms.com/)
