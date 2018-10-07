@@ -22,34 +22,43 @@
     {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
 {% endcapture %}
 <section id="{{ sectionID | strip }}" data-semester="{{ semester }}" {{ sectionStyle }}>
-    <h3>
-        {% if section.link %}
-            <a href="{{ section.link }}">
-        {% elsif section.course-acronym != "" %}
-            <a href="https://www.inf.ed.ac.uk/teaching/courses/{{ section.course-acronym }}/">
-        {% endif %}
-        {{ section.title }}
-        {% if section.link or section.course-acronym != "" %}
-            </a>
-        {% endif %}
-        
-        <small>
-        {% if section.links %}
-            {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
-        {% endif %}
-        {% if course %}
-            |
-            <a href="{{ course.euclid_url }}">drps</a>,
-            <a href="http://course.inf.ed.ac.uk/{{ section.course-acronym }}">info</a>,
-            <a href="https://exampapers.ed.ac.uk/search/{{ course.euclid_code }}">papers</a>
-            {% if course.year != page.year %}
-            This course is misplaced. It should be on the year {{ course.year }} page.
+    <h3 style="display: flex; justify-content: space-between;">
+        <span>
+            {% if section.link %}
+                <a href="{{ section.link }}">
+            {% elsif section.course-acronym != "" %}
+                <a href="https://www.inf.ed.ac.uk/teaching/courses/{{ section.course-acronym }}/">
             {% endif %}
-        {% endif %}
-        </small>
+            {{ section.title }}
+            {% if section.link or section.course-acronym != "" %}
+                </a>
+            {% endif %}
 
-        <a class="link-icon" href="#{{ sectionID | strip }}"><i class="fa fa-link" aria-hidden="true"></i></a>
-        <a class="edit-pencil" href="https://github.com/{{ site.data.repo }}/blob/master/{{ section.path }}"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+            <small>
+            {% if section.links %}
+                {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
+            {% endif %}
+            {% if course %}
+                |
+                <a href="{{ course.euclid_url }}">drps</a>,
+                <a href="http://course.inf.ed.ac.uk/{{ section.course-acronym }}">info</a>,
+                <a href="https://exampapers.ed.ac.uk/search/{{ course.euclid_code }}">papers</a>
+                {% if course.year != page.year %}
+                This course is misplaced. It should be on the year {{ course.year }} page.
+                {% endif %}
+            {% endif %}
+            </small>
+
+            <a class="link-icon" href="#{{ sectionID | strip }}"><i class="fa fa-link" aria-hidden="true"></i></a>
+        </span>
+
+        <span>
+            {% if course and course.diet and course.diet != "" %}
+            <span style="color: gray; font-size: .6rem;">{{ course.diet }} exam</span>
+            {% endif %}
+            <a class="edit-pencil" href="https://github.com/{{ site.data.repo }}/blob/master/{{ section.path }}"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+        </span>
+
     </h3>
     {{ section }}
 </section>
