@@ -11,7 +11,7 @@
 
 {% if sections.size > 0 %}
 <p>
-    <strong title="These courses are intended for other years, but you can still take them.">Other courses: </strong>
+    <strong title="These courses are intended for other years, but you can still take them.">Eligible courses usually taken in other years: </strong>
     {% for section in sections %}
         {% capture sectionID %}
             {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
