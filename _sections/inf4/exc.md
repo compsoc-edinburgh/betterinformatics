@@ -10,12 +10,9 @@ course-acronym: exc
 
 <u>Exam + Solutions:</u>
 
-[May '16 & '17](https://docs.google.com/document/d/1PjhZN0l4XYvxQezcBiX79OjhT8TENUj_Ce8CISYsZ7s/edit?usp=sharing)
-
-[may 2013](https://docs.google.com/document/d/1IZ_NDo6B4D9Dov9R0mIPACidyE0tGsv1Jvpgg7nvMMo)
-
-[may 2012](https://docs.google.com/document/d/1zd0M5vVnMsE4WiCezqlpaoZVEhTl90dOJt8nc8tbD9E/edit?usp=sharing)
-
+[May '16 & '17](https://docs.google.com/document/d/1PjhZN0l4XYvxQezcBiX79OjhT8TENUj_Ce8CISYsZ7s/edit?usp=sharing),
+[may 2013](https://docs.google.com/document/d/1IZ_NDo6B4D9Dov9R0mIPACidyE0tGsv1Jvpgg7nvMMo),
+[may 2012](https://docs.google.com/document/d/1zd0M5vVnMsE4WiCezqlpaoZVEhTl90dOJt8nc8tbD9E/edit?usp=sharing),
 [april 2011](https://docs.google.com/document/d/12B_AbFo9PZ0Q27f4CTL8NZirJ-vEkhxht-izFwjDqLA/edit?usp=sharing)
 
 <u>Supplementary reading:</u>
