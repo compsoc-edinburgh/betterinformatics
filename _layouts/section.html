@@ -42,7 +42,9 @@
                 |
                 <a href="{{ course.euclid_url }}">drps</a>,
                 <a href="http://course.inf.ed.ac.uk/{{ section.course-acronym }}">info</a>,
+                {% if course.cw_exam_ratio.first != 100 %}
                 <a href="https://exampapers.ed.ac.uk/search/{{ course.euclid_code }}">papers</a>
+                {% endif %}
                 {% if course.year != page.year %}
                 This course is misplaced. It should be on the year {{ course.year }} page.
                 {% endif %}
