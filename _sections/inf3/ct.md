@@ -17,3 +17,6 @@ links:
 - Grammar stuff:
   - [C grammar](https://www.lysator.liu.se/c/ANSI-C-grammar-y.html), [C Lex spec](https://www.lysator.liu.se/c/ANSI-C-grammar-l.html)
   - [Eliminate left recursion](https://web.archive.org/web/20180309170702/http://www.csd.uwo.ca/~moreno/CS447/Lectures/Syntax.html/node8.html)
+- MIPS:
+  - [List of registers](https://www.inf.ed.ac.uk/teaching/courses/ct/18-19/slides/10-mips-assembly.pdf#page=7) (from slides)
+
