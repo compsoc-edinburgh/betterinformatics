@@ -5,7 +5,7 @@ title: INF2C - Computer Systems
 course-acronym: inf2c-cs
 links:
   - name: piazza
-    url: https://piazza.com/class/j7ithxoc19423b
+    url: https://piazza.com/class/jlwbbtv8kqs4v
   - name: tutorials
     url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf2c-cs.shtml
   - name: labs
@@ -29,7 +29,10 @@ links:
   - [Pointer arithmetic](https://courses.washington.edu/css342/zander/css332/pointerarith.html)
 - MIPS and The Stack:
   - [Understanding the Stack](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html)
-- Coursework 1 (2017/18) - [Task B unit test](https://github.com/bnelo12/Pig-Latin-Unit-Tester) (pig latin)
+- Tools:
+  - [myMars - a custom version of Mars with some minor additional features](https://github.com/qaisjp/myMARS/releases)
+  - [Orthodox MIPS - are all my instructions in "The Bible"?](https://labs.boramalper.org/orthodox-mips/)
+  - [Coursework 1 (2017/18) Task B (pig latin) unit test](https://github.com/bnelo12/Pig-Latin-Unit-Tester)
 
 - Datapath:
   - [Instruction Breakdown/Datapath Tutorial](https://www.youtube.com/watch?v=oETOwVBzu1s)

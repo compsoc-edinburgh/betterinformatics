@@ -4,6 +4,8 @@ semester: 1
 title: DMMR - Discrete Mathematics and Mathematical Reasoning
 course-acronym: dmmr
 links:
+  - name: piazza
+    url: https://piazza.com/class/jmt6bpqbwjz45a
   - name: drive
     url: /drive?next=0B4SUSkTXjliXbWN0YUF5cEx1ZFE
 ---
