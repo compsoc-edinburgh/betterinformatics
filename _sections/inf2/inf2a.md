@@ -4,6 +4,8 @@ semester: 1
 title: INF2A - Processing Formal and Natural Languages
 course-acronym: inf2a
 links:
+  - name: piazza
+    url: https://piazza.com/class/jkuzor9eypxov
   - name: schedule
     url: https://www.inf.ed.ac.uk/teaching/courses/inf2a/schedule.html
 ---
