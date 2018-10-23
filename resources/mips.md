@@ -6,7 +6,7 @@ title: MIPS
 At least two courses focuses on MIPS, so we've moved some content from individual courses to this page.
 
 - Beginner: for [inf2c-cs](/inf2#inf2c-cs)
-- Advanced: just for [ct](/inf3#ct) people
+- Advanced: for [ct](/inf3#ct) people
 
 ## Beginner
 
@@ -24,4 +24,5 @@ At least two courses focuses on MIPS, so we've moved some content from individua
 
 
 ## Advanced
-todo
+
+- [List of registers](https://www.inf.ed.ac.uk/teaching/courses/ct/18-19/slides/10-mips-assembly.pdf#page=7) (from slides)
