@@ -28,7 +28,7 @@ links:
   - [Video explanation of arrays](https://www.youtube.com/watch?v=ls4QpZD2Cow) (by The Simple Engineer)
   - [Pointer arithmetic](https://courses.washington.edu/css342/zander/css332/pointerarith.html)
 - MIPS and The Stack:
-  - [Understanding the Stack](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html)
+  - [Understanding the Stack](https://web.archive.org/web/20171217113151/http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html)
 - Tools:
   - [myMars - a custom version of Mars with some minor additional features](https://github.com/qaisjp/myMARS/releases)
   - [Orthodox MIPS - are all my instructions in "The Bible"?](https://labs.boramalper.org/orthodox-mips/)
