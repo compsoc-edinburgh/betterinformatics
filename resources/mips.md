@@ -8,7 +8,7 @@ At least two courses focuses on MIPS, so we've moved some content from individua
 - Beginner: for [inf2c-cs](/inf2#inf2c-cs)
 - Advanced: just for [ct](/inf3#ct) people
 
-# Beginner
+## Beginner
 
 - ["The Bible": Appendix A - Assemblers, Linkers and SPIM](http://pages.cs.wisc.edu/~larus/HP_AppA.pdf)
 - [MIPS Assembly](https://en.wikibooks.org/wiki/MIPS_Assembly) (wikibook)
@@ -23,5 +23,5 @@ At least two courses focuses on MIPS, so we've moved some content from individua
   - [Understanding the Stack](https://web.archive.org/web/20171217113151/http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html)
 
 
-# Advanced
+## Advanced
 todo
