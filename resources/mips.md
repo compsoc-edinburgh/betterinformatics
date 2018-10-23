@@ -8,6 +8,8 @@ At least two courses focuses on MIPS, so we've moved some content from individua
 - Beginner: for [inf2c-cs](/inf2#inf2c-cs)
 - Advanced: for [ct](/inf3#ct) people
 
+There's also [myMars - a custom version of Mars with some minor additional features](https://github.com/qaisjp/myMARS/releases).
+
 ## Beginner
 
 - ["The Bible": Appendix A - Assemblers, Linkers and SPIM](http://pages.cs.wisc.edu/~larus/HP_AppA.pdf)
