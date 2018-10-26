@@ -14,7 +14,9 @@ links:
 
 [**Online (flipped-classroom) version of this course. 10x better than the lectures.**](https://youtu.be/rdXw7Ps9vxc?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 
-85% **non-calculator** open book exam, 15% across 9 assessments. Pass: 40% overall.
+85% **non-calculator** open book exam, 15% across two courseworks. Pass: 40% overall.
+
+In previous years the coursework was assigned weekly, much like the current tutorial questions. That's now (2018) changed with only two five-question courseworks, each worth 7.5% of the final grade. You've still got the weekly tutorial question sheets, but they don't count towards the final mark.
 
 - Some [inf1-cl](/inf1#inf1-cl) links may be useful.
 - [Companion website for textbook](http://highered.mheducation.com/sites/0071315012/student_view0/index.html)
