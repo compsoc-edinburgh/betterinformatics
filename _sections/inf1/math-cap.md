@@ -14,7 +14,7 @@ links:
 - [Course outline](/resources/math-cap/outline-2016-17.html)
 - [MathBase timetable](/static/year1/mathbase-sem2-timetable.png)
 - [Notes from an awesome person who did the course last year, Joe](/static/year1/cap_reference.pdf) ([src](https://github.com/aptgetmoo/cap))
-- Cheat sheet PDFs of the [definitions](/resources/math-cap/math-cap-definitions-cheatsheet-2017.pdf) and [theorems](/resources/math-cap/math-cap-definitions-theorems-2017.pdf) to save you time in the exam (no need to search through the textbook)
+- Cheat sheet PDFs of the [definitions](/resources/math-cap/math-cap-definitions-cheatsheet-2018.pdf) and [theorems](/resources/math-cap/math-cap-theorems-cheatsheet-2018.pdf) to save you time in the exam (no need to search through the textbook)
 - [SympyGamma](http://www.sympygamma.com/) - a tool similar to WolframAlpha, but also offering explanation for derivations. 
 - [Answers for Essential calculus](http://slader.com/textbook/9781133112280-stewart-essential-calculus-early-transcendentals-2nd-edition/)
 - [Riemann sums](https://www.desmos.com/calculator/tgyr42ezjq) online calculator
