@@ -5,7 +5,7 @@ pinned: true
 ---
 
 - [Reading List](https://goo.gl/9NkLch)
-- [Intranet](http://web.inf.ed.ac.uk/) (InfWeb), [Staff and Student Rep Meetings blog](http://blog.inf.ed.ac.uk/issr/) (ISSR)
+- [Intranet](http://web.inf.ed.ac.uk/) (InfWeb), [Rep Meetings blog](http://blog.inf.ed.ac.uk/issr/) (ISSR)
 - [The Marauders App](https://mapp.betterinformatics.com) - map of machines
 - **Web printing interfaces**: [EveryonePrint](http://www.everyoneprint.is.ed.ac.uk), [ManagePrint](http://www.manageprint.is.ed.ac.uk)
 - [List of all Informatics courses](http://course.inf.ed.ac.uk/), [Coursework Calculator](/calculator)
