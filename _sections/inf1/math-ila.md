@@ -19,7 +19,7 @@ links:
 -   Answers for Poole ([3rd edition], [4th edition])
 -   [42 - calc app capable of Eigenstuff and other linear algebra](http://math-42.com/)
 -   [Subspaces, basis etc](http://www.math.wvu.edu/~diamond/Math251S14/basis.pdf)
--   [Cheat sheet PDFs of the [definitions](/drive?next=1VdudFWN_SQvWI68XBMjdCNWOYn4lfCfe) and [theorems](/drive?next=1Fohf27v9vTqbQplNJUrnTNd3jFd4bBV1) to save you time in the exam (no need to search through the textbook)
+-   Cheat sheet PDFs of the [definitions](/drive?next=1VdudFWN_SQvWI68XBMjdCNWOYn4lfCfe) and [theorems](/drive?next=1Fohf27v9vTqbQplNJUrnTNd3jFd4bBV1) to save you time in the exam (no need to search through the textbook)
 -   **The Exam** - 3 hours - Open Book
     <br>Section A: 40% - 6 questions - conceptual questions, a bit like Tophat
     <br>Section B: 60% - 4 questions (pick 3) - longer, conceptual questions
