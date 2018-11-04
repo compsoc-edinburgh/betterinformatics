@@ -22,9 +22,12 @@ There's also [myMars - a custom version of Mars with some minor additional featu
   - [Video explanation of arrays](https://www.youtube.com/watch?v=ls4QpZD2Cow) (by The Simple Engineer)
   - [Pointer arithmetic](https://courses.washington.edu/css342/zander/css332/pointerarith.html)
 - The Stack:
-  - [Understanding the Stack](https://web.archive.org/web/20171217113151/http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html)
+  - [Understanding the Stack]
 
 
 ## Advanced
 
 - [List of registers](https://www.inf.ed.ac.uk/teaching/courses/ct/18-19/slides/10-mips-assembly.pdf#page=7) (from slides)
+- [Understanding the Stack]
+
+[Understanding the Stack]: https://web.archive.org/web/20171217113151/http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html
