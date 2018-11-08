@@ -137,10 +137,7 @@
     }
 
     $(() => {
-        $("#get-exam-timetable").click(() => {
-            $.ajax("https://betterinformatics.com/search/", {dataType: 'json'})
-            .done(data => showExamTimetable(data.data)).fail(fail);
-            return false;
-        });
+        $.ajax("https://betterinformatics.com/search/", {dataType: 'json'})
+        .done(data => showExamTimetable(data.data)).fail(fail);
     })
 </script>
