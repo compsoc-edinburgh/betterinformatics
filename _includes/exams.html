@@ -1,3 +1,6 @@
+<div id='get-exam-timetable'>
+    <a href="#" class="btn">loading exams inline...</a>
+</div>
 <div id='exam-timetable-table' style="display:none">
 
     Click on title/venue/date to expand.
@@ -42,7 +45,12 @@
     // console.log(pageCourses)
     const year = parseInt(`{{ page.year }}`);
 
-    const fail = () => $("#get-exam-timetable").html("<p>something broke, sorry</p>");
+    const fail = () => $("#get-exam-timetable > a").text("something broke, sorry");
+    const success = (data) => $("#get-exam-timetable > a").text("view exams").click(() => {
+        showExamTimetable(data.data);
+        $("#get-exam-timetable").remove();
+    });
+
     const readVenue = venues => {
         let s = '';
         venues.forEach(v => {
@@ -138,6 +146,6 @@
 
     $(() => {
         $.ajax("https://betterinformatics.com/search/", {dataType: 'json'})
-        .done(data => showExamTimetable(data.data)).fail(fail);
+        .done(data => success(data)).fail(fail);
     })
 </script>
