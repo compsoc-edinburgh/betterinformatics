@@ -49,6 +49,7 @@
     const success = (data) => $("#get-exam-timetable > a").text("view exams").click(() => {
         showExamTimetable(data.data);
         $("#get-exam-timetable").remove();
+        return false;
     });
 
     const readVenue = venues => {
