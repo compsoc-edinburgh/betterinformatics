@@ -25,12 +25,13 @@ layout: default
 
 {% if site.data.settings.examSeason and page.year and page.year != "start" %}
 <section id="exams">
-    <h3>Exams
-        <small>
-            |
-            <a id='get-exam-timetable' href='#'>view timetable here</a>,
-            <a href="https://exams.is.ed.ac.uk">official list</a>
-        </small>
+    <h3>
+        <span>
+            Exams
+            <small>
+                | <a href="https://exams.is.ed.ac.uk">official list</a>    
+            </small>
+        </span>
     </h3>
     {% include exams.html %}
 </section>
