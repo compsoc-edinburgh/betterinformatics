@@ -10,3 +10,4 @@ links:
 
 - <u>See shared drive for some unofficial solutions.</u>
 - An amazing online course at Caltech by Yaser Abu-Mostafa - [link](http://work.caltech.edu/previous.html)
+- A very detailed yet simple visual explanation of PCA, applied to a real-world scenario ([on `stats.stackexchange`](https://stats.stackexchange.com/a/140579))
