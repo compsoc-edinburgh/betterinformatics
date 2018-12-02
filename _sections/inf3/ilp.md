@@ -11,4 +11,4 @@ links:
 ---
 
 - Mapbox docs:
-  - [Add user's location to a map fragment](https://www.mapbox.com/android-docs/maps/examples/show-a-users-location-on-a-fragment/) (you may want to ignore the fragment part)
+  - [Show a user's location](https://www.mapbox.com/android-docs/maps/examples/show-a-users-location/)
