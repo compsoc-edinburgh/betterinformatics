@@ -26,5 +26,5 @@ links:
 - [What is a Context Free Grammar?](http://cs.union.edu/~striegnk/learn-prolog-now/html/node55.html)
 - [Part of Speech tags](https://cs.nyu.edu/grishman/jet/guide/PennPOS.html)
 - [NLP course from Columbia](https://www.youtube.com/user/afigfigueira/playlists?view=50&sort=dd&shelf_id=5) some of the videos are very similar to what we have been doing 
-- [Fixing left recursion & factoring] (https://www.youtube.com/watch?v=QYJ-EnuDXag)
-- [Playlist: computing first/follow sets and building an LL(1) parse table (step-by-step)] (https://www.youtube.com/watch?v=SBnjVW8dUqo&index=3&list=PLW1OMpQZxu7xMh7nuDQYQ2mDcqY2hzBWk)
+- [Fixing left recursion & factoring](https://www.youtube.com/watch?v=QYJ-EnuDXag)
+- [Playlist: computing first/follow sets and building an LL(1) parse table (step-by-step)](https://www.youtube.com/watch?v=SBnjVW8dUqo&index=3&list=PLW1OMpQZxu7xMh7nuDQYQ2mDcqY2hzBWk)
