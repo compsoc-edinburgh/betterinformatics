@@ -1,9 +1,15 @@
 ---
 ---
 
-### [Please read the welcome document.](/drive?next=1W1xVJs_RvV3KBbk1bKjsDvYUyUitER4jVbuae-nUFx8)
-
 ### [If you want to leave the Drive, click here.](https://groups.google.com/a/betterinformatics.com/forum/#!myforums)
+
+## Where is my course?
+Each course is put in a folder with the year that Informatics lists the course to be run for. You can view all courses and their associated years at course.inf.ed.ac.uk.
+
+## Please!
+Do not convert PDFs to a Google Doc, leave them as PDF files.
+
+## Sharing
 
 When you share a link (see types of links below), only people who are added to the Better Informatics Team Drive have access.
 
