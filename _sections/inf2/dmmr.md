@@ -36,5 +36,5 @@ In previous years the coursework was assigned weekly, much like the current tuto
   - by Induction: solutions to an MEI question (todo)
 - [2016 worksheet page](https://web.archive.org/web/20160913062041/http://www.inf.ed.ac.uk:80/teaching/courses/dmmr/Tutorial-sheets/)
 - [Congrugence modulo](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/congruence-modulo) (Khan Academy)
-- [Order of Complexity](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Problem_Solving/Big_O_Notation#Order_of_Complexity)
+- ~~[Order of Complexity](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Problem_Solving/Big_O_Notation#Order_of_Complexity)~~ [Not examinable 2018]
 - [A great tutorial on Baye's theorem](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/) — read from _Anatomy of a Test_
