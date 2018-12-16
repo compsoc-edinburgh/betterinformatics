@@ -7,7 +7,6 @@
     <table style="width: 100%;">
         <thead>
             <tr>
-                <th></th>
                 <th>Exam</th>
                 <th>Venue</th>
                 <th>Date</th>
@@ -116,12 +115,8 @@
         }
 
         results.forEach(exam => {
-            let shortTitle = exam.title.slice(-40);
-            if (shortTitle !== exam.title) {
-                shortTitle = '...' + shortTitle;
-            }
             const t = $("<td/>");
-            clickyText(t, exam.title, shortTitle);
+            clickyText(t, exam.title, exam.acronym);
             
             let shortVenue = exam.venue.slice(0, 40)
             if (shortVenue !== exam.venue) {
@@ -134,7 +129,7 @@
             clickyText(d, exam.timeAbs, exam.timeRel);
 
             const tr = $("<tr/>");
-            tr.append($("<td/>", {text:exam.acronym}));
+            // tr.append($("<td/>", {text:exam.acronym}));
             tr.append(t);
             tr.append(v);
             tr.append(d);
