@@ -4,7 +4,7 @@ title: DAPA
 course-acronym: dapa
 ---
 
-The course textbook ("Introduction to Parallel Computing") is available online on Safari, for free. You have to log in with your university credentials. [Link](http://betterinformatics.com/page.php?id=DAPA)
+The course textbook ("Introduction to Parallel Computing") is available online on Safari, for free. You have to log in with your university credentials.
 
 - [2013](https://docs.google.com/document/d/18SH4N6vuX0Br5kY3RUTfdXPXPgC7M6KFdaLggZ-IKhI)
 - [2012](https://docs.google.com/document/d/1IPWLehLGhbT2P3USbm8dOGtsDoOsjs1eJMi0dvt13DM/edit?usp=sharing)
