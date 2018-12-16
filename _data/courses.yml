@@ -12,6 +12,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11011
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11011.htm
@@ -25,6 +26,7 @@ list:
     - 25
     - 75
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR10052
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10052.htm
@@ -38,6 +40,7 @@ list:
     - 25
     - 75
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11156
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11156.htm
@@ -51,6 +54,7 @@ list:
     - 20
     - 80
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11020
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11020.htm
@@ -64,6 +68,7 @@ list:
     - 25
     - 75
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11180
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11180.htm
@@ -77,6 +82,7 @@ list:
     - 30
     - 70
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11125
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11125.htm
@@ -90,6 +96,7 @@ list:
     - 20
     - 80
     delivery: S1
+    delivery_ordinal: 1
     diet: 'VUG: December; April/May'
     euclid_code: INFR11101
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11101.htm
@@ -103,6 +110,7 @@ list:
     - 40
     - 60
     delivery: S1
+    delivery_ordinal: 1
     diet: 'April/May; VUG: December'
     euclid_code: INFR09042
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr09042.htm
@@ -116,6 +124,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11033
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11033.htm
@@ -129,6 +138,7 @@ list:
     - 100
     - 0
     delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR11122
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11122.htm
@@ -142,6 +152,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11031
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11031.htm
@@ -155,6 +166,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11151
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11151.htm
@@ -168,6 +180,7 @@ list:
     - 30
     - 70
     delivery: S1
+    delivery_ordinal: 1
     diet: 'April/May; VUG: December'
     euclid_code: INFR11144
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11144.htm
@@ -181,6 +194,7 @@ list:
     - 30
     - 70
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11160
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11160.htm
@@ -194,6 +208,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11005
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11005.htm
@@ -207,6 +222,7 @@ list:
     - 20
     - 80
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11111
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11111.htm
@@ -220,6 +236,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11067
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11067.htm
@@ -233,6 +250,7 @@ list:
     - 100
     - 0
     delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR11036
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11036.htm
@@ -246,6 +264,7 @@ list:
     - 25
     - 75
     delivery: S1
+    delivery_ordinal: 1
     diet: 'VUG: December; April/May'
     euclid_code: INFR10054
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10054.htm
@@ -259,6 +278,7 @@ list:
     - 40
     - 60
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR09046
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr09046.htm
@@ -272,6 +292,7 @@ list:
     - 100
     - 0
     delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR11094
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11094.htm
@@ -285,6 +306,7 @@ list:
     - 100
     - 0
     delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR11095
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11095.htm
@@ -298,6 +320,7 @@ list:
     - 25
     - 75
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11102
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11102.htm
@@ -311,6 +334,7 @@ list:
     - 40
     - 60
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR10074
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10074.htm
@@ -324,6 +348,7 @@ list:
     - 25
     - 75
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11032
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11032.htm
@@ -337,6 +362,7 @@ list:
     - 20
     - 80
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR08022
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr08022.htm
@@ -350,6 +376,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11128
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11128.htm
@@ -363,6 +390,7 @@ list:
     - 25
     - 75
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR10067
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10067.htm
@@ -376,6 +404,7 @@ list:
     - 100
     - 0
     delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR10065
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10065.htm
@@ -389,6 +418,7 @@ list:
     - 25
     - 75
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR10070
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10070.htm
@@ -402,6 +432,7 @@ list:
     - 100
     - 0
     delivery: B5+
+    delivery_ordinal: 4
     diet: ''
     euclid_code: INFR11077
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11077.htm
@@ -415,6 +446,7 @@ list:
     - 100
     - 0
     delivery: FLEX
+    delivery_ordinal: 4
     diet: ''
     euclid_code: INFR11159
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11159.htm
@@ -428,6 +460,7 @@ list:
     - 50
     - 50
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11007
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11007.htm
@@ -441,6 +474,7 @@ list:
     - 15
     - 85
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR08023
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr08023.htm
@@ -454,6 +488,7 @@ list:
     - 40
     - 60
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11090
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11090.htm
@@ -467,6 +502,7 @@ list:
     - 0
     - 100
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11169
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11169.htm
@@ -480,6 +516,7 @@ list:
     - 0
     - 100
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11170
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11170.htm
@@ -493,6 +530,7 @@ list:
     - 0
     - 100
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11171
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11171.htm
@@ -506,6 +544,7 @@ list:
     - 0
     - 100
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11179
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11179.htm
@@ -519,6 +558,7 @@ list:
     - 92
     - 8
     delivery: FLEX
+    delivery_ordinal: 4
     diet: ''
     euclid_code: INFR11185
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11185.htm
@@ -532,6 +572,7 @@ list:
     - 92
     - 8
     delivery: B5+
+    delivery_ordinal: 4
     diet: ''
     euclid_code: INFR11164
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11164.htm
@@ -545,6 +586,7 @@ list:
     - 92
     - 8
     delivery: B5+
+    delivery_ordinal: 4
     diet: ''
     euclid_code: INFR11166
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11166.htm
@@ -558,6 +600,7 @@ list:
     - 0
     - 100
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11176
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11176.htm
@@ -571,6 +614,7 @@ list:
     - 0
     - 100
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11175
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11175.htm
@@ -584,6 +628,7 @@ list:
     - 100
     - 0
     delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR11163
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11163.htm
@@ -597,6 +642,7 @@ list:
     - 0
     - 100
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11174
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11174.htm
@@ -610,6 +656,7 @@ list:
     - 100
     - 0
     delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR11168
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11168.htm
@@ -623,6 +670,7 @@ list:
     - 100
     - 0
     delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR11167
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11167.htm
@@ -636,6 +684,7 @@ list:
     - 100
     - 0
     delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR11183
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11183.htm
@@ -649,6 +698,7 @@ list:
     - 100
     - 0
     delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR11184
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11184.htm
@@ -662,6 +712,7 @@ list:
     - 100
     - 0
     delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR11177
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11177.htm
@@ -675,6 +726,7 @@ list:
     - 90
     - 10
     delivery: YR
+    delivery_ordinal: 3
     diet: ''
     euclid_code: INFR11173
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11173.htm
@@ -688,6 +740,7 @@ list:
     - 100
     - 0
     delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR11172
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11172.htm
@@ -701,6 +754,7 @@ list:
     - 100
     - 0
     delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR11178
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11178.htm
@@ -714,6 +768,7 @@ list:
     - 40
     - 60
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11088
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11088.htm
@@ -727,6 +782,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR09028
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr09028.htm
@@ -740,6 +796,7 @@ list:
     - 30
     - 70
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11017
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11017.htm
@@ -753,6 +810,7 @@ list:
     - 50
     - 50
     delivery: S1
+    delivery_ordinal: 1
     diet: December; December
     euclid_code: INFR10069
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10069.htm
@@ -766,6 +824,7 @@ list:
     - 50
     - 50
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11152
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11152.htm
@@ -779,6 +838,7 @@ list:
     - 50
     - 50
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11182
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11182.htm
@@ -792,6 +852,7 @@ list:
     - 100
     - 0
     delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR09021
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr09021.htm
@@ -805,6 +866,7 @@ list:
     - 100
     - 0
     delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR09050
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr09050.htm
@@ -818,6 +880,7 @@ list:
     - 100
     - 0
     delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR09051
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr09051.htm
@@ -831,6 +894,7 @@ list:
     - 10
     - 90
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11131
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11131.htm
@@ -844,6 +908,7 @@ list:
     - 40
     - 60
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR08020
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr08020.htm
@@ -857,6 +922,7 @@ list:
     - 0
     - 100
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR08015
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr08015.htm
@@ -870,6 +936,7 @@ list:
     - 0
     - 100
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR08014
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr08014.htm
@@ -883,6 +950,7 @@ list:
     - 5
     - 95
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR08025
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr08025.htm
@@ -896,6 +964,7 @@ list:
     - 25
     - 75
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR08008
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr08008.htm
@@ -909,6 +978,7 @@ list:
     - 25
     - 75
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR08009
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr08009.htm
@@ -922,6 +992,7 @@ list:
     - 40
     - 60
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR08018
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr08018.htm
@@ -935,6 +1006,7 @@ list:
     - 40
     - 60
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR08019
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr08019.htm
@@ -948,6 +1020,7 @@ list:
     - 25
     - 75
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR08010
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr08010.htm
@@ -961,6 +1034,7 @@ list:
     - 55
     - 45
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11146
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11146.htm
@@ -974,6 +1048,7 @@ list:
     - 100
     - 0
     delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR11147
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11147.htm
@@ -987,6 +1062,7 @@ list:
     - 10
     - 90
     delivery: S1
+    delivery_ordinal: 1
     diet: 'VUG: December; April/May'
     euclid_code: INFR11099
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11099.htm
@@ -1000,6 +1076,7 @@ list:
     - 100
     - 0
     delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR11138
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11138.htm
@@ -1013,6 +1090,7 @@ list:
     - 100
     - 0
     delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR11136
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11136.htm
@@ -1026,6 +1104,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR10059
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10059.htm
@@ -1039,6 +1118,7 @@ list:
     - 30
     - 70
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11140
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11140.htm
@@ -1052,6 +1132,7 @@ list:
     - 30
     - 70
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11155
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11155.htm
@@ -1065,6 +1146,7 @@ list:
     - 30
     - 70
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR09019
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr09019.htm
@@ -1078,6 +1160,7 @@ list:
     - 30
     - 70
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11153
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11153.htm
@@ -1091,6 +1174,7 @@ list:
     - 100
     - 0
     delivery: FLEX
+    delivery_ordinal: 4
     diet: ''
     euclid_code: INFR11097
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11097.htm
@@ -1104,6 +1188,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11079
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11079.htm
@@ -1117,6 +1202,7 @@ list:
     - 100
     - 0
     delivery: FLEX
+    delivery_ordinal: 4
     diet: ''
     euclid_code: INFR10051
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10051.htm
@@ -1130,6 +1216,7 @@ list:
     - 100
     - 0
     delivery: FLEX
+    delivery_ordinal: 4
     diet: ''
     euclid_code: INFR11093
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11093.htm
@@ -1143,6 +1230,7 @@ list:
     - 100
     - 0
     delivery: YR
+    delivery_ordinal: 3
     diet: ''
     euclid_code: INFR11132
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11132.htm
@@ -1156,6 +1244,7 @@ list:
     - 20
     - 80
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11130
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11130.htm
@@ -1169,6 +1258,7 @@ list:
     - 30
     - 70
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11161
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11161.htm
@@ -1182,6 +1272,7 @@ list:
     - 30
     - 70
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11165
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11165.htm
@@ -1195,6 +1286,7 @@ list:
     - 25
     - 75
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11162
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11162.htm
@@ -1208,6 +1300,7 @@ list:
     - 25
     - 75
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11035
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11035.htm
@@ -1221,6 +1314,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11157
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11157.htm
@@ -1234,6 +1328,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR09047
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr09047.htm
@@ -1247,6 +1342,7 @@ list:
     - 70
     - 30
     delivery: S1
+    delivery_ordinal: 1
     diet: April/May
     euclid_code: INFR11150
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11150.htm
@@ -1260,6 +1356,7 @@ list:
     - 100
     - 0
     delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR11108
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11108.htm
@@ -1273,6 +1370,7 @@ list:
     - 25
     - 75
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR10022
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10022.htm
@@ -1286,6 +1384,7 @@ list:
     - 25
     - 75
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11082
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11082.htm
@@ -1299,6 +1398,7 @@ list:
     - 20
     - 80
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11134
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11134.htm
@@ -1312,6 +1412,7 @@ list:
     - 20
     - 80
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11023
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11023.htm
@@ -1325,6 +1426,7 @@ list:
     - 100
     - 0
     delivery: YR
+    delivery_ordinal: 3
     diet: ''
     euclid_code: INFR10044
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10044.htm
@@ -1338,6 +1440,7 @@ list:
     - 100
     - 0
     delivery: B5+
+    delivery_ordinal: 4
     diet: ''
     euclid_code: INFR11118
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11118.htm
@@ -1351,6 +1454,7 @@ list:
     - 20
     - 80
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11089
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11089.htm
@@ -1364,6 +1468,7 @@ list:
     - 25
     - 75
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11010
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11010.htm
@@ -1377,6 +1482,7 @@ list:
     - 40
     - 60
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11186
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11186.htm
@@ -1390,6 +1496,7 @@ list:
     - 50
     - 50
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11092
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11092.htm
@@ -1403,6 +1510,7 @@ list:
     - 100
     - 0
     delivery: B5+
+    delivery_ordinal: 4
     diet: ''
     euclid_code: INFR11106
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11106.htm
@@ -1416,6 +1524,7 @@ list:
     - 100
     - 0
     delivery: YR
+    delivery_ordinal: 3
     diet: ''
     euclid_code: INFR11107
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11107.htm
@@ -1429,6 +1538,7 @@ list:
     - 100
     - 0
     delivery: YR
+    delivery_ordinal: 3
     diet: ''
     euclid_code: INFR11109
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11109.htm
@@ -1442,6 +1552,7 @@ list:
     - 25
     - 75
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11038
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11038.htm
@@ -1455,6 +1566,7 @@ list:
     - 50
     - 50
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR10064
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10064.htm
@@ -1468,6 +1580,7 @@ list:
     - 100
     - 0
     delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR09032
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr09032.htm
@@ -1481,6 +1594,7 @@ list:
     - 30
     - 70
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11098
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11098.htm
@@ -1494,6 +1608,7 @@ list:
     - 25
     - 75
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR10057
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10057.htm
@@ -1507,6 +1622,7 @@ list:
     - 40
     - 60
     delivery: S1
+    delivery_ordinal: 1
     diet: 'VUG: December; April/May'
     euclid_code: INFR11124
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11124.htm
@@ -1520,6 +1636,7 @@ list:
     - 100
     - 0
     delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR11141
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11141.htm
@@ -1533,6 +1650,7 @@ list:
     - 25
     - 75
     delivery: S1
+    delivery_ordinal: 1
     diet: December
     euclid_code: INFR11114
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11114.htm
@@ -1546,6 +1664,7 @@ list:
     - 50
     - 50
     delivery: YR
+    delivery_ordinal: 3
     diet: April/May
     euclid_code: INFR11145
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11145.htm
@@ -1559,6 +1678,7 @@ list:
     - 20
     - 80
     delivery: S2
+    delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11158
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11158.htm
