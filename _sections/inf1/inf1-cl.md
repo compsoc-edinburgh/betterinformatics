@@ -1,7 +1,6 @@
 ---
 title: INF1A - Logic
 year: 1
-semester: 1
 archived: false
 course-acronym: inf1-cl
 links:

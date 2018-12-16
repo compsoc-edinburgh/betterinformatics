@@ -1,6 +1,5 @@
 ---
 year: 3
-semester: 1
 credits: 20
 archived: false
 title: IAML - Introductory Applied Machine Learning

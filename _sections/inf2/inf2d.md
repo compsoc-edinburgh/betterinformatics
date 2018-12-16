@@ -1,6 +1,5 @@
 ---
 year: 2
-semester: 2
 title: INF2D - Reasoning and Agents
 course-acronym: inf2d
 pinned: true # temporary pinned as last inf exam

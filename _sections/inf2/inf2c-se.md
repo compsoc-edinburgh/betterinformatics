@@ -1,6 +1,5 @@
 ---
 year: 2
-semester: 1
 title: INF2C - Software Engineering
 course-acronym: inf2c-se
 links:

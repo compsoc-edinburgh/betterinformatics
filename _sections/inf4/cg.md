@@ -3,7 +3,6 @@ year: 4
 title: CG
 course-acronym: cg
 archived: false
-semester: 1
 ---
 
 [May 2014](https://docs.google.com/document/d/1SNizvwpIFgPiDfB4Jbo6XPcGtby5wsA215oPQebZ3tU/edit?usp=sharing),

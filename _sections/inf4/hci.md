@@ -3,7 +3,6 @@ year: 4
 title: HCI
 course-acronym: hci
 archived: false
-semester: 1
 ---
 
 [Past papers crowdsourced solutions](https://betterinformatics.com/drive?next=0B2AAOQQZ_8BxVXEyWGRrVl94SVk)

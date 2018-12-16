@@ -1,6 +1,5 @@
 ---
 year: 3
-semester: 1
 archived: true
 credits: 10
 title: LP - Logic Programming

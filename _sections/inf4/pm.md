@@ -3,7 +3,6 @@ year: 4
 title: PM
 course-acronym: pm
 archived: false
-semester: 1
 ---
 
 [May 2014](https://docs.google.com/document/d/17yt4oKIvUfwq6OhppavdZOtGFyA4houzfVQ6VXBuGp0/edit?usp=sharing),

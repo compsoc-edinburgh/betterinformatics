@@ -3,7 +3,6 @@ year: 4
 title: AV
 course-acronym: av
 archived: false
-semester: 2
 ---
 
 - [May 2010 Answers](https://docs.google.com/document/d/16WqtvNYFQLP4wXrhAK2uGrs-BXVfng8fLxTt-xw8ivM/edit?usp=sharing)

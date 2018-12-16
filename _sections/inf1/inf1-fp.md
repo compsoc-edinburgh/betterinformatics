@@ -2,7 +2,6 @@
 title: INF1A - Functional Programming
 year: 1
 course-acronym: inf1-fp
-semester: 1
 archived: false
 links:
   - name: piazza

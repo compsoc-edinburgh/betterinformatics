@@ -3,7 +3,6 @@ year: 4
 title: SAPM
 course-acronym: sapm
 archived: false
-semester: 2
 ---
 
 - What-you-need-to-know-for-the-exam course summary [slides](/drive?next=0B2AAOQQZ_8Bxd1g0alVCWlZNWlU).

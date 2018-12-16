@@ -1,6 +1,5 @@
 ---
 year: 3
-semester: 2
 credits: 20
 archived: false
 title: OS - Operating Systems

@@ -3,7 +3,6 @@ year: 4
 title: IAR
 course-acronym: iar
 archived: false
-semester: 1
 ---
 
 [May 2013](https://docs.google.com/document/d/1M4VqxYz-Zy-Z75Efqw4Lf8nX68IUI7oOvqYIVbCqd50/edit?usp=sharing),

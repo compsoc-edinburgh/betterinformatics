@@ -3,7 +3,6 @@ year: 4
 title: COPT
 course-acronym: copt
 archived: false
-semester: 2
 ---
 
 - [2014 exam](https://docs.google.com/document/d/10hs9AGIJ5fuCOXMDrb46YOaItCrvx0wRqNeooFWrpeU/edit?usp=sharing)

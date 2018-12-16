@@ -1,6 +1,5 @@
 ---
 year: 3
-semester: 1
 credits: 10
 archived: false
 title: IVR - Introduction to Vision and Robotics

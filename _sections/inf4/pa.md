@@ -3,7 +3,6 @@ year: 4
 title: PA
 course-acronym: pa
 archived: false
-semester: 2
 ---
 
 - [PA Notes](https://docs.google.com/document/d/1iV8CFAp3prkEk5QFQntPdYlNkRcP1fdHL-r9TJPjb5Q)

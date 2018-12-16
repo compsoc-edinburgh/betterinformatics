@@ -1,6 +1,5 @@
 ---
 year: 2
-semester: 1
 title: DMMR - Discrete Mathematics and Mathematical Reasoning
 course-acronym: dmmr
 links:

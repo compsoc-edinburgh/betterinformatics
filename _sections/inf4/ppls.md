@@ -3,7 +3,6 @@ year: 4
 title: PPLS
 course-acronym: ppls
 archived: false
-semester: 2
 ---
 
 - Some [notes on the content](https://docs.google.com/document/d/1KGnPoohdwlTfo72wFlxSkfkRfHADqDiQhZDepVSrPzE/edit?usp=sharing), mainly things that are good to be memorised.

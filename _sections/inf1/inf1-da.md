@@ -2,7 +2,6 @@
 title: Data and Analysis
 year: 1
 course-acronym: inf1-da
-semester: 2
 links:
   - name: fb
     url: https://www.facebook.com/groups/inf1da2017/

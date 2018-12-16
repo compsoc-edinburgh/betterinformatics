@@ -1,6 +1,5 @@
 ---
 year: 2
-semester: 1
 title: INF2C - Computer Systems
 course-acronym: inf2c-cs
 links:

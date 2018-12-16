@@ -3,7 +3,6 @@ year: 4
 title: CN
 course-acronym: cn
 archived: false
-semester: 2
 ---
 
 - [Notes](https://docs.google.com/document/d/1phIkDiK78aCz8m2WksSYO-J-rbonAR3cg_Tvz5GOSRk/edit?usp=sharing)

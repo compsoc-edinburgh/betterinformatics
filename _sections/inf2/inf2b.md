@@ -2,7 +2,6 @@
 github: https://betterinformatics.com/inf2#inf2b # too lazy to press the back button
 year: 2
 title: INF2B - Algorithms, Data Structures and Learning
-semester: 2
 course-acronym: inf2b
 links:
   - name: piazza (learning)
