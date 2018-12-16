@@ -10,7 +10,7 @@ title: Technical
   - Colour: `lpr -o sides=two-sided-long-edge -P cloudc0 FILENAME.pdf`
   - Mono: `lpr -o sides=two-sided-long-edge -P cloudm0 FILENAME.pdf`
 - [Remote access to DICE machines](https://gist.github.com/vaidap/41ff0abaa8ab35c771568dd129114f3a)
-- [Access DICE files in a web browser](https://ifile.inf.ed.ac.uk/)
+- [Access DICE files in a web browser](https://ifile.inf.ed.ac.uk/) (iFile)
 - [Accessing DICE remotely](http://computing.help.inf.ed.ac.uk/remote-desktop/) (RDP, remote desktop)
 - [Virtual DICE (VM)](http://computing.help.inf.ed.ac.uk/vdice) : Supports VirtualBox, VMWare support under development
 - [University VPN service](http://www.ed.ac.uk/schools-departments/information-services/services/computing/desktop-personal/vpn/vpn-service-using)
