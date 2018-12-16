@@ -2,13 +2,7 @@
 {% assign section=page %}
 {% assign course = site.data.courses.list[section.course-acronym] %}
 {% if course %}
-    {% if course.delivery == "S1" %}
-        {% assign semester = 1 %}
-    {% elsif course.delivery == "S2" %}
-        {% assign semester = 2 %}
-    {% else %}
-        {% assign semester = 100 %}
-    {% endif %}
+    {% assign semester = course.delivery_ordinal %}
 {% else %}
     {% assign semester = section.semester %}
 {% endif %}
