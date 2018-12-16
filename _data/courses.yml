@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 05/10/2018 07:45:02
+# Last update: 14/12/2018 07:45:02
 
-last_update: 05/10/2018 07:45:02
+last_update: 14/12/2018 07:45:02
 list:
   adbs:
     acronym: ADBS
@@ -90,7 +90,7 @@ list:
     - 20
     - 80
     delivery: S1
-    diet: 'April/May; VUG: December'
+    diet: 'VUG: December; April/May'
     euclid_code: INFR11101
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11101.htm
     level: 11
@@ -103,7 +103,7 @@ list:
     - 40
     - 60
     delivery: S1
-    diet: 'VUG: December; April/May'
+    diet: 'April/May; VUG: December'
     euclid_code: INFR09042
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr09042.htm
     level: 9
@@ -168,7 +168,7 @@ list:
     - 30
     - 70
     delivery: S1
-    diet: 'VUG: December; April/May'
+    diet: 'April/May; VUG: December'
     euclid_code: INFR11144
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11144.htm
     level: 11
@@ -232,7 +232,7 @@ list:
     cw_exam_ratio:
     - 100
     - 0
-    delivery: S1
+    delivery: S2
     diet: ''
     euclid_code: INFR11036
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11036.htm
@@ -775,7 +775,9 @@ list:
   iaml-pg:
     acronym: IAML-PG
     credits: 20
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 50
+    - 50
     delivery: S1
     diet: December
     euclid_code: INFR11182
@@ -829,7 +831,7 @@ list:
     - 10
     - 90
     delivery: S2
-    diet: ''
+    diet: April/May
     euclid_code: INFR11131
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11131.htm
     level: 11
@@ -985,7 +987,7 @@ list:
     - 10
     - 90
     delivery: S1
-    diet: 'April/May; VUG: December'
+    diet: 'VUG: December; April/May'
     euclid_code: INFR11099
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11099.htm
     level: 11
@@ -1368,6 +1370,19 @@ list:
     level: 11
     name: Reinforcement Learning
     year: 5
+  rlsc:
+    acronym: RLSC
+    credits: 10
+    cw_exam_ratio:
+    - 40
+    - 60
+    delivery: S2
+    diet: April/May
+    euclid_code: INFR11186
+    euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11186.htm
+    level: 11
+    name: Robot Learning and Sensorimotor Control
+    year: 5
   rss:
     acronym: RSS
     credits: 20
@@ -1492,7 +1507,7 @@ list:
     - 40
     - 60
     delivery: S1
-    diet: 'April/May; VUG: December'
+    diet: 'VUG: December; April/May'
     euclid_code: INFR11124
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11124.htm
     level: 11
