@@ -22,15 +22,15 @@ links:
   - [Coursework 1 (2017/18) Task B (pig latin) unit test](https://github.com/bnelo12/Pig-Latin-Unit-Tester)
 
 - Datapath:
-  - [Instruction Breakdown/Datapath Tutorial](https://www.youtube.com/watch?v=oETOwVBzu1s)
-  - [ECEN350: MIPS Datapath Tutorial (Part 2)](https://www.youtube.com/watch?v=FcP8BMTLqc4)
+  - [Instruction Breakdown/Datapath Tutorial (Video)](https://www.youtube.com/watch?v=oETOwVBzu1s)
+  - [ECEN350: MIPS Datapath Tutorial (Part 2) (Video)](https://www.youtube.com/watch?v=FcP8BMTLqc4)
 
 - Logic Design:
   - [Excellent tutorial on sequential logic](http://www.electronics-tutorials.ws/sequential/seq_1.html)
 
 - Caches:
   - [Colorful slides on caches](https://courses.cs.washington.edu/courses/cse378/09wi/lectures/lec15.pdf)
-  - [Implementing LRU - Georgia Tech](https://www.youtube.com/watch?v=bq6N7Ym81iI) 
+  - [Implementing LRU - Georgia Tech (Video)](https://www.youtube.com/watch?v=bq6N7Ym81iI) 
 
 
 - **Logistics**
