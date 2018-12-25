@@ -20,6 +20,7 @@ links:
 - [Test if your CFG is LL(1)](http://mdaines.github.io/grammophone/#/sentences)
 - [J&M 3ed draft](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
 - [Pump your lemma proof template](https://courses.engr.illinois.edu/cs373/sp2009/Handouts/pumping-lemma/pumping-lemma.html)
+- [I hate the pumping lemma](https://bosker.wordpress.com/2013/08/18/i-hate-the-pumping-lemma/)
 - 2017/18 coursework 1 - [Microhaskell JUnit Tests](https://github.com/bnelo12/MH-JUnit-Tests)
 - [Order of Complexity](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Problem_Solving/Big_O_Notation#Order_of_Complexity)
 - [What is a Context Free Grammar?](http://cs.union.edu/~striegnk/learn-prolog-now/html/node55.html)
