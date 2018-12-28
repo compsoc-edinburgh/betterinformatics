@@ -10,7 +10,7 @@ links:
 - Exam, **closed book**:
   - Pass requirement: 40% overall (exam+coursework combined), and 40% in the exam
 - **Detailed lecture notes** by Bora M. Alper: [PDF](/resources/inf2c-se/2C-SE_-_Notes_-_boramalper.pdf)
-  - Source: https://github.com/boramalper/inf2c-se-notes
+  - Source: [https://github.com/boramalper/inf2c-se-notes](https://github.com/boramalper/inf2c-se-notes)
 - UML Basics: [introduction](https://www.ibm.com/developerworks/rational/library/769.html?ca=drs-), [class diagram](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html?ca=drs-), [sequence diagram](https://www.ibm.com/developerworks/rational/library/3101.html?ca=drs-)
 - [Presentation about UML](https://www.slideshare.net/erant/uml-class-diagram)
 - [Software Requirements Document for a Curricular Information System](https://web.archive.org/web/20180612213849/http://web.mit.edu/ssit/cis/CISRequirements.html)
