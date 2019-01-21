@@ -14,6 +14,7 @@ links:
 - [Another cheat sheet with guides on distributions](/resources/math-pwa/probscheatsheet.pdf)
 - [Joint probability distributions](http://homepage.stat.uiowa.edu/~rdecook/stat2020/notes/ch5_pt1.pdf)
 - [Conditional Probability Visualisation](http://setosa.io/conditional/)
+- [A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html#firstPage) (Seeing Theory)
 
 - **Mostly-complete notes**
   - [Discrete probability](https://github.com/eonu/pwa/blob/master/discrete/Discrete%20probability.pdf): Missing combinatorics section.
