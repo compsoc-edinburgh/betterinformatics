@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 14/12/2018 07:45:02
+# Last update: 25/01/2019 07:45:01
 
-last_update: 14/12/2018 07:45:02
+last_update: 25/01/2019 07:45:01
 list:
   adbs:
     acronym: ADBS
@@ -153,26 +153,12 @@ list:
     - 70
     delivery: S2
     delivery_ordinal: 2
-    diet: April/May
+    diet: April/May; April/May
     euclid_code: INFR11031
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11031.htm
     level: 11
     name: Advanced Vision
     year: 4
-  av-dl:
-    acronym: AV-DL
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11151
-    euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11151.htm
-    level: 11
-    name: Advanced Vision (Distance Learning)
-    year: 5
   bdl:
     acronym: BDL
     credits: 10
@@ -181,7 +167,7 @@ list:
     - 70
     delivery: S1
     delivery_ordinal: 1
-    diet: 'April/May; VUG: December'
+    diet: 'VUG: December; April/May'
     euclid_code: INFR11144
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11144.htm
     level: 11
@@ -265,7 +251,7 @@ list:
     - 75
     delivery: S1
     delivery_ordinal: 1
-    diet: 'VUG: December; April/May'
+    diet: 'April/May; VUG: December'
     euclid_code: INFR10054
     euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10054.htm
     level: 10
@@ -369,20 +355,6 @@ list:
     level: 8
     name: Computer Programming Skills and Concepts
     year: 1
-  cqi:
-    acronym: CQI
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11128
-    euclid_url: http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11128.htm
-    level: 11
-    name: Categories and Quantum Informatics
-    year: 5
   cs:
     acronym: CS
     credits: 20
