@@ -13,3 +13,8 @@ links:
 - This explains BLP and AB much better than the slides: [i93lbacm(org).pdf](http://profsandhu.com/journals/computer/i93lbacm(org).pdf)
 - Some really great explanations of concepts in the course (Crypto, PK, RSA, Diffie-Hellman): [http://www.youtube.com/user/ArtOfTheProblem](http://www.youtube.com/user/ArtOfTheProblem)
 - [Revision notes by Ben Shaw](https://github.com/benshaaw/revision/tree/master/CS)
+- Running 2nd CW locally (on Ubuntu): 
+  - Copy folder ``/afs/inf.ed.ac.uk/group/teaching/compsec/cw2/`` 
+  - Follow instruction at https://help.ubuntu.com/community/KVM/Installation
+  - Modify your ``qemu.env``, the location to QEMU should be something like ``/usr/bin/kvm``
+  - Install vinagre: ``sudo apt install vinagre``
