@@ -18,3 +18,4 @@ links:
   - Follow instruction at https://help.ubuntu.com/community/KVM/Installation
   - Modify your ``qemu.env``, the location to QEMU should be something like ``/usr/bin/kvm``
   - Install vinagre: ``sudo apt install vinagre``
+- [Iptables essentials](https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands)
