@@ -23,6 +23,7 @@ links:
   - [A walkthrough through FTP passive mode, by manually reading every single packet](http://betterinformatics.com/drive?next=1ptpzrY3aEGmHKe7j5y6xgSjoAc9TNUpXWx2LHMMOOoM)
   - [List of raw FTP commands](http://www.nsftools.com/tips/RawFTP.htm)
   - [The "Packet List" pane in Wireshark](https://www.wireshark.org/docs/wsug_html_chunked/ChUsePacketListPaneSection.html) (see Table 3.15. for what the lines on the side mean)
+  - [Convert IP addresses into hostnames](https://osqa-ask.wireshark.org/questions/37680/can-wireshark-automatically-resolve-the-ip-address-into-host-names) (Edit - Preferences - Name Resolution)
   - [Difference between FTP active and passive mode](https://slacksite.com/other/ftp.html)
     - tip: read it carefully, not just the bullet points. the picture is useful too.
     - tip: for some reason, in active mode, the source _data_ port is not 20 (in the coursework)
