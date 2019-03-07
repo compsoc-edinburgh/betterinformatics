@@ -18,4 +18,16 @@ links:
   - Follow instruction at https://help.ubuntu.com/community/KVM/Installation
   - Modify your ``qemu.env``, the location to QEMU should be something like ``/usr/bin/kvm``
   - Install vinagre: ``sudo apt install vinagre``
-- [Iptables essentials](https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands)
+- IPTables:
+  - [Iptables essentials](https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands)
+  - [A walkthrough through FTP passive mode, by manually reading every single packet](http://betterinformatics.com/drive?next=1ptpzrY3aEGmHKe7j5y6xgSjoAc9TNUpXWx2LHMMOOoM)
+  - [List of raw FTP commands](http://www.nsftools.com/tips/RawFTP.htm)
+  - [The "Packet List" pane in Wireshark](https://www.wireshark.org/docs/wsug_html_chunked/ChUsePacketListPaneSection.html) (see Table 3.15. for what the lines on the side mean)
+  - [Difference between FTP active and passive mode](https://slacksite.com/other/ftp.html)
+    - tip: read it carefully, not just the bullet points. the picture is useful too.
+    - tip: for some reason, in active mode, the source _data_ port is not 20 (in the coursework)
+  - How to test FTP active mode:
+    1. Run `ftp alice`
+    2. Type `alice` as username, press enter, type `alice` as password.
+    3. Type `get meow.jpg`
+    4. meow.jpg should be downloaded & it should say "please consider using passive mode"
