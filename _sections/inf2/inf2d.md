@@ -16,3 +16,6 @@ links:
 - [Another AB pruning example - allowing you to create your own tree](http://proof.github.io/minimax/)
 - [Good set of video lectures on most things covered in the course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [Breadth first search & depth first search](https://youtu.be/bIA8HEEUxZI)
+- [PDDL Reference](https://nergmada.github.io/pddl-reference/)
+  - [PDDL Domains](https://nergmada.github.io/pddl-reference/reference/PDDL/domain.html)
+  - [PDDL Problems](https://nergmada.github.io/pddl-reference/reference/PDDL/problem.html)
