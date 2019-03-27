@@ -33,3 +33,6 @@ links:
     2. Type `alice` as username, press enter, type `alice` as password.
     3. Type `get meow.jpg`
     4. meow.jpg should be downloaded & it should say "please consider using passive mode"
+- Software Security
+  - [return-to-libc.pdf](https://css.csail.mit.edu/6.858/2018/readings/return-to-libc.pdf)
+  - [buffer overflow attacks](https://youtu.be/1S0aBV-Waeo) (computerphile)
