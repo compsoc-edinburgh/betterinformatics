@@ -35,4 +35,5 @@ links:
     4. meow.jpg should be downloaded & it should say "please consider using passive mode"
 - Software Security
   - [return-to-libc.pdf](https://css.csail.mit.edu/6.858/2018/readings/return-to-libc.pdf)
+  - [Return-to-libc tutorial](https://www.exploit-db.com/docs/english/28553-linux-classic-return-to-libc-&-return-to-libc-chaining-tutorial.pdf)
   - [buffer overflow attacks](https://youtu.be/1S0aBV-Waeo) (computerphile)
