@@ -35,6 +35,7 @@ links:
 - Example Lab using numpy, scipy, pandas, and matplotlib: [Similarity and recommender systems](https://github.com/bnelo12/ALD/blob/master/Similarity%20and%20Recommender%20Systems.ipynb)
 - **Why can't I paste using Ctrl+V in MatLab???** - The default settings are odd. Go to Preferences -> MATLAB -> Keyboard -> Shortcuts, change _Emacs Default Set_ to _Windows Default Set_.
 - **[Run MATLAB scripts from the command line](https://pastebin.com/tCai2Jx1)**
+- [Inf2B File Checker](https://github.com/veselypeta/File_Checker_inf2b)
 - Relevant bits from [Vision processing at Stanford](http://cs231n.github.io/):
    - [Interactive veronoi knn explorer](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
    - [Interactive SVM examples, similar to discriminant functions](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)
