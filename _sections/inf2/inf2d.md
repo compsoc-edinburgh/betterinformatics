@@ -19,7 +19,5 @@ links:
 - [PDDL Reference](https://nergmada.github.io/pddl-reference/)
   - [PDDL Domains](https://nergmada.github.io/pddl-reference/reference/PDDL/domain.html)
   - [PDDL Problems](https://nergmada.github.io/pddl-reference/reference/PDDL/problem.html)
-- [Bora M. Alper's PDDL Companion](https://github.com/boramalper/pddlc)
-
-  PDDLc is a small companion script that helps you check (syntax) and plan using PDDL from your terminal.
+- [Bora M. Alper's PDDL Companion](https://github.com/boramalper/pddlc) - syntax check and plan PDDL from your terminal
 - [Bora M. Alper's Lecture Notes (2019)](http://notes.boramalper.org/reasoning-and-agents/)
