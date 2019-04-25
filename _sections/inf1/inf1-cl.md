@@ -34,6 +34,7 @@ links:
     -   [simulator], [regex/automaton converter]
 -   **Regular Expressions**
     -   [regex/automaton converter]
+    - [Learn Regex Interactively](https://regexone.com)
     -   [Learn Regex The Easy Way]
     -   [Learn about regular expressions (has a great cheatsheet)]
 
