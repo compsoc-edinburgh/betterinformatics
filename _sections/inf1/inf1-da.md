@@ -13,7 +13,7 @@ links:
 > _you can pass by just learning the slides_
 
 - [Last year's blog](https://blog.inf.ed.ac.uk/da18/)
-- [Past exam solutions](https://github.com/compsoc-edinburgh/betterinformatics/tree/master/resources/inf1-da/past-solutions)
+- [Past exam solutions](https://betterinformatics.com/drive?next=1uEHc6lhQpHEVOdDF86kAZBge-zMTNrwS)
 - [SQLite Browser](http://sqlitebrowser.org/) is a useful tool exploring and creating SQL databases that can be saved to a single file.
 - [DbDesigner](https://dbdesigner.net/) allows you to design databases online, and convert them to their related SQL queries.
 - [DTD examples](http://zvon.org/xxl/DTDTutorial/General/contents.html)
