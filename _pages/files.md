@@ -1,9 +1,9 @@
 ---
 ---
 
-### [If you want to join or view the Drive, click here.](/drive)
+### [Click here to join or view the Drive.](/drive) Do not convert PDFs to a Google Doc, leave them as PDF files.
 
-### [If you want to leave the Drive, click here.](https://groups.google.com/a/betterinformatics.com/forum/#!myforums)
+### [Click here to leave the Drive.](https://groups.google.com/a/betterinformatics.com/forum/#!myforums)
 
 ## Where is my course?
 Each course is put in a folder with the year that Informatics lists the course to be run for. You can view all courses and their associated years at course.inf.ed.ac.uk.
