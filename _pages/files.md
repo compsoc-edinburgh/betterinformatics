@@ -1,6 +1,8 @@
 ---
 ---
 
+### [If you want to join or view the Drive, click here.](/drive)
+
 ### [If you want to leave the Drive, click here.](https://groups.google.com/a/betterinformatics.com/forum/#!myforums)
 
 ## Where is my course?
