@@ -29,6 +29,7 @@ links:
 -   [Propositional formula to CNF converter]
 -   [boolexman](http://labs.boramalper.org/boolexman/) (boolean expression manipulator)
 -   [Visualizing satisfiability, validity & entailment]
+-   [Soundness and Completeness](https://steemit.com/software/@cpuu/the-difference-between-soundness-and-completeness)
 -   **Finite State Machines**
     -   [FSM Workbench (also contains subset construction)]
     -   [simulator], [regex/automaton converter]
