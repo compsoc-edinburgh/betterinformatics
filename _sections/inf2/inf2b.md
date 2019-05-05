@@ -8,6 +8,8 @@ links:
     url: https://piazza.com/class/jc7iuf9dssg44f
 ---
 
+75% calculator closed book exam, 25% across two courseworks. Pass: 40% overall.
+
 **Learning**
 
 - [What is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk) (3blue1brown)
