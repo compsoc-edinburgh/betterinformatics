@@ -8,6 +8,8 @@ links:
     url: https://piazza.com/ed.ac.uk/spring2018/math08067
 ---
 
+80% open book exam, 20% across 10 weekly assignments. Pass: 40% in exam and course
+
 - [Summary](https://github.com/compsoc-edinburgh/bi-pwa)
 - [Slader Textbook Solutions - 9th Edition](http://www.slader.com/textbook/9780321794772-a-first-course-in-probability-9th-edition/)
 - [Cheat Sheet](/resources/math-pwa/PwA_Cheat_Sheet.pdf) [(source)](/resources/math-pwa/pwa_cheat_sheet.tex)
