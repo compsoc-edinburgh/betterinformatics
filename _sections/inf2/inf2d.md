@@ -8,6 +8,8 @@ links:
     url: https://piazza.com/class?nid=j8vrdotz8xx2x1
 ---
 
+75% closed book exam, 25% across two courseworks. Pass: 40% overall
+
 - [MCQ Question Cache](/drive?next=1coz6nMPFCZqR8mBU6AiDiVz0r28WMSNaSH9YcY7c6R0)
 - [Quizlet](https://quizlet.com/293000769/inf2d-flash-cards/)
 - [Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
