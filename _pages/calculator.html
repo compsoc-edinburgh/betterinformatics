@@ -4,31 +4,18 @@ layout: page
 ---
 
 <p>
-    Notes:
+    <!-- I deliberately avoid saying "to pass" because there might be other reqs to pass -->
+    If you want to see how much you need in your exam to get 40% overall, first
     <ul>
-        <li>
-            Disabled fields are missing data on the "Work%/Exam%" column on course.inf.ed.ac.uk
-        </li>
-        <li>
-            Don't forget to visit drps to double check the cw/exam weighting and
-            check for any additional assessment info (such as a requirement to pass the exam)
-        </li>
-        <li>
-            <strong>Instructions.</strong>
-            <!-- I deliberately avoid saying "to pass" because there might be other reqs to pass -->
-            If you want to see how much you need in your exam to get 40% overall, first
-            <ul>
-                <li>Select your course.</li>
-                <li>Click <button onclick="alert('not this one')">calculate me!</button> next to "Exam"</li>
-                <li>Fill in how much you got in your coursework (in x%).</li>
-                <li>Fill in <code>40</code> in the "Overall" field</li>
-                <!--
-                <li>???</li>
-                <li>PROFIT!</li>
-                -->
-                <li>The "Exam" field should now tell you how much you need in your exam to get 40% overall.</li>
-            </ul>
-        </li>
+        <li>Select your course.</li>
+        <li>Click <button onclick="alert('not this one')">calculate me!</button> next to "Exam"</li>
+        <li>Fill in how much you got in your coursework (in x%).</li>
+        <li>Fill in <code>40</code> in the "Overall" field</li>
+        <!--
+        <li>???</li>
+        <li>PROFIT!</li>
+        -->
+        <li>The "Exam" field should now tell you how much you need in your exam to get 40% overall.</li>
     </ul>
 </p>
 
@@ -83,6 +70,11 @@ layout: page
     </ul>
     <br>
     <strong>Last updated from <a href="http://course.inf.ed.ac.uk">course.inf.ed.ac.uk</a>:</strong> {{ site.data.courses.last_update }}
+
+    <small>
+        Don't forget to visit drps to double check the cw/exam weighting and
+        check for any additional assessment info (such as a requirement to pass the exam)
+    </small>
 </p>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
