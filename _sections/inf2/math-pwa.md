@@ -21,7 +21,7 @@ links:
 - **Mostly-complete notes**
   - [Discrete probability](https://github.com/eonu/pwa/blob/master/discrete/Discrete%20probability.pdf): Missing combinatorics section.
   - [Continuous probability](https://github.com/eonu/pwa/blob/master/continuous/Continuous%20probability.pdf): Missing continuous markov chains, poisson processes, birth-death processes etc.
-- [Summary](https://github.com/compsoc-edinburgh/bi-pwa)
+  - [Summary](https://github.com/compsoc-edinburgh/bi-pwa)
   
 - **Videos**
   - [Binomial probability](https://www.khanacademy.org/math/probability/binomial-probability-a2) (Khan Academy)
