@@ -10,7 +10,7 @@ links:
 
 80% open book exam, 20% across 10 weekly assignments. Pass: 40% in exam and course
 
-- [Summary](https://github.com/compsoc-edinburgh/bi-pwa)
+- [Summary from the course textbook](https://betterinformatics.com/drive?next=1p2QI-ePPzbxfBcmyX8-jDQfAM4yzWzXv) - The last four pages before the index in the Ninth Edition
 - [Slader Textbook Solutions - 9th Edition](http://www.slader.com/textbook/9780321794772-a-first-course-in-probability-9th-edition/)
 - [Cheat Sheet](/resources/math-pwa/PwA_Cheat_Sheet.pdf) [(source)](/resources/math-pwa/pwa_cheat_sheet.tex)
 - [Another cheat sheet with guides on distributions](/resources/math-pwa/probscheatsheet.pdf)
@@ -21,6 +21,7 @@ links:
 - **Mostly-complete notes**
   - [Discrete probability](https://github.com/eonu/pwa/blob/master/discrete/Discrete%20probability.pdf): Missing combinatorics section.
   - [Continuous probability](https://github.com/eonu/pwa/blob/master/continuous/Continuous%20probability.pdf): Missing continuous markov chains, poisson processes, birth-death processes etc.
+- [Summary](https://github.com/compsoc-edinburgh/bi-pwa)
   
 - **Videos**
   - [Binomial probability](https://www.khanacademy.org/math/probability/binomial-probability-a2) (Khan Academy)
