@@ -33,7 +33,6 @@
 }
 </style>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.16.0/moment.min.js"></script>
 <script>
     const courses = JSON.parse(`{{ site.data.courses | jsonify }}`);
@@ -41,12 +40,16 @@
     // console.log(pageCourses)
     const year = parseInt(`{{ page.year }}`);
 
-    const fail = () => $("#get-exam-timetable > a").text("something broke, sorry");
-    const success = (data) => $("#get-exam-timetable > a").text("view exams").click(() => {
-        showExamTimetable(data.data);
-        $("#get-exam-timetable").remove();
-        return false;
-    });
+    const fail = () => {document.querySelector("#get-exam-timetable > a").innerText = "something broke, sorry"}
+    const success = (data) => {
+        const el = document.querySelector("#get-exam-timetable > a")
+        el.innerText = "view exams"
+        el.addEventListener('click', () => {
+            showExamTimetable(data.data);
+            document.querySelector('#get-exam-timetable').remove();
+            return false;
+        });
+    }
 
     const readVenue = venues => {
         let s = '';
@@ -100,45 +103,44 @@
         results.sort((a, b) => {return a.time > b.time ? 1 : -1});
         // console.log(results)
 
-        const table = $("#exam-timetable-table");
-        const body = table.find('tbody');
-        body.html(``);
+        const table = document.querySelector("#exam-timetable-table");
+        const body = table.querySelector('tbody');
+        body.innerHTML = ''
 
         const clickyText = (t, a, b) => {
-            t.click(() => t.text(
-                t.text() === b ? a : b
-            ));
-            t.text(b);
+            t.addEventListener('click', () => {t.innerText = (t.innerText === b ? a : b)})
+            t.innerText = b
         }
 
         results.forEach(exam => {
-            const t = $("<td/>");
+            const t = document.createElement('td')
             clickyText(t, exam.title, exam.acronym);
             
             let shortVenue = exam.venue.slice(0, 80)
             if (shortVenue !== exam.venue) {
                 shortVenue + '...';
             }
-            const v = $("<td/>");
+            const v = document.createElement('td')
             clickyText(v, exam.venue, shortVenue);
             
-            const d = $("<td/>");
+            const d = document.createElement('td')
             clickyText(d, exam.timeAbs, exam.timeRel);
 
-            const tr = $("<tr/>");
-            // tr.append($("<td/>", {text:exam.acronym}));
-            tr.append(t);
-            tr.append(v);
-            tr.append(d);
+            const tr = document.createElement('tr')
+            tr.appendChild(t);
+            tr.appendChild(v);
+            tr.appendChild(d);
 
-            body.append(tr);
+            body.appendChild(tr);
         })
 
-        table.show();
+        table.style.display = 'block'
     }
 
-    $(() => {
-        $.ajax("https://betterinformatics.com/search/", {dataType: 'json'})
-        .done(data => success(data)).fail(fail);
-    })
+    window.onload = () => {
+        fetch('https://betterinformatics.com/search/')
+            .then(r => r.json())
+            .then(r => success(r))
+            .catch(() => fail())
+    }
 </script>
