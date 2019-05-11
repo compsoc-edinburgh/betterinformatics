@@ -137,10 +137,10 @@
         table.style.display = 'block'
     }
 
-    window.onload = () => {
+    window.addEventListener('load', () => {
         fetch('https://betterinformatics.com/search/')
             .then(r => r.json())
             .then(r => success(r))
             .catch(() => fail())
-    }
+    })
 </script>

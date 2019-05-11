@@ -27,7 +27,7 @@
 
         {% if page.layout == "frontpage" %}
             <script type="text/javascript">
-                window.onload = () => {
+                window.addEventListener('load', () => {
                     // If a course is provided, show everything
                     if (window.location.hash) {
                         //$("[data-semester]").show();
@@ -51,7 +51,7 @@
                             }
                         })
                     })
-                }
+                })
             </script>
         {% endif %}
 
