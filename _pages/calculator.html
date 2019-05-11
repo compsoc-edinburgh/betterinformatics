@@ -120,7 +120,6 @@ function updateCalculation() {
         || ((overall == "") && (exam != "") && (cw == ""))
     ) {
         console.log("At least 2 are empty.")
-        showCalculatorError('At least 2 are empty')
         return;
     }
 
@@ -228,11 +227,9 @@ function loadCourseCalculator() {
     document.querySelectorAll('[data-cw-lock]').forEach(el => el.addEventListener('click', handleLock))
 
 
-    // fire handler to initially populate the commits
-    try {
-        handleLock()
-    } catch (e) {}
+    // fire handler to initially populate the locks
+    handleLock.bind(document.querySelector('[data-cw-lock]'))()
 }
 
-window.onload = loadCourseCalculator
+window.addEventListener('load', loadCourseCalculator)
 </script>
