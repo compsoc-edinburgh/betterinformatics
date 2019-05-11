@@ -12,9 +12,9 @@ layout: default
 </div>
 
 {% if page.year and page.year != "start" %}
-    <a id="sem1-btn" class="btn">view semester 1</a>
-    <a id="sem2-btn" class="btn">view semester 2</a>
-    <a id="all-btn" class="btn">view all</a>
+    <a id="sem1-btn" data-sem="1"  class="btn">view semester 1</a>
+    <a id="sem2-btn" data-sem="2"  class="btn">view semester 2</a>
+    <a id="all-btn" data-sem="all" class="btn">view all</a>
 {% endif %}
 
 {{ content }}

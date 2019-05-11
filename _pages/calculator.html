@@ -27,9 +27,9 @@ layout: page
 
     {% assign courses = site.data.courses.list %}
     <select id="course-list">
-        <option>(select a course)</option>
+        <option disabled selected>(select a course)</option>
         {% for course in courses %}
-            <option data-acronym="{{ course[0] }}"
+            <option data-acronym="{{ course[0] }}" value="{{ course[0] }}"
                 {% unless course[1].cw_exam_ratio %}
                     disabled="disabled"
                 {% endunless %}
@@ -45,11 +45,11 @@ layout: page
     <ul>
         <li>
             <strong>Coursework: </strong>
-            <input id="cw-w8-cw" style="width: 2rem"></input>%
+            <input data-cw-w8="cw" id="cw-w8-cw" style="width: 2rem"></input>%
         </li>
         <li>
             <strong>Exam: </strong>
-            <input id="cw-w8-exam"  style="width: 2rem"></input>%
+            <input data-cw-w8="exam" id="cw-w8-exam"  style="width: 2rem"></input>%
         </li>
     </ul>
     <br>
@@ -57,15 +57,15 @@ layout: page
     <ul>
         <li>
             Exam:
-            <input id="cw-tar-exam"></input>% <button id="cw-lock-exam"></button>
+            <input data-cw-tar="exam" id="cw-tar-exam"></input>% <button data-cw-lock="exam" id="cw-lock-exam"></button>
         </li>
         <li>
             Coursework:
-            <input id="cw-tar-cw"></input>% <button id="cw-lock-cw"></button>
+            <input data-cw-tar="cw" id="cw-tar-cw"></input>% <button data-cw-lock="cw" id="cw-lock-cw"></button>
         </li>
         <li>
             Overall:
-            <input id="cw-tar-all"></input>% <button id="cw-lock-all"></button>
+            <input data-cw-tar="all" id="cw-tar-all"></input>% <button data-cw-lock="all" id="cw-lock-all"></button>
         </li>
     </ul>
     <br>
@@ -77,28 +77,34 @@ layout: page
     </small>
 </p>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
 const courseData = {{ courses | jsonify }};
+const getEl = (type, target) => document.querySelector(`[data-cw-${type}="${target}"]`)
 
 function showCalculatorError(str) {
     if (str === "") {
-        $("#ccalc-error").text("");
+        document.querySelector("#ccalc-error").innerText = "";
         return;
     }
 
-    $("#ccalc-error").text("Error: " + str);
+    document.querySelector('#ccalc-error').innerText = `Error: ${str}`
 }
 
 function updateCalculation() {
-    showCalculatorError("");
+    showCalculatorError('');
 
-    const toSolve = "#" + $(lockButtons).filter("button:disabled")[0].id.replace(/lock/g, "tar");
-    console.log("Solving", toSolve)
-    $(toSolve).val("");
+    const toSolve = document.querySelector('[data-cw-tar="' + document.querySelector('[data-cw-lock][disabled]').dataset.cwLock + '"]')
+    console.log("Solving", toSolve.dataset.cwTar)
+    toSolve.value = ''
 
-    var overall = $("#cw-tar-all").val(), exam = $("#cw-tar-exam").val(), cw = $("#cw-tar-cw").val();
-    var ratio_cw = $("#cw-w8-cw").val(), ratio_exam = $("#cw-w8-exam").val();
+
+    let overall = getEl('tar',  'all').value
+    let exam    = getEl('tar', 'exam').value
+    let cw      = getEl('tar',   'cw').value
+
+    let ratio_cw   = getEl('w8',   'cw').value
+    let ratio_exam = getEl('w8', 'exam').value
+
 
     if ((overall != "") && (exam != "") && (cw != "")) {
         showCalculatorError("Only fill two of three targets");
@@ -127,7 +133,7 @@ function updateCalculation() {
         cw = parseInt(cw);
     }
 
-    ratio_cw = parseInt(ratio_cw);
+    ratio_cw   = parseInt(ratio_cw);
     ratio_exam = parseInt(ratio_exam);
 
     if (isNaN(ratio_cw) || isNaN(ratio_exam)) {
@@ -143,14 +149,14 @@ function updateCalculation() {
     ratio_cw /= 100;
     ratio_exam /= 100;
 
-    const solveOverall = toSolve === "#cw-tar-all";
-    const solveExam = toSolve === "#cw-tar-exam";
-    const solveCw = toSolve === "#cw-tar-cw";
+    const solveOverall = toSolve.dataset.cwTar === "all";
+    const solveExam    = toSolve.dataset.cwTar === "exam";
+    const solveCw      = toSolve.dataset.cwTar === "cw";
 
     if (solveOverall) {
         // overall = (cw * ratio_cw) + (exam * ratio_exam);
         const result = (cw * ratio_cw) + (exam * ratio_exam);
-        $("#cw-tar-all").val(result);
+        getEl('tar', 'all').value = result
         console.log("#cw-tar-all", result);
     } else if (solveExam || solveCw) {
         // exam = (overall - (cw * ratio_cw)) / ratio_exam
@@ -158,9 +164,8 @@ function updateCalculation() {
         // obj = (overall - inner) / outer
         const inner = solveExam ? (cw * ratio_cw) : (exam * ratio_exam);
         const outer = solveExam ? ratio_exam : ratio_cw;
-        const obj = solveExam ? "#cw-tar-exam" : "#cw-tar-cw";
         const result = (overall - inner) / outer;
-        $(obj).val(result);
+        getEl('tar', solveExam ? 'exam' : 'cw').value = result
         console.log(obj, result);
     } else {
         showCalculatorError("I can't into math.")
@@ -171,50 +176,60 @@ const lockButtons = "#cw-lock-all, #cw-lock-cw, #cw-lock-exam"
 const targetInputs = lockButtons.replace(/lock/g, "tar");
 function handleLock() {
     // Reset everything to normal
-    $(lockButtons).removeAttr('disabled');
-    $(targetInputs).removeAttr('disabled');
-    $(lockButtons).text("calculate me!");
+    document.querySelectorAll('[data-cw-lock]').forEach(el => {
+        el.disabled  = false
+        el.innerText = 'calculate me!'
+    })
+    document.querySelectorAll('[data-cw-tar]').forEach(el => el.disabled = false)
 
-    const input = $("#" + this.id.replace(/lock/g, "tar"));
-    input.val("");
-    input.attr("disabled", true);
 
-    $(this).attr("disabled", true);
-    $(this).text('calculated');
+    const input = document.querySelector(`[data-cw-tar="${this.dataset.cwLock}"]`)
+    input.disabled = true
+    input.value    = ''
+
+    this.disabled = true
+    this.innerText = 'calculated!'
 
     updateCalculation();
 }
 
 function changeCourse() {
-    const acronym = $(this).find("option:selected").data('acronym');
+    const acronym = document.querySelector('#course-list').value
+
     const course = courseData[acronym];
+    const courseEl = document.querySelector('#course-descriptor')
+    console.log('changed course')
     if (!course) {
-        $("#course-descriptor").hide();
+        courseEl.style.display = 'none'
+
         return;
     }
 
-    $("#course-descriptor").show();
-    $("#course-descriptor").attr('href', course.euclid_url);
+    courseEl.style.display = null;
+    courseEl.setAttribute('href', course.euclid_url)
 
     if (course.cw_exam_ratio === null) {
         showCalculatorError("course.inf.ed.ac.uk is missing a cw/exam ratio for this course");
         return;
     }
 
-    $("#cw-w8-cw").val(course.cw_exam_ratio[0]);
-    $("#cw-w8-exam").val(course.cw_exam_ratio[1]);
+    getEl('w8', 'cw').value = course.cw_exam_ratio[0]
+    getEl('w8', 'exam').value = course.cw_exam_ratio[1]
 
     updateCalculation();
 }
 
 function loadCourseCalculator() {
-    $("#course-list").change(changeCourse)
+    document.querySelector('#course-list').addEventListener('change', changeCourse)
 
-    $("input").on('input', updateCalculation);
-    $(lockButtons).click(handleLock);
+    document.querySelectorAll('[data-cw-tar]').forEach(el => el.addEventListener('input', updateCalculation))
+    document.querySelectorAll('[data-cw-w8]' ).forEach(el => el.addEventListener('input', updateCalculation))
+    document.querySelectorAll('[data-cw-lock]').forEach(el => el.addEventListener('click', handleLock))
 
-    handleLock.bind($("#cw-lock-all")[0])();
+
+    // fire handler to initially populate the locks
+    handleLock.bind(document.querySelector('[data-cw-lock]'))()
 }
 
-$(loadCourseCalculator);
+window.addEventListener('load', loadCourseCalculator)
 </script>
