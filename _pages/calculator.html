@@ -205,7 +205,7 @@ function changeCourse() {
         return;
     }
 
-    courseEl.style.display = 'block'
+    courseEl.style.display = null;
     courseEl.setAttribute('href', course.euclid_url)
 
     if (course.cw_exam_ratio === null) {
