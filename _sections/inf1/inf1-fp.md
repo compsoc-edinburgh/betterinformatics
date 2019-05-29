@@ -18,6 +18,7 @@ links:
 -   Learn You A Haskell ([official online book], [downloadable for exam][downloadable-lyah])
 -   [Basic/library function list][basic-library-functions], [Handy basic function cheat sheet][handy-functions]
 -   [Troubleshooting for Haskell (including Haskell-mode on Emacs)][troubleshooting]
+-   [Functional Programming blog/tutorials][kyle-cotton-blog] by Kyle Cotton
 
   [papers]: https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/exams/
   [allocations]: https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/exams/exam-allocation-2016.pdf
@@ -27,3 +28,4 @@ links:
   [basic-library-functions]: /resources/inf1-fp/inf1-fp-function-list.txt
   [handy-functions]: /resources/inf1-fp/inf1-fp-handy-functions.pdf
   [troubleshooting]: /resources/inf1-fp/troubleshooting.html
+  [kyle-cotton-blog]: https://kylecotton.github.io/
