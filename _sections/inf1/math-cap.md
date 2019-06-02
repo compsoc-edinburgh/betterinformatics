@@ -9,7 +9,7 @@ links:
   - name: webassign
     url: https://www.webassign.net/login.html
   - name: drps
-    url: http://www.drps.ed.ac.uk/18-19/dpt/cxmath08062.htm
+    url: http://www.drps.ed.ac.uk/19-20/dpt/cxmath08058.htm
 ---
 - [Course outline](/resources/math-cap/outline-2016-17.html)
 - [MathBase timetable](/static/year1/mathbase-sem2-timetable.png)
