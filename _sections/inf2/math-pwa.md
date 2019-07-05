@@ -17,6 +17,7 @@ links:
 - [Joint probability distributions](http://homepage.stat.uiowa.edu/~rdecook/stat2020/notes/ch5_pt1.pdf)
 - [Conditional Probability Visualisation](http://setosa.io/conditional/)
 - [A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html#firstPage) (Seeing Theory)
+- [Coin Problem](https://mattmccutchen.net/math/coin-problem.pdf) - 3 heads occurring before 2 tails (continuous toss)
 
 - **Mostly-complete notes**
   - [Discrete probability](https://github.com/eonu/pwa/blob/master/discrete/Discrete%20probability.pdf): Missing combinatorics section.
