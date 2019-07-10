@@ -30,6 +30,8 @@ links:
   - Intro to probability (followed by conditional probability) - [playlist](https://www.youtube.com/watch?v=ibINrxJLvlM&list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS&index=65&t=0s) (Trefor Bazett) - this video to end of playlist
   - [Bayes Theorem](https://www.youtube.com/watch?v=gTaxZplxFEw&index=2&list=PLX2gX-ftPVXX6DBktUuLiax4aIjypHUVE&t=9s) (
 Michel van Biezen)
+  - Calculus: [Iterated integrals](https://youtu.be/IO080wDQq8U) (KristaKingMath)
+
   
 - **Calculators**
   - [Individual and cumulative binomial probabilities](http://stattrek.com/online-calculator/binomial.aspx)
