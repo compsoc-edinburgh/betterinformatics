@@ -17,6 +17,10 @@ title: pwa quicklinks
   - The exam questions WILL NOT go beyond the material covered in lectures and tutorials but bear in mind that the question formulation will be different from the ones in tutorials and assignments.
   - Therefore you need to practice as much as possible (in order to be able to 'map' a given question onto what you have learnt). You will be examined on you familiarity with the covered material and NOT familiarity with the structure of questions in Tutorials and Assignments.
 
+<div style="display:flex; flex-wrap: wrap">
+
+<div>
+
 **Tutorials**
 
 1. [questions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3620138-dt-content-rid-7432399_1/xid-7432399_1), [solutions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3620148-dt-content-rid-7426397_1/xid-7426397_1)
@@ -31,6 +35,8 @@ title: pwa quicklinks
 1. [questions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3699555-dt-content-rid-7775620_1/xid-7775620_1), [solutions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3704771-dt-content-rid-8089249_1/xid-8089249_1)
 1. [questions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3704770-dt-content-rid-7810929_1/xid-7810929_1), [solutions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3711194-dt-content-rid-7852879_1/xid-7852879_1)
 
+</div><div>
+
 **Assessments**
 
 1. [questions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3620165-dt-content-rid-7426400_1/xid-7426400_1), [solutions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3638631-dt-content-rid-7501231_1/xid-7501231_1)
@@ -43,3 +49,5 @@ title: pwa quicklinks
 1. [questions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3692188-dt-content-rid-7738477_1/xid-7738477_1), [solutions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3699482-dt-content-rid-7775352_1/xid-7775352_1)
 1. [questions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3699718-dt-content-rid-7776237_1/xid-7776237_1), [solutions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3704772-dt-content-rid-7810935_1/xid-7810935_1)
 1. [questions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3704773-dt-content-rid-7810936_1/xid-7810936_1), [solutions](https://www.learn.ed.ac.uk/bbcswebdav/pid-3711193-dt-content-rid-7852878_1/xid-7852878_1)
+
+</div>
