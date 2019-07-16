@@ -10,6 +10,7 @@ links:
 
 80% open book exam, 20% across 10 weekly assignments. Pass: 40% in exam and course
 
+- [better tutorial/assignment list](/resources/math-pwa/list.html)
 - [Summary from the course textbook](https://betterinformatics.com/drive?next=1p2QI-ePPzbxfBcmyX8-jDQfAM4yzWzXv) - The last four pages before the index in the Ninth Edition
 - [Slader Textbook Solutions - 9th Edition](http://www.slader.com/textbook/9780321794772-a-first-course-in-probability-9th-edition/)
 - [Cheat Sheet](/resources/math-pwa/PwA_Cheat_Sheet.pdf) [(source)](/resources/math-pwa/pwa_cheat_sheet.tex)
