@@ -25,7 +25,7 @@ question formulation will be different from the ones in tutorials and assignment
 learnt). You will be examined on you familiarity with the covered material and NOT familiarity with the structure of
 questions in Tutorials and Assignments.
 
-<div style="display:flex; flex-wrap: wrap; padding-top: 1.5em;">
+<div style="display:flex; flex-wrap: wrap; padding-top: 1.5em; justify-content: space-between;">
 
     <div style="padding-right: 1.5em;">
 
