@@ -35,57 +35,57 @@ questions in Tutorials and Assignments.
             <li> <a
                     href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3620138-dt-content-rid-7432399_1/xid-7432399_1">questions</a>,
                 <a
-                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3620148-dt-content-rid-7426397_1/xid-7426397_1">solutions</a>)
+                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3620148-dt-content-rid-7426397_1/xid-7426397_1">solutions</a>
             </li>
             <li> <a
                     href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3631966-dt-content-rid-7464923_1/xid-7464923_1">questions</a>,
                 <a
-                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3633316-dt-content-rid-7469736_1/xid-7469736_1">solutions</a>)
+                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3633316-dt-content-rid-7469736_1/xid-7469736_1">solutions</a>
             </li>
             <li> <a
                     href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3651221-dt-content-rid-7534249_1/xid-7534249_1">questions</a>,
                 <a
-                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3651225-dt-content-rid-7534253_1/xid-7534253_1">solutions</a>)
+                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3651225-dt-content-rid-7534253_1/xid-7534253_1">solutions</a>
             </li>
             <li> <a
                     href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3651229-dt-content-rid-7534258_1/xid-7534258_1">questions</a>,
                 <a
-                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3662023-dt-content-rid-7584069_1/xid-7584069_1">solutions</a>)
+                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3662023-dt-content-rid-7584069_1/xid-7584069_1">solutions</a>
             </li>
             <li> <a
                     href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3662033-dt-content-rid-7584076_1/xid-7584076_1">questions</a>,
                 <a
-                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3672802-dt-content-rid-7636160_1/xid-7636160_1">solutions</a>)
+                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3672802-dt-content-rid-7636160_1/xid-7636160_1">solutions</a>
             </li>
             <li> <a
                     href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3672799-dt-content-rid-7636159_1/xid-7636159_1">questions</a>,
                 <a
-                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3678723-dt-content-rid-7674784_1/xid-7674784_1">solutions</a>)
+                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3678723-dt-content-rid-7674784_1/xid-7674784_1">solutions</a>
             </li>
             <li> <a
                     href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3681532-dt-content-rid-7689618_1/xid-7689618_1">questions</a>,
                 <a
-                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3685804-dt-content-rid-7709089_1/xid-7709089_1">solutions</a>)
+                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3685804-dt-content-rid-7709089_1/xid-7709089_1">solutions</a>
             </li>
             <li> <a
                     href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3685812-dt-content-rid-7711063_1/xid-7711063_1">questions</a>,
                 <a
-                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3692191-dt-content-rid-7738480_1/xid-7738480_1">solutions</a>)
+                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3692191-dt-content-rid-7738480_1/xid-7738480_1">solutions</a>
             </li>
             <li> <a
                     href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3692190-dt-content-rid-7738479_1/xid-7738479_1">questions</a>,
                 <a
-                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3699546-dt-content-rid-7775616_1/xid-7775616_1">solutions</a>)
+                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3699546-dt-content-rid-7775616_1/xid-7775616_1">solutions</a>
             </li>
             <li> <a
                     href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3699555-dt-content-rid-7775620_1/xid-7775620_1">questions</a>,
                 <a
-                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3704771-dt-content-rid-8089249_1/xid-8089249_1">solutions</a>)
+                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3704771-dt-content-rid-8089249_1/xid-8089249_1">solutions</a>
             </li>
             <li> <a
                     href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3704770-dt-content-rid-7810929_1/xid-7810929_1">questions</a>,
                 <a
-                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3711194-dt-content-rid-7852879_1/xid-7852879_1">solutions</a>)
+                    href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3711194-dt-content-rid-7852879_1/xid-7852879_1">solutions</a>
             </li>
         </ol>
 
