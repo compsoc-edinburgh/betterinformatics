@@ -25,6 +25,10 @@ question formulation will be different from the ones in tutorials and assignment
 learnt). You will be examined on you familiarity with the covered material and NOT familiarity with the structure of
 questions in Tutorials and Assignments.
 
+**Notes**
+
+Asterisked questions or solutions are recorded to have mistakes. Others exist.
+
 <div style="display:flex; flex-wrap: wrap; padding-top: 1.5em; justify-content: space-evenly;">
 
     <div style="padding-right: 1.5em;">
@@ -138,7 +142,7 @@ questions in Tutorials and Assignments.
             <li><a
                     target="_blank" rel="noopener" href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3699718-dt-content-rid-7776237_1/xid-7776237_1">questions</a>,
                 <a
-                    target="_blank" rel="noopener" href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3704772-dt-content-rid-7810935_1/xid-7810935_1">solutions</a>
+                    target="_blank" rel="noopener" href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3704772-dt-content-rid-7810935_1/xid-7810935_1">solutions*</a>
             </li>
             <li><a
                     target="_blank" rel="noopener" href="https://www.learn.ed.ac.uk/bbcswebdav/pid-3704773-dt-content-rid-7810936_1/xid-7810936_1">questions</a>,
