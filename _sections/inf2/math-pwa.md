@@ -19,11 +19,11 @@ links:
 - [Conditional Probability Visualisation](http://setosa.io/conditional/)
 - [A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html#firstPage) (Seeing Theory)
 - [Coin Problem](https://mattmccutchen.net/math/coin-problem.pdf) - 3 heads occurring before 2 tails (continuous toss)
+- [Course Summary](https://github.com/compsoc-edinburgh/bi-pwa)
 
-- **Mostly-complete notes**
-  - [Discrete probability](https://github.com/eonu/pwa/blob/master/discrete/Discrete%20probability.pdf): Missing combinatorics section.
-  - [Continuous probability](https://github.com/eonu/pwa/blob/master/continuous/Continuous%20probability.pdf): Missing continuous markov chains, poisson processes, birth-death processes etc.
-  - [Summary](https://github.com/compsoc-edinburgh/bi-pwa)
+- **2017-2018 notes by Edwin Onuonga**
+  - _Discrete probability_: Missing combinatorics section. ([html](https://notes.eonu.net/topics/probability-theory/discrete-probability/notes.html), [pdf](https://notes.eonu.net/topics/probability-theory/discrete-probability/notes.pdf))
+  - _Continuous probability_: Missing continuous markov chains, poisson processes, birth-death processes etc. ([html](https://notes.eonu.net/topics/probability-theory/continuous-probability/notes.html), [pdf](https://notes.eonu.net/topics/probability-theory/continuous-probability/notes.pdf))
   
 - **Videos**
   - [Binomial probability](https://www.khanacademy.org/math/probability/binomial-probability-a2) (Khan Academy)
