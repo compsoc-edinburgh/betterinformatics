@@ -147,6 +147,7 @@ questions in Tutorials and Assignments.
             </li>
         </ol>
     </div>
+</div>
 
 <strong>Assessment Corrections</strong>
 <br>
