@@ -153,5 +153,6 @@ questions in Tutorials and Assignments.
 <br>
 <em>Assignment 9</em>
 <p>
-The solution states <pre>π^3 = (0, 0, 1/4, 1/8, 0, 0, 1/2, 3/8)</pre>. The second last entry (1/2) is incorrect. It should be (1/4).
+    The solution states <code>π^3 = (0, 0, 1/4, 1/8, 0, 0, 1/2, 3/8)</code>.
+    The second last entry <code>(1/2)</code> is incorrect. It should be <code>(1/4)</code>.
 </p>
