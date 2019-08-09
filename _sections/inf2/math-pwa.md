@@ -38,3 +38,7 @@ links:
   - May 2018
     - **1(c)**: the correction calculation is indeed `15/56 - 15/64`, but it comes out to `0.03348...`, not the given `0.003`
     - **2(a)**: the answer is correct, but you might find it more natural to do `P(X=0)` with the binomial distribution, which produces the exact same answer (`0.2084...`)
+
+<!--
+https://math.stackexchange.com/questions/915353/the-probability-of-having-k-successes-before-r-failures-in-a-sequence-of-ind/915359#915359
+-->
