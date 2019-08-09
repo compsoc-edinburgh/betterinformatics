@@ -32,5 +32,8 @@ links:
 - **Calculators**
   - [Individual and cumulative binomial probabilities](http://stattrek.com/online-calculator/binomial.aspx)
 - **Past Paper Solutions CORRECTED**
+  Avoid putting the answer at the start of entry to prevent spoilers (unless it affects the question)
+
   - May 2018
-    - **1(c)**: `15/56 - 15/64` is the correct calculation, but it comes out to `0.03348...`, not the given `0.003`
+    - **1(c)**: the correction calculation is indeed `15/56 - 15/64`, but it comes out to `0.03348...`, not the given `0.003`
+    - **2(a)**: the answer is correct, but you might find it more natural to do `P(X=0)` with the binomial distribution, which produces the exact same answer (`0.2084...`)
