@@ -39,6 +39,7 @@ links:
   - May 2018
     - **1(c)**: the correction calculation is indeed `15/56 - 15/64`, but it comes out to `0.03348...`, not the given `0.003`
     - **2(a)**: the answer is correct, but you might find it more natural to do `P(X=0)` with the binomial distribution, which produces the exact same answer (`0.2084...`)
+    - **7(a)**: the stated [`P^2`](https://www.symbolab.com/solver/step-by-step/%5Cbegin%7Bpmatrix%7D0.5%260.5%260%5C%5C%20%20%20%20%20%200.7%260%260.3%5C%5C%20%20%20%20%20%200.2%260%260.8%5Cend%7Bpmatrix%7D%5E%7B2%7D) and [`P^3`](https://www.symbolab.com/solver/step-by-step/%5Cbegin%7Bpmatrix%7D0.5%260.5%260%5C%5C%20%20%20%20%200.7%260%260.3%5C%5C%20%20%20%20%200.2%260%260.8%5Cend%7Bpmatrix%7D%5E%7B3%7D) are incorrect. This affects the *numbers* for the rest of 7(a). 7(b) and 7(c) are not affected by this mistake.
 
 <!--
 https://math.stackexchange.com/questions/915353/the-probability-of-having-k-successes-before-r-failures-in-a-sequence-of-ind/915359#915359
