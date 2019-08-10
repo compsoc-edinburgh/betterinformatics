@@ -1,6 +1,6 @@
 ---
 year: 2
-title: DMMR - Discrete Mathematics and Mathematical Reasoning
+title: DMMR
 course-acronym: dmmr
 links:
   - name: piazza
