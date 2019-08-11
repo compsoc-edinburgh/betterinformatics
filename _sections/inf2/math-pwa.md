@@ -43,6 +43,7 @@ links:
       - the reason the limits change is because we know `XY < 1`, we also know minimum value of Y is 0.5, so `0.5X < 1`, therefore `X < 2`
     - **7(a)**: the stated [`P^2`](https://www.symbolab.com/solver/step-by-step/%5Cbegin%7Bpmatrix%7D0.5%260.5%260%5C%5C%20%20%20%20%20%200.7%260%260.3%5C%5C%20%20%20%20%20%200.2%260%260.8%5Cend%7Bpmatrix%7D%5E%7B2%7D) and [`P^3`](https://www.symbolab.com/solver/step-by-step/%5Cbegin%7Bpmatrix%7D0.5%260.5%260%5C%5C%20%20%20%20%200.7%260%260.3%5C%5C%20%20%20%20%200.2%260%260.8%5Cend%7Bpmatrix%7D%5E%7B3%7D) are incorrect. This affects the *numbers* for the rest of 7(a). 7(b) and 7(c) are not affected by this mistake.
     - **9(c)**: the stated `H(Y)` has correct working out, but doesn't evaluate to `1.436`, it evaluates to `1.561...`
+    - **10(a)**: Simple arithmetic error at the end, `1 - (5/6)` is not equal to `1/5`, it is equal to `1/6`. Morons.
 
 <!--
 https://math.stackexchange.com/questions/915353/the-probability-of-having-k-successes-before-r-failures-in-a-sequence-of-ind/915359#915359
