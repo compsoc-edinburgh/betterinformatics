@@ -15,7 +15,7 @@ links:
 - [What is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk) (3blue1brown)
 - [Using neural nets to recognise handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [Revision Formulae for Learning Thread (pdf)](/resources/inf2b/Inf2B_Formulae.pdf) [(LaTex)](/resources/inf2b/Inf2B_Formulae.tex)
-- [Learning notes](https://github.com/eonu/inf2b-learning) - Missing: perceptrons, single-layer and double-layer neural networks sections
+- Learning notes (2017-18) by Edwin Onuonga ([html](https://notes.eonu.net/topics/learning/notes.html), [pdf](https://notes.eonu.net/topics/learning/notes.pdf))<br/>_Missing_: perceptrons, single-layer and double-layer neural networks sections
 - **Pearson Correlation Coefficient**
   - [Benedict K's YouTube series](https://www.youtube.com/playlist?list=PLBb5Losa2uqGClVDDErdTaY1_RCyuH3mr)
   - [Calculating correlation coefficient r](https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/correlation-coefficient-r/v/calculating-correlation-coefficient-r) (KhanAcademy)
@@ -29,7 +29,7 @@ links:
 - [Unofficial Past Paper Solutions](https://betterinformatics.com/drive?next=11D73NDRY6leMFxxO1LoeqvEQL3mV-qC0)
 
 
-**Learning coursework** 
+**Learning coursework**
 
 - [MATLAB for use at home](https://www.ed.ac.uk/information-services/computing/desktop-personal/software/main-software-deals/matlab/matlab-homeuse) (free)
 - Installing [GNU Octave on macOS](http://www.schoeps.org/home/2018/01/how-to-compile-gnu-octave-with-openblas-on-macos/) (much lighter than MATLAB)
