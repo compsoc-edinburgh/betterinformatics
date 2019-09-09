@@ -14,3 +14,4 @@ links:
 - mailing list archives - [ug1-students](https://lists.inf.ed.ac.uk/mailman/private/ug1-students/)
 - if you have a learning disability go to the [disability service](http://www.ed.ac.uk/student-disability-service/about)! make sure you go there long before the exams, it only takes few hours and can help you quite a bit.
 - Semester 2: [Programming Club](http://progclub.inf.ed.ac.uk/)
+- **[Facebook Group Chat](https://m.me/join/AbZhMMMHfyXwhVsa)**
