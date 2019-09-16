@@ -15,6 +15,7 @@ pinned: true
 - [Student portal](https://student.inf.ed.ac.uk/) (change your tutorial allocations)
 - [Library](http://www.ed.ac.uk/schools-departments/information-services/library-museum-gallery)
 - [**Semester timetable**](https://www.ed.ac.uk/semester-dates)
+- [Exporting Outlook calendar to Webcal / Google calendar](https://medium.com/@neurosnap/how-to-share-outlook-office365s-calendar-with-google-calendar-ca7d9df7c056)
 - **Policies**: [feedback](http://www.inf.ed.ac.uk/student-services/teaching-organisation/for-taught-students/coursework-and-projects/coursework-assessment-and-feedback), [coursework _(new!)_](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/coursework-projects/late-coursework-extension-requests)
 - Allocations for: [tutorials](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/), [labs](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP082_Laboratory_Groups/)
 - [Spotify on DICE](https://tardis.ed.ac.uk/~joe/entries/spotify.html)
