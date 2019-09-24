@@ -9,9 +9,9 @@ links:
     url: https://piazza.com/ed.ac.uk/fall2018/ct
 ---
 
-- [GitLab](https://git.ecdf.ed.ac.uk/cdubach/ct-18-19)
-- [Official past papers and solutions](/drive?next=1MkgKYEtwcUjhy0FAERcVshSDPbRXDrm0)
-- Your compiler can take up to ten seconds to finish.
+- [GitLab](https://git.ecdf.ed.ac.uk/cdubach/ct-19-20)
+- [Understanding the Stack](/drive?next=11sbLRGqr72yvgH9zyUZhfKrzq95wr1EP)
+- Your compiler is allowed to take up to ten seconds to finish.
 - [Wikipedia: Operator-precedence parser](https://en.wikipedia.org/wiki/Operator-precedence_parser)
 - Grammar stuff:
   - [C grammar](https://www.lysator.liu.se/c/ANSI-C-grammar-y.html), [C Lex spec](https://www.lysator.liu.se/c/ANSI-C-grammar-l.html)
