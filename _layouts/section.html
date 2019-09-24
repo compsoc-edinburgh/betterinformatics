@@ -7,7 +7,7 @@
     {% assign semester = section.semester %}
 {% endif %}
 
-{% if semester == site.data.settings.semester or semester == 100 %}
+{% if semester == site.data.settings.semester or semester == 100 or semester == 3 %}
     {% capture sectionStyle %}{% endcapture %}
 {% else %}
     {% capture sectionStyle %}style="display: none;"{% endcapture %}
