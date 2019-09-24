@@ -1,6 +1,7 @@
 ---
 title: Data and Analysis
 year: 1
+archived: true
 course-acronym: inf1-da
 links:
   - name: fb
@@ -10,7 +11,6 @@ links:
   - name: piazza
     url: https://piazza.com/class/jqxl6bnswlj3gu
 ---
-> _you can pass by just learning the slides_
 
 - [Last year's blog](https://blog.inf.ed.ac.uk/da18/)
 - [Past exam solutions](https://betterinformatics.com/drive?next=1uEHc6lhQpHEVOdDF86kAZBge-zMTNrwS)
