@@ -1,7 +1,7 @@
 ---
 title: Object Oriented Programming
 year: 1
-course-acronym: inf1-op
+course-acronym: inf1b
 archived: false
 links:
   - name: piazza
