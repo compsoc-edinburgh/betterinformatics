@@ -23,6 +23,7 @@ defaults:
         archived: false
         course-acronym: ""
         layout: "section"
+        learn: true
 
     - scope:
         path: "" # an empty string here means all files in the project
