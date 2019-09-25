@@ -1,7 +1,7 @@
 ---
 github: https://betterinformatics.com/inf2#inf2b # too lazy to press the back button
 year: 2
-title: INF2B - Algorithms, Data Structures and Learning
+title: INF2B - Learning
 course-acronym: inf2b
 links:
   - name: piazza (learning)
@@ -10,7 +10,6 @@ links:
 
 75% closed book exam, 25% across two courseworks. Pass: 40% overall.
 
-**Learning**
 
 - [What is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk) (3blue1brown)
 - [Using neural nets to recognise handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html)
@@ -20,16 +19,7 @@ links:
   - [Benedict K's YouTube series](https://www.youtube.com/playlist?list=PLBb5Losa2uqGClVDDErdTaY1_RCyuH3mr)
   - [Calculating correlation coefficient r](https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/correlation-coefficient-r/v/calculating-correlation-coefficient-r) (KhanAcademy)
 
-**ADS**
-
-- [Introduction to ADS](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/) (gitbook, non inf)
-- [Amazing interactive examples from from USFCA](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- [Wikibook covering most of the stuff we are doing](https://en.wikibooks.org/wiki/Data_Structures)
-- ~~[Karatsuba Multiplication in 13 minutes](https://www.youtube.com/watch?v=JCbZayFr9RE) (video, watchable at 1.25x)~~
-- [Unofficial Past Paper Solutions](https://betterinformatics.com/drive?next=11D73NDRY6leMFxxO1LoeqvEQL3mV-qC0)
-
-
-**Learning coursework**
+**coursework**
 
 - [MATLAB for use at home](https://www.ed.ac.uk/information-services/computing/desktop-personal/software/main-software-deals/matlab/matlab-homeuse) (free)
 - Installing [GNU Octave on macOS](http://www.schoeps.org/home/2018/01/how-to-compile-gnu-octave-with-openblas-on-macos/) (much lighter than MATLAB)
