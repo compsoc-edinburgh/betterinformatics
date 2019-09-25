@@ -21,7 +21,11 @@
             {% if section.link %}
                 <a href="{{ section.link }}">
             {% elsif section.course-acronym != "" %}
-                <a href="https://www.inf.ed.ac.uk/teaching/courses/{{ section.course-acronym }}/">
+                {% if section.learn %}
+                    <a href="https://course.inf.ed.ac.uk/{{ section.course-acronym }}/">
+                {% else %}
+                    <a href="https://www.inf.ed.ac.uk/teaching/courses/{{ section.course-acronym }}/">
+                {% endif %}
             {% endif %}
             {{ section.title }}
             {% if section.link or section.course-acronym != "" %}
