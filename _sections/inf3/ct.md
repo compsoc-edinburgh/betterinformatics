@@ -4,6 +4,7 @@ credits: 20
 archived: false
 title: CT - Compiling Techniques
 course-acronym: ct
+learn: false
 links:
   - name: piazza
     url: https://piazza.com/ed.ac.uk/fall2018/ct
