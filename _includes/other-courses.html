@@ -18,7 +18,7 @@
         {% endcapture %}
 
         <a href="/inf{{ section.year }}#{{ sectionID | strip }}">
-        {{ section.course-acronym }}</a>{% unless forloop.last %}&middot;{% endunless %}
+        {{ section.course-acronym }}</a> {% unless forloop.last %}&middot;{% endunless %}
     {% endfor %}
 </p>
 {% endif %}
