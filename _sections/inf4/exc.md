@@ -1,6 +1,6 @@
 ---
 year: 4
-title: "EXC: Extreme Computing"
+title: EXC - Extreme Computing
 course-acronym: exc
 ---
 
