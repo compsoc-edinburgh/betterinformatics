@@ -2,6 +2,7 @@
 year: 2
 title: INF2A - Processing Formal and Natural Languages
 course-acronym: inf2a
+archived: true
 links:
   - name: piazza
     url: https://piazza.com/class/jkuzor9eypxov
