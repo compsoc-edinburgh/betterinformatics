@@ -17,6 +17,8 @@ layout: default
     <a id="all-btn" data-sem="all" class="btn">view all</a>
 {% endif %}
 
+{% include other-courses.html %}
+
 {{ content }}
 
 {% assign len =  page.path.size | minus: 3 | minus: 7 %}
@@ -53,5 +55,3 @@ layout: default
 {% endif %}
 
 {{ sections }}
-
-{% include other-courses.html %}
