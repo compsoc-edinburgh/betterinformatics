@@ -9,6 +9,19 @@
 - Most of the content right now is in the `_sections` directory, so [click here](https://github.com/compsoc-edinburgh/betterinformatics/tree/master/_sections) to view the list of sections to edit.
 - Pull requests are accepted, but we encourage you to create an issue to add your GitHub username to the whitelist. Then you can edit this repository yourself (you don't have to send a PR!) **We trust you!**
 
+## Philosophy
+
+1. **_Trust by default._ No pull requests, no "approvals", just contribute!**
+  - Why? To reduce the barrier to entry and to make it so that you can feel like adding whatever you want to add.
+2. **_Maintain history._**
+  - Why? Over time we accumulate a lot of knowledge and resources. We shouldn't lose it.
+  - History also tends to repeat itself (inf1a split into two courses, and merged back into one course)
+  - Avoid deleting courses, just archive them. Sometimes these courses will come back!
+3. **_Share ownership._**
+  - Don't put things in your personal workspace, you won't be around forever!
+4. **_Every little helps._**
+  - Found a page that explained something really well? Add it here, and others will benefit too!
+
 ## How do you merge courses?
 
 Sometimes two courses become one course. There's two things you can do.
@@ -32,3 +45,7 @@ It's worth noting that in this case the lecturers from both courses are now runn
 Unfortunately, the course content is hidden on Learn to those not taking the course. So qaisjp can't actually check if they are distinct.
 
 Usually actually merging the cards together is the best option. The code doesn't get confused, and neither do users.
+
+To actually merge two files into one, it's worth referring to this Git article: [Stupid git tricks: Combining two files into one while preserving line history]. This way history is maintained!
+
+[Stupid git tricks: Combining two files into one while preserving line history]: https://devblogs.microsoft.com/oldnewthing/20190514-00/?p=102493
