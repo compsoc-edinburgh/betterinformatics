@@ -11,14 +11,14 @@
 
 {% if sections.size > 0 %}
 <p>
-    <strong title="These courses are intended for other years, but you can still take them.">Eligible courses usually taken in other years: </strong>
+    <strong title="These courses are intended for other years, but you can still take them.">Also: </strong>
     {% for section in sections %}
         {% capture sectionID %}
             {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
         {% endcapture %}
 
         <a href="/inf{{ section.year }}#{{ sectionID | strip }}">
-        {{ section.course-acronym }}</a>{% unless forloop.last %},{% endunless %}
+        {{ section.course-acronym }}</a>{% unless forloop.last %}&middot;{% endunless %}
     {% endfor %}
 </p>
 {% endif %}
