@@ -37,5 +37,4 @@ In previous years the coursework was assigned weekly, much like the current tuto
 - [Congrugence modulo](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/congruence-modulo) (Khan Academy)
 - ~~[Order of Complexity](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Problem_Solving/Big_O_Notation#Order_of_Complexity)~~ [Not examinable 2018]
 - [A great tutorial on Baye's theorem](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/) — read from _Anatomy of a Test_
-
 - [The order of mixed quantifiers](https://faculty.washington.edu/smcohen/320/QuantifierOrder.pdf) - Is it equivalent if you swap ∀s and ∃s?
