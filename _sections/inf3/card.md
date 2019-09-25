@@ -1,8 +1,8 @@
 ---
 year: 3
 credits: 20
-title: CD - Computer Design 
-course-acronym: car
+title: CARD - Computer Architecture and Design
+course-acronym: card
 ---
 
 - [April 2011 Past Paper Solutions](https://docs.google.com/document/d/10JiwXXE4JGzd1p1RoWF2CVQvtzbLxupbAcM_3u3Og4w/edit) - Not complete
