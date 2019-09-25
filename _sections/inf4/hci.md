@@ -1,6 +1,6 @@
 ---
 year: 4
-title: HCI: Human Computer Interaction
+title: "HCI: Human Computer Interaction"
 course-acronym: hci
 archived: false
 ---
