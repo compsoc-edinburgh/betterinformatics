@@ -6,13 +6,10 @@ pinned: true
 
 **Admin**
 - [Rep Meetings blog](http://blog.inf.ed.ac.uk/issr/)
-- [List of all Informatics courses](http://course.inf.ed.ac.uk/)
-- [Progression Guidance](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/progression-guidance)
-- [Course survey reports](http://www.inf.ed.ac.uk/admin/ITO/course-survey-reports/)
-- [Student portal](https://student.inf.ed.ac.uk/)
-- [**Semester timetable**](https://www.ed.ac.uk/semester-dates)
-- **Policies**: [feedback](http://www.inf.ed.ac.uk/student-services/teaching-organisation/for-taught-students/coursework-and-projects/coursework-assessment-and-feedback), [coursework](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/coursework-projects/late-coursework-extension-requests)
-- Allocations for: [tutorials](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/), [labs](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP082_Laboratory_Groups/)
+- **Courses**: [Full list of Informatics courses](http://course.inf.ed.ac.uk/), [Course survey reports](http://www.inf.ed.ac.uk/admin/ITO/course-survey-reports/)
+- **Timetables**: [Semester](https://www.ed.ac.uk/semester-dates), [coursework planner](https://student.inf.ed.ac.uk/)
+- **Policies**: [feedback](http://www.inf.ed.ac.uk/student-services/teaching-organisation/for-taught-students/coursework-and-projects/coursework-assessment-and-feedback), [coursework](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/coursework-projects/late-coursework-extension-requests), [progression guidance](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/progression-guidance)
+- **Allocations**: [tutorials](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/), [labs](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP082_Laboratory_Groups/)
 
 **Software & Tools**
 - [Spotify on DICE](https://tardis.ed.ac.uk/~fox/entries/spotify.html)
