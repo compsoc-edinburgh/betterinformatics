@@ -22,7 +22,6 @@ pinned: true
 - [Exporting Outlook calendar to Webcal / Google calendar](https://medium.com/@neurosnap/how-to-share-outlook-office365s-calendar-with-google-calendar-ca7d9df7c056)
 
 **Getting in touch**
-- [Reading List](https://goo.gl/9NkLch)
 - [ITO contact form](https://www.inf.ed.ac.uk/cgi-bin/iss/contact.cgi)
 - Facebook groups:
   - [School of Informatics](https://facebook.com/groups/informatics.uoe) - for school wide discussion
