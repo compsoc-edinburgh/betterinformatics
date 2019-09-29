@@ -12,7 +12,7 @@ I (Qais) personally think it would be nice to have a little snack bar.
 Obviously each snack would be added to the price list and people would
 have to pay for them.
 
-It would be cool if we could get Inf to subsidise, but for now, we will have to buy own stuff.
+It would be cool if we could get Inf to subsidise, but for now, we will have to buy our own stuff.
 
 We were thinking about milk & tea:
 - obviously, it's hard to charge for milk
