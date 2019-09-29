@@ -2,21 +2,20 @@
 title: Level 9
 ---
 
-# Appleton Tower - Level 9
+# Appleton Tower - Level 9 [\[edit\]](https://github.com/compsoc-edinburgh/betterinformatics/blob/master/_pages/level9.md)
 
-## [Click here to see useful documents on the Drive!](https://betterinformatics.com/drive?next=1sh05HH2h8g51LCFc22cLlWhA7_jEu3-E)
+## [Useful Level 9 documents on the Drive!](https://betterinformatics.com/drive?next=1sh05HH2h8g51LCFc22cLlWhA7_jEu3-E)
 
 ## Honesty Jar notes
 
-I (Qais) personally think it would be nice to have a little snack bar.
-Obviously each snack would be added to the price list and people would
-have to pay for them.
+I think it would be nice to have a little snack bar. Obviously each snack would be
+added to the price list and people would have to pay for it themselves.
 
 It would be cool if we could get Inf to subsidise, but for now, we will have to buy our own stuff.
 
 We were thinking about milk & tea:
 - obviously, it's hard to charge for milk
-- for tea, Ginte bought a 400(?) pack box that cost £5.
+- for tea, Ginte bought a 400 pack box that cost her £5.
   Adding a 2p charge per teabag is silly, so her solution was to just deduct £5
   from how much she owes the honesty jar. That's a fantastic solution, in my opinion.
 
