@@ -11,3 +11,4 @@ links:
 
 - **[Facebook Group Chat](https://m.me/join/AbYnOGX74CmlbzQ2)**
 - **Honours hurdles**: refer to your [DRPS programme](http://www.drps.ed.ac.uk/)
+- InfBase: a drop in helpdesk for you to get additional tutoring and support with your courses. See the [schedule](https://informaticsstudentsupport.wordpress.com/schedule-at-a-glance/) here - there's no need to sign up, just drop in
