@@ -22,6 +22,22 @@
 4. **_Every little helps._**
   - Found a page that explained something really well? Add it here, and others will benefit too!
 
+## Systems
+
+There are two main sources of Information on Better Informatics:
+
+- GitHub: contains the content
+  - It means that the timeless content is backed up somewhere on a familiar, easy to use platform (GitHub)
+  - The content is not vendor lock-in. It's just a Git repo!
+  - Full history is maintained and there's a standard Git interface to the content.
+  - It's renderable (using Jekyll) to betterinformatics.com
+- Google Shared Drive: contains past paper solutions & other useful documents
+  - Google Docs is pretty fantastic for collaborative work, so it's an obvious solution that will never die.
+  - The reason we use a shared drive is because previously a regular Drive (non-shared) was used, and this was a mess of permissions. File authors don't stay at uni forever, and when they graduate, they would stay as file owners. It's important that existing students can administrate or manage all the files.
+  - Using a Shared Drive means that access management is centralised & all the current students own the file, rather than just the people that created them.
+
+There are other stuff involved, but these two systems are integral to the running of Better Informatics. Even if Tardis goes down, the website can fail over to GitHub Pages and all the content is readable. New people can't be added to Google Drive when the backend goes down, and links might break (this could be worked around!), but people can still access files directly in Google Drive.
+
 ## How do you merge courses?
 
 Sometimes two courses become one course. There's two things you can do.
