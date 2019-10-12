@@ -16,7 +16,7 @@ pinned: true
   - [The Marauders App](https://mapp.betterinformatics.com) - map of machines
   - **Web printing interfaces**: [EveryonePrint](http://www.everyoneprint.is.ed.ac.uk), [ManagePrint](http://www.manageprint.is.ed.ac.uk)
   - [Exporting Outlook calendar to Webcal / Google calendar](https://medium.com/@neurosnap/how-to-share-outlook-office365s-calendar-with-google-calendar-ca7d9df7c056)
-  - [Batch Downloading Media Hopper Replay lecture recordings](https://tardis.ed.ac.uk/~andrewferguson/echo360/)
+  - [Download Media Hopper Replay lecture recordings](https://tardis.ed.ac.uk/~andrewferguson/echo360/) (now with JavaScript bookmarklet for downloading individual lectures (both video and audio) with support for mobile devices)
 - **Facebook**
   - [School of Informatics](https://facebook.com/groups/informatics.uoe) - for school wide discussion
   - [CompSoc Members](https://facebook.com/groups/compsocedinburgh) - for Informatics related events
