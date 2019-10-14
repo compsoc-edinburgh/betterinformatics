@@ -7,7 +7,7 @@ pinned: true
 - **Admin**
   - [ITO contact form](https://www.inf.ed.ac.uk/cgi-bin/iss/contact.cgi), [Rep Meetings blog](http://blog.inf.ed.ac.uk/issr/)
   - **Courses**: [Full list of Informatics courses](http://course.inf.ed.ac.uk/), [Course survey reports](http://www.inf.ed.ac.uk/admin/ITO/course-survey-reports/)
-  - **Timetables**: [Semester](https://www.ed.ac.uk/semester-dates), [coursework planner](https://student.inf.ed.ac.uk/)
+  - **Timetables**: [Semester](https://www.ed.ac.uk/semester-dates), [coursework planner / timeline](https://student.inf.ed.ac.uk/)
   - **Policies**: [feedback](http://www.inf.ed.ac.uk/student-services/teaching-organisation/for-taught-students/coursework-and-projects/coursework-assessment-and-feedback), [coursework](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/coursework-projects/late-coursework-extension-requests), [progression guidance](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/progression-guidance)
   - **Allocations**: [tutorials](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/), [labs](https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP082_Laboratory_Groups/)
 - **Software & Tools**
