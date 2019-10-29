@@ -83,6 +83,7 @@
                 exam.acronym = acronym;
                 exam.venue = readVenue(exam.venues);
                 exam.title = exam.title.slice(exam.code.length + 3);
+		exam.title = exam.title.replace("Edinburgh International Conference Centre", "EICC")
                 exam.date = "date";
 
                 const timeText = exam.start_date + ' ' + exam.start_time.replace(" a.m.", "am").replace(" p.m.", "pm");
