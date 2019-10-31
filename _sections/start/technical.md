@@ -16,3 +16,8 @@ title: Technical
 - [University VPN service](http://www.ed.ac.uk/schools-departments/information-services/services/computing/desktop-personal/vpn/vpn-service-using)
 - [DICE contact form](https://www.inf.ed.ac.uk/systems/support/form/) (computing support)
 - [Information Services contact form](https://ed.unidesk.ac.uk/tas/public/) (unidesk)
+- **GPU on DICE** (for Tensorflow GPU, etc) - read [GPGPU Computing](http://computing.help.inf.ed.ac.uk/gpgpu-computing)
+    ```
+    export PATH=/opt/cuda-10.0.130/bin:$PATH
+    export LD_LIBRARY_PATH=/opt/cuda-10.0.130/lib64:/opt/cuDNN-7.6.0.64_9.2/lib64:$LD_LIBRARY_PATH
+    ```
