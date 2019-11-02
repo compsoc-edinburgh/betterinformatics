@@ -48,7 +48,7 @@ produce `https://betterinformatics.com/drive?next=0AIKEqWfeWuQQUk9PVA`.
 
 Thank you to all [these contributors](https://github.com/compsoc-edinburgh/betterinformatics/graphs/contributors) for contributing to the website. And many more who have contributed to the Team Drive.
 
-And thanks to <a href="https://comp-soc.com" style="display:inline">
+Thank you to [TARDIS](https://tardis.ed.ac.uk) for hosting this website. And thanks to <a href="https://comp-soc.com" style="display:inline">
     <img class="cs-logo" src="{{ site.baseurl }}/static/img/compsoc-horizontal.png" width="125">
 </a>
 for hosting files.
