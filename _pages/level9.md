@@ -8,16 +8,7 @@ title: Level 9
 
 ## Honesty Jar notes
 
-I think it would be nice to have a little snack bar. Obviously each snack would be
-added to the price list and people would have to pay for it themselves.
-
-It would be cool if we could get Inf to subsidise, but for now, we will have to buy our own stuff.
-
-We were thinking about milk & tea:
-- obviously, it's hard to charge for milk
-- for tea, Ginte bought a 400 pack box that cost her £5.
-  Adding a 2p charge per teabag is silly, so her solution was to just deduct £5
-  from how much she owes the honesty jar. That's a fantastic solution, in my opinion.
+Milk (non-dairy and dairy) is subsidised by Informatics. You need to keep receipts and fill in some forms. Or just ask Qais to stock up.
 
 So the rule of thumb so far is:
 - if it's perishable & immeasurable (i.e. milk), it doesn't get put on the price list
