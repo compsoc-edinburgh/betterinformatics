@@ -1,10 +1,8 @@
 ---
 year: 4
-title: TTS
-archived: true
+title: TTDS - Text Technologies in Data Science
+course-acronym: ttds
 ---
-
-Past Papers on google docs, solutions are a work in progress, please feel free to edit
 
 [May 2014](https://docs.google.com/document/d/1PVG1Dl4xnkiN7bki146cz5TDVKrCNU94_yxYVGc-v60/edit)
 
