@@ -1,5 +1,6 @@
 <!-- Rendering all eligible courses -->
 <p>
+{% assign contentsWritten = false %}
 {% for section in site.sections %}
     {% assign course = site.data.courses.list[section.course-acronym] %}
     {% if page.levels contains course.level and section.course-acronym != "proj" %}
@@ -9,8 +10,10 @@
 
         {% if page.year == section.year %}<strong>{% endif %}
         <a href="/inf{{ section.year }}#{{ sectionID | strip }}">
-        {{ section.course-acronym | upcase }}</a> {% unless forloop.last %}&middot;{% endunless %}
+        {% if contentsWritten == true %}&middot;{% endif %}
+        {{ section.course-acronym | upcase }}</a>
         {% if page.year == section.year %}</strong>{% endif %}
+        {% assign contentsWritten = true %}
     {% endif %}
 {% endfor %}
 </p>
