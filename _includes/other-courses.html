@@ -16,8 +16,10 @@
             {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
         {% endcapture %}
 
+        {% if page.year == section.year %}<strong>{% endif %}
         <a href="/inf{{ section.year }}#{{ sectionID | strip }}">
         {{ section.course-acronym | upcase }}</a> {% unless forloop.last %}&middot;{% endunless %}
+        {% if page.year == section.year %}</strong>{% endif %}
     {% endfor %}
 </p>
 {% endif %}
