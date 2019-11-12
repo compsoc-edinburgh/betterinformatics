@@ -1,7 +1,6 @@
 ---
 title: Masters
-short-title: INF5
-year: 5
-levels:
-  - 11
+redirect: /inf5
 ---
+
+# Redirecting...
