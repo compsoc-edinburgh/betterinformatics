@@ -1,17 +1,8 @@
-<!-- Rendering other eligible courses -->
-<!-- Create empty sections array -->
-{% assign sections = ''|split:''%}
-
+<!-- Rendering all eligible courses -->
+<p>
 {% for section in site.sections %}
     {% assign course = site.data.courses.list[section.course-acronym] %}
     {% if page.levels contains course.level and section.course-acronym != "proj" %}
-        {% assign sections = sections|push:section%}
-    {% endif %}
-{% endfor %}
-
-{% if sections.size > 0 %}
-<p>
-    {% for section in sections %}
         {% capture sectionID %}
             {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
         {% endcapture %}
@@ -20,6 +11,6 @@
         <a href="/inf{{ section.year }}#{{ sectionID | strip }}">
         {{ section.course-acronym | upcase }}</a> {% unless forloop.last %}&middot;{% endunless %}
         {% if page.year == section.year %}</strong>{% endif %}
-    {% endfor %}
+    {% endif %}
+{% endfor %}
 </p>
-{% endif %}
