@@ -5,6 +5,7 @@ pinned: true
 ---
 
 - **Admin**
+  - **Instant login**: [euclid](https://www.star.euclid.ed.ac.uk/urd/sits.urd/run/siw_sso.token), [learn](https://www.learn.ed.ac.uk/auth-saml/saml/login?apId=_175_1)
   - [ITO contact form](https://www.inf.ed.ac.uk/cgi-bin/iss/contact.cgi), [Rep Meetings blog](http://blog.inf.ed.ac.uk/issr/)
   - **Courses**: [Full list of Informatics courses](http://course.inf.ed.ac.uk/), [Course survey reports](http://www.inf.ed.ac.uk/admin/ITO/course-survey-reports/)
   - **Timetables**: [Semester](https://www.ed.ac.uk/semester-dates), [coursework planner / timeline](https://student.inf.ed.ac.uk/)
