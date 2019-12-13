@@ -27,6 +27,9 @@ _This course is being renamed to [Introduction to Databases (IDB)](https://web.i
     - project (pi)
       - <code>select <strong>id, name, city</strong> from customers;</code>
       - RethinkDB (NoSQL) people will know this as [`.pluck`](https://rethinkdb.com/api/javascript/pluck)
+    - select (sigma)
+      - <code>select * from customers where <strong>name = 'Alice' or name = city</strong></code>
+      - RethinkDB (NoSQL) people will know this as [`.filter`](https://rethinkdb.com/api/javascript/filter)
   - Unknowns / `NULL`
     - `Unknown` is represented as `NULL` in SQL,
     - `unknown = unknown` is really `NULL = NULL`,
