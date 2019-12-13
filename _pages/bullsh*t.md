@@ -7,6 +7,7 @@ title: Bullsh*t courses
 # Bullsh*t courses [\[edit\]](https://github.com/compsoc-edinburgh/betterinformatics/blob/master/_pages/bullsh*t.md)
 
 These are courses that are "easy". This might mean they are easy to learn, but not necessarily easy to master or do well on. It depends!
+"Bullsh\*t" can be stuff that you can easily figure out or courses where you can just blag (e.g. professional issues).
 
 This is, of course, completely subjective.
 Maybe this list should be filterable/sortable by "key skills" (such as "mathematics", "programming", etc.)
