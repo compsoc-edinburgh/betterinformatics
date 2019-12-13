@@ -13,7 +13,24 @@ _This course is being renamed to [Introduction to Databases (IDB)](https://web.i
 - [Normal Form checker (both BCNF and 3NF)](http://raymondcho.net/RelationalDatabaseTools/RelationalDatabaseTools)
 - [Revision notes by Ben Shaw](https://github.com/benshaaw/revision/tree/master/DBS)
 - [Relational algebra calculator / engine](https://dbis-uibk.github.io/relax/), [example schema definition for tutorial 1](https://gist.github.com/Visgean/8467b0196f9d88be8b2a8da890a7433a)
+- Exam tips:
+  - Don't forget semicolons, they will knock marks off for this!
+  - They want to see efficient solutions!
+  - [Derivation using the Armstrong’s axioms](https://i.imgur.com/6naWb9G.png): all steps and axioms in your derivation should be clearly mentioned
+    - It's also worth understanding that there could be multiple correct proofs for a given implication so detailed explanations would make it easier for marker 
+  - Relational algebra questions: consider how your answer behaves when certain relations are empty (tutorial 1, question 3)
+- Relational algebra FAQ:
+  - Operations only return unique tuples. That means if you project on a single column, each row will be unique. This is because (definition) _"Relations (tables) are **sets** of records of the same length"_
 
+- SQL to XXX FAQ (for those with experience in SQL/NoSQL)
+  - Relational algebra:
+    - project (pi)
+      - <code>select <strong>id, name, city</strong> from customers;</code>
+      - RethinkDB (NoSQL) people will know this as [`.pluck`](https://rethinkdb.com/api/javascript/pluck)
+  - Unknowns / `NULL`
+    - `Unknown` is represented as `NULL` in SQL,
+    - `unknown = unknown` is really `NULL = NULL`,
+    - all comparisons where at least one of the arguments is `NULL`, evaluates to unknown (which, again, is `NULL`).
 
 <!--- NEED TO UPDATE THE DOCUMENTS [Unofficial solutions - 2011 & 2012](http://docs.google.com/document/d/1Ir_z-F6uWDXmYVomfJdL1hlsWfgbPW8c0gx6bHmTHxo/edit)
 [May 2013](https://docs.google.com/document/d/188xL9h_Gs4vBvYiTsBbDMLR66GZBKQqxz9R1Nf0rx1I/edit?usp=sharing)
