@@ -4,6 +4,10 @@ title: Bullsh*t courses
 
 (this page is a [stub](https://en.wikipedia.org/wiki/Wikipedia:Stub))
 
+<!--
+Academics: if you are upset that your course is on this list... that's good! You're one of the good people. Look, this list isn't going away. Just make peace with the fact that sometimes some things are easier to grasp than others?
+-->
+
 # Bullsh*t courses [\[edit\]](https://github.com/compsoc-edinburgh/betterinformatics/blob/master/_pages/bullsh*t.md)
 
 These are courses that are "easy". This might mean they are easy to learn, but not necessarily easy to master or do well on. It depends!
