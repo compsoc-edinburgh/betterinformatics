@@ -38,6 +38,12 @@ There are two main sources of Information on Better Informatics:
 
 There are other stuff involved, but these two systems are integral to the running of Better Informatics. Even if Tardis goes down, the website can fail over to GitHub Pages and all the content is readable. New people can't be added to Google Drive when the backend goes down, and links might break (this could be worked around!), but people can still access files directly in Google Drive.
 
+## Design Philosophy
+
+Change can be good, but it's really important not to alienate users. Students are lazy and if it's hard to find something, they might not bother to find it, especially if they don't know it exists.
+
+An attempt is made to generally stick to the website design originally created in 2012.
+
 ## How do you merge courses?
 
 Sometimes two courses become one course. There's two things you can do.
