@@ -21,7 +21,11 @@ _This course is being renamed to [Introduction to Databases (IDB)](https://web.i
   - Relational algebra questions: consider how your answer behaves when certain relations are empty (tutorial 1, question 3)
 - Relational algebra FAQ:
   - Operations only return unique tuples. That means if you project on a single column, each row will be unique. This is because (definition) _"Relations (tables) are **sets** of records of the same length"_
-
+- easily consumable stuff by b0rk:
+  - [sql queries don't start with select](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
+  - [sql query steps](https://twitter.com/b0rk/status/1184571894722449409?lang=en)
+  - [anatomy of an sql query](https://twitter.com/b0rk/status/1189159951631093760?lang=en)
+  - [how sql joins work](https://twitter.com/b0rk/status/1177611875535790087?lang=en)
 - SQL to XXX FAQ (for those with experience in SQL/NoSQL)
   - Relational algebra:
     - project (pi)
