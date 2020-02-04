@@ -46,7 +46,7 @@ produce `https://betterinformatics.com/drive?next=0AIKEqWfeWuQQUk9PVA`.
 
 ## Statistics
 
-As of 2020-02-04 we had 2026 users registered on our Google Drive. We may have had _more_ registrations, but that's the
+As of 2020-02-04 we had 2025 users registered on our Google Drive. We may have had _more_ registrations, but that's the
 number of people who hadn't removed themselves from the drive at the time. On this day we reset the entire list and
 requested people to rejoin. This is so that they [change this setting](https://imgur.com/a/x3U6g2x).
 
