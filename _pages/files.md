@@ -1,7 +1,7 @@
 ---
 ---
 
-### [Click here to join or view the Drive.](/drive) Do not convert PDFs to a Google Doc, leave them as PDF files.
+### [Click here to join or view the Drive.](/drive) Do not convert PDFs to a Google Doc, [leave them as PDF files](https://imgur.com/a/x3U6g2x).
 
 ### [Click here to leave the Drive.](https://groups.google.com/a/betterinformatics.com/forum/#!myforums)
 
@@ -43,6 +43,12 @@ For example, the following URL `https://drive.google.com/drive/u/0/folders/0AIKE
 produce `https://betterinformatics.com/drive?next=0AIKEqWfeWuQQUk9PVA`.
 
 (todo: replace these annoying instructions with a little edit box that auto-converts it for you)
+
+## Statistics
+
+As of 2020-02-04 we had 2025 users registered on our Google Drive. We may have had _more_ registrations, but that's the
+number of people who hadn't removed themselves from the drive at the time. On this day we reset the entire list and
+requested people to rejoin. This is so that they [change this setting](https://imgur.com/a/x3U6g2x).
 
 ## Thank you
 
