@@ -1,7 +1,7 @@
 ---
 year: 2
-title: DMMR
-course-acronym: dmmr
+title: Discrete Math and Probability
+course-acronym: DMP
 links:
   - name: piazza
     url: https://piazza.com/class/jmt6bpqbwjz45a
@@ -9,13 +9,12 @@ links:
     url: /drive?next=0B4SUSkTXjliXbWN0YUF5cEx1ZFE
 ---
 
-**Tip**: If you actually try and do well for the coursework, you'll need less than 40% in the exam to pass the course.
-
+DMMR and PwA has been merged to form this new course, DMP is now solely based  on coursework but you can find information about past papers [here](/resources/dmp/list.html).
 [**Online (flipped-classroom) version of this course. 10x better than the lectures.**](https://youtu.be/rdXw7Ps9vxc?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 
-85% **non-calculator** open book exam, 15% across two courseworks. Pass: 40% overall.
+Exam type: 100% Coursework.
 
-In previous years the coursework was assigned weekly, much like the current tutorial questions. That's now (2018) changed with only two five-question courseworks, each worth 7.5% of the final grade. You've still got the weekly tutorial question sheets, but they don't count towards the final mark.
+**Discrete Mathematics:** 
 
 - Some [inf1-cl](/inf1#inf1-cl) links may be useful.
 - [Companion website for textbook](http://highered.mheducation.com/sites/0071315012/student_view0/index.html)
@@ -39,3 +38,5 @@ In previous years the coursework was assigned weekly, much like the current tuto
 - ~~[Order of Complexity](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Problem_Solving/Big_O_Notation#Order_of_Complexity)~~ [Not examinable 2018]
 - [A great tutorial on Baye's theorem](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/) — read from _Anatomy of a Test_
 - [The order of mixed quantifiers](https://faculty.washington.edu/smcohen/320/QuantifierOrder.pdf) - Is it equivalent if you swap ∀s and ∃s?
+
+**Probablity**
