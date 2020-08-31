@@ -3,13 +3,14 @@ year: 2
 title: Discrete Math and Probability
 course-acronym: DMP
 links:
-  - name: piazza
-    url: https://piazza.com/class/jmt6bpqbwjz45a
+  - name: drps
+    url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr08031.htm
   - name: drive
     url: /drive?next=0B4SUSkTXjliXbWN0YUF5cEx1ZFE
 ---
 
-DMMR and PwA has been merged to form this new course, DMP is now solely based  on coursework but you can find information about past papers [here](/resources/dmp/list.html).
+DMMR and PwA has been merged to form this new course, DMP is now solely based  on coursework but you can find information about past papers [here](/resources/math-pwa/list.html).
+
 [**Online (flipped-classroom) version of this course. 10x better than the lectures.**](https://youtu.be/rdXw7Ps9vxc?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 
 Exam type: 100% Coursework.
