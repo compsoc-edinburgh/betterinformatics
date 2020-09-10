@@ -1,0 +1,73 @@
+name: Update courses.yaml data
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  # So you can trigger it from the Actions tab manually
+  workflow_dispatch:
+  
+  # Automatically run every week: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events
+  schedule:
+    # "At 19:00 on Friday" - https://crontab.guru/#0_19_*_*_5
+    - cron: '0 19 * * 5'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "greet"
+  update_courses_yml:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    
+    # We need Python
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    
+    # We need to fetch the code where our courses.yml generator lives
+    - name: Fetch bi-app code
+      uses: actions/checkout@v2
+      with:
+        repository: compsoc-edinburgh/bi-app
+        path: bi-app
+    
+    # We obviously need to clone the betterinformatics repo itself
+    - name: Clone our repository
+      uses: actions/checkout@v2
+      with:
+        path: bi
+    
+    # Install the dependencies for the courses.yml generator
+    - name: Install dependencies
+      run: |
+        cd bi-app/courses.yaml
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    # Actually generate courses.yml
+    - name: Generate courses.yml
+      id: generate_yml
+      run: python bi-app/courses.yaml/app.py --auto-yaml bi/_data/courses.yml
+    
+    # Push the new courses.yml file to master
+    # (but only do this if the above task told us that the file changed)
+    - name: Push courses.yml
+      if: "steps.generate_yml.outputs.has_changed == 'true'"
+      run: |
+        cd bi
+        
+        git config user.name "Better Informatics"
+        
+        # The number ID in the email comes from https://api.github.com/users/better-informatics%5Bbot%5D
+        # Which is not an actual user account. It's a bot:
+        # - https://github.com/organizations/compsoc-edinburgh/settings/apps/better-informatics
+        #
+        # See this for more information: https://github.community/t/github-actions-bot-email-address/17204/5
+        git config user.email "42103905+better-informatics[bot]@users.noreply.github.com"
+        
+        git add _data/courses.yml
+        git commit -m "Automatically update courses.yml"
+        git push origin master
