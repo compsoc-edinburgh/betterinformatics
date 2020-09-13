@@ -6,10 +6,10 @@ on:
   # So you can trigger it from the Actions tab manually
   workflow_dispatch:
   
-  # Automatically run every week: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events
+  # Automatically run: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events
   schedule:
-    # "At 19:00 on Friday" - https://crontab.guru/#0_19_*_*_5
-    - cron: '0 19 * * 5'
+    # "At 19:00 on every day-of-the-week Monday through Friday" - https://crontab.guru/#0_19_*_*_5
+    - cron: '0 19 * * 1-5'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
