@@ -79,7 +79,7 @@ jobs:
         to: 'json'
         
     - name: Print JSON to file
-      run: echo "${{ steps.yaml2json.outputs.data }}" > courses.json
+      run: echo '${{ steps.yaml2json.outputs.data }}' > courses.json
         
     - name: Upload courses to Spaces
       run: aws s3 --endpoint https://ams3.digitaloceanspaces.com cp --acl public-read courses.json s3://compsoc/betterinformatics/courses.json
