@@ -71,3 +71,13 @@ jobs:
         git add _data/courses.yml
         git commit -m "Automatically update courses.yml"
         git push origin master
+        
+    - name: Configure S3 credentials for DigitalOcean Spaces upload
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.SPACES_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.SPACES_SECRET_ACCESS_KEY }}
+        aws-region: ams3
+        
+    - name: Upload courses to Spaces
+      run: aws s3 cp --endpoint ams3.digitaloceanspaces.com _data/courses.yml s3://compsoc/betterinformatics/courses.yaml
