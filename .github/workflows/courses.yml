@@ -73,7 +73,7 @@ jobs:
         git push origin master
         
     - name: Upload courses to Spaces
-      run: aws s3 --endpoint ams3.digitaloceanspaces.com cp _data/courses.yml s3://compsoc/betterinformatics/courses.yaml
+      run: aws s3 --endpoint https://ams3.digitaloceanspaces.com cp _data/courses.yml s3://compsoc/betterinformatics/courses.yaml
       env:
         AWS_ACCESS_KEY_ID: ${{ secrets.SPACES_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SPACES_SECRET_ACCESS_KEY }}
