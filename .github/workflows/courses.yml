@@ -82,6 +82,7 @@ jobs:
       run: echo '${{ steps.yaml2json.outputs.data }}' > courses.json
         
     - name: Upload courses to Spaces
+      if: "steps.generate_yml.outputs.has_changed == 'true'"
       run: aws s3 --endpoint https://ams3.digitaloceanspaces.com cp --acl public-read courses.json s3://compsoc/betterinformatics/courses.json
       env:
         AWS_ACCESS_KEY_ID: ${{ secrets.SPACES_ACCESS_KEY_ID }}
