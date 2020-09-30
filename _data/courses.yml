@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 10/09/2020 07:45:01
+# Last update: 30/09/2020 07:45:01
 
-last_update: 10/09/2020 07:45:01
+last_update: 30/09/2020 07:45:01
 list:
   adbs:
     acronym: ADBS
@@ -27,7 +27,7 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: ''
+    diet: December
     euclid_code: INFR10052
     euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr10052.htm
     level: 10
