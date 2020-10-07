@@ -17,4 +17,4 @@ course-acronym: inf2-fds
   - [Numpy](https://cs231n.github.io/python-numpy-tutorial/#python)
   - [Jupyter Notebooks](http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2015/tutorials/t0b_intro_to_jupyter_notebooks.html)
 - **Cheatsheets**
-  - [Cheatsheets](https://drive.google.com/drive/folders/1SyHlfy7rdfcOZQMWEdLa9SgFyzU7_2l2?usp=sharing)  
+  - [Cheatsheets](https://betterinformatics.com/drive?next=1SyHlfy7rdfcOZQMWEdLa9SgFyzU7_2l2)  
