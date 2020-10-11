@@ -2,12 +2,12 @@
 year: 3
 credits: 20
 archived: false
-title: DBS -	Database Systems
-course-acronym: dbs
+title: IDB -	Introduction to Databases
+course-acronym: idb
 links:
 ---
 
-_This course is being renamed to [Introduction to Databases (IDB)](https://web.inf.ed.ac.uk/sites/default/files/atoms/files/11122019_bos_new_course_proposal_introduction_to_databases.pdf)_
+_Previously named Database Systems (DBS)_
 
 - Questions and answers from the DBS textbook - [link](http://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf)
 - [Normal Form checker (both BCNF and 3NF)](http://raymondcho.net/RelationalDatabaseTools/RelationalDatabaseTools)
