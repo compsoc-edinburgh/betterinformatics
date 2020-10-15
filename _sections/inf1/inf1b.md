@@ -3,11 +3,6 @@ title: Object Oriented Programming
 year: 1
 course-acronym: inf1b
 archived: false
-links:
-  - name: piazza
-    url: https://piazza.com/class/jqmnckgepk64oq
-  - name: labs
-    url: http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2019/labs/index.html
 ---
 
 > _the key to passing is practicing_
