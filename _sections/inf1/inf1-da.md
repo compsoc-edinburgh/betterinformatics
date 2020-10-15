@@ -3,13 +3,6 @@ title: Data and Analysis
 year: 1
 archived: true
 course-acronym: inf1-da
-links:
-  - name: fb
-    url: https://www.facebook.com/groups/inf1da2019/
-  - name: tutorials
-    url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-da.shtml
-  - name: piazza
-    url: https://piazza.com/class/jqxl6bnswlj3gu
 ---
 
 - [Last year's blog](https://blog.inf.ed.ac.uk/da18/)
