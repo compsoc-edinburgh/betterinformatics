@@ -2,9 +2,6 @@
 title: Cognitive Science
 year: 1
 course-acronym: inf1-cg
-links:
-  - name: piazza
-    url: https://piazza.com/class/jcg9m3vgspx1u9
 ---
 
 - [Book about neural networks](http://neuralnetworksanddeeplearning.com/chap1.html) - recommended by the lecturer
