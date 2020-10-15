@@ -5,7 +5,7 @@ semester: 1
 archived: false
 links:
   - name: drps
-    url: http://www.drps.ed.ac.uk/17-18/dpt/cxmath08057.htm
+    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08057.htm
 ---
 > _the maths exams are open book, so take in past paper solutions (with an index)
   as they reuse questions a lot. they might not necessarily be the same,
