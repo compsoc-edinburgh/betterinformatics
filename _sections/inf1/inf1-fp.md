@@ -3,11 +3,6 @@ title: INF1A - Functional Programming
 year: 1
 course-acronym: inf1a
 archived: false
-links:
-  - name: piazza
-    url: https://piazza.com/class/ititlgx4mhn31t
-  - name: tutorials
-    url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-fp.shtml
 ---
 -   **Tip by a tutor for the final exam**: the exam is open book, so
     taking in a copy of the previous year's exam paper and solutions may
