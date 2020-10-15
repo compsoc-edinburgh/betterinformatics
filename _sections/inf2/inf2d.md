@@ -3,9 +3,6 @@ year: 2
 title: INF2D - Reasoning and Agents
 course-acronym: inf2d
 pinned: true # temporary pinned as last inf exam
-links:
-  - name: piazza
-    url: https://piazza.com/class?nid=j8vrdotz8xx2x1
 ---
 
 75% closed book exam, 25% across two courseworks. Pass: 40% overall
