@@ -2,9 +2,6 @@
 year: 2
 title: INF2B - Learning
 course-acronym: inf2b
-links:
-  - name: piazza (learning)
-    url: https://piazza.com/class/jc7iuf9dssg44f
 ---
 
 75% closed book exam, 25% across two courseworks. Pass: 40% overall.
