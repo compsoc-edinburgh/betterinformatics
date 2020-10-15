@@ -3,9 +3,6 @@ title: INF1A - Logic
 year: 1
 archived: false
 course-acronym: inf1a
-links:
-  - name: tutorials
-    url: https://portal.theon.inf.ed.ac.uk/reports/upt/open/TP072_Tutorial_Groups/inf1-cl.shtml
 ---
 <!--
 -   **Likely exam topics**
