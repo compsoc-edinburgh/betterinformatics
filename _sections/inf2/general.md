@@ -4,7 +4,7 @@ title: General
 pinned: true
 links:
   - name: guide
-    url: https://www.inf.ed.ac.uk/teaching/years/ug2/inf2Guide.html
+    url: http://web.inf.ed.ac.uk/infweb/student-services/ito/students/year2
   - name: mailing list archives
     url: https://lists.inf.ed.ac.uk/mailman/private/ug2-students/
 ---
