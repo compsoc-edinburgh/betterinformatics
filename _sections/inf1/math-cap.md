@@ -6,10 +6,6 @@ archived: false
 links:
   - name: drps
     url: http://www.drps.ed.ac.uk/19-20/dpt/cxmath08058.htm
-  - name: piazza
-    url: https://piazza.com/class/jqnwlhu35p868r
-  - name: webassign
-    url: https://www.webassign.net/login.html
 ---
 
 - [Fox's notes](/static/year1/cap_reference.pdf) ([src](https://github.com/aptgetmoo/cap))
