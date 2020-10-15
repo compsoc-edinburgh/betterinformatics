@@ -2,9 +2,6 @@
 year: 2
 title: INF2C - Software Engineering
 course-acronym: inf2c-se
-links:
-  - name: piazza
-    url: https://piazza.com/class/jmutcv31n9s6vm
 ---
 - No book is _essential_ for this course.
 - Exam, **closed book**:
