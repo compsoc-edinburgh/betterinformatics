@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 30/09/2020 07:45:01
+# Last update: 21/10/2020 08:30:01
 
-last_update: 30/09/2020 07:45:01
+last_update: 21/10/2020 08:30:01
 list:
   adbs:
     acronym: ADBS
@@ -297,7 +297,7 @@ list:
     euclid_code: INFD11003
     euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfd11003.htm
     level: 11
-    name: Data Science, Technology and Innovation Dissertation (Distance Learning)
+    name: Data Science, Technology and Innovation Dissertation
     year: 5
   dme:
     acronym: DME
@@ -349,26 +349,12 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: December; December
+    diet: December; December; April/May; April/May
     euclid_code: INFR10069
     euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr10069.htm
     level: 10
     name: Introductory Applied Machine Learning
     year: 3
-  iaml-dl:
-    acronym: IAML-DL
-    credits: 20
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFD11005
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfd11005.htm
-    level: 11
-    name: Introductory Applied Machine Learning (Distance Learning)
-    year: 5
   iaml-pg1:
     acronym: IAML-PG1
     credits: 20
@@ -559,11 +545,11 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: December
+    diet: December; December
     euclid_code: INFD11006
     euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfd11006.htm
     level: 11
-    name: Introduction to Vision and Robotics (Distance Learning)
+    name: Introduction to Vision and Robotics
     year: 5
   infd11013:
     acronym: INFD11013
@@ -719,20 +705,6 @@ list:
     level: 11
     name: Image and Vision Computing
     year: 5
-  ivr:
-    acronym: IVR
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR09019
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr09019.htm
-    level: 9
-    name: Introduction to Vision and Robotics
-    year: 3
   mdi:
     acronym: MDI
     credits: 60
@@ -811,26 +783,12 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: December
+    diet: December; December
     euclid_code: INFR11161
     euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11161.htm
     level: 11
     name: Natural Computing
     year: 4
-  nat-dl:
-    acronym: NAT-DL
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFD11007
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfd11007.htm
-    level: 11
-    name: Natural Computing (Distance Learning)
-    year: 5
   nlp-dr:
     acronym: NLP-DR
     credits: 20
