@@ -14,5 +14,6 @@ links:
 - Visual explanations of ML and Linear Algebra concepts
   - [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
   - [Principal Component Analysis](http://setosa.io/ev/principal-component-analysis/)
+ - [A good explanation of Information Gain and Entropy](https://victorzhou.com/blog/information-gain/)
 - [Examinable topics summary](/resources/IAML.jpg) -  Having analysed IAML exam papers from 2012 to date, here is the summary of topic covered.
   - To help with the understanding of topics that come across more often than others, score = frequency of occurance, expressed as % over 12
