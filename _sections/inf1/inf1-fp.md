@@ -14,6 +14,7 @@ archived: false
 -   [Basic/library function list][basic-library-functions], [Handy basic function cheat sheet][handy-functions]
 -   [Troubleshooting for Haskell (including Haskell-mode on Emacs)][troubleshooting]
 -   [Functional Programming blog/tutorials][kyle-cotton-blog] by Kyle Cotton
+-   [Articles on Recursion and List Comprehension][eric-janto-blog] by Eric Janto
 
   [papers]: https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/exams/
   [allocations]: https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/exams/exam-allocation-2016.pdf
@@ -24,3 +25,4 @@ archived: false
   [handy-functions]: /resources/inf1-fp/inf1-fp-handy-functions.pdf
   [troubleshooting]: /resources/inf1-fp/troubleshooting.html
   [kyle-cotton-blog]: https://kylecotton.github.io/
+  [eric-janto-blog]: https://www.ericjanto.com/tags/haskell
