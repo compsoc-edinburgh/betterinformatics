@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 27/10/2020 16:01:58
+# Last update: 11/11/2020 08:30:01
 
-last_update: 27/10/2020 16:01:58
+last_update: 11/11/2020 08:30:01
 list:
   adbs:
     acronym: ADBS
@@ -19,20 +19,6 @@ list:
     level: 11
     name: Advanced Database Systems
     year: 4
-  ads:
-    acronym: ADS
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR10052
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr10052.htm
-    level: 10
-    name: Algorithms and Data Structures
-    year: 3
   agta:
     acronym: AGTA
     credits: 10
@@ -61,20 +47,6 @@ list:
     level: 11
     name: Accelerated Natural Language Processing
     year: 5
-  ar:
-    acronym: AR
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR09042
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr09042.htm
-    level: 9
-    name: Automated Reasoning
-    year: 3
   asr:
     acronym: ASR
     credits: 10
@@ -201,20 +173,6 @@ list:
     level: 11
     name: Case Studies in Design Informatics 2
     year: 5
-  cic:
-    acronym: CiC
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR10077
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr10077.htm
-    level: 10
-    name: Computing in the Classroom
-    year: 4
   cmc:
     acronym: CMC
     credits: 10
@@ -299,20 +257,6 @@ list:
     level: 11
     name: Data Science, Technology and Innovation Dissertation
     year: 5
-  dme:
-    acronym: DME
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11007
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11007.htm
-    level: 11
-    name: Data Mining and Exploration
-    year: 5
   dmp:
     acronym: DMP
     credits: 20
@@ -382,20 +326,6 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11182.htm
     level: 11
     name: Introductory Applied Machine Learning (Level 11)
-    year: 5
-  iaml-pg2:
-    acronym: IAML-PG2
-    credits: 20
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11205
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11205.htm
-    level: 11
-    name: Introductory Applied Machine Learning (Semester 2)
     year: 5
   idb:
     acronym: IDB
@@ -565,8 +495,8 @@ list:
     level: 11
     name: Dissertation (DSTI - EPCC) (Distance Learning)
     year: 5
-  infd11016:
-    acronym: INFD11016
+  infd11016/ss1/sem1:
+    acronym: INFD11016/SS1/SEM1
     credits: 10
     cw_exam_ratio:
     - 100
@@ -579,8 +509,8 @@ list:
     level: 11
     name: Programming Skills (Distance Learning)
     year: 5
-  infd11017:
-    acronym: INFD11017
+  infd11017/ss1/sem1:
+    acronym: INFD11017/SS1/SEM1
     credits: 10
     cw_exam_ratio:
     - 100
@@ -592,6 +522,132 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfd11017.htm
     level: 11
     name: Software Development (Distance Learning)
+    year: 5
+  infr09042/sv1/sem2:
+    acronym: INFR09042/SV1/SEM2
+    credits: 10
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR09042
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr09042.htm
+    level: 9
+    name: Automated Reasoning
+    year: 3
+  infr10052/sv1/sem1:
+    acronym: INFR10052/SV1/SEM1
+    credits: 10
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: INFR10052
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr10052.htm
+    level: 10
+    name: Algorithms and Data Structures
+    year: 3
+  infr10077/ss1/yr:
+    acronym: INFR10077/SS1/YR
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: INFR10077
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr10077.htm
+    level: 10
+    name: Computing in the Classroom
+    year: 4
+  infr11007/sv1/sem2:
+    acronym: INFR11007/SV1/SEM2
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR11007
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11007.htm
+    level: 11
+    name: Data Mining and Exploration
+    year: 5
+  infr11024/sv1/sem2:
+    acronym: INFR11024/SV1/SEM2
+    credits: 10
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR11024
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11024.htm
+    level: 11
+    name: Parallel Architectures
+    year: 4
+  infr11140/sv1/sem2:
+    acronym: INFR11140/SV1/SEM2
+    credits: 10
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR11140
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11140.htm
+    level: 11
+    name: Image and Vision Computing
+    year: 5
+  infr11150/ss1/sem1:
+    acronym: INFR11150/SS1/SEM1
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: April/May
+    euclid_code: INFR11150
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11150.htm
+    level: 11
+    name: Principles and Design of IoT Systems
+    year: 4
+  infr11204/ss1/yr:
+    acronym: INFR11204/SS1/YR
+    credits: 80
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: INFR11204
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11204.htm
+    level: 11
+    name: Individual Project in Advanced Natural Language Processing (80 credits)
+    year: 5
+  infr11205/ss1/sem2:
+    acronym: INFR11205/SS1/SEM2
+    credits: 20
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR11205
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11205.htm
+    level: 11
+    name: Introductory Applied Machine Learning (Semester 2)
     year: 5
   iotssc:
     acronym: IoTSSC
@@ -690,20 +746,6 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11136.htm
     level: 11
     name: Informatics Research Review
-    year: 5
-  ivc:
-    acronym: IVC
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11140
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11140.htm
-    level: 11
-    name: Image and Vision Computing
     year: 5
   ivr:
     acronym: IVR
@@ -859,20 +901,6 @@ list:
     level: 11
     name: Individual Project in Advanced Natural Language Processing
     year: 5
-  nlp-ip-80:
-    acronym: NLP-IP-80
-    credits: 80
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR11204
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11204.htm
-    level: 11
-    name: Individual Project in Advanced Natural Language Processing (80 credits)
-    year: 5
   nlu+:
     acronym: NLU+
     credits: 20
@@ -901,34 +929,6 @@ list:
     level: 10
     name: Operating Systems
     year: 3
-  pa:
-    acronym: PA
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11024
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11024.htm
-    level: 11
-    name: Parallel Architectures
-    year: 4
-  pdiot:
-    acronym: PDIoT
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: April/May
-    euclid_code: INFR11150
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11150.htm
-    level: 11
-    name: Principles and Design of IoT Systems
-    year: 4
   pi:
     acronym: PI
     credits: 10
