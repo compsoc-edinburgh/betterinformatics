@@ -18,4 +18,4 @@ links:
 - Longest Common Subsequence - [animation](http://wordaligned.org/articles/longest-common-subsequence)
 - Network Flow - [interactive](http://www-b2.is.tokushima-u.ac.jp/~ikeda/suuri/maxflow/Maxflow.shtml)
 - Graham's Scan - [interactive](http://riot.ieor.berkeley.edu/riot/Applications/ConvexHull/CHApplet.html)
-- Dynamic Programming - Tushar Roy explains a few examples really well on [YouTube] (https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- Dynamic Programming - Tushar Roy explains a few examples really well on [YouTube](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
