@@ -594,7 +594,7 @@ list:
     name: Software Development (Distance Learning)
     year: 5
   iotssc:
-    acronym: IOTSSC
+    acronym: IoTSSC
     credits: 20
     cw_exam_ratio:
     - 55
