@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 23/11/2020 07:30:01
+# Last update: 25/11/2020 10:09:37
 
-last_update: 23/11/2020 07:30:01
+last_update: 25/11/2020 10:09:37
 list:
   adbs:
     acronym: ADBS
@@ -202,7 +202,7 @@ list:
     name: Case Studies in Design Informatics 2
     year: 5
   cic:
-    acronym: CIC
+    acronym: CiC
     credits: 20
     cw_exam_ratio:
     - 100
@@ -916,7 +916,7 @@ list:
     name: Parallel Architectures
     year: 4
   pdiot:
-    acronym: PDIOT
+    acronym: PDIoT
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1055,20 +1055,6 @@ list:
     level: 11
     name: Text Technologies for Data Science
     year: 4
-  wbppcs:
-    acronym: WBPPCS
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: B5+
-    delivery_ordinal: 4
-    diet: ''
-    euclid_code: INFR11191
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr11191.htm
-    level: 11
-    name: Work-based Professional Practice in Cyber Security
-    year: 5
   wbppda:
     acronym: WBPPDA
     credits: 20
@@ -1082,4 +1068,18 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr09052.htm
     level: 9
     name: Work-Based Professional Practice A in Data Analytics
+    year: 3
+  wbppdb:
+    acronym: WBPPDB
+    credits: 40
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: FLEX
+    delivery_ordinal: 4
+    diet: ''
+    euclid_code: INFR10075
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr10075.htm
+    level: 10
+    name: Work-Based Professional Practice B in Data Analytics
     year: 3
