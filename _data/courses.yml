@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 25/11/2020 10:09:37
+# Last update: 01/12/2020 11:02:56
 
-last_update: 25/11/2020 10:09:37
+last_update: 01/12/2020 11:02:56
 list:
   adbs:
     acronym: ADBS
@@ -551,48 +551,6 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
-  infd11013:
-    acronym: INFD11013
-    credits: 60
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFD11013
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfd11013.htm
-    level: 11
-    name: Dissertation (DSTI - EPCC) (Distance Learning)
-    year: 5
-  infd11016:
-    acronym: INFD11016
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFD11016
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfd11016.htm
-    level: 11
-    name: Programming Skills (Distance Learning)
-    year: 5
-  infd11017:
-    acronym: INFD11017
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFD11017
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfd11017.htm
-    level: 11
-    name: Software Development (Distance Learning)
-    year: 5
   iotssc:
     acronym: IoTSSC
     credits: 20
