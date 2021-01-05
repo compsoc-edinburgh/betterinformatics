@@ -12,6 +12,7 @@ _Previously named Database Systems (DBS)_
 - Questions and answers from the DBS textbook - [link](http://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf)
 - [Normalization tool](http://www.ict.griffith.edu.au/~jw/normalization/ind.php)
 - [Revision notes by Ben Shaw](https://github.com/benshaaw/revision/tree/master/DBS)
+- [Functional dependency closure / key finder / minimal cover / 3NF & BCNF checker tool](https://ka.ge/fdtool) ([source](https://github.com/pkage/fdtool))
 - [Relational algebra calculator / engine](https://dbis-uibk.github.io/relax/), [example schema definition for tutorial 1](https://gist.github.com/Visgean/8467b0196f9d88be8b2a8da890a7433a)
 - Exam tips:
   - Don't forget semicolons, they will knock marks off for this!
