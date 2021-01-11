@@ -6,9 +6,10 @@ course-acronym: inf2-fds
 
 (New course: Details are sparse. Please contribute!)
 
-100% coursework (across one "coursework", one essay, one "project repo" and two tests)
+50% coursework, 50% exam.
 
 - **General Reading**
+  - [*Artificial Intelligence: A Modern Approach*](https://drive.google.com/file/d/0B24JIcotKbLUUWJBWXNvckpieFk/view) by Stuart Russell and Peter Norvig
   - [*Computational and Inferential Thinking*](https://www.inferentialthinking.com/chapters/intro) by Ani Adhikari and John DeNero
   - [*An Introduction to Data Ethics*](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToDataEthics.pdf) by Shannon Vallor et al.
   - *Modern Mathematical Statistics with Applications* by Devore & Berk
