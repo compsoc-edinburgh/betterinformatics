@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 13/01/2021 07:30:01
+# Last update: 20/01/2021 07:30:33
 
-last_update: 13/01/2021 07:30:01
+last_update: 20/01/2021 07:30:33
 list:
   adbs:
     acronym: ADBS
@@ -69,7 +69,7 @@ list:
     - 50
     delivery: S2
     delivery_ordinal: 2
-    diet: ''
+    diet: April/May
     euclid_code: INFR09042
     euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr09042.htm
     level: 9
