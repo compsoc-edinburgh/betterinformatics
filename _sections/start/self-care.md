@@ -26,6 +26,7 @@ title: Self Care
  - **Student life tips**
       - [/r/malefashionadvice](https://reddit.com/r/malefashionadvice) and [/r/femalefashionadvice](https://reddit.com/r/femalefashionadvice) - Look your best to feel your best
       - [BudgetBytes](https://budgetbytes.com) - Ditch Deliveroo, save money by cooking yourself
+      - [The CompSoc Cookbook](https://github.com/compsoc-edinburgh/cook-book) - Student curated recipes to cook yourself
       - [18-25 Railcard](https://www.16-25railcard.co.uk) - Save 1/3 fare on train tickets for £30/yr
       - [Unidays](https://www.myunidays.com) - Student discounts on just about everything
 
