@@ -1,0 +1,32 @@
+---
+permalink: /drive
+layout: page
+title: "Shared Drive"
+---
+
+<p>Better Informatics' server is down right now, so we're currently hosting on GitHub Pages instead.</p>
+<p>This means we can't use our little webapp to automatically add you to the Drive.</p>
+
+<ul>
+    <li><a href="https://drive.google.com/open?id=" id="temp-drive-link">
+        If you're already a member of the Drive, click here to continue.
+    </a></li>
+    <li>
+        If you are not already a member of the Better Informatics Shared Drive,
+        email <a href="mailto:admin@betterinformatics.com">admin@betterinformatics.com</a> and ask for access. Make sure you:
+
+        <ol>
+            <li>send the email from your university email address, so we know you are a student, and</li>
+            <li>include the email address of your Google account, so that you actually get access to the Drive.</li>
+        </ol>
+    </li>
+</ul>
+
+<script>
+(() => {
+    const a = document.querySelector("#temp-drive-link");
+    const urlParams = new URLSearchParams(window.location.search);
+    const next = urlParams.get('next') || '0AIKEqWfeWuQQUk9PVA';
+    a.href += `${next}`;
+})()
+</script>
