@@ -3,7 +3,7 @@ year: start
 title: Useful Links
 pinned: true
 ---
-
+- [Give feedback about Better Informatics in #sigweb on the CompSoc Discord](https://discord.gg/HyThRRThmh)
 - **Admin**
   - **Instant login**: [euclid](https://www.star.euclid.ed.ac.uk/urd/sits.urd/run/siw_sso.token), [learn](https://www.learn.ed.ac.uk/auth-saml/saml/login?apId=_175_1)
   - [ITO contact form](https://www.inf.ed.ac.uk/cgi-bin/iss/contact.cgi), [Rep Meetings blog](http://blog.inf.ed.ac.uk/issr/)
