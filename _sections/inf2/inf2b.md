@@ -1,10 +1,10 @@
 ---
 year: 2
-title: INF2B - Learning
-course-acronym: inf2b
+title: INF2D - Reasoning and Agents
+course-acronym: inf2d
 ---
 
-75% closed book exam, 25% across two courseworks. Pass: 40% overall.
+50% closed book exam, 40% across two courseworks, 10% attendance. Pass: 40% overall.
 
 
 - [What is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk) (3blue1brown)
