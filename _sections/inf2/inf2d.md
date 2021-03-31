@@ -5,7 +5,7 @@ course-acronym: inf2d
 pinned: true # temporary pinned as last inf exam
 ---
 
-75% closed book exam, 25% across two courseworks. Pass: 40% overall
+50% closed book exam, 30% across two courseworks, 20% tutorial / engagement. Pass: 40% overall
 
 - [MCQ Question Cache](/drive?next=1coz6nMPFCZqR8mBU6AiDiVz0r28WMSNaSH9YcY7c6R0)
 - [Quizlet](https://quizlet.com/293000769/inf2d-flash-cards/)
