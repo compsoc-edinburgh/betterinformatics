@@ -16,6 +16,7 @@ links:
 - [Lots of formulae](http://mei.org.uk/files/pdf/formula_book_mf2.pdf)
 - [Amazing mindmap](/static/year1/HL_Calculus_Option_Mind_Map.compressed.pdf)
 - Tests of Convergence: [cheat sheet](http://www.toomey.org/tutor/harolds_cheat_sheets/Harolds_Series_Convergence_Tests_Cheat_Sheet_2016.pdf), [flow chart](https://www.studystandard.com/document/21574/preview)
+- [Not All Things CAP - better cap cheat sheet](https://betterinformatics.com/drive?next=14_3SxkiZpwX2H90_S27cx4GnHumIJD36)
 
 <!--
 -   If you bought your book second-hand, you will need to buy a
