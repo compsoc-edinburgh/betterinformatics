@@ -19,4 +19,4 @@ pinned: true # temporary pinned as last inf exam
   - [PDDL Domains](https://nergmada.github.io/pddl-reference/reference/PDDL/domain.html)
   - [PDDL Problems](https://nergmada.github.io/pddl-reference/reference/PDDL/problem.html)
 - [Bora M. Alper's PDDL Companion](https://github.com/boramalper/pddlc) - syntax check and plan PDDL from your terminal
-- [Bora M. Alper's Lecture Notes (2019)](http://notes.boramalper.org/reasoning-and-agents/)
+- [Bora M. Alper's Lecture Notes (2019)](https://www.boramalper.org/notes/reasoning-and-agents/)
