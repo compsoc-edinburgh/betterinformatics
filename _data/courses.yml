@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 20/01/2021 07:30:33
+# Last update: 23/04/2021 07:30:01
 
-last_update: 20/01/2021 07:30:33
+last_update: 23/04/2021 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -257,6 +257,20 @@ list:
     level: 10
     name: Computer Security
     year: 3
+  datavis-pro:
+    acronym: DataVis-Pro
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: B5+
+    delivery_ordinal: 4
+    diet: ''
+    euclid_code: INFD11018
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfd11018.htm
+    level: 11
+    name: Data Visualisation for Professionals (Distance Learning)
+    year: 5
   dbba:
     acronym: DBBA
     credits: 20
