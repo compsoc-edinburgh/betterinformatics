@@ -24,4 +24,4 @@ pinned: true
   - [CompSoc Careers](https://facebook.com/groups/compsoc.offers) - for job offers, internships, and placements.
   - Class of [2017](https://www.facebook.com/groups/uoeinformatics2017), [2018](https://www.facebook.com/groups/uoeinformatics2018), [2019](https://www.facebook.com/groups/uoeinformatics2019), [2020](https://www.facebook.com/groups/638355673007684/), [2021](https://www.facebook.com/groups/487413248257663/)
 - **Other**
-  - [Course Rankings](https://honours.pw/) (note: this is out of date, contains data from 2015/2016)
+  - [Course Rankings](http://honours.pw) (this is out of date, contains data from 2015/2016. also the graphs take minutes to load.)
