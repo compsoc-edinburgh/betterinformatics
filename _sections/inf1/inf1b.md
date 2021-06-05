@@ -16,8 +16,6 @@ archived: false
 - [Automarker service](https://groups.inf.ed.ac.uk/inf1-op/) - use this to mark your past papers
 - [Lambda functions tutorial](/resources/inf1-op/lambdas.html)
 
-<br>
-
 **About the exam**
 
 * The exam is 2 hours. It used to be 3 hours in previous years. They will not pressure you for time, don't worry.
