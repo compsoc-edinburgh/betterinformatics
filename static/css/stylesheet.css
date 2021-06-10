@@ -533,6 +533,22 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     color: black;
 }
 
+/* Dark theme functionality */
+
+#theme-toggle {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    /* margin: 15px auto;
+    float */
+    margin-left: auto;
+    margin-right: 0;
+
+    /* By default, the switch sprite should be "on" (light theme). */
+    background: url("../img/switch-on.png");
+    background-size: contain;
+}
+
 html.dark-theme, html.dark-theme * {
     background-color: rgb(34, 34, 34);
     color: rgb(169, 169, 179);
@@ -552,10 +568,7 @@ html.dark-theme #title {
     background: url("../img/betterinf-title-dark.png")
 }
 
-#theme-toggle {
-    cursor: pointer;
-    background: url("../img/toggle.jpg");
-    width: 30px;
-    height: 30px;
-    margin: 15px auto;
+html.dark-theme #theme-toggle {
+    background: url("../img/switch-off.png") !important;
+    background-size: contain !important;
 }
