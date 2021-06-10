@@ -383,7 +383,7 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 906px;
     height: 29px;
     margin: 10px auto;
-    background: url("../img/betterinf-title.png")
+    background: url("../img/betterinf-title-light.png")
 }
 #title:hover {
     opacity: 0.5;
