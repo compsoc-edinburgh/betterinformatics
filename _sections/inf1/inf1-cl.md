@@ -24,7 +24,7 @@ course-acronym: inf1a
 -   [Definitions] (also available on Quizlet)
 -   [CNF cheat sheet]
 -   [Propositional formula to CNF converter]
--   [boolexman](http://labs.boramalper.org/boolexman/) (boolean expression manipulator)
+-   [boolexman](https://www.boramalper.org/labs/boolexman/) (boolean expression manipulator)
 -   [Visualizing satisfiability, validity & entailment]
 -   [Soundness and Completeness](https://steemit.com/software/@cpuu/the-difference-between-soundness-and-completeness)
 -   **Finite State Machines**
