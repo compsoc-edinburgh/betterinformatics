@@ -274,8 +274,8 @@ h1, h2, h3, h4, h5, h6 {
 #menu {
     width: 959px;
     height: 192px;
-    background-image: url("../img/grey.png")
-
+    /* By default, light theme. */
+    background-image: url("../img/grey-light.png");
 }
 
 @media screen and (max-width: 970px) {
@@ -311,7 +311,8 @@ h1, h2, h3, h4, h5, h6 {
     display: block;
     float: left;
     text-decoration: none;
-    background-image: url("../img/color.png");
+    /* By default, light theme. */
+    background-image: url("../img/color-light.png");
     transition: .3s;
     opacity: 0
 }
@@ -571,4 +572,12 @@ html.dark-theme #title {
 html.dark-theme #theme-toggle {
     background: url("../img/switch-off.png") !important;
     background-size: contain !important;
+}
+
+html.dark-theme #menu {
+    background-image: url("../img/grey-dark.png") !important;
+}
+
+html.dark-theme #menu a {
+    background-image: url("../img/color-dark.png") !important;
 }
