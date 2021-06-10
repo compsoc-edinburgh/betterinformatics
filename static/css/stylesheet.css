@@ -383,7 +383,7 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 906px;
     height: 29px;
     margin: 10px auto;
-    background: url("../img/betterinf-title-dark.png")
+    background: url("../img/betterinf-title-light.png")
 }
 #title:hover {
     opacity: 0.5;
@@ -546,4 +546,16 @@ html.dark-theme a:link, a:visited {
 html.dark-theme a:hover {
     color: #ffb300 !important;
     border-color: #ffb300;
-  }
+}
+
+html.dark-theme #title {
+    background: url("../img/betterinf-title-dark.png")
+}
+
+#theme-toggle {
+    cursor: pointer;
+    background: url("../img/toggle.jpg");
+    width: 30px;
+    height: 30px;
+    margin: 15px auto;
+}

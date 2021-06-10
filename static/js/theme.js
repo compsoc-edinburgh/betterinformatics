@@ -6,7 +6,7 @@ window.onload = function() {
     document.documentElement.classList.toggle("dark-theme", isDark);
   }
 
-  const themeBtn = document.querySelector("#useful-links");
+  const themeBtn = document.querySelector("#theme-toggle");
 
   themeBtn.addEventListener("click", () => {
     document.documentElement.classList.toggle("dark-theme");
