@@ -534,50 +534,47 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     color: black;
 }
 
-/* Dark theme functionality */
+/* Light/dark theme functionality */
 
-#theme-toggle {
-    cursor: pointer;
-    width: 50px;
-    height: 50px;
-    margin-left: auto;
-    margin-right: 0;
-    margin-bottom: -30px;
-    display: absolute;
+@media (prefers-color-scheme: light) {
+    #title {
+        background: url("../img/betterinf-title-dark.png");
+    }
 
-    /* By default, the switch sprite should be "on" (light theme). */
-    background: url("../img/switch-on.png");
-    background-size: contain;
+    #menu {
+        background-image: url("../img/grey-light.png");
+    }
+
+    #menu a {
+        background-image: url("../img/color-light.png");
+    }
 }
 
-html.dark-theme, html.dark-theme * {
-    background-color: rgb(34, 34, 34);
-    color: rgb(169, 169, 179);
-}
+@media (prefers-color-scheme: dark) {
+    html, html * {
+        background-color: rgb(34, 34, 34);
+        color: rgb(169, 169, 179);
+    }
 
-html.dark-theme a:link {
-    color:rgb(169, 169, 179);
-    text-decoration: underline;
-}
+    a:link {
+        color:rgb(169, 169, 179);
+        text-decoration: underline;
+    }
 
-html.dark-theme a:hover {
-    color: #ffb300 !important;
-    border-color: #ffb300;
-}
+    a:hover {
+        color: #ffb300 !important;
+        border-color: #ffb300;
+    }
 
-html.dark-theme #title {
-    background: url("../img/betterinf-title-dark.png")
-}
+    #title {
+        background: url("../img/betterinf-title-dark.png");
+    }
 
-html.dark-theme #theme-toggle {
-    background: url("../img/switch-off.png") !important;
-    background-size: contain !important;
-}
+    #menu {
+        background-image: url("../img/grey-dark.png");
+    }
 
-html.dark-theme #menu {
-    background-image: url("../img/grey-dark.png") !important;
-}
-
-html.dark-theme #menu a {
-    background-image: url("../img/color-dark.png") !important;
+    #menu a {
+        background-image: url("../img/color-dark.png");
+    }
 }
