@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 20/01/2021 07:30:33
+# Last update: 24/05/2021 07:30:01
 
-last_update: 20/01/2021 07:30:33
+last_update: 24/05/2021 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -202,7 +202,7 @@ list:
     name: Case Studies in Design Informatics 2
     year: 5
   cic:
-    acronym: CiC
+    acronym: CIC
     credits: 20
     cw_exam_ratio:
     - 100
@@ -257,6 +257,20 @@ list:
     level: 10
     name: Computer Security
     year: 3
+  datavis-pro:
+    acronym: DATAVIS-PRO
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: B5+
+    delivery_ordinal: 4
+    diet: ''
+    euclid_code: INFD11018
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfd11018.htm
+    level: 11
+    name: Data Visualisation for Professionals (Distance Learning)
+    year: 5
   dbba:
     acronym: DBBA
     credits: 20
@@ -551,6 +565,20 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
+  infd11019:
+    acronym: INFD11019
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: LLSS
+    delivery_ordinal: 4
+    diet: ''
+    euclid_code: INFD11019
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfd11019.htm
+    level: 11
+    name: 'Explainable Machine Learning: A Practical Introduction (Distance Learning)'
+    year: 5
   iotssc:
     acronym: IoTSSC
     credits: 20
@@ -874,7 +902,7 @@ list:
     name: Parallel Architectures
     year: 4
   pdiot:
-    acronym: PDIoT
+    acronym: PDIOT
     credits: 20
     cw_exam_ratio:
     - 100

@@ -3,7 +3,8 @@ layout: page
 title: How to safely run your code without crashing your DICE machine
 ---
 
-This is a quick (DICE-only) guide on how to delegate a crash to another machine _nicely_.
+This is a quick (DICE-only) guide on how to test compute-intensive on another machine, so that if it crashes, you don't lose your work.
+
 It only works if you can run your code over the command line.
 
 **How does it work?**
@@ -17,7 +18,7 @@ It only works if you can run your code over the command line.
 
 Normally you would do something like this: `python my_knn_system.py`.
 
-- Instead, ssh into another machine `ssh gaul` (gaul is the name of the victim).
+- Instead, ssh into another machine `ssh gaul` (gaul is the name of the machine you want to test on — make sure you pick a machine that is not being used).
 - Navigate to your code folder, and type `nice python my_knn_system.py` (or whatever your command is, but prefixed with `nice`)
 - Instead of crashing, the remote machine will just slow down... a lot.
   - This is because `nice` makes `python` run at a lower priority than other processes.
@@ -28,4 +29,3 @@ Normally you would do something like this: `python my_knn_system.py`.
 You can rinse-and-repeat as many times as you like. I'd recommend waiting a couple seconds for the memory on your remote
 machine to clear up first, though.
 
-_This is a note left by Qais Patankar. I'm not sure what happens if you choose `student.compute`, and do try to choose an empty machine as your "victim" machine._

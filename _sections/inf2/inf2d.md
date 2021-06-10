@@ -5,7 +5,7 @@ course-acronym: inf2d
 pinned: true # temporary pinned as last inf exam
 ---
 
-75% closed book exam, 25% across two courseworks. Pass: 40% overall
+50% closed book exam, 30% across two courseworks, 20% tutorial / engagement. Pass: 40% overall
 
 - [MCQ Question Cache](/drive?next=1coz6nMPFCZqR8mBU6AiDiVz0r28WMSNaSH9YcY7c6R0)
 - [Quizlet](https://quizlet.com/293000769/inf2d-flash-cards/)
@@ -19,4 +19,4 @@ pinned: true # temporary pinned as last inf exam
   - [PDDL Domains](https://nergmada.github.io/pddl-reference/reference/PDDL/domain.html)
   - [PDDL Problems](https://nergmada.github.io/pddl-reference/reference/PDDL/problem.html)
 - [Bora M. Alper's PDDL Companion](https://github.com/boramalper/pddlc) - syntax check and plan PDDL from your terminal
-- [Bora M. Alper's Lecture Notes (2019)](http://notes.boramalper.org/reasoning-and-agents/)
+- [Bora M. Alper's Lecture Notes (2019)](https://www.boramalper.org/notes/reasoning-and-agents/)
