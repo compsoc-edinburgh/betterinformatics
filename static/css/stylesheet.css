@@ -271,8 +271,6 @@ h1, h2, h3, h4, h5, h6 {
 #menu {
     width: 959px;
     height: 192px;
-    /* By default, light theme. */
-    background-image: url("../img/grey-light.png");
 }
 
 @media screen and (max-width: 970px) {
@@ -308,8 +306,6 @@ h1, h2, h3, h4, h5, h6 {
     display: block;
     float: left;
     text-decoration: none;
-    /* By default, light theme. */
-    background-image: url("../img/color-light.png");
     transition: .3s;
     opacity: 0
 }
@@ -381,7 +377,6 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 906px;
     height: 29px;
     margin: 10px auto;
-    background: url("../img/betterinf-title-light.png")
 }
 #title:hover {
     opacity: 0.5;
@@ -530,7 +525,7 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
 
 @media (prefers-color-scheme: light) {
     #title {
-        background: url("../img/betterinf-title-dark.png");
+        background: url("../img/betterinf-title-light.png");
     }
 
     #menu {
