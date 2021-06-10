@@ -16,8 +16,6 @@ audio:not([controls]) {
     display: none
 }
 html {
-    background: #fff;
-    color: #000;
     font-size: 100%;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
@@ -240,14 +238,12 @@ textarea {
 }
 
 body {
-
     max-width: 960px;
     height: 800px;
     margin: 0 auto;
     font-family: sans-serif;
     font-size: 16px;
     line-height: 1.7;
-    color: #444
 }
 a {
     color: #104491;
@@ -325,7 +321,6 @@ h1, h2, h3, h4, h5, h6 {
     /* Prettify */
     font-size: 1.2em;
     text-align: center;
-    color: #777;
     border: 1px solid #ddd;
 
     /* Vertical space for each button */
@@ -339,11 +334,6 @@ h1, h2, h3, h4, h5, h6 {
     #menu-small a {
         display: inline-block;
     }
-}
-
-#menu-small a:hover {
-    color: #104491;
-    border: 1px solid #104491
 }
 
 #menu a:hover {
@@ -521,6 +511,10 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     color: black;
 }
 
+#menu-small a:hover {
+    border: 1px solid;
+}
+
 /* Light/dark theme functionality */
 
 @media (prefers-color-scheme: light) {
@@ -548,6 +542,17 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     .btn:hover {
         color: #104491;
         border: 1px solid #104491
+    }
+
+    /* Mobile */
+
+    #menu-small a {
+        color: #777;
+    }
+
+    #menu-small a:hover {
+        color: #104491;
+        border-color: #104491
     }
 }
 
@@ -581,5 +586,12 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
 
     #menu a {
         background-image: url("../img/color-dark.png");
+    }
+
+    /* Mobile */
+
+    #menu-small a:hover {
+        color: #ffb300;
+        border-color: #ffb300;
     }
 }
