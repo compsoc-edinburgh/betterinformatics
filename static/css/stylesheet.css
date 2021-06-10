@@ -324,10 +324,10 @@ h1, h2, h3, h4, h5, h6 {
     /* Make buttons appear on their own line by default */
     /* See media query below for how we do it on one line */
     display: block;
-    
+
     /* For on-same-line styling */
     width: auto;
-    
+
     /* Prettify */
     font-size: 1.2em;
     text-align: center;
@@ -383,7 +383,7 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 906px;
     height: 29px;
     margin: 10px auto;
-    background: url("../img/betterinf-title-light.png")
+    background: url("../img/betterinf-title-dark.png")
 }
 #title:hover {
     opacity: 0.5;
@@ -506,7 +506,7 @@ section .link-icon, section .edit-pencil {
     color: rgba(119, 119, 119, .7);
     opacity: 1;
 }
-/* 
+/*
 .link-icon, .edit-pencil {
     opacity: 0;
 } */
@@ -532,3 +532,18 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     opacity: 1;
     color: black;
 }
+
+html.dark-theme, html.dark-theme * {
+    background-color: rgb(34, 34, 34);
+    color: rgb(169, 169, 179);
+}
+
+html.dark-theme a:link, a:visited {
+    color:rgb(169, 169, 179);
+    text-decoration: underline;
+}
+
+html.dark-theme a:hover {
+    color: #ffb300 !important;
+    border-color: #ffb300;
+  }
