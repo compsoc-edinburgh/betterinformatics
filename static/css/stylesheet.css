@@ -610,7 +610,6 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     }
 
     #content a:link {
-        color:rgb(169, 169, 179);
         text-decoration: underline;
     }
 }
