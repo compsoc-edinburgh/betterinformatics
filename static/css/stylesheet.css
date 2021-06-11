@@ -377,10 +377,9 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 35px;
     max-width: 906px;
     height: 29px;
-    margin-bottom: 20px;
     display: flex;
-    margin-left: 34px;
-    padding: 0;
+    margin: 0 auto 20px;
+    transform: translateX(35px);
 }
 #title:hover {
     opacity: 0.5;
