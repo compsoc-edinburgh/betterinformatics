@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 24/05/2021 07:30:01
+# Last update: 21/06/2021 07:30:01
 
-last_update: 24/05/2021 07:30:01
+last_update: 21/06/2021 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -565,20 +565,6 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
-  infd11019:
-    acronym: INFD11019
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: LLSS
-    delivery_ordinal: 4
-    diet: ''
-    euclid_code: INFD11019
-    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfd11019.htm
-    level: 11
-    name: 'Explainable Machine Learning: A Practical Introduction (Distance Learning)'
-    year: 5
   iotssc:
     acronym: IoTSSC
     credits: 20
