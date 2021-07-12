@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 01/07/2021 07:30:01
+# Last update: 12/07/2021 07:30:01
 
-last_update: 01/07/2021 07:30:01
+last_update: 12/07/2021 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -51,8 +51,8 @@ list:
     acronym: ANLP
     credits: 20
     cw_exam_ratio:
-    - 60
     - 40
+    - 60
     delivery: S1
     delivery_ordinal: 1
     diet: December
@@ -275,8 +275,8 @@ list:
     acronym: CQI
     credits: 10
     cw_exam_ratio:
-    - 30
-    - 70
+    - 50
+    - 50
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
@@ -303,8 +303,8 @@ list:
     acronym: CSAI
     credits: 10
     cw_exam_ratio:
-    - 20
-    - 80
+    - 40
+    - 60
     delivery: S2
     delivery_ordinal: 2
     diet: ''
@@ -457,8 +457,8 @@ list:
     acronym: IAML-DL
     credits: 20
     cw_exam_ratio:
-    - 50
-    - 50
+    - 30
+    - 70
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
@@ -471,8 +471,8 @@ list:
     acronym: IAML-PG1
     credits: 20
     cw_exam_ratio:
-    - 50
-    - 50
+    - 30
+    - 70
     delivery: S1
     delivery_ordinal: 1
     diet: ''
@@ -485,8 +485,8 @@ list:
     acronym: IAML-PG2
     credits: 20
     cw_exam_ratio:
-    - 50
-    - 50
+    - 30
+    - 70
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
@@ -1201,7 +1201,7 @@ list:
     acronym: PMR
     credits: 20
     cw_exam_ratio:
-    - 0
+    - 25
     - 100
     delivery: S2
     delivery_ordinal: 2
