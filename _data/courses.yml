@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 12/07/2021 07:30:01
+# Last update: 13/07/2021 12:54:10
 
-last_update: 12/07/2021 07:30:01
+last_update: 13/07/2021 12:54:10
 list:
   adbs:
     acronym: ADBS
@@ -37,8 +37,8 @@ list:
     acronym: AGTA
     credits: 10
     cw_exam_ratio:
-    - 50
-    - 50
+    - 20
+    - 80
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
@@ -399,16 +399,14 @@ list:
     year: 4
   fnlp:
     acronym: FNLP
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
+    credits: 20
+    cw_exam_ratio: null
     delivery: S2
     delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR09028
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr09028.htm
-    level: 9
+    diet: ''
+    euclid_code: INFR10078
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10078.htm
+    level: 10
     name: Foundations of Natural Language Processing
     year: 3
   fv:
@@ -527,8 +525,8 @@ list:
     acronym: IMC
     credits: 10
     cw_exam_ratio:
-    - 60
-    - 40
+    - 30
+    - 70
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
@@ -769,18 +767,6 @@ list:
     level: 11
     name: Dissertation (HPC with Data Science)
     year: 5
-  infr10078:
-    acronym: INFR10078
-    credits: 20
-    cw_exam_ratio: null
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR10078
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10078.htm
-    level: 10
-    name: Foundations of Natural Language Processing
-    year: 3
   infr11031:
     acronym: INFR11031
     credits: 10
@@ -865,8 +851,8 @@ list:
     acronym: IQC
     credits: 10
     cw_exam_ratio:
-    - 50
-    - 50
+    - 25
+    - 75
     delivery: S1
     delivery_ordinal: 1
     diet: April/May; April/May
@@ -1019,8 +1005,8 @@ list:
     acronym: MLPR
     credits: 20
     cw_exam_ratio:
-    - 100
-    - 0
+    - 35
+    - 65
     delivery: S1
     delivery_ordinal: 1
     diet: December; December
@@ -1202,7 +1188,7 @@ list:
     credits: 20
     cw_exam_ratio:
     - 25
-    - 100
+    - 75
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
@@ -1243,8 +1229,8 @@ list:
     acronym: QCS
     credits: 10
     cw_exam_ratio:
-    - 10
-    - 90
+    - 25
+    - 75
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
@@ -1341,8 +1327,8 @@ list:
     acronym: SPT
     credits: 20
     cw_exam_ratio:
-    - 100
-    - 0
+    - 55
+    - 45
     delivery: S1
     delivery_ordinal: 1
     diet: ''
