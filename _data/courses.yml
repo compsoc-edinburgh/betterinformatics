@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 13/07/2021 12:54:10
+# Last update: 14/07/2021 07:30:01
 
-last_update: 13/07/2021 12:54:10
+last_update: 14/07/2021 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -139,7 +139,7 @@ list:
     - 0
     delivery: S1
     delivery_ordinal: 1
-    diet: April/May; April/May
+    diet: ''
     euclid_code: INFR11144
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11144.htm
     level: 11
@@ -153,7 +153,7 @@ list:
     - 0
     delivery: S1
     delivery_ordinal: 1
-    diet: December
+    diet: ''
     euclid_code: INFR11160
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11160.htm
     level: 11
@@ -265,7 +265,7 @@ list:
     - 0
     delivery: S2
     delivery_ordinal: 2
-    diet: April/May
+    diet: ''
     euclid_code: INFR10074
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10074.htm
     level: 10
@@ -413,8 +413,8 @@ list:
     acronym: FV
     credits: 10
     cw_exam_ratio:
-    - 0
-    - 100
+    - 40
+    - 60
     delivery: S1
     delivery_ordinal: 1
     diet: ''
@@ -431,7 +431,7 @@ list:
     - 0
     delivery: S1
     delivery_ordinal: 1
-    diet: December
+    diet: ''
     euclid_code: INFR11017
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11017.htm
     level: 11
@@ -543,7 +543,7 @@ list:
     - 0
     delivery: S2
     delivery_ordinal: 2
-    diet: April/May
+    diet: ''
     euclid_code: INFR08020
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr08020.htm
     level: 8
@@ -1163,7 +1163,7 @@ list:
     - 0
     delivery: S1
     delivery_ordinal: 1
-    diet: April/May
+    diet: ''
     euclid_code: INFR11150
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11150.htm
     level: 11
@@ -1177,7 +1177,7 @@ list:
     - 0
     delivery: S1
     delivery_ordinal: 1
-    diet: December
+    diet: ''
     euclid_code: INFR10022
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10022.htm
     level: 10
