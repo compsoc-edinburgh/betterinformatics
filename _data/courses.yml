@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 14/07/2021 07:30:01
+# Last update: 15/07/2021 07:30:01
 
-last_update: 14/07/2021 07:30:01
+last_update: 15/07/2021 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -623,8 +623,8 @@ list:
     acronym: INF2C-CS
     credits: 20
     cw_exam_ratio:
-    - 100
-    - 0
+    - 50
+    - 50
     delivery: S1
     delivery_ordinal: 1
     diet: December
@@ -897,7 +897,7 @@ list:
     - 50
     delivery: S2
     delivery_ordinal: 2
-    diet: December; April/May
+    diet: April/May
     euclid_code: INFR11140
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11140.htm
     level: 11
@@ -1145,8 +1145,8 @@ list:
     acronym: PA
     credits: 10
     cw_exam_ratio:
-    - 50
-    - 50
+    - 40
+    - 60
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
