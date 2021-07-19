@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 16/07/2021 07:30:01
+# Last update: 19/07/2021 07:30:01
 
-last_update: 16/07/2021 07:30:01
+last_update: 19/07/2021 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -27,7 +27,7 @@ list:
     - 75
     delivery: S2
     delivery_ordinal: 2
-    diet: April/May
+    diet: ''
     euclid_code: INFR10052
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10052.htm
     level: 10
@@ -65,11 +65,11 @@ list:
     acronym: AR
     credits: 10
     cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May; April/May
+    - 40
+    - 60
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
     euclid_code: INFR09042
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr09042.htm
     level: 9
@@ -191,8 +191,8 @@ list:
     acronym: CCS
     credits: 10
     cw_exam_ratio:
-    - 25
-    - 75
+    - 40
+    - 60
     delivery: S1
     delivery_ordinal: 1
     diet: April/May; April/May
@@ -237,11 +237,11 @@ list:
     - 0
     delivery: S1
     delivery_ordinal: 1
-    diet: ''
+    diet: April/May
     euclid_code: INFR11021
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11021.htm
     level: 11
-    name: Computer Graphics (Level 11)
+    name: Computer Graphics
     year: 4
   cic:
     acronym: CiC
@@ -289,8 +289,8 @@ list:
     acronym: CS
     credits: 20
     cw_exam_ratio:
-    - 50
-    - 50
+    - 25
+    - 75
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
@@ -307,7 +307,7 @@ list:
     - 60
     delivery: S2
     delivery_ordinal: 2
-    diet: ''
+    diet: April/May
     euclid_code: INFR11206
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11206.htm
     level: 11
@@ -400,7 +400,9 @@ list:
   fnlp:
     acronym: FNLP
     credits: 20
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 25
+    - 75
     delivery: S2
     delivery_ordinal: 2
     diet: ''
@@ -435,7 +437,7 @@ list:
     euclid_code: INFR11017
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11017.htm
     level: 11
-    name: Human-Computer Interaction (Level 11)
+    name: Human-Computer Interaction
     year: 4
   iaml:
     acronym: IAML
@@ -445,7 +447,7 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: December; December
+    diet: ''
     euclid_code: INFR10069
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10069.htm
     level: 10
@@ -457,28 +459,14 @@ list:
     cw_exam_ratio:
     - 30
     - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFD11005
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11005.htm
-    level: 11
-    name: Introductory Applied Machine Learning (Distance Learning)
-    year: 5
-  iaml-pg1:
-    acronym: IAML-PG1
-    credits: 20
-    cw_exam_ratio:
-    - 30
-    - 70
     delivery: S1
     delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11182
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11182.htm
-    level: 11
-    name: Introductory Applied Machine Learning (Level 11)
-    year: 5
+    diet: December; December; December; April/May; April/May; April/May
+    euclid_code: INFR10069
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10069.htm
+    level: 10
+    name: Introductory Applied Machine Learning (Distance Learning)
+    year: 3
   iaml-pg2:
     acronym: IAML-PG2
     credits: 20
@@ -497,8 +485,8 @@ list:
     acronym: IDB
     credits: 20
     cw_exam_ratio:
-    - 60
     - 40
+    - 60
     delivery: S1
     delivery_ordinal: 1
     diet: December
@@ -595,8 +583,8 @@ list:
     acronym: INF2-IADS
     credits: 20
     cw_exam_ratio:
-    - 50
-    - 50
+    - 40
+    - 60
     delivery: YR
     delivery_ordinal: 3
     diet: April/May
@@ -627,7 +615,7 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: December
+    diet: ''
     euclid_code: INFR08027
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr08027.htm
     level: 8
@@ -637,8 +625,8 @@ list:
     acronym: INF2D
     credits: 20
     cw_exam_ratio:
-    - 50
-    - 50
+    - 30
+    - 70
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
@@ -650,134 +638,170 @@ list:
   infd11020:
     acronym: INFD11020
     credits: 10
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 100
+    - 0
     delivery: S1
     delivery_ordinal: 1
     diet: ''
     euclid_code: INFD11020
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11020.htm
     level: 11
-    name: Parallel Design Patterns
+    name: Parallel Design Patterns (Distance Learning)
     year: 5
   infd11021:
     acronym: INFD11021
     credits: 10
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 100
+    - 0
     delivery: S1
     delivery_ordinal: 1
     diet: ''
     euclid_code: INFD11021
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11021.htm
     level: 11
-    name: Performance Programming
+    name: Performance Programming (Distance Learning)
     year: 5
   infd11022:
     acronym: INFD11022
     credits: 10
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 25
+    - 75
     delivery: S1
     delivery_ordinal: 1
     diet: ''
     euclid_code: INFD11022
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11022.htm
     level: 11
-    name: Advanced Message Passing Programming
+    name: Advanced Message Passing Programming (Distance Learning)
     year: 5
   infd11023:
     acronym: INFD11023
     credits: 10
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 100
+    - 0
     delivery: S2
     delivery_ordinal: 2
     diet: ''
     euclid_code: INFD11023
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11023.htm
     level: 11
-    name: Advanced Parallel Techniques
+    name: Advanced Parallel Techniques (Distance Learning)
     year: 5
   infd11024:
     acronym: INFD11024
     credits: 10
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 25
+    - 75
     delivery: S2
     delivery_ordinal: 2
     diet: ''
     euclid_code: INFD11024
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11024.htm
     level: 11
-    name: Design and Analysis of Parallel Algorithms
+    name: Design and Analysis of Parallel Algorithms (Distance Learning)
     year: 5
   infd11025:
     acronym: INFD11025
     credits: 10
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 40
+    - 60
     delivery: S2
     delivery_ordinal: 2
     diet: ''
     euclid_code: INFD11025
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11025.htm
     level: 11
-    name: Numerical Algorithms for High Performance Computing
+    name: Numerical Algorithms for High Performance Computing (Distance Learning)
     year: 5
   infd11026:
     acronym: INFD11026
     credits: 10
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 100
+    - 0
     delivery: S2
     delivery_ordinal: 2
     diet: ''
     euclid_code: INFD11026
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11026.htm
     level: 11
-    name: Project Preparation (HPC and HPC with Data Science)
+    name: Project Preparation (HPC and HPC with Data Science) (Distance Learning)
     year: 5
   infd11027:
     acronym: INFD11027
     credits: 10
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 100
+    - 0
     delivery: S2
     delivery_ordinal: 2
     diet: ''
     euclid_code: INFD11027
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11027.htm
     level: 11
-    name: Project Preparation (DSTI)
+    name: Project Preparation (DSTI) (Distance Learning)
     year: 5
   infd11028:
     acronym: INFD11028
     credits: 60
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 100
+    - 0
     delivery: YR
     delivery_ordinal: 3
     diet: ''
     euclid_code: INFD11028
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11028.htm
     level: 11
-    name: Dissertation (High Performance Computing)
+    name: Dissertation (High Performance Computing) (Distance Learning)
     year: 5
   infd11029:
     acronym: INFD11029
     credits: 60
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 100
+    - 0
     delivery: YR
     delivery_ordinal: 3
     diet: ''
     euclid_code: INFD11029
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11029.htm
     level: 11
-    name: Dissertation (HPC with Data Science)
+    name: Dissertation (HPC with Data Science) (Distance Learning)
     year: 5
+  infr08033:
+    acronym: INFR08033
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: INFR08033
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr08033.htm
+    level: 8
+    name: Informatics Experiential Learning
+    year: 2
   infr11031:
     acronym: INFR11031
     credits: 10
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 30
+    - 70
     delivery: S2
     delivery_ordinal: 2
-    diet: ''
+    diet: April/May
     euclid_code: INFR11031
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11031.htm
     level: 11
-    name: Advanced Vision (Level 11)
+    name: Advanced Vision
     year: 4
   ipp:
     acronym: IPP
@@ -805,12 +829,14 @@ list:
     euclid_code: INFD11014
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11014.htm
     level: 11
-    name: Informatics Project Proposal
+    name: Informatics Project Proposal (Distance Learning)
     year: 5
   ipp-ga:
     acronym: IPP-GA
     credits: 20
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 100
+    - 0
     delivery: S1
     delivery_ordinal: 1
     diet: ''
@@ -845,7 +871,7 @@ list:
     euclid_code: INFD11001
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11001.htm
     level: 11
-    name: Introduction to Practical Programming with Objects
+    name: Introduction to Practical Programming with Objects (Distance Learning)
     year: 5
   iqc:
     acronym: IQC
@@ -879,8 +905,8 @@ list:
     acronym: ITCS
     credits: 10
     cw_exam_ratio:
-    - 30
-    - 70
+    - 20
+    - 80
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
@@ -903,20 +929,6 @@ list:
     level: 11
     name: Image and Vision Computing
     year: 5
-  ivr:
-    acronym: IVR
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR09019
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr09019.htm
-    level: 9
-    name: Introduction to Vision and Robotics
-    year: 3
   ivr-dl:
     acronym: IVR-DL
     credits: 10
@@ -925,12 +937,12 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: December
-    euclid_code: INFD11006
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11006.htm
-    level: 11
+    diet: December; December
+    euclid_code: INFR09019
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr09019.htm
+    level: 9
     name: Introduction to Vision and Robotics
-    year: 5
+    year: 3
   mci:
     acronym: MCI
     credits: 10
@@ -939,7 +951,7 @@ list:
     - 80
     delivery: S2
     delivery_ordinal: 2
-    diet: ''
+    diet: April/May
     euclid_code: INFR11207
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11207.htm
     level: 11
@@ -1009,7 +1021,7 @@ list:
     - 65
     delivery: S1
     delivery_ordinal: 1
-    diet: December; December
+    diet: ''
     euclid_code: INFR11130
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11130.htm
     level: 11
@@ -1019,8 +1031,8 @@ list:
     acronym: MLT
     credits: 10
     cw_exam_ratio:
-    - 20
-    - 80
+    - 30
+    - 70
     delivery: S2
     delivery_ordinal: 2
     diet: ''
@@ -1028,20 +1040,6 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11202.htm
     level: 11
     name: Machine Learning Theory
-    year: 4
-  nat:
-    acronym: NAT
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11161
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11161.htm
-    level: 11
-    name: Natural Computing
     year: 4
   nat-dl:
     acronym: NAT-DL
@@ -1051,12 +1049,12 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: December
-    euclid_code: INFD11007
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11007.htm
+    diet: December; December
+    euclid_code: INFR11161
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11161.htm
     level: 11
     name: Natural Computing
-    year: 5
+    year: 4
   nlp-dr:
     acronym: NLP-DR
     credits: 20
@@ -1153,7 +1151,7 @@ list:
     euclid_code: INFR11024
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11024.htm
     level: 11
-    name: Parallel Architectures (Level 11)
+    name: Parallel Architectures
     year: 4
   pdiot:
     acronym: PDIoT
@@ -1181,7 +1179,7 @@ list:
     euclid_code: INFR10022
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10022.htm
     level: 10
-    name: Professional Issues (Level 10)
+    name: Professional Issues
     year: 3
   pmr:
     acronym: PMR
@@ -1209,7 +1207,7 @@ list:
     euclid_code: INFR11023
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11023.htm
     level: 11
-    name: Parallel Programming Languages and Systems (Level 11)
+    name: Parallel Programming Languages and Systems
     year: 4
   proj:
     acronym: PROJ
@@ -1296,14 +1294,14 @@ list:
     name: System Design Project
     year: 3
   seng:
-    acronym: SEng
+    acronym: SENG
     credits: 10
     cw_exam_ratio:
     - 30
     - 70
     delivery: S2
     delivery_ordinal: 2
-    diet: ''
+    diet: April/May
     euclid_code: INFR11208
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11208.htm
     level: 11
@@ -1355,8 +1353,8 @@ list:
     acronym: THF
     credits: 10
     cw_exam_ratio:
-    - 100
-    - 0
+    - 33
+    - 67
     delivery: S2
     delivery_ordinal: 2
     diet: ''
@@ -1410,7 +1408,9 @@ list:
   wbppc:
     acronym: WBPPC
     credits: 20
-    cw_exam_ratio: null
+    cw_exam_ratio:
+    - 100
+    - 0
     delivery: S2
     delivery_ordinal: 2
     diet: ''
@@ -1422,8 +1422,10 @@ list:
   xai:
     acronym: XAI
     credits: 10
-    cw_exam_ratio: null
-    delivery: LLL4
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: FLEX
     delivery_ordinal: 4
     diet: ''
     euclid_code: INFD11019
