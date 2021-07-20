@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 19/07/2021 07:30:01
+# Last update: 20/07/2021 07:30:01
 
-last_update: 19/07/2021 07:30:01
+last_update: 20/07/2021 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -88,6 +88,20 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11033.htm
     level: 11
     name: Automatic Speech Recognition
+    year: 4
+  av:
+    acronym: AV
+    credits: 10
+    cw_exam_ratio:
+    - 30
+    - 70
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR11031
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11031.htm
+    level: 11
+    name: Advanced Vision
     year: 4
   bai-gp:
     acronym: BAI-GP
@@ -789,20 +803,6 @@ list:
     level: 8
     name: Informatics Experiential Learning
     year: 2
-  infr11031:
-    acronym: INFR11031
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11031
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11031.htm
-    level: 11
-    name: Advanced Vision
-    year: 4
   ipp:
     acronym: IPP
     credits: 10
