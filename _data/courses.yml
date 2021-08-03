@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 21/07/2021 07:30:01
+# Last update: 03/08/2021 07:30:01
 
-last_update: 21/07/2021 07:30:01
+last_update: 03/08/2021 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -921,9 +921,9 @@ list:
     cw_exam_ratio:
     - 50
     - 50
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
     euclid_code: INFR11140
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11140.htm
     level: 11
