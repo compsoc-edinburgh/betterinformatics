@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 03/08/2021 07:30:01
+# Last update: 04/08/2021 07:30:01
 
-last_update: 03/08/2021 07:30:01
+last_update: 04/08/2021 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -397,6 +397,118 @@ list:
     level: 8
     name: Discrete Mathematics and Probability
     year: 2
+  epcc-apt-o:
+    acronym: EPCC-APT-O
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFD11023
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11023.htm
+    level: 11
+    name: Advanced Parallel Techniques (Distance Learning)
+    year: 5
+  epcc-dapa-o:
+    acronym: EPCC-DAPA-O
+    credits: 10
+    cw_exam_ratio:
+    - 25
+    - 75
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFD11024
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11024.htm
+    level: 11
+    name: Design and Analysis of Parallel Algorithms (Distance Learning)
+    year: 5
+  epcc-ds-diss-o:
+    acronym: EPCC-DS-DISS-O
+    credits: 60
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: INFD11029
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11029.htm
+    level: 11
+    name: Dissertation (HPC with Data Science) (Distance Learning)
+    year: 5
+  epcc-hpc-diss-o:
+    acronym: EPCC-HPC-DISS-O
+    credits: 60
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: INFD11028
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11028.htm
+    level: 11
+    name: Dissertation (High Performance Computing) (Distance Learning)
+    year: 5
+  epcc-pdp-o:
+    acronym: EPCC-PDP-O
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFD11020
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11020.htm
+    level: 11
+    name: Parallel Design Patterns (Distance Learning)
+    year: 5
+  epcc-pfp-o:
+    acronym: EPCC-PFP-O
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFD11021
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11021.htm
+    level: 11
+    name: Performance Programming (Distance Learning)
+    year: 5
+  epcc-projprep-dsti:
+    acronym: EPCC-PROJPREP-DSTI
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFD11027
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11027.htm
+    level: 11
+    name: Project Preparation (DSTI) (Distance Learning)
+    year: 5
+  epcc-projprep-o:
+    acronym: EPCC-PROJPREP-O
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFD11026
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11026.htm
+    level: 11
+    name: Project Preparation (HPC and HPC with Data Science) (Distance Learning)
+    year: 5
   exc:
     acronym: EXC
     credits: 10
@@ -475,7 +587,7 @@ list:
     - 70
     delivery: S1
     delivery_ordinal: 1
-    diet: April/May; April/May; April/May; December; December; December
+    diet: December; December; December; April/May; April/May; April/May
     euclid_code: INFR10069
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10069.htm
     level: 10
@@ -649,146 +761,6 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
-  infd11020:
-    acronym: INFD11020
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFD11020
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11020.htm
-    level: 11
-    name: Parallel Design Patterns (Distance Learning)
-    year: 5
-  infd11021:
-    acronym: INFD11021
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFD11021
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11021.htm
-    level: 11
-    name: Performance Programming (Distance Learning)
-    year: 5
-  infd11022:
-    acronym: INFD11022
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFD11022
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11022.htm
-    level: 11
-    name: Advanced Message Passing Programming (Distance Learning)
-    year: 5
-  infd11023:
-    acronym: INFD11023
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11023
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11023.htm
-    level: 11
-    name: Advanced Parallel Techniques (Distance Learning)
-    year: 5
-  infd11024:
-    acronym: INFD11024
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11024
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11024.htm
-    level: 11
-    name: Design and Analysis of Parallel Algorithms (Distance Learning)
-    year: 5
-  infd11025:
-    acronym: INFD11025
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11025
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11025.htm
-    level: 11
-    name: Numerical Algorithms for High Performance Computing (Distance Learning)
-    year: 5
-  infd11026:
-    acronym: INFD11026
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11026
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11026.htm
-    level: 11
-    name: Project Preparation (HPC and HPC with Data Science) (Distance Learning)
-    year: 5
-  infd11027:
-    acronym: INFD11027
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11027
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11027.htm
-    level: 11
-    name: Project Preparation (DSTI) (Distance Learning)
-    year: 5
-  infd11028:
-    acronym: INFD11028
-    credits: 60
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFD11028
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11028.htm
-    level: 11
-    name: Dissertation (High Performance Computing) (Distance Learning)
-    year: 5
-  infd11029:
-    acronym: INFD11029
-    credits: 60
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFD11029
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11029.htm
-    level: 11
-    name: Dissertation (HPC with Data Science) (Distance Learning)
-    year: 5
   infr08033:
     acronym: INFR08033
     credits: 20
