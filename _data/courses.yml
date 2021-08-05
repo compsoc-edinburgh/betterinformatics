@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 04/08/2021 07:30:01
+# Last update: 05/08/2021 10:59:59
 
-last_update: 04/08/2021 07:30:01
+last_update: 05/08/2021 10:59:59
 list:
   adbs:
     acronym: ADBS
@@ -93,8 +93,8 @@ list:
     acronym: AV
     credits: 10
     cw_exam_ratio:
-    - 30
-    - 70
+    - 50
+    - 50
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
@@ -482,7 +482,7 @@ list:
     name: Performance Programming (Distance Learning)
     year: 5
   epcc-projprep-dsti:
-    acronym: EPCC-PROJPREP-DSTI
+    acronym: EPCC-ProjPrep-DSTI
     credits: 10
     cw_exam_ratio:
     - 100
@@ -496,7 +496,7 @@ list:
     name: Project Preparation (DSTI) (Distance Learning)
     year: 5
   epcc-projprep-o:
-    acronym: EPCC-PROJPREP-O
+    acronym: EPCC-ProjPrep-O
     credits: 10
     cw_exam_ratio:
     - 100
@@ -585,14 +585,28 @@ list:
     cw_exam_ratio:
     - 30
     - 70
+    delivery: S2
+    delivery_ordinal: 2
+    diet: December; April/May
+    euclid_code: INFD11005
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11005.htm
+    level: 11
+    name: Introductory Applied Machine Learning (Distance Learning)
+    year: 5
+  iaml-pg1:
+    acronym: IAML-PG1
+    credits: 20
+    cw_exam_ratio:
+    - 30
+    - 70
     delivery: S1
     delivery_ordinal: 1
-    diet: December; December; December; April/May; April/May; April/May
-    euclid_code: INFR10069
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10069.htm
-    level: 10
-    name: Introductory Applied Machine Learning (Distance Learning)
-    year: 3
+    diet: ''
+    euclid_code: INFR11182
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11182.htm
+    level: 11
+    name: Introductory Applied Machine Learning (Level 11)
+    year: 5
   iaml-pg2:
     acronym: IAML-PG2
     credits: 20
@@ -621,6 +635,20 @@ list:
     level: 10
     name: Introduction to Databases
     year: 3
+  iel:
+    acronym: IEL
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: INFR08033
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr08033.htm
+    level: 8
+    name: Informatics Experiential Learning
+    year: 2
   ilp:
     acronym: ILP
     credits: 20
@@ -761,20 +789,6 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
-  infr08033:
-    acronym: INFR08033
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR08033
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr08033.htm
-    level: 8
-    name: Informatics Experiential Learning
-    year: 2
   ipp:
     acronym: IPP
     credits: 10
@@ -901,6 +915,20 @@ list:
     level: 11
     name: Image and Vision Computing
     year: 5
+  ivr:
+    acronym: IVR
+    credits: 10
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR09019
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr09019.htm
+    level: 9
+    name: Introduction to Vision and Robotics
+    year: 3
   ivr-dl:
     acronym: IVR-DL
     credits: 10
@@ -909,12 +937,12 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: December; December
-    euclid_code: INFR09019
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr09019.htm
-    level: 9
-    name: Introduction to Vision and Robotics
-    year: 3
+    diet: December
+    euclid_code: INFD11006
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11006.htm
+    level: 11
+    name: Introduction to Vision and Robotics (Distance Learning)
+    year: 5
   mci:
     acronym: MCI
     credits: 10
@@ -1013,6 +1041,20 @@ list:
     level: 11
     name: Machine Learning Theory
     year: 4
+  nat:
+    acronym: NAT
+    credits: 10
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR11161
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11161.htm
+    level: 11
+    name: Natural Computing
+    year: 4
   nat-dl:
     acronym: NAT-DL
     credits: 10
@@ -1021,12 +1063,12 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: December; December
-    euclid_code: INFR11161
-    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11161.htm
+    diet: December
+    euclid_code: INFD11007
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11007.htm
     level: 11
-    name: Natural Computing
-    year: 4
+    name: Natural Computing (Distance Learning)
+    year: 5
   nlp-dr:
     acronym: NLP-DR
     credits: 20
@@ -1266,7 +1308,7 @@ list:
     name: System Design Project
     year: 3
   seng:
-    acronym: SENG
+    acronym: SEng
     credits: 10
     cw_exam_ratio:
     - 30
