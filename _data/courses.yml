@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 05/08/2021 10:59:59
+# Last update: 06/08/2021 07:30:02
 
-last_update: 05/08/2021 10:59:59
+last_update: 06/08/2021 07:30:02
 list:
   adbs:
     acronym: ADBS
@@ -573,7 +573,7 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: ''
+    diet: December; December
     euclid_code: INFR10069
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10069.htm
     level: 10
@@ -587,7 +587,7 @@ list:
     - 70
     delivery: S2
     delivery_ordinal: 2
-    diet: December; April/May
+    diet: April/May
     euclid_code: INFD11005
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11005.htm
     level: 11
@@ -601,7 +601,7 @@ list:
     - 70
     delivery: S1
     delivery_ordinal: 1
-    diet: ''
+    diet: December
     euclid_code: INFR11182
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11182.htm
     level: 11
@@ -923,7 +923,7 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: ''
+    diet: December
     euclid_code: INFR09019
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr09019.htm
     level: 9
@@ -1049,7 +1049,7 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: ''
+    diet: December
     euclid_code: INFR11161
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11161.htm
     level: 11
