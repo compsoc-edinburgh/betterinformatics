@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 06/08/2021 07:30:02
+# Last update: 27/08/2021 07:30:01
 
-last_update: 06/08/2021 07:30:02
+last_update: 27/08/2021 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -251,7 +251,7 @@ list:
     - 0
     delivery: S1
     delivery_ordinal: 1
-    diet: April/May
+    diet: ''
     euclid_code: INFR11021
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11021.htm
     level: 11
