@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 30/08/2021 07:30:01
+# Last update: 07/09/2021 07:30:01
 
-last_update: 30/08/2021 07:30:01
+last_update: 07/09/2021 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -1327,9 +1327,9 @@ list:
     cw_exam_ratio:
     - 30
     - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
     euclid_code: INFR11098
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11098.htm
     level: 11
