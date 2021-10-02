@@ -10,3 +10,4 @@ course-acronym: inf2-iads
 - ~~[Karatsuba Multiplication in 13 minutes](https://www.youtube.com/watch?v=JCbZayFr9RE) (video, watchable at 1.25x)~~
 - [Unofficial Past Paper Solutions](https://betterinformatics.com/drive?next=11D73NDRY6leMFxxO1LoeqvEQL3mV-qC0)
 - [Course Notes INF2B - Algorithms (2018)](https://drive.google.com/drive/u/1/folders/1phoPeflx6KgZeOwH88la66J7Xa49UPLE)
+- [Community Solutions to CLRS (4th ed.)](https://walkccc.me/CLRS/)
