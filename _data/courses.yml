@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 14/09/2021 07:30:10
+# Last update: 07/10/2021 10:33:48
 
-last_update: 14/09/2021 07:30:10
+last_update: 07/10/2021 10:33:48
 list:
   adbs:
     acronym: ADBS
@@ -333,8 +333,8 @@ list:
     cw_exam_ratio:
     - 100
     - 0
-    delivery: S1
-    delivery_ordinal: 1
+    delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR10065
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10065.htm
