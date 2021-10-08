@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 07/10/2021 10:33:48
+# Last update: 08/10/2021 07:30:02
 
-last_update: 07/10/2021 10:33:48
+last_update: 08/10/2021 07:30:02
 list:
   adbs:
     acronym: ADBS
@@ -801,6 +801,20 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
+  infr10081:
+    acronym: INFR10081
+    credits: 40
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: INFR10081
+    euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr10081.htm
+    level: 10
+    name: Honours Project (Data Science Graduate Apprenticeship)
+    year: 4
   ipp:
     acronym: IPP
     credits: 10
