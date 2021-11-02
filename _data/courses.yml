@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 08/10/2021 07:30:02
+# Last update: 02/11/2021 07:30:02
 
-last_update: 08/10/2021 07:30:02
+last_update: 02/11/2021 07:30:02
 list:
   adbs:
     acronym: ADBS
@@ -1471,5 +1471,5 @@ list:
     euclid_code: INFD11019
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfd11019.htm
     level: 11
-    name: Explainable Machine Learning
+    name: 'Explainable Machine Learning: A Practical Introduction'
     year: 5
