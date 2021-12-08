@@ -18,7 +18,8 @@ links:
 - [Examinable topics summary](/resources/IAML.jpg) -  Having analysed IAML exam papers from 2012 to date, here is the summary of topic covered.
   - To help with the understanding of topics that come across more often than others, score = frequency of occurance, expressed as % over 12
 - Student notes:
-  - [georgeka98](https://github.com/georgeka98/iaml_notes)
+  - [athiyadeviyani](https://github.com/athiyadeviyani/Revision-Notes-and-Past-Papers/blob/master/IAML/IAML-CLASS-DISCUSSIONS-compressed.pdf)
   - [makspll](https://github.com/makspll/University-Notes/blob/master/Years/Year3/Semester1/IAML/main.pdf)
   - [mrknmc](https://github.com/mrknmc/edi-notes/blob/master/ug3/iaml/iaml.pdf)
+  - [georgeka98](https://github.com/georgeka98/iaml_notes)
  
