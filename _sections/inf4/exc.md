@@ -16,3 +16,6 @@ course-acronym: exc
 - [Revision Notes](https://github.com/mrknmc/edi-notes/tree/master/ug4/exc) - Mark Nemec on Github
 - [Docker + Pig setup](https://hub.docker.com/r/visgean/baked-pig), this allows to easily execute examples from [Tutorials point](https://www.tutorialspoint.com/apache_pig/apache_pig_join_operator.htm)
 - [2021 Revision Notes](https://docs.google.com/document/d/1CDfInBZ3pFvYK4u2twhxjK45NFtEy7_BDyILvmyilAw/edit#)
+
+- Additional Resources:
+  -  [MIT's Distributed Systems Course](https://pdos.csail.mit.edu/6.824/schedule.html) - Has good notes & labs on GFS, MapReduce, etc.
