@@ -2,6 +2,7 @@
 year: 2
 title: INF2C - Software Engineering
 course-acronym: inf2c-se
+archived: true
 ---
 - No book is _essential_ for this course.
 - Exam, **closed book**:
