@@ -23,7 +23,7 @@ Exam type: 100% Coursework.
 - [Trev tutor on DMMR](https://trevtutor.com/discretemath/discretemath1/) and [part 2](https://trevtutor.com/discretemath/discrete-math-2/) - similar to Khan academy
 - [Course notes](https://github.com/eonu/eonu.github.io/blob/master/topics/discrete-maths/README.md) by Edwin Onuonga (2017-18)
 - [Strategic Summary Notes](https://github.com/makspll/University-Notes/blob/master/Years/Year2/Semester1/DMMR/Summary_Notes/strategic_dmmr_notes.pdf) by Maksymilian Mozolewski (2019-20)
-- [NotAllThingsDMP](https://drive.google.com/file/d/112rgAn6mT78VDE_LoSgHyMo74LD2sJGE/view?usp=sharing) , a summary notes of DMP 2021 by Shuyuan Zhang (2021-2022)
+- [NotAllThingsDMP_full](https://drive.google.com/file/d/112rgAn6mT78VDE_LoSgHyMo74LD2sJGE/view?usp=sharing) and [NotAllThingsDMP_block2_each_week](https://drive.google.com/file/d/1Ma2cBqVxCuxo5wYyXCTezkXR1uYk8xjr/view?usp=sharing), a summary notes of DMP 2021 by Shuyuan Zhang (2021-2022)
 - **Videos**
   - [Surjective and Injective functions](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/surjective-onto-and-injective-one-to-one-functions)
   - [Proof by Induction](https://www.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-induction/v/proof-by-induction)
