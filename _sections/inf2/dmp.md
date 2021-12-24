@@ -1,7 +1,7 @@
 ---
 year: 2
 title: Discrete Math and Probability
-course-acronym: DMP
+course-acronym: dmp
 links:
   - name: drps
     url: http://www.drps.ed.ac.uk/20-21/dpt/cxinfr08031.htm
@@ -9,7 +9,7 @@ links:
     url: /drive?next=0B4SUSkTXjliXbWN0YUF5cEx1ZFE
 ---
 
-DMMR and PwA has been merged to form this new course, DMP is now solely based  on coursework but you can find information about past papers [here](/resources/math-pwa/list.html).
+DMMR and PwA has been merged to form this new course, DMP is now solely based on coursework but you can find information about past papers [here](/resources/math-pwa/list.html).
 
 [**Online (flipped-classroom) version of this course. 10x better than the lectures.**](https://youtu.be/rdXw7Ps9vxc?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 
@@ -23,7 +23,7 @@ Exam type: 100% Coursework.
 - [Trev tutor on DMMR](https://trevtutor.com/discretemath/discretemath1/) and [part 2](https://trevtutor.com/discretemath/discrete-math-2/) - similar to Khan academy
 - [Course notes](https://github.com/eonu/eonu.github.io/blob/master/topics/discrete-maths/README.md) by Edwin Onuonga (2017-18)
 - [Strategic Summary Notes](https://github.com/makspll/University-Notes/blob/master/Years/Year2/Semester1/DMMR/Summary_Notes/strategic_dmmr_notes.pdf) by Maksymilian Mozolewski (2019-20)
-- [NotAllThingsDMP_full](https://drive.google.com/file/d/112rgAn6mT78VDE_LoSgHyMo74LD2sJGE/view?usp=sharing) and [NotAllThingsDMP_block2_each_week](https://drive.google.com/file/d/1Ma2cBqVxCuxo5wYyXCTezkXR1uYk8xjr/view?usp=sharing), a summary notes of DMP 2021 by Shuyuan Zhang (2021-2022)
+- [NotAllThingsDMP_full](/drive?next=112rgAn6mT78VDE_LoSgHyMo74LD2sJGE) and [NotAllThingsDMP_block2_each_week](/drive?next=1Ma2cBqVxCuxo5wYyXCTezkXR1uYk8xjr), a summary notes of DMP 2021 by Shuyuan Zhang (2021-2022)
 - **Videos**
   - [Surjective and Injective functions](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/surjective-onto-and-injective-one-to-one-functions)
   - [Proof by Induction](https://www.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-induction/v/proof-by-induction)
