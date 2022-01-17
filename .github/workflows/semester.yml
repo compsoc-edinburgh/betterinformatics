@@ -1,0 +1,36 @@
+name: Update Semester
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '18 5 29 12,08 *'
+  
+jobs:
+  update_semester:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8 
+      - name: install modules
+        run: pip install pyyaml
+      - name: execute py script
+        run: |
+          python ./.github/scripts/semester.py
+      - name: commit files #Taken from .github/workflows/courses.yml
+        run: |
+          git config user.name "Better Informatics"
+          # The number ID in the email comes from https://api.github.com/users/better-informatics%5Bbot%5D
+          # Which is not an actual user account. It's a bot:
+          # - https://github.com/organizations/compsoc-edinburgh/settings/apps/better-informatics
+          #
+          # See this for more information: https://github.community/t/github-actions-bot-email-address/17204/5
+          git config user.email "42103905+better-informatics[bot]@users.noreply.github.com"
+          
+          git add _data/settings.yml
+          git commit -m "Automatically update semester"
+          git push origin master
