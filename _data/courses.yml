@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 15/12/2021 07:30:02
+# Last update: 31/01/2022 07:30:01
 
-last_update: 15/12/2021 07:30:02
+last_update: 31/01/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -1024,7 +1024,7 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11093.htm
     level: 11
     name: MInf Project (Part 2)
-    year: 5
+    year: 4
   mlp:
     acronym: MLP
     credits: 20
