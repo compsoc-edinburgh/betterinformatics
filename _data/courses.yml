@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 16/02/2022 07:30:01
+# Last update: 17/03/2022 07:30:01
 
-last_update: 16/02/2022 07:30:01
+last_update: 17/03/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -967,7 +967,7 @@ list:
     euclid_code: INFR11207
     euclid_url: http://www.drps.ed.ac.uk/21-22/dpt/cxinfr11207.htm
     level: 11
-    name: Methods in Causal Inference
+    name: Methods for Causal Inference
     year: 5
   mdi:
     acronym: MDI
