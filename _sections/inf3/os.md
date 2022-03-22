@@ -14,3 +14,4 @@ links:
 **Buddy system**
 
 - [very brief overview](https://www.memorymanagement.org/mmref/alloc.html#buddy-system)
+- [Intuitive Walkthrough of an example](https://www.youtube.com/watch?v=1pCC6pPAtio)
