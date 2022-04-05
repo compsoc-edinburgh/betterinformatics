@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 31/03/2022 13:22:26
+# Last update: 05/04/2022 07:30:01
 
-last_update: 31/03/2022 13:22:26
+last_update: 05/04/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -47,6 +47,20 @@ list:
     level: 11
     name: Algorithmic Game Theory and its Applications
     year: 4
+  aml:
+    acronym: AML
+    credits: 20
+    cw_exam_ratio:
+    - 30
+    - 70
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR11211
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11211.htm
+    level: 11
+    name: Applied Machine Learning
+    year: 5
   anlp:
     acronym: ANLP
     credits: 20
@@ -75,6 +89,20 @@ list:
     level: 9
     name: Automated Reasoning
     year: 3
+  aro:
+    acronym: ARO
+    credits: 20
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR11213
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11213.htm
+    level: 11
+    name: Advanced Robotics
+    year: 5
   asr:
     acronym: ASR
     credits: 10
@@ -271,14 +299,28 @@ list:
     level: 10
     name: Computing in the Classroom
     year: 4
+  cns:
+    acronym: CNS
+    credits: 10
+    cw_exam_ratio:
+    - 25
+    - 75
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: INFR11209
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11209.htm
+    level: 11
+    name: Computational Neuroscience
+    year: 4
   comn:
     acronym: COMN
     credits: 20
     cw_exam_ratio:
     - 100
     - 0
-    delivery: S2
-    delivery_ordinal: 2
+    delivery: S1
+    delivery_ordinal: 1
     diet: ''
     euclid_code: INFR10074
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10074.htm
@@ -341,6 +383,20 @@ list:
     level: 10
     name: Compiling Techniques
     year: 3
+  cv:
+    acronym: CV
+    credits: 20
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: INFR11212
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11212.htm
+    level: 11
+    name: Computer Vision
+    year: 4
   dbba:
     acronym: DBBA
     credits: 20
@@ -397,132 +453,6 @@ list:
     level: 8
     name: Discrete Mathematics and Probability
     year: 2
-  epcc-apt-o:
-    acronym: EPCC-APT-O
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11023
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11023.htm
-    level: 11
-    name: Advanced Parallel Techniques (Distance Learning)
-    year: 5
-  epcc-dapa-o:
-    acronym: EPCC-DAPA-O
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11024
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11024.htm
-    level: 11
-    name: Design and Analysis of Parallel Algorithms (Distance Learning)
-    year: 5
-  epcc-ds-diss-o:
-    acronym: EPCC-DS-DISS-O
-    credits: 60
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFD11029
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11029.htm
-    level: 11
-    name: Dissertation (HPC with Data Science) (Distance Learning)
-    year: 5
-  epcc-hpc-diss-o:
-    acronym: EPCC-HPC-DISS-O
-    credits: 60
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFD11028
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11028.htm
-    level: 11
-    name: Dissertation (High Performance Computing) (Distance Learning)
-    year: 5
-  epcc-nahpc-dl:
-    acronym: EPCC-NAHPC-DL
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11025
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11025.htm
-    level: 11
-    name: Numerical Algorithms for High Performance Computing (Distance Learning)
-    year: 5
-  epcc-pdp-o:
-    acronym: EPCC-PDP-O
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFD11020
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11020.htm
-    level: 11
-    name: Parallel Design Patterns (Distance Learning)
-    year: 5
-  epcc-pfp-o:
-    acronym: EPCC-PFP-O
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFD11021
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11021.htm
-    level: 11
-    name: Performance Programming (Distance Learning)
-    year: 5
-  epcc-projprep-dsti:
-    acronym: EPCC-ProjPrep-DSTI
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11027
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11027.htm
-    level: 11
-    name: Project Preparation (DSTI) (Distance Learning)
-    year: 5
-  epcc-projprep-o:
-    acronym: EPCC-ProjPrep-O
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11026
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11026.htm
-    level: 11
-    name: Project Preparation (HPC and HPC with Data Science) (Distance Learning)
-    year: 5
   epl:
     acronym: EPL
     credits: 10
@@ -843,20 +773,6 @@ list:
     level: 10
     name: Machine Learning
     year: 3
-  infr11209:
-    acronym: INFR11209
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11209
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11209.htm
-    level: 11
-    name: Computational Neuroscience
-    year: 4
   infr11210:
     acronym: INFR11210
     credits: 20
@@ -870,48 +786,6 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11210.htm
     level: 11
     name: Seminar in Cognitive Modelling
-    year: 5
-  infr11211:
-    acronym: INFR11211
-    credits: 20
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11211
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11211.htm
-    level: 11
-    name: Applied Machine Learning
-    year: 5
-  infr11212:
-    acronym: INFR11212
-    credits: 20
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR11212
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11212.htm
-    level: 11
-    name: Computer Vision
-    year: 4
-  infr11213:
-    acronym: INFR11213
-    credits: 20
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11213
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11213.htm
-    level: 11
-    name: Advanced Robotics
     year: 5
   infr11214:
     acronym: INFR11214
@@ -1045,9 +919,9 @@ list:
     cw_exam_ratio:
     - 20
     - 80
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
+    delivery: S1
+    delivery_ordinal: 1
+    diet: April/May; April/May
     euclid_code: INFR10059
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10059.htm
     level: 10
@@ -1403,6 +1277,20 @@ list:
     level: 11
     name: Quantum Cyber Security
     year: 4
+  ra:
+    acronym: RA
+    credits: 10
+    cw_exam_ratio:
+    - 20
+    - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR11201
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11201.htm
+    level: 11
+    name: Randomized Algorithms
+    year: 4
   rl:
     acronym: RL
     credits: 10
@@ -1437,9 +1325,9 @@ list:
     cw_exam_ratio:
     - 50
     - 50
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December; December
+    delivery: S2
+    delivery_ordinal: 2
+    diet: December; December; December
     euclid_code: INFR10064
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10064.htm
     level: 10
