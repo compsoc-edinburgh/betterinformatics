@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 06/04/2022 13:55:06
+# Last update: 08/04/2022 16:20:00
 
-last_update: 06/04/2022 13:55:06
+last_update: 08/04/2022 16:20:00
 list:
   adbs:
     acronym: ADBS
@@ -75,20 +75,6 @@ list:
     level: 11
     name: Accelerated Natural Language Processing
     year: 5
-  ar:
-    acronym: AR
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR09042
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr09042.htm
-    level: 9
-    name: Automated Reasoning
-    year: 3
   aro:
     acronym: ARO
     credits: 20
@@ -116,20 +102,6 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11033.htm
     level: 11
     name: Automatic Speech Recognition
-    year: 4
-  av:
-    acronym: AV
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11031
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11031.htm
-    level: 11
-    name: Advanced Vision
     year: 4
   bai-gp:
     acronym: BAI-GP
@@ -495,20 +467,6 @@ list:
     level: 10
     name: Foundations of Natural Language Processing
     year: 3
-  fv:
-    acronym: FV
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11129
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11129.htm
-    level: 11
-    name: Formal Verification
-    year: 4
   hci:
     acronym: HCI
     credits: 10
@@ -523,20 +481,6 @@ list:
     level: 11
     name: Human-Computer Interaction
     year: 4
-  iaml:
-    acronym: IAML
-    credits: 20
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December; December
-    euclid_code: INFR10069
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10069.htm
-    level: 10
-    name: Introductory Applied Machine Learning
-    year: 3
   iaml-dl:
     acronym: IAML-DL
     credits: 20
@@ -550,20 +494,6 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11005.htm
     level: 11
     name: Introductory Applied Machine Learning
-    year: 5
-  iaml-pg1:
-    acronym: IAML-PG1
-    credits: 20
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11182
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11182.htm
-    level: 11
-    name: Introductory Applied Machine Learning (Level 11)
     year: 5
   idb:
     acronym: IDB
@@ -745,76 +675,6 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
-  infr10085:
-    acronym: INFR10085
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR10085
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10085.htm
-    level: 10
-    name: Introduction to Mobile Robotics
-    year: 3
-  infr10086:
-    acronym: INFR10086
-    credits: 20
-    cw_exam_ratio:
-    - 20
-    - 80
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR10086
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10086.htm
-    level: 10
-    name: Machine Learning
-    year: 3
-  infr11210:
-    acronym: INFR11210
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR11210
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11210.htm
-    level: 11
-    name: Seminar in Cognitive Modelling
-    year: 5
-  infr11214:
-    acronym: INFR11214
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11214
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11214.htm
-    level: 11
-    name: Standards Compliant Software Development
-    year: 4
-  infr11215:
-    acronym: INFR11215
-    credits: 10
-    cw_exam_ratio:
-    - 20
-    - 80
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11215
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11215.htm
-    level: 11
-    name: Knowledge Graphs
-    year: 4
   ipp:
     acronym: IPP
     credits: 10
@@ -913,48 +773,20 @@ list:
     level: 11
     name: Informatics Research Review
     year: 5
-  ivc:
-    acronym: IVC
+  kg:
+    acronym: KG
     credits: 10
     cw_exam_ratio:
-    - 50
-    - 50
+    - 20
+    - 80
     delivery: S1
     delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11140
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11140.htm
+    diet: ''
+    euclid_code: INFR11215
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11215.htm
     level: 11
-    name: Image and Vision Computing
-    year: 5
-  ivr:
-    acronym: IVR
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR09019
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr09019.htm
-    level: 9
-    name: Introduction to Vision and Robotics
-    year: 3
-  ivr-dl:
-    acronym: IVR-DL
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFD11006
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11006.htm
-    level: 11
-    name: Introduction to Vision and Robotics (Distance Learning)
-    year: 5
+    name: Knowledge Graphs
+    year: 4
   mci:
     acronym: MCI
     credits: 10
@@ -1011,6 +843,20 @@ list:
     level: 11
     name: MInf Project (Part 2)
     year: 4
+  mlg:
+    acronym: MLG
+    credits: 20
+    cw_exam_ratio:
+    - 20
+    - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR10086
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10086.htm
+    level: 10
+    name: Machine Learning
+    year: 3
   mlp:
     acronym: MLP
     credits: 20
@@ -1053,6 +899,20 @@ list:
     level: 11
     name: Machine Learning Theory
     year: 4
+  mob:
+    acronym: MOB
+    credits: 10
+    cw_exam_ratio:
+    - 40
+    - 60
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: INFR10085
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10085.htm
+    level: 10
+    name: Introduction to Mobile Robotics
+    year: 3
   nat-dl:
     acronym: NAT-DL
     credits: 10
@@ -1151,20 +1011,6 @@ list:
     level: 10
     name: Operating Systems
     year: 3
-  pa:
-    acronym: PA
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11024
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11024.htm
-    level: 11
-    name: Parallel Architectures
-    year: 4
   pdiot:
     acronym: PDIoT
     credits: 20
@@ -1291,20 +1137,34 @@ list:
     level: 11
     name: Reinforcement Learning
     year: 5
-  rss:
-    acronym: RSS
+  scm:
+    acronym: SCM
     credits: 20
     cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11092
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11092.htm
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: INFR11210
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11210.htm
     level: 11
-    name: 'Robotics: Science and Systems'
+    name: Seminar in Cognitive Modelling
     year: 5
+  scsd:
+    acronym: SCSD
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR11214
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11214.htm
+    level: 11
+    name: Standards Compliant Software Development
+    year: 4
   sdm:
     acronym: SDM
     credits: 20
