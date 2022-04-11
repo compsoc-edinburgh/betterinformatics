@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 08/04/2022 16:20:00
+# Last update: 11/04/2022 07:30:01
 
-last_update: 08/04/2022 16:20:00
+last_update: 11/04/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -499,8 +499,8 @@ list:
     acronym: IDB
     credits: 20
     cw_exam_ratio:
-    - 40
-    - 60
+    - 20
+    - 80
     delivery: S1
     delivery_ordinal: 1
     diet: December
@@ -773,20 +773,6 @@ list:
     level: 11
     name: Informatics Research Review
     year: 5
-  kg:
-    acronym: KG
-    credits: 10
-    cw_exam_ratio:
-    - 20
-    - 80
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11215
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11215.htm
-    level: 11
-    name: Knowledge Graphs
-    year: 4
   mci:
     acronym: MCI
     credits: 10
@@ -1151,20 +1137,6 @@ list:
     level: 11
     name: Seminar in Cognitive Modelling
     year: 5
-  scsd:
-    acronym: SCSD
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11214
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11214.htm
-    level: 11
-    name: Standards Compliant Software Development
-    year: 4
   sdm:
     acronym: SDM
     credits: 20
