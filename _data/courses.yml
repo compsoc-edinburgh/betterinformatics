@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 11/04/2022 07:30:01
+# Last update: 12/04/2022 07:30:01
 
-last_update: 11/04/2022 07:30:01
+last_update: 12/04/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -258,7 +258,7 @@ list:
     name: Computer Graphics
     year: 4
   cic:
-    acronym: CiC
+    acronym: CIC
     credits: 20
     cw_exam_ratio:
     - 100
@@ -523,18 +523,6 @@ list:
     level: 8
     name: Informatics Experiential Learning
     year: 2
-  iel-10:
-    acronym: IEL-10
-    credits: 20
-    cw_exam_ratio: null
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR10084
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10084.htm
-    level: 10
-    name: Informatics Experiential Learning (Level 10)
-    year: 3
   ilp:
     acronym: ILP
     credits: 20
@@ -773,6 +761,20 @@ list:
     level: 11
     name: Informatics Research Review
     year: 5
+  itcs:
+    acronym: ITCS
+    credits: 10
+    cw_exam_ratio:
+    - 20
+    - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR10059
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10059.htm
+    level: 10
+    name: Introduction to Theoretical Computer Science
+    year: 3
   mci:
     acronym: MCI
     credits: 10
@@ -998,7 +1000,7 @@ list:
     name: Operating Systems
     year: 3
   pdiot:
-    acronym: PDIoT
+    acronym: PDIOT
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1166,7 +1168,7 @@ list:
     name: System Design Project
     year: 3
   seng:
-    acronym: SEng
+    acronym: SENG
     credits: 10
     cw_exam_ratio:
     - 30
@@ -1185,9 +1187,9 @@ list:
     cw_exam_ratio:
     - 30
     - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
     euclid_code: INFR11098
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11098.htm
     level: 11
