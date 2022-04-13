@@ -1,12 +1,12 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 12/04/2022 07:30:01
+# Last update: 13/04/2022 12:29:29
 
-last_update: 12/04/2022 07:30:01
+last_update: 13/04/2022 12:29:29
 list:
-  adbs:
-    acronym: ADBS
+  22-adbs:
+    acronym: 22-ADBS
     credits: 20
     cw_exam_ratio:
     - 50
@@ -19,8 +19,8 @@ list:
     level: 11
     name: Advanced Database Systems
     year: 4
-  ads:
-    acronym: ADS
+  22-ads:
+    acronym: 22-ADS
     credits: 10
     cw_exam_ratio:
     - 25
@@ -33,8 +33,8 @@ list:
     level: 10
     name: Algorithms and Data Structures
     year: 3
-  agta:
-    acronym: AGTA
+  22-agta:
+    acronym: 22-AGTA
     credits: 10
     cw_exam_ratio:
     - 20
@@ -47,8 +47,8 @@ list:
     level: 11
     name: Algorithmic Game Theory and its Applications
     year: 4
-  aml:
-    acronym: AML
+  22-aml:
+    acronym: 22-AML
     credits: 20
     cw_exam_ratio:
     - 30
@@ -61,8 +61,8 @@ list:
     level: 11
     name: Applied Machine Learning
     year: 5
-  anlp:
-    acronym: ANLP
+  22-anlp:
+    acronym: 22-ANLP
     credits: 20
     cw_exam_ratio:
     - 40
@@ -75,8 +75,22 @@ list:
     level: 11
     name: Accelerated Natural Language Processing
     year: 5
-  aro:
-    acronym: ARO
+  22-ar:
+    acronym: 22-AR
+    credits: 10
+    cw_exam_ratio:
+    - 0
+    - 100
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR10087
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10087.htm
+    level: 10
+    name: Automated Reasoning
+    year: 3
+  22-aro:
+    acronym: 22-ARO
     credits: 20
     cw_exam_ratio:
     - 50
@@ -89,8 +103,8 @@ list:
     level: 11
     name: Advanced Robotics
     year: 5
-  asr:
-    acronym: ASR
+  22-asr:
+    acronym: 22-ASR
     credits: 10
     cw_exam_ratio:
     - 50
@@ -103,8 +117,8 @@ list:
     level: 11
     name: Automatic Speech Recognition
     year: 4
-  bai-gp:
-    acronym: BAI-GP
+  22-bai-gp:
+    acronym: 22-BAI-GP
     credits: 20
     cw_exam_ratio:
     - 100
@@ -117,8 +131,8 @@ list:
     level: 11
     name: Group Research Project (Biomedical AI)
     year: 5
-  bai-icdm:
-    acronym: BAI-ICDM
+  22-bai-icdm:
+    acronym: 22-BAI-ICDM
     credits: 10
     cw_exam_ratio:
     - 100
@@ -131,8 +145,8 @@ list:
     level: 11
     name: Issues in Clinical Data Modelling
     year: 5
-  bai-ip:
-    acronym: BAI-IP
+  22-bai-ip:
+    acronym: 22-BAI-IP
     credits: 80
     cw_exam_ratio:
     - 100
@@ -145,8 +159,8 @@ list:
     level: 11
     name: Individual Research Project (Biomedical AI)
     year: 5
-  bdl:
-    acronym: BDL
+  22-bdl:
+    acronym: 22-BDL
     credits: 10
     cw_exam_ratio:
     - 100
@@ -159,8 +173,8 @@ list:
     level: 11
     name: Blockchains and Distributed Ledgers
     year: 4
-  bio1:
-    acronym: BIO1
+  22-bio1:
+    acronym: 22-BIO1
     credits: 10
     cw_exam_ratio:
     - 100
@@ -173,8 +187,8 @@ list:
     level: 11
     name: Bioinformatics 1
     year: 4
-  card:
-    acronym: CARD
+  22-card:
+    acronym: 22-CARD
     credits: 20
     cw_exam_ratio:
     - 40
@@ -187,8 +201,8 @@ list:
     level: 10
     name: Computer Architecture and Design
     year: 3
-  ccn:
-    acronym: CCN
+  22-ccn:
+    acronym: 22-CCN
     credits: 10
     cw_exam_ratio:
     - 100
@@ -201,8 +215,8 @@ list:
     level: 11
     name: Computational Cognitive Neuroscience
     year: 5
-  ccs:
-    acronym: CCS
+  22-ccs:
+    acronym: 22-CCS
     credits: 10
     cw_exam_ratio:
     - 40
@@ -215,8 +229,8 @@ list:
     level: 10
     name: Computational Cognitive Science
     year: 3
-  cdi1:
-    acronym: CDI1
+  22-cdi1:
+    acronym: 22-CDI1
     credits: 20
     cw_exam_ratio:
     - 100
@@ -229,8 +243,8 @@ list:
     level: 11
     name: Case Studies in Design Informatics 1
     year: 5
-  cdi2:
-    acronym: CDI2
+  22-cdi2:
+    acronym: 22-CDI2
     credits: 20
     cw_exam_ratio:
     - 100
@@ -243,8 +257,8 @@ list:
     level: 11
     name: Case Studies in Design Informatics 2
     year: 5
-  cg:
-    acronym: CG
+  22-cg:
+    acronym: 22-CG
     credits: 10
     cw_exam_ratio:
     - 100
@@ -257,8 +271,8 @@ list:
     level: 11
     name: Computer Graphics
     year: 4
-  cic:
-    acronym: CIC
+  22-cic:
+    acronym: 22-CIC
     credits: 20
     cw_exam_ratio:
     - 100
@@ -271,8 +285,8 @@ list:
     level: 10
     name: Computing in the Classroom
     year: 4
-  cns:
-    acronym: CNS
+  22-cns:
+    acronym: 22-CNS
     credits: 10
     cw_exam_ratio:
     - 25
@@ -285,8 +299,8 @@ list:
     level: 11
     name: Computational Neuroscience
     year: 4
-  comn:
-    acronym: COMN
+  22-comn:
+    acronym: 22-COMN
     credits: 20
     cw_exam_ratio:
     - 100
@@ -299,8 +313,8 @@ list:
     level: 10
     name: Computer Communications and Networks
     year: 3
-  cqi:
-    acronym: CQI
+  22-cqi:
+    acronym: 22-CQI
     credits: 10
     cw_exam_ratio:
     - 50
@@ -313,8 +327,8 @@ list:
     level: 11
     name: Categories and Quantum Informatics
     year: 5
-  cs:
-    acronym: CS
+  22-cs:
+    acronym: 22-CS
     credits: 20
     cw_exam_ratio:
     - 25
@@ -327,8 +341,8 @@ list:
     level: 10
     name: Computer Security
     year: 3
-  csai:
-    acronym: CSAI
+  22-csai:
+    acronym: 22-CSAI
     credits: 10
     cw_exam_ratio:
     - 40
@@ -341,8 +355,8 @@ list:
     level: 11
     name: Case Studies in AI Ethics (CSAI)
     year: 5
-  ct:
-    acronym: CT
+  22-ct:
+    acronym: 22-CT
     credits: 20
     cw_exam_ratio:
     - 100
@@ -355,8 +369,8 @@ list:
     level: 10
     name: Compiling Techniques
     year: 3
-  cv:
-    acronym: CV
+  22-cv:
+    acronym: 22-CV
     credits: 20
     cw_exam_ratio:
     - 50
@@ -369,8 +383,8 @@ list:
     level: 11
     name: Computer Vision
     year: 4
-  dbba:
-    acronym: DBBA
+  22-dbba:
+    acronym: 22-DBBA
     credits: 20
     cw_exam_ratio:
     - 50
@@ -383,8 +397,8 @@ list:
     level: 11
     name: Data-driven Business and Behaviour Analytics
     year: 5
-  diss:
-    acronym: DISS
+  22-diss:
+    acronym: 22-DISS
     credits: 60
     cw_exam_ratio:
     - 100
@@ -397,8 +411,8 @@ list:
     level: 11
     name: MSc Dissertation (Informatics)
     year: 5
-  diss-dsti-dl:
-    acronym: DISS-DSTI-DL
+  22-diss-dsti-dl:
+    acronym: 22-DISS-DSTI-DL
     credits: 60
     cw_exam_ratio:
     - 100
@@ -411,8 +425,8 @@ list:
     level: 11
     name: Data Science, Technology and Innovation Dissertation
     year: 5
-  dmp:
-    acronym: DMP
+  22-dmp:
+    acronym: 22-DMP
     credits: 20
     cw_exam_ratio:
     - 100
@@ -425,8 +439,8 @@ list:
     level: 8
     name: Discrete Mathematics and Probability
     year: 2
-  epl:
-    acronym: EPL
+  22-epl:
+    acronym: 22-EPL
     credits: 10
     cw_exam_ratio:
     - 25
@@ -439,8 +453,8 @@ list:
     level: 10
     name: Elements of Programming Languages
     year: 3
-  exc:
-    acronym: EXC
+  22-exc:
+    acronym: 22-EXC
     credits: 10
     cw_exam_ratio:
     - 40
@@ -453,8 +467,8 @@ list:
     level: 11
     name: Extreme Computing
     year: 4
-  fnlp:
-    acronym: FNLP
+  22-fnlp:
+    acronym: 22-FNLP
     credits: 20
     cw_exam_ratio:
     - 25
@@ -467,8 +481,8 @@ list:
     level: 10
     name: Foundations of Natural Language Processing
     year: 3
-  hci:
-    acronym: HCI
+  22-hci:
+    acronym: 22-HCI
     credits: 10
     cw_exam_ratio:
     - 100
@@ -481,8 +495,8 @@ list:
     level: 11
     name: Human-Computer Interaction
     year: 4
-  iaml-dl:
-    acronym: IAML-DL
+  22-iaml-dl:
+    acronym: 22-IAML-DL
     credits: 20
     cw_exam_ratio:
     - 30
@@ -495,8 +509,8 @@ list:
     level: 11
     name: Introductory Applied Machine Learning
     year: 5
-  idb:
-    acronym: IDB
+  22-idb:
+    acronym: 22-IDB
     credits: 20
     cw_exam_ratio:
     - 20
@@ -509,8 +523,8 @@ list:
     level: 10
     name: Introduction to Databases
     year: 3
-  iel-08:
-    acronym: IEL-08
+  22-iel-08:
+    acronym: 22-IEL-08
     credits: 20
     cw_exam_ratio:
     - 100
@@ -523,8 +537,8 @@ list:
     level: 8
     name: Informatics Experiential Learning
     year: 2
-  ilp:
-    acronym: ILP
+  22-ilp:
+    acronym: 22-ILP
     credits: 20
     cw_exam_ratio:
     - 100
@@ -537,8 +551,8 @@ list:
     level: 9
     name: Informatics Large Practical
     year: 3
-  imc:
-    acronym: IMC
+  22-imc:
+    acronym: 22-IMC
     credits: 10
     cw_exam_ratio:
     - 30
@@ -551,8 +565,8 @@ list:
     level: 11
     name: Introduction to Modern Cryptography
     year: 4
-  inf1-cg:
-    acronym: INF1-CG
+  22-inf1-cg:
+    acronym: 22-INF1-CG
     credits: 20
     cw_exam_ratio:
     - 100
@@ -565,8 +579,8 @@ list:
     level: 8
     name: Informatics 1 - Cognitive Science
     year: 1
-  inf1a:
-    acronym: INF1A
+  22-inf1a:
+    acronym: 22-INF1A
     credits: 20
     cw_exam_ratio:
     - 100
@@ -579,8 +593,8 @@ list:
     level: 8
     name: Informatics 1 - Introduction to Computation
     year: 1
-  inf1b:
-    acronym: INF1B
+  22-inf1b:
+    acronym: 22-INF1B
     credits: 20
     cw_exam_ratio:
     - 100
@@ -593,8 +607,8 @@ list:
     level: 8
     name: Informatics 1 - Object Oriented Programming
     year: 1
-  inf2-fds:
-    acronym: INF2-FDS
+  22-inf2-fds:
+    acronym: 22-INF2-FDS
     credits: 20
     cw_exam_ratio:
     - 100
@@ -607,8 +621,8 @@ list:
     level: 8
     name: Informatics 2 - Foundations of Data Science
     year: 2
-  inf2-iads:
-    acronym: INF2-IADS
+  22-inf2-iads:
+    acronym: 22-INF2-IADS
     credits: 20
     cw_exam_ratio:
     - 40
@@ -621,8 +635,8 @@ list:
     level: 8
     name: Informatics 2 - Introduction to Algorithms and Data Structures
     year: 2
-  inf2-sepp:
-    acronym: INF2-SEPP
+  22-inf2-sepp:
+    acronym: 22-INF2-SEPP
     credits: 20
     cw_exam_ratio:
     - 100
@@ -635,8 +649,8 @@ list:
     level: 8
     name: Informatics 2 - Software Engineering and Professional Practice
     year: 2
-  inf2c-cs:
-    acronym: INF2C-CS
+  22-inf2c-cs:
+    acronym: 22-INF2C-CS
     credits: 20
     cw_exam_ratio:
     - 50
@@ -649,8 +663,8 @@ list:
     level: 8
     name: Informatics 2C - Introduction to Computer Systems
     year: 2
-  inf2d:
-    acronym: INF2D
+  22-inf2d:
+    acronym: 22-INF2D
     credits: 20
     cw_exam_ratio:
     - 30
@@ -663,8 +677,8 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
-  ipp:
-    acronym: IPP
+  22-ipp:
+    acronym: 22-IPP
     credits: 10
     cw_exam_ratio:
     - 100
@@ -677,8 +691,8 @@ list:
     level: 11
     name: Informatics Project Proposal
     year: 5
-  ipp-dl:
-    acronym: IPP-DL
+  22-ipp-dl:
+    acronym: 22-IPP-DL
     credits: 10
     cw_exam_ratio:
     - 100
@@ -691,8 +705,8 @@ list:
     level: 11
     name: Informatics Project Proposal (Distance Learning)
     year: 5
-  ipp-ga:
-    acronym: IPP-GA
+  22-ipp-ga:
+    acronym: 22-IPP-GA
     credits: 20
     cw_exam_ratio:
     - 100
@@ -705,8 +719,8 @@ list:
     level: 10
     name: Informatics Project Proposal (Graduate Apprenticeship)
     year: 4
-  ippo:
-    acronym: IPPO
+  22-ippo:
+    acronym: 22-IPPO
     credits: 10
     cw_exam_ratio:
     - 100
@@ -719,8 +733,8 @@ list:
     level: 11
     name: Introduction to Practical Programming with Objects
     year: 5
-  ippo-dl:
-    acronym: IPPO-DL
+  22-ippo-dl:
+    acronym: 22-IPPO-DL
     credits: 10
     cw_exam_ratio:
     - 100
@@ -733,8 +747,8 @@ list:
     level: 11
     name: Introduction to Practical Programming with Objects (Distance Learning)
     year: 5
-  iqc:
-    acronym: IQC
+  22-iqc:
+    acronym: 22-IQC
     credits: 10
     cw_exam_ratio:
     - 25
@@ -747,8 +761,8 @@ list:
     level: 11
     name: Introduction to Quantum Computing
     year: 4
-  irr:
-    acronym: IRR
+  22-irr:
+    acronym: 22-IRR
     credits: 10
     cw_exam_ratio:
     - 100
@@ -761,8 +775,8 @@ list:
     level: 11
     name: Informatics Research Review
     year: 5
-  itcs:
-    acronym: ITCS
+  22-itcs:
+    acronym: 22-ITCS
     credits: 10
     cw_exam_ratio:
     - 20
@@ -775,8 +789,8 @@ list:
     level: 10
     name: Introduction to Theoretical Computer Science
     year: 3
-  mci:
-    acronym: MCI
+  22-mci:
+    acronym: 22-MCI
     credits: 10
     cw_exam_ratio:
     - 20
@@ -789,8 +803,8 @@ list:
     level: 11
     name: Methods for Causal Inference
     year: 5
-  mdi:
-    acronym: MDI
+  22-mdi:
+    acronym: 22-MDI
     credits: 60
     cw_exam_ratio:
     - 100
@@ -803,8 +817,8 @@ list:
     level: 11
     name: Masters Dissertation (Design Informatics)
     year: 5
-  mip1:
-    acronym: MIP1
+  22-mip1:
+    acronym: 22-MIP1
     credits: 40
     cw_exam_ratio:
     - 100
@@ -817,8 +831,8 @@ list:
     level: 10
     name: MInf Project (Part 1)
     year: 4
-  mip2:
-    acronym: MIP2
+  22-mip2:
+    acronym: 22-MIP2
     credits: 40
     cw_exam_ratio:
     - 100
@@ -831,8 +845,8 @@ list:
     level: 11
     name: MInf Project (Part 2)
     year: 4
-  mlg:
-    acronym: MLG
+  22-mlg:
+    acronym: 22-MLG
     credits: 20
     cw_exam_ratio:
     - 20
@@ -845,8 +859,8 @@ list:
     level: 10
     name: Machine Learning
     year: 3
-  mlp:
-    acronym: MLP
+  22-mlp:
+    acronym: 22-MLP
     credits: 20
     cw_exam_ratio:
     - 100
@@ -859,8 +873,8 @@ list:
     level: 11
     name: Machine Learning Practical
     year: 4
-  mlpr:
-    acronym: MLPR
+  22-mlpr:
+    acronym: 22-MLPR
     credits: 20
     cw_exam_ratio:
     - 35
@@ -873,8 +887,8 @@ list:
     level: 11
     name: Machine Learning and Pattern Recognition
     year: 4
-  mlt:
-    acronym: MLT
+  22-mlt:
+    acronym: 22-MLT
     credits: 10
     cw_exam_ratio:
     - 30
@@ -887,8 +901,8 @@ list:
     level: 11
     name: Machine Learning Theory
     year: 4
-  mob:
-    acronym: MOB
+  22-mob:
+    acronym: 22-MOB
     credits: 10
     cw_exam_ratio:
     - 40
@@ -901,8 +915,8 @@ list:
     level: 10
     name: Introduction to Mobile Robotics
     year: 3
-  nat-dl:
-    acronym: NAT-DL
+  22-nat-dl:
+    acronym: 22-NAT-DL
     credits: 10
     cw_exam_ratio:
     - 50
@@ -915,8 +929,8 @@ list:
     level: 11
     name: Natural Computing
     year: 5
-  nlp-dr:
-    acronym: NLP-DR
+  22-nlp-dr:
+    acronym: 22-NLP-DR
     credits: 20
     cw_exam_ratio:
     - 100
@@ -929,8 +943,8 @@ list:
     level: 11
     name: Doing Research in Natural Language Processing
     year: 5
-  nlp-gp:
-    acronym: NLP-GP
+  22-nlp-gp:
+    acronym: 22-NLP-GP
     credits: 20
     cw_exam_ratio:
     - 100
@@ -943,8 +957,8 @@ list:
     level: 11
     name: Group Project in Advanced Natural Language Processing
     year: 5
-  nlp-ip:
-    acronym: NLP-IP
+  22-nlp-ip:
+    acronym: 22-NLP-IP
     credits: 40
     cw_exam_ratio:
     - 100
@@ -957,8 +971,8 @@ list:
     level: 11
     name: Individual Project in Advanced Natural Language Processing
     year: 5
-  nlp-ip-80:
-    acronym: NLP-IP-80
+  22-nlp-ip-80:
+    acronym: 22-NLP-IP-80
     credits: 80
     cw_exam_ratio:
     - 100
@@ -971,8 +985,8 @@ list:
     level: 11
     name: Individual Project in Advanced Natural Language Processing (80 credits)
     year: 5
-  nlu+:
-    acronym: NLU+
+  22-nlu+:
+    acronym: 22-NLU+
     credits: 20
     cw_exam_ratio:
     - 50
@@ -985,8 +999,8 @@ list:
     level: 11
     name: Natural Language Understanding, Generation, and Machine Translation
     year: 4
-  os:
-    acronym: OS
+  22-os:
+    acronym: 22-OS
     credits: 20
     cw_exam_ratio:
     - 50
@@ -999,8 +1013,8 @@ list:
     level: 10
     name: Operating Systems
     year: 3
-  pdiot:
-    acronym: PDIOT
+  22-pdiot:
+    acronym: 22-PDIOT
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1013,8 +1027,8 @@ list:
     level: 11
     name: Principles and Design of IoT Systems
     year: 4
-  pi:
-    acronym: PI
+  22-pi:
+    acronym: 22-PI
     credits: 10
     cw_exam_ratio:
     - 100
@@ -1027,8 +1041,8 @@ list:
     level: 10
     name: Professional Issues
     year: 3
-  pmr:
-    acronym: PMR
+  22-pmr:
+    acronym: 22-PMR
     credits: 20
     cw_exam_ratio:
     - 25
@@ -1041,8 +1055,8 @@ list:
     level: 11
     name: Probabilistic Modelling and Reasoning
     year: 5
-  ppls:
-    acronym: PPLS
+  22-ppls:
+    acronym: 22-PPLS
     credits: 10
     cw_exam_ratio:
     - 20
@@ -1055,8 +1069,8 @@ list:
     level: 11
     name: Parallel Programming Languages and Systems
     year: 4
-  proj:
-    acronym: PROJ
+  22-proj:
+    acronym: 22-PROJ
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1069,8 +1083,8 @@ list:
     level: 10
     name: Honours Project (Informatics)
     year: 4
-  proj-ga:
-    acronym: PROJ-GA
+  22-proj-ga:
+    acronym: 22-PROJ-GA
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1083,8 +1097,8 @@ list:
     level: 10
     name: Honours Project (Data Science Graduate Apprenticeship)
     year: 4
-  qcs:
-    acronym: QCS
+  22-qcs:
+    acronym: 22-QCS
     credits: 10
     cw_exam_ratio:
     - 25
@@ -1097,8 +1111,8 @@ list:
     level: 11
     name: Quantum Cyber Security
     year: 4
-  ra:
-    acronym: RA
+  22-ra:
+    acronym: 22-RA
     credits: 10
     cw_exam_ratio:
     - 20
@@ -1111,8 +1125,8 @@ list:
     level: 11
     name: Randomized Algorithms
     year: 4
-  rl:
-    acronym: RL
+  22-rl:
+    acronym: 22-RL
     credits: 10
     cw_exam_ratio:
     - 50
@@ -1125,8 +1139,8 @@ list:
     level: 11
     name: Reinforcement Learning
     year: 5
-  scm:
-    acronym: SCM
+  22-scm:
+    acronym: 22-SCM
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1139,8 +1153,8 @@ list:
     level: 11
     name: Seminar in Cognitive Modelling
     year: 5
-  sdm:
-    acronym: SDM
+  22-sdm:
+    acronym: 22-SDM
     credits: 20
     cw_exam_ratio:
     - 50
@@ -1153,8 +1167,8 @@ list:
     level: 10
     name: Software Design and Modelling
     year: 3
-  sdp:
-    acronym: SDP
+  22-sdp:
+    acronym: 22-SDP
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1167,8 +1181,8 @@ list:
     level: 9
     name: System Design Project
     year: 3
-  seng:
-    acronym: SENG
+  22-seng:
+    acronym: 22-SENG
     credits: 10
     cw_exam_ratio:
     - 30
@@ -1181,8 +1195,8 @@ list:
     level: 11
     name: Security Engineering
     year: 4
-  sp:
-    acronym: SP
+  22-sp:
+    acronym: 22-SP
     credits: 10
     cw_exam_ratio:
     - 30
@@ -1195,8 +1209,8 @@ list:
     level: 11
     name: Secure Programming
     year: 4
-  spt:
-    acronym: SPT
+  22-spt:
+    acronym: 22-SPT
     credits: 20
     cw_exam_ratio:
     - 55
@@ -1209,8 +1223,8 @@ list:
     level: 11
     name: Research Methods in Security, Privacy, and Trust
     year: 5
-  st:
-    acronym: ST
+  22-st:
+    acronym: 22-ST
     credits: 10
     cw_exam_ratio:
     - 55
@@ -1223,8 +1237,8 @@ list:
     level: 10
     name: Software Testing
     year: 3
-  thf:
-    acronym: THF
+  22-thf:
+    acronym: 22-THF
     credits: 10
     cw_exam_ratio:
     - 33
@@ -1237,8 +1251,8 @@ list:
     level: 11
     name: 'The Human Factor: Working with Users'
     year: 5
-  tspl:
-    acronym: TSPL
+  22-tspl:
+    acronym: 22-TSPL
     credits: 10
     cw_exam_ratio:
     - 50
@@ -1251,8 +1265,8 @@ list:
     level: 11
     name: Types and Semantics for Programming Languages
     year: 4
-  ttds:
-    acronym: TTDS
+  22-ttds:
+    acronym: 22-TTDS
     credits: 20
     cw_exam_ratio:
     - 70
@@ -1265,8 +1279,8 @@ list:
     level: 11
     name: Text Technologies for Data Science
     year: 4
-  wbppa:
-    acronym: WBPPA
+  22-wbppa:
+    acronym: 22-WBPPA
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1279,8 +1293,8 @@ list:
     level: 9
     name: Work-Based Professional Practice A in Data Analytics
     year: 3
-  wbppb:
-    acronym: WBPPB
+  22-wbppb:
+    acronym: 22-WBPPB
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1293,8 +1307,8 @@ list:
     level: 10
     name: Work-Based Professional Practice B in Data Analytics
     year: 3
-  wbppc:
-    acronym: WBPPC
+  22-wbppc:
+    acronym: 22-WBPPC
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1307,17 +1321,3 @@ list:
     level: 10
     name: Work-Based Professional Practice C in Data Analytics
     year: 4
-  xai:
-    acronym: XAI
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: FLEX
-    delivery_ordinal: 4
-    diet: ''
-    euclid_code: INFD11019
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11019.htm
-    level: 11
-    name: 'Explainable Machine Learning: A Practical Introduction (Distance Learning)'
-    year: 5
