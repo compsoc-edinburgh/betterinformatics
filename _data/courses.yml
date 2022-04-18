@@ -1,12 +1,13 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 14/04/2022 07:30:01
+# Last update: 18/04/2022 07:30:01
 
-last_update: 14/04/2022 07:30:01
+last_update: 18/04/2022 07:30:01
 list:
-  22-adbs:
-    acronym: 22-ADBS
+  adbs:
+    acronym: ADBS
+    course_url: https://course.inf.ed.ac.uk/22-adbs
     credits: 20
     cw_exam_ratio:
     - 50
@@ -19,8 +20,9 @@ list:
     level: 11
     name: Advanced Database Systems
     year: 4
-  22-ads:
-    acronym: 22-ADS
+  ads:
+    acronym: ADS
+    course_url: https://course.inf.ed.ac.uk/22-ads
     credits: 10
     cw_exam_ratio:
     - 25
@@ -33,8 +35,9 @@ list:
     level: 10
     name: Algorithms and Data Structures
     year: 3
-  22-agta:
-    acronym: 22-AGTA
+  agta:
+    acronym: AGTA
+    course_url: https://course.inf.ed.ac.uk/22-agta
     credits: 10
     cw_exam_ratio:
     - 20
@@ -47,8 +50,9 @@ list:
     level: 11
     name: Algorithmic Game Theory and its Applications
     year: 4
-  22-aml:
-    acronym: 22-AML
+  aml:
+    acronym: AML
+    course_url: https://course.inf.ed.ac.uk/22-aml
     credits: 20
     cw_exam_ratio:
     - 30
@@ -61,8 +65,9 @@ list:
     level: 11
     name: Applied Machine Learning
     year: 5
-  22-anlp:
-    acronym: 22-ANLP
+  anlp:
+    acronym: ANLP
+    course_url: https://course.inf.ed.ac.uk/22-anlp
     credits: 20
     cw_exam_ratio:
     - 40
@@ -75,8 +80,9 @@ list:
     level: 11
     name: Accelerated Natural Language Processing
     year: 5
-  22-ar:
-    acronym: 22-AR
+  ar:
+    acronym: AR
+    course_url: https://course.inf.ed.ac.uk/22-ar
     credits: 10
     cw_exam_ratio:
     - 40
@@ -89,8 +95,9 @@ list:
     level: 10
     name: Automated Reasoning
     year: 3
-  22-aro:
-    acronym: 22-ARO
+  aro:
+    acronym: ARO
+    course_url: https://course.inf.ed.ac.uk/22-aro
     credits: 20
     cw_exam_ratio:
     - 50
@@ -103,8 +110,9 @@ list:
     level: 11
     name: Advanced Robotics
     year: 5
-  22-asr:
-    acronym: 22-ASR
+  asr:
+    acronym: ASR
+    course_url: https://course.inf.ed.ac.uk/22-asr
     credits: 10
     cw_exam_ratio:
     - 50
@@ -117,8 +125,9 @@ list:
     level: 11
     name: Automatic Speech Recognition
     year: 4
-  22-bai-gp:
-    acronym: 22-BAI-GP
+  bai-gp:
+    acronym: BAI-GP
+    course_url: https://course.inf.ed.ac.uk/22-bai-gp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -131,8 +140,9 @@ list:
     level: 11
     name: Group Research Project (Biomedical AI)
     year: 5
-  22-bai-icdm:
-    acronym: 22-BAI-ICDM
+  bai-icdm:
+    acronym: BAI-ICDM
+    course_url: https://course.inf.ed.ac.uk/22-bai-icdm
     credits: 10
     cw_exam_ratio:
     - 100
@@ -145,8 +155,9 @@ list:
     level: 11
     name: Issues in Clinical Data Modelling
     year: 5
-  22-bai-ip:
-    acronym: 22-BAI-IP
+  bai-ip:
+    acronym: BAI-IP
+    course_url: https://course.inf.ed.ac.uk/22-bai-ip
     credits: 80
     cw_exam_ratio:
     - 100
@@ -159,8 +170,9 @@ list:
     level: 11
     name: Individual Research Project (Biomedical AI)
     year: 5
-  22-bdl:
-    acronym: 22-BDL
+  bdl:
+    acronym: BDL
+    course_url: https://course.inf.ed.ac.uk/22-bdl
     credits: 10
     cw_exam_ratio:
     - 100
@@ -173,8 +185,9 @@ list:
     level: 11
     name: Blockchains and Distributed Ledgers
     year: 4
-  22-bio1:
-    acronym: 22-BIO1
+  bio1:
+    acronym: BIO1
+    course_url: https://course.inf.ed.ac.uk/22-bio1
     credits: 10
     cw_exam_ratio:
     - 100
@@ -187,8 +200,9 @@ list:
     level: 11
     name: Bioinformatics 1
     year: 4
-  22-card:
-    acronym: 22-CARD
+  card:
+    acronym: CARD
+    course_url: https://course.inf.ed.ac.uk/22-card
     credits: 20
     cw_exam_ratio:
     - 40
@@ -201,8 +215,9 @@ list:
     level: 10
     name: Computer Architecture and Design
     year: 3
-  22-ccn:
-    acronym: 22-CCN
+  ccn:
+    acronym: CCN
+    course_url: https://course.inf.ed.ac.uk/22-ccn
     credits: 10
     cw_exam_ratio:
     - 100
@@ -215,8 +230,9 @@ list:
     level: 11
     name: Computational Cognitive Neuroscience
     year: 5
-  22-ccs:
-    acronym: 22-CCS
+  ccs:
+    acronym: CCS
+    course_url: https://course.inf.ed.ac.uk/22-ccs
     credits: 10
     cw_exam_ratio:
     - 40
@@ -229,8 +245,9 @@ list:
     level: 10
     name: Computational Cognitive Science
     year: 3
-  22-cdi1:
-    acronym: 22-CDI1
+  cdi1:
+    acronym: CDI1
+    course_url: https://course.inf.ed.ac.uk/22-cdi1
     credits: 20
     cw_exam_ratio:
     - 100
@@ -243,8 +260,9 @@ list:
     level: 11
     name: Case Studies in Design Informatics 1
     year: 5
-  22-cdi2:
-    acronym: 22-CDI2
+  cdi2:
+    acronym: CDI2
+    course_url: https://course.inf.ed.ac.uk/22-cdi2
     credits: 20
     cw_exam_ratio:
     - 100
@@ -257,8 +275,9 @@ list:
     level: 11
     name: Case Studies in Design Informatics 2
     year: 5
-  22-cg:
-    acronym: 22-CG
+  cg:
+    acronym: CG
+    course_url: https://course.inf.ed.ac.uk/22-cg
     credits: 10
     cw_exam_ratio:
     - 100
@@ -271,8 +290,9 @@ list:
     level: 11
     name: Computer Graphics
     year: 4
-  22-cic:
-    acronym: 22-CIC
+  cic:
+    acronym: CiC
+    course_url: https://course.inf.ed.ac.uk/22-cic
     credits: 20
     cw_exam_ratio:
     - 100
@@ -285,8 +305,9 @@ list:
     level: 10
     name: Computing in the Classroom
     year: 4
-  22-cns:
-    acronym: 22-CNS
+  cns:
+    acronym: CNS
+    course_url: https://course.inf.ed.ac.uk/22-cns
     credits: 10
     cw_exam_ratio:
     - 25
@@ -299,8 +320,9 @@ list:
     level: 11
     name: Computational Neuroscience
     year: 4
-  22-comn:
-    acronym: 22-COMN
+  comn:
+    acronym: COMN
+    course_url: https://course.inf.ed.ac.uk/22-comn
     credits: 20
     cw_exam_ratio:
     - 100
@@ -313,8 +335,9 @@ list:
     level: 10
     name: Computer Communications and Networks
     year: 3
-  22-cqi:
-    acronym: 22-CQI
+  cqi:
+    acronym: CQI
+    course_url: https://course.inf.ed.ac.uk/22-cqi
     credits: 10
     cw_exam_ratio:
     - 50
@@ -327,8 +350,9 @@ list:
     level: 11
     name: Categories and Quantum Informatics
     year: 5
-  22-cs:
-    acronym: 22-CS
+  cs:
+    acronym: CS
+    course_url: https://course.inf.ed.ac.uk/22-cs
     credits: 20
     cw_exam_ratio:
     - 25
@@ -341,8 +365,9 @@ list:
     level: 10
     name: Computer Security
     year: 3
-  22-csai:
-    acronym: 22-CSAI
+  csai:
+    acronym: CSAI
+    course_url: https://course.inf.ed.ac.uk/22-csai
     credits: 10
     cw_exam_ratio:
     - 40
@@ -355,8 +380,9 @@ list:
     level: 11
     name: Case Studies in AI Ethics (CSAI)
     year: 5
-  22-ct:
-    acronym: 22-CT
+  ct:
+    acronym: CT
+    course_url: https://course.inf.ed.ac.uk/22-ct
     credits: 20
     cw_exam_ratio:
     - 100
@@ -369,8 +395,9 @@ list:
     level: 10
     name: Compiling Techniques
     year: 3
-  22-cv:
-    acronym: 22-CV
+  cv:
+    acronym: CV
+    course_url: https://course.inf.ed.ac.uk/22-cv
     credits: 20
     cw_exam_ratio:
     - 50
@@ -383,8 +410,9 @@ list:
     level: 11
     name: Computer Vision
     year: 4
-  22-dbba:
-    acronym: 22-DBBA
+  dbba:
+    acronym: DBBA
+    course_url: https://course.inf.ed.ac.uk/22-dbba
     credits: 20
     cw_exam_ratio:
     - 50
@@ -397,8 +425,9 @@ list:
     level: 11
     name: Data-driven Business and Behaviour Analytics
     year: 5
-  22-diss:
-    acronym: 22-DISS
+  diss:
+    acronym: DISS
+    course_url: https://course.inf.ed.ac.uk/22-diss
     credits: 60
     cw_exam_ratio:
     - 100
@@ -411,8 +440,9 @@ list:
     level: 11
     name: MSc Dissertation (Informatics)
     year: 5
-  22-diss-dsti-dl:
-    acronym: 22-DISS-DSTI-DL
+  diss-dsti-dl:
+    acronym: DISS-DSTI-DL
+    course_url: https://course.inf.ed.ac.uk/22-diss-dsti-dl
     credits: 60
     cw_exam_ratio:
     - 100
@@ -425,8 +455,9 @@ list:
     level: 11
     name: Data Science, Technology and Innovation Dissertation
     year: 5
-  22-dmp:
-    acronym: 22-DMP
+  dmp:
+    acronym: DMP
+    course_url: https://course.inf.ed.ac.uk/22-dmp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -439,8 +470,9 @@ list:
     level: 8
     name: Discrete Mathematics and Probability
     year: 2
-  22-epl:
-    acronym: 22-EPL
+  epl:
+    acronym: EPL
+    course_url: https://course.inf.ed.ac.uk/22-epl
     credits: 10
     cw_exam_ratio:
     - 25
@@ -453,8 +485,9 @@ list:
     level: 10
     name: Elements of Programming Languages
     year: 3
-  22-exc:
-    acronym: 22-EXC
+  exc:
+    acronym: EXC
+    course_url: https://course.inf.ed.ac.uk/22-exc
     credits: 10
     cw_exam_ratio:
     - 40
@@ -467,8 +500,9 @@ list:
     level: 11
     name: Extreme Computing
     year: 4
-  22-fnlp:
-    acronym: 22-FNLP
+  fnlp:
+    acronym: FNLP
+    course_url: https://course.inf.ed.ac.uk/22-fnlp
     credits: 20
     cw_exam_ratio:
     - 25
@@ -481,8 +515,9 @@ list:
     level: 10
     name: Foundations of Natural Language Processing
     year: 3
-  22-hci:
-    acronym: 22-HCI
+  hci:
+    acronym: HCI
+    course_url: https://course.inf.ed.ac.uk/22-hci
     credits: 10
     cw_exam_ratio:
     - 100
@@ -495,8 +530,9 @@ list:
     level: 11
     name: Human-Computer Interaction
     year: 4
-  22-iaml-dl:
-    acronym: 22-IAML-DL
+  iaml-dl:
+    acronym: IAML-DL
+    course_url: https://course.inf.ed.ac.uk/22-iaml-dl
     credits: 20
     cw_exam_ratio:
     - 30
@@ -509,8 +545,9 @@ list:
     level: 11
     name: Introductory Applied Machine Learning
     year: 5
-  22-idb:
-    acronym: 22-IDB
+  idb:
+    acronym: IDB
+    course_url: https://course.inf.ed.ac.uk/22-idb
     credits: 20
     cw_exam_ratio:
     - 20
@@ -523,8 +560,9 @@ list:
     level: 10
     name: Introduction to Databases
     year: 3
-  22-iel-08:
-    acronym: 22-IEL-08
+  iel-08:
+    acronym: IEL-08
+    course_url: https://course.inf.ed.ac.uk/22-iel-08
     credits: 20
     cw_exam_ratio:
     - 100
@@ -537,8 +575,9 @@ list:
     level: 8
     name: Informatics Experiential Learning
     year: 2
-  22-ilp:
-    acronym: 22-ILP
+  ilp:
+    acronym: ILP
+    course_url: https://course.inf.ed.ac.uk/22-ilp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -551,8 +590,9 @@ list:
     level: 9
     name: Informatics Large Practical
     year: 3
-  22-imc:
-    acronym: 22-IMC
+  imc:
+    acronym: IMC
+    course_url: https://course.inf.ed.ac.uk/22-imc
     credits: 10
     cw_exam_ratio:
     - 30
@@ -565,8 +605,9 @@ list:
     level: 11
     name: Introduction to Modern Cryptography
     year: 4
-  22-inf1-cg:
-    acronym: 22-INF1-CG
+  inf1-cg:
+    acronym: INF1-CG
+    course_url: https://course.inf.ed.ac.uk/22-inf1-cg
     credits: 20
     cw_exam_ratio:
     - 100
@@ -579,8 +620,9 @@ list:
     level: 8
     name: Informatics 1 - Cognitive Science
     year: 1
-  22-inf1a:
-    acronym: 22-INF1A
+  inf1a:
+    acronym: INF1A
+    course_url: https://course.inf.ed.ac.uk/22-inf1a
     credits: 20
     cw_exam_ratio:
     - 100
@@ -593,8 +635,9 @@ list:
     level: 8
     name: Informatics 1 - Introduction to Computation
     year: 1
-  22-inf1b:
-    acronym: 22-INF1B
+  inf1b:
+    acronym: INF1B
+    course_url: https://course.inf.ed.ac.uk/22-inf1b
     credits: 20
     cw_exam_ratio:
     - 100
@@ -607,8 +650,9 @@ list:
     level: 8
     name: Informatics 1 - Object Oriented Programming
     year: 1
-  22-inf2-fds:
-    acronym: 22-INF2-FDS
+  inf2-fds:
+    acronym: INF2-FDS
+    course_url: https://course.inf.ed.ac.uk/22-inf2-fds
     credits: 20
     cw_exam_ratio:
     - 100
@@ -621,8 +665,9 @@ list:
     level: 8
     name: Informatics 2 - Foundations of Data Science
     year: 2
-  22-inf2-iads:
-    acronym: 22-INF2-IADS
+  inf2-iads:
+    acronym: INF2-IADS
+    course_url: https://course.inf.ed.ac.uk/22-inf2-iads
     credits: 20
     cw_exam_ratio:
     - 40
@@ -635,8 +680,9 @@ list:
     level: 8
     name: Informatics 2 - Introduction to Algorithms and Data Structures
     year: 2
-  22-inf2-sepp:
-    acronym: 22-INF2-SEPP
+  inf2-sepp:
+    acronym: INF2-SEPP
+    course_url: https://course.inf.ed.ac.uk/22-inf2-sepp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -649,8 +695,9 @@ list:
     level: 8
     name: Informatics 2 - Software Engineering and Professional Practice
     year: 2
-  22-inf2c-cs:
-    acronym: 22-INF2C-CS
+  inf2c-cs:
+    acronym: INF2C-CS
+    course_url: https://course.inf.ed.ac.uk/22-inf2c-cs
     credits: 20
     cw_exam_ratio:
     - 50
@@ -663,8 +710,9 @@ list:
     level: 8
     name: Informatics 2C - Introduction to Computer Systems
     year: 2
-  22-inf2d:
-    acronym: 22-INF2D
+  inf2d:
+    acronym: INF2D
+    course_url: https://course.inf.ed.ac.uk/22-inf2d
     credits: 20
     cw_exam_ratio:
     - 30
@@ -677,8 +725,9 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
-  22-ipp:
-    acronym: 22-IPP
+  ipp:
+    acronym: IPP
+    course_url: https://course.inf.ed.ac.uk/22-ipp
     credits: 10
     cw_exam_ratio:
     - 100
@@ -691,8 +740,9 @@ list:
     level: 11
     name: Informatics Project Proposal
     year: 5
-  22-ipp-dl:
-    acronym: 22-IPP-DL
+  ipp-dl:
+    acronym: IPP-DL
+    course_url: https://course.inf.ed.ac.uk/22-ipp-dl
     credits: 10
     cw_exam_ratio:
     - 100
@@ -705,8 +755,9 @@ list:
     level: 11
     name: Informatics Project Proposal (Distance Learning)
     year: 5
-  22-ipp-ga:
-    acronym: 22-IPP-GA
+  ipp-ga:
+    acronym: IPP-GA
+    course_url: https://course.inf.ed.ac.uk/22-ipp-ga
     credits: 20
     cw_exam_ratio:
     - 100
@@ -719,8 +770,9 @@ list:
     level: 10
     name: Informatics Project Proposal (Graduate Apprenticeship)
     year: 4
-  22-ippo:
-    acronym: 22-IPPO
+  ippo:
+    acronym: IPPO
+    course_url: https://course.inf.ed.ac.uk/22-ippo
     credits: 10
     cw_exam_ratio:
     - 100
@@ -733,8 +785,9 @@ list:
     level: 11
     name: Introduction to Practical Programming with Objects
     year: 5
-  22-ippo-dl:
-    acronym: 22-IPPO-DL
+  ippo-dl:
+    acronym: IPPO-DL
+    course_url: https://course.inf.ed.ac.uk/22-ippo-dl
     credits: 10
     cw_exam_ratio:
     - 100
@@ -747,8 +800,9 @@ list:
     level: 11
     name: Introduction to Practical Programming with Objects (Distance Learning)
     year: 5
-  22-iqc:
-    acronym: 22-IQC
+  iqc:
+    acronym: IQC
+    course_url: https://course.inf.ed.ac.uk/22-iqc
     credits: 10
     cw_exam_ratio:
     - 25
@@ -761,8 +815,9 @@ list:
     level: 11
     name: Introduction to Quantum Computing
     year: 4
-  22-irr:
-    acronym: 22-IRR
+  irr:
+    acronym: IRR
+    course_url: https://course.inf.ed.ac.uk/22-irr
     credits: 10
     cw_exam_ratio:
     - 100
@@ -775,8 +830,9 @@ list:
     level: 11
     name: Informatics Research Review
     year: 5
-  22-itcs:
-    acronym: 22-ITCS
+  itcs:
+    acronym: ITCS
+    course_url: https://course.inf.ed.ac.uk/22-itcs
     credits: 10
     cw_exam_ratio:
     - 20
@@ -789,8 +845,9 @@ list:
     level: 10
     name: Introduction to Theoretical Computer Science
     year: 3
-  22-mci:
-    acronym: 22-MCI
+  mci:
+    acronym: MCI
+    course_url: https://course.inf.ed.ac.uk/22-mci
     credits: 10
     cw_exam_ratio:
     - 20
@@ -803,8 +860,9 @@ list:
     level: 11
     name: Methods for Causal Inference
     year: 5
-  22-mdi:
-    acronym: 22-MDI
+  mdi:
+    acronym: MDI
+    course_url: https://course.inf.ed.ac.uk/22-mdi
     credits: 60
     cw_exam_ratio:
     - 100
@@ -817,8 +875,9 @@ list:
     level: 11
     name: Masters Dissertation (Design Informatics)
     year: 5
-  22-mip1:
-    acronym: 22-MIP1
+  mip1:
+    acronym: MIP1
+    course_url: https://course.inf.ed.ac.uk/22-mip1
     credits: 40
     cw_exam_ratio:
     - 100
@@ -831,8 +890,9 @@ list:
     level: 10
     name: MInf Project (Part 1)
     year: 4
-  22-mip2:
-    acronym: 22-MIP2
+  mip2:
+    acronym: MIP2
+    course_url: https://course.inf.ed.ac.uk/22-mip2
     credits: 40
     cw_exam_ratio:
     - 100
@@ -845,8 +905,9 @@ list:
     level: 11
     name: MInf Project (Part 2)
     year: 4
-  22-mlg:
-    acronym: 22-MLG
+  mlg:
+    acronym: MLG
+    course_url: https://course.inf.ed.ac.uk/22-mlg
     credits: 20
     cw_exam_ratio:
     - 20
@@ -859,8 +920,9 @@ list:
     level: 10
     name: Machine Learning
     year: 3
-  22-mlp:
-    acronym: 22-MLP
+  mlp:
+    acronym: MLP
+    course_url: https://course.inf.ed.ac.uk/22-mlp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -873,8 +935,9 @@ list:
     level: 11
     name: Machine Learning Practical
     year: 4
-  22-mlpr:
-    acronym: 22-MLPR
+  mlpr:
+    acronym: MLPR
+    course_url: https://course.inf.ed.ac.uk/22-mlpr
     credits: 20
     cw_exam_ratio:
     - 35
@@ -887,8 +950,9 @@ list:
     level: 11
     name: Machine Learning and Pattern Recognition
     year: 4
-  22-mlt:
-    acronym: 22-MLT
+  mlt:
+    acronym: MLT
+    course_url: https://course.inf.ed.ac.uk/22-mlt
     credits: 10
     cw_exam_ratio:
     - 30
@@ -901,8 +965,9 @@ list:
     level: 11
     name: Machine Learning Theory
     year: 4
-  22-mob:
-    acronym: 22-MOB
+  mob:
+    acronym: MOB
+    course_url: https://course.inf.ed.ac.uk/22-mob
     credits: 10
     cw_exam_ratio:
     - 40
@@ -915,8 +980,9 @@ list:
     level: 10
     name: Introduction to Mobile Robotics
     year: 3
-  22-nat-dl:
-    acronym: 22-NAT-DL
+  nat-dl:
+    acronym: NAT-DL
+    course_url: https://course.inf.ed.ac.uk/22-nat-dl
     credits: 10
     cw_exam_ratio:
     - 50
@@ -929,8 +995,9 @@ list:
     level: 11
     name: Natural Computing
     year: 5
-  22-nlp-dr:
-    acronym: 22-NLP-DR
+  nlp-dr:
+    acronym: NLP-DR
+    course_url: https://course.inf.ed.ac.uk/22-nlp-dr
     credits: 20
     cw_exam_ratio:
     - 100
@@ -943,8 +1010,9 @@ list:
     level: 11
     name: Doing Research in Natural Language Processing
     year: 5
-  22-nlp-gp:
-    acronym: 22-NLP-GP
+  nlp-gp:
+    acronym: NLP-GP
+    course_url: https://course.inf.ed.ac.uk/22-nlp-gp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -957,8 +1025,9 @@ list:
     level: 11
     name: Group Project in Advanced Natural Language Processing
     year: 5
-  22-nlp-ip:
-    acronym: 22-NLP-IP
+  nlp-ip:
+    acronym: NLP-IP
+    course_url: https://course.inf.ed.ac.uk/22-nlp-ip
     credits: 40
     cw_exam_ratio:
     - 100
@@ -971,8 +1040,9 @@ list:
     level: 11
     name: Individual Project in Advanced Natural Language Processing
     year: 5
-  22-nlp-ip-80:
-    acronym: 22-NLP-IP-80
+  nlp-ip-80:
+    acronym: NLP-IP-80
+    course_url: https://course.inf.ed.ac.uk/22-nlp-ip-80
     credits: 80
     cw_exam_ratio:
     - 100
@@ -985,8 +1055,9 @@ list:
     level: 11
     name: Individual Project in Advanced Natural Language Processing (80 credits)
     year: 5
-  22-nlu+:
-    acronym: 22-NLU+
+  nlu+:
+    acronym: NLU+
+    course_url: https://course.inf.ed.ac.uk/22-nlu+
     credits: 20
     cw_exam_ratio:
     - 50
@@ -999,8 +1070,9 @@ list:
     level: 11
     name: Natural Language Understanding, Generation, and Machine Translation
     year: 4
-  22-os:
-    acronym: 22-OS
+  os:
+    acronym: OS
+    course_url: https://course.inf.ed.ac.uk/22-os
     credits: 20
     cw_exam_ratio:
     - 50
@@ -1013,8 +1085,9 @@ list:
     level: 10
     name: Operating Systems
     year: 3
-  22-pdiot:
-    acronym: 22-PDIOT
+  pdiot:
+    acronym: PDIoT
+    course_url: https://course.inf.ed.ac.uk/22-pdiot
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1027,8 +1100,9 @@ list:
     level: 11
     name: Principles and Design of IoT Systems
     year: 4
-  22-pi:
-    acronym: 22-PI
+  pi:
+    acronym: PI
+    course_url: https://course.inf.ed.ac.uk/22-pi
     credits: 10
     cw_exam_ratio:
     - 100
@@ -1041,8 +1115,9 @@ list:
     level: 10
     name: Professional Issues
     year: 3
-  22-pmr:
-    acronym: 22-PMR
+  pmr:
+    acronym: PMR
+    course_url: https://course.inf.ed.ac.uk/22-pmr
     credits: 20
     cw_exam_ratio:
     - 25
@@ -1055,8 +1130,9 @@ list:
     level: 11
     name: Probabilistic Modelling and Reasoning
     year: 5
-  22-ppls:
-    acronym: 22-PPLS
+  ppls:
+    acronym: PPLS
+    course_url: https://course.inf.ed.ac.uk/22-ppls
     credits: 10
     cw_exam_ratio:
     - 20
@@ -1069,8 +1145,9 @@ list:
     level: 11
     name: Parallel Programming Languages and Systems
     year: 4
-  22-proj:
-    acronym: 22-PROJ
+  proj:
+    acronym: PROJ
+    course_url: https://course.inf.ed.ac.uk/22-proj
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1083,8 +1160,9 @@ list:
     level: 10
     name: Honours Project (Informatics)
     year: 4
-  22-proj-ga:
-    acronym: 22-PROJ-GA
+  proj-ga:
+    acronym: PROJ-GA
+    course_url: https://course.inf.ed.ac.uk/22-proj-ga
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1097,8 +1175,9 @@ list:
     level: 10
     name: Honours Project (Data Science Graduate Apprenticeship)
     year: 4
-  22-qcs:
-    acronym: 22-QCS
+  qcs:
+    acronym: QCS
+    course_url: https://course.inf.ed.ac.uk/22-qcs
     credits: 10
     cw_exam_ratio:
     - 25
@@ -1111,8 +1190,9 @@ list:
     level: 11
     name: Quantum Cyber Security
     year: 4
-  22-ra:
-    acronym: 22-RA
+  ra:
+    acronym: RA
+    course_url: https://course.inf.ed.ac.uk/22-ra
     credits: 10
     cw_exam_ratio:
     - 20
@@ -1125,8 +1205,9 @@ list:
     level: 11
     name: Randomized Algorithms
     year: 4
-  22-rl:
-    acronym: 22-RL
+  rl:
+    acronym: RL
+    course_url: https://course.inf.ed.ac.uk/22-rl
     credits: 10
     cw_exam_ratio:
     - 50
@@ -1139,8 +1220,9 @@ list:
     level: 11
     name: Reinforcement Learning
     year: 5
-  22-scm:
-    acronym: 22-SCM
+  scm:
+    acronym: SCM
+    course_url: https://course.inf.ed.ac.uk/22-scm
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1153,8 +1235,9 @@ list:
     level: 11
     name: Seminar in Cognitive Modelling
     year: 5
-  22-sdm:
-    acronym: 22-SDM
+  sdm:
+    acronym: SDM
+    course_url: https://course.inf.ed.ac.uk/22-sdm
     credits: 20
     cw_exam_ratio:
     - 50
@@ -1167,8 +1250,9 @@ list:
     level: 10
     name: Software Design and Modelling
     year: 3
-  22-sdp:
-    acronym: 22-SDP
+  sdp:
+    acronym: SDP
+    course_url: https://course.inf.ed.ac.uk/22-sdp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1181,8 +1265,9 @@ list:
     level: 9
     name: System Design Project
     year: 3
-  22-seng:
-    acronym: 22-SENG
+  seng:
+    acronym: SEng
+    course_url: https://course.inf.ed.ac.uk/22-seng
     credits: 10
     cw_exam_ratio:
     - 30
@@ -1195,8 +1280,9 @@ list:
     level: 11
     name: Security Engineering
     year: 4
-  22-sp:
-    acronym: 22-SP
+  sp:
+    acronym: SP
+    course_url: https://course.inf.ed.ac.uk/22-sp
     credits: 10
     cw_exam_ratio:
     - 30
@@ -1209,8 +1295,9 @@ list:
     level: 11
     name: Secure Programming
     year: 4
-  22-spt:
-    acronym: 22-SPT
+  spt:
+    acronym: SPT
+    course_url: https://course.inf.ed.ac.uk/22-spt
     credits: 20
     cw_exam_ratio:
     - 55
@@ -1223,8 +1310,9 @@ list:
     level: 11
     name: Research Methods in Security, Privacy, and Trust
     year: 5
-  22-thf:
-    acronym: 22-THF
+  thf:
+    acronym: THF
+    course_url: https://course.inf.ed.ac.uk/22-thf
     credits: 10
     cw_exam_ratio:
     - 33
@@ -1237,8 +1325,9 @@ list:
     level: 11
     name: 'The Human Factor: Working with Users'
     year: 5
-  22-tspl:
-    acronym: 22-TSPL
+  tspl:
+    acronym: TSPL
+    course_url: https://course.inf.ed.ac.uk/22-tspl
     credits: 10
     cw_exam_ratio:
     - 50
@@ -1251,8 +1340,9 @@ list:
     level: 11
     name: Types and Semantics for Programming Languages
     year: 4
-  22-ttds:
-    acronym: 22-TTDS
+  ttds:
+    acronym: TTDS
+    course_url: https://course.inf.ed.ac.uk/22-ttds
     credits: 20
     cw_exam_ratio:
     - 70
@@ -1265,8 +1355,9 @@ list:
     level: 11
     name: Text Technologies for Data Science
     year: 4
-  22-wbppa:
-    acronym: 22-WBPPA
+  wbppa:
+    acronym: WBPPA
+    course_url: https://course.inf.ed.ac.uk/22-wbppa
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1279,8 +1370,9 @@ list:
     level: 9
     name: Work-Based Professional Practice A in Data Analytics
     year: 3
-  22-wbppb:
-    acronym: 22-WBPPB
+  wbppb:
+    acronym: WBPPB
+    course_url: https://course.inf.ed.ac.uk/22-wbppb
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1293,8 +1385,9 @@ list:
     level: 10
     name: Work-Based Professional Practice B in Data Analytics
     year: 3
-  22-wbppc:
-    acronym: 22-WBPPC
+  wbppc:
+    acronym: WBPPC
+    course_url: https://course.inf.ed.ac.uk/22-wbppc
     credits: 20
     cw_exam_ratio:
     - 100
