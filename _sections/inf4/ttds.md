@@ -4,6 +4,8 @@ title: TTDS - Text Technologies in Data Science
 course-acronym: ttds
 ---
 
+*Called Text Technologies (TTS) until 2015*
+
 [Crowdsourced solutions](https://betterinformatics.com/drive?next=0B2AAOQQZ_8BxY0tQYl9HVklhdlU)
 
 There are some "hidden" [formulas](https://betterinformatics.com/drive?next=0B2AAOQQZ_8BxZkppTFM0U2ZnakE) about LSH error probabilities in the lectures.
@@ -14,7 +16,6 @@ There are some "hidden" [formulas](https://betterinformatics.com/drive?next=0B2A
 
 <small>
 <code>*</code> means that this has ALL THREE OPTIONAL QUESTIONS<br>
-<code>†</code> means that the course is TTS and not TTDS (very old course!)
 </small>
 
 | Exam             | Question 1       | Question 2             | Question 3               |
