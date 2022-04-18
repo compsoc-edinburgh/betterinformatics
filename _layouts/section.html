@@ -22,7 +22,7 @@
                 <a href="{{ section.link }}">
             {% elsif section.course-acronym != "" %}
                 {% if section.learn %}
-                    <a href="{{ course.course_url }}">
+                    <a href="https://course.inf.ed.ac.uk/{{ section.course-acronym }}">
                 {% else %}
                     <a href="https://www.inf.ed.ac.uk/teaching/courses/{{ section.course-acronym }}/">
                 {% endif %}
