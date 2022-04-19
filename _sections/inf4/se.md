@@ -1,7 +1,7 @@
 ---
 year: 4
 title: Security Engineering
-course-acronym: se
+course-acronym: seng
 archived: false
 ---
 
