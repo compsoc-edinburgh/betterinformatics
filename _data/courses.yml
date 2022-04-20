@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 19/04/2022 07:30:01
+# Last update: 20/04/2022 07:30:01
 
-last_update: 19/04/2022 07:30:01
+last_update: 20/04/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -710,6 +710,21 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
+  infr10057:
+    acronym: INFR10057
+    course_url: https://course.inf.ed.ac.uk/22-infr10057
+    credits: 10
+    cw_exam_ratio:
+    - 55
+    - 45
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR10057
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10057.htm
+    level: 10
+    name: Software Testing
+    year: 3
   ipp:
     acronym: IPP
     course_url: https://course.inf.ed.ac.uk/22-ipp
@@ -830,6 +845,36 @@ list:
     level: 10
     name: Introduction to Theoretical Computer Science
     year: 3
+  ivc:
+    acronym: IVC
+    course_url: https://course.inf.ed.ac.uk/22-ivc
+    credits: 10
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: INFR11140
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11140.htm
+    level: 11
+    name: Image and Vision Computing
+    year: 5
+  ivc-dl:
+    acronym: IVC-DL
+    course_url: https://course.inf.ed.ac.uk/22-ivc-dl
+    credits: 10
+    cw_exam_ratio:
+    - 30
+    - 70
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR11155
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11155.htm
+    level: 11
+    name: Image and Vision Computing (Distance Learning)
+    year: 5
   mci:
     acronym: MCI
     course_url: https://course.inf.ed.ac.uk/22-mci
