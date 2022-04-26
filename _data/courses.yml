@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 22/04/2022 07:30:01
+# Last update: 26/04/2022 12:28:06
 
-last_update: 22/04/2022 07:30:01
+last_update: 26/04/2022 12:28:06
 list:
   adbs:
     acronym: ADBS
@@ -55,8 +55,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/22-aml
     credits: 20
     cw_exam_ratio:
-    - 30
-    - 70
+    - 40
+    - 60
     delivery: S1
     delivery_ordinal: 1
     diet: ''
@@ -282,8 +282,8 @@ list:
     cw_exam_ratio:
     - 100
     - 0
-    delivery: S1
-    delivery_ordinal: 1
+    delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR11021
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11021.htm
@@ -710,21 +710,6 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
-  infr10057:
-    acronym: INFR10057
-    course_url: https://course.inf.ed.ac.uk/22-infr10057
-    credits: 10
-    cw_exam_ratio:
-    - 55
-    - 45
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR10057
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10057.htm
-    level: 10
-    name: Software Testing
-    year: 3
   infr11205:
     acronym: INFR11205
     course_url: https://course.inf.ed.ac.uk/22-infr11205
@@ -875,6 +860,21 @@ list:
     level: 11
     name: Image and Vision Computing
     year: 5
+  ivc-dl:
+    acronym: IVC-DL
+    course_url: https://course.inf.ed.ac.uk/22-ivc-dl
+    credits: 10
+    cw_exam_ratio:
+    - 30
+    - 70
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR11155
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11155.htm
+    level: 11
+    name: Image and Vision Computing (Distance Learning)
+    year: 5
   mci:
     acronym: MCI
     course_url: https://course.inf.ed.ac.uk/22-mci
@@ -1010,6 +1010,21 @@ list:
     level: 10
     name: Introduction to Mobile Robotics
     year: 3
+  nat:
+    acronym: NAT
+    course_url: https://course.inf.ed.ac.uk/22-nat
+    credits: 10
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: INFR11161
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11161.htm
+    level: 11
+    name: Natural Computing
+    year: 4
   nat-dl:
     acronym: NAT-DL
     course_url: https://course.inf.ed.ac.uk/22-nat-dl
@@ -1019,11 +1034,11 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: December; December
+    diet: December
     euclid_code: INFD11007
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfd11007.htm
     level: 11
-    name: Natural Computing
+    name: Natural Computing (Distance Learning)
     year: 5
   nlp-dr:
     acronym: NLP-DR
@@ -1340,6 +1355,21 @@ list:
     level: 11
     name: Research Methods in Security, Privacy, and Trust
     year: 5
+  st:
+    acronym: ST
+    course_url: https://course.inf.ed.ac.uk/22-st
+    credits: 10
+    cw_exam_ratio:
+    - 55
+    - 45
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR10057
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10057.htm
+    level: 10
+    name: Software Testing
+    year: 3
   thf:
     acronym: THF
     course_url: https://course.inf.ed.ac.uk/22-thf
