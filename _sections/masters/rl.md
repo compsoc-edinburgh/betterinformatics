@@ -4,7 +4,7 @@ title: RL
 course-acronym: rl
 ---
 
-RL Algorithm Map - Which algorithm should you choose?: [Photo](https://drive.google.com/file/d/1DkTTA8XJuIInPHCAimmiNymKt7rJoM2z/view?usp=sharing), [DrawIO](https://drive.google.com/file/d/1pGjoXh13EMnLG_JrbOLagoHI_d2Zpa43/view?usp=sharing)
+RL Algorithm Map - Which algorithm should you choose? [Photo](https://drive.google.com/file/d/1DkTTA8XJuIInPHCAimmiNymKt7rJoM2z/view?usp=sharing), [DrawIO](https://drive.google.com/file/d/1pGjoXh13EMnLG_JrbOLagoHI_d2Zpa43/view?usp=sharing)
 
 
 Exam papers:
