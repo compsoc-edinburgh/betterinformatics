@@ -4,23 +4,46 @@ layout: page
 title: "Shared Drive"
 ---
 
-<p>Better Informatics' CoSign (DICE login) server is down right now, which means we unfortunately can't automatically verify your student status and add you to our Shared Drive like we can usually.</p>
+<div id="only-show-if-trying-to-access-item">
+    <h3>Redirecting...</h3>
+    <p>
+        Due to exam season peak, we now allow read-only public nonrestricted access to items in the BetterInformatics drive. <br>
+        <a href="https://drive.google.com/open?id=" id="temp-drive-link">
+            Click here if you are not redirected automatically.
+        </a>
+    </p>
+</div>
+<div id="only-show-if-trying-to-access-root-folder" style="display:none">
+    
+    <p>
+        Due to high exam season, we have made each subfolder within the drive available publicly as read-only,
+        so if you are looking for existing resources, <b>you can temporarily access all links on BetterInformatics.com
+        without becoming a member</b>.
+    </p>
+    <p>
+        If you want to access the root folder, or collaborate your own additions to the Shared Drive, you will need
+        to become a member of the drive. Usually, we can do this automatically but our CoSign (DICE login) server
+        is down right now, which means we need to manually process your membership requests.
+    </p>
+    <p>
+        Once you are a member, please <a href="https://drive.google.com/open?id=0AIKEqWfeWuQQUk9PVA">
+            click here to access the Shared Drive
+        </a>.
+    </p>
 
-<ul>
-    <li><a href="https://drive.google.com/open?id=" id="temp-drive-link">
-        If you're already a member of the Drive, click here to directly visit the link.
-    </a></li>
-    <li>
-        If you are not already a member of the Better Informatics Shared Drive,
-        email <a href="mailto:admin@betterinformatics.com">admin@betterinformatics.com</a> and ask for access. Make sure you:
+    <ul>
+        <li>
+            If you want collaborator (read/write) access to BetterInformatics' Team Drive, please email
+            <a href="mailto:admin@betterinformatics.com">admin@betterinformatics.com</a> and ask for access. Make sure you:
 
-        <ol>
-            <li>write "Better Informatics is down: please manually add me to Google Drive" as your subject,</li>
-            <li>send the email from your university email address, so we know you are a student, and</li>
-            <li>include the email address of your Google account, so that you actually get access to the Drive.</li>
-        </ol>
-    </li>
-</ul>
+            <ol>
+                <li>write "Better Informatics: please add me as a contributor to Google Drive" as your subject,</li>
+                <li>send the email from your university email address, so we know you are a student, and</li>
+                <li>include the email address of your Google account, so that you actually get access to the Drive.</li>
+            </ol>
+        </li>
+    </ul>
+</div>
 
 <script>
 (() => {
@@ -28,5 +51,15 @@ title: "Shared Drive"
     const urlParams = new URLSearchParams(window.location.search);
     const next = urlParams.get('next') || '0AIKEqWfeWuQQUk9PVA';
     a.href += `${next}`;
+    
+    if (next === '0AIKEqWfeWuQQUk9PVA') {
+        // they are trying to access the root folder.
+        document.getElementById('only-show-if-trying-to-access-root-folder').style.display = 'block';
+        document.getElementById('only-show-if-trying-to-access-item').style.display = 'none';
+    } else {
+        setTimeout(() => {
+            a.click();
+        }, 4000);
+    }
 })()
 </script>
