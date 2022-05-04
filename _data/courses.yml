@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 27/04/2022 07:30:01
+# Last update: 04/05/2022 07:30:01
 
-last_update: 27/04/2022 07:30:01
+last_update: 04/05/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -724,6 +724,21 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11205.htm
     level: 11
     name: Introductory Applied Machine Learning (Semester 2)
+    year: 5
+  infr11216:
+    acronym: INFR11216
+    course_url: https://course.inf.ed.ac.uk/22-infr11216
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR11216
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11216.htm
+    level: 11
+    name: Research Methods in Financial Computing
     year: 5
   ipp:
     acronym: IPP
