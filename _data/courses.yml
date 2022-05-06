@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 05/05/2022 07:30:01
+# Last update: 06/05/2022 07:30:01
 
-last_update: 05/05/2022 07:30:01
+last_update: 06/05/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -70,8 +70,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/22-anlp
     credits: 20
     cw_exam_ratio:
-    - 40
-    - 60
+    - 30
+    - 70
     delivery: S1
     delivery_ordinal: 1
     diet: December
@@ -340,8 +340,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/22-cqi
     credits: 10
     cw_exam_ratio:
-    - 50
-    - 50
+    - 30
+    - 70
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
@@ -1105,8 +1105,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/22-nlu+
     credits: 20
     cw_exam_ratio:
-    - 50
-    - 50
+    - 40
+    - 60
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
