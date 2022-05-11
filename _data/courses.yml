@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 09/05/2022 07:30:01
+# Last update: 11/05/2022 07:30:01
 
-last_update: 09/05/2022 07:30:01
+last_update: 11/05/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -1375,11 +1375,11 @@ list:
     course_url: https://course.inf.ed.ac.uk/22-st
     credits: 10
     cw_exam_ratio:
-    - 55
-    - 45
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
     euclid_code: INFR10057
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10057.htm
     level: 10
