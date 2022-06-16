@@ -1,13 +1,13 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 19/05/2022 07:30:01
+# Last update: 16/06/2022 07:30:01
 
-last_update: 19/05/2022 07:30:01
+last_update: 16/06/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
-    course_url: https://course.inf.ed.ac.uk/22-adbs
+    course_url: https://course.inf.ed.ac.uk/adbs
     credits: 20
     cw_exam_ratio:
     - 50
@@ -22,7 +22,7 @@ list:
     year: 4
   ads:
     acronym: ADS
-    course_url: https://course.inf.ed.ac.uk/22-ads
+    course_url: https://course.inf.ed.ac.uk/ads
     credits: 10
     cw_exam_ratio:
     - 25
@@ -37,7 +37,7 @@ list:
     year: 3
   agta:
     acronym: AGTA
-    course_url: https://course.inf.ed.ac.uk/22-agta
+    course_url: https://course.inf.ed.ac.uk/agta
     credits: 10
     cw_exam_ratio:
     - 20
@@ -52,7 +52,7 @@ list:
     year: 4
   aml:
     acronym: AML
-    course_url: https://course.inf.ed.ac.uk/22-aml
+    course_url: https://course.inf.ed.ac.uk/aml
     credits: 20
     cw_exam_ratio:
     - 40
@@ -67,7 +67,7 @@ list:
     year: 5
   anlp:
     acronym: ANLP
-    course_url: https://course.inf.ed.ac.uk/22-anlp
+    course_url: https://course.inf.ed.ac.uk/anlp
     credits: 20
     cw_exam_ratio:
     - 30
@@ -82,7 +82,7 @@ list:
     year: 5
   ar:
     acronym: AR
-    course_url: https://course.inf.ed.ac.uk/22-ar
+    course_url: https://course.inf.ed.ac.uk/ar
     credits: 10
     cw_exam_ratio:
     - 40
@@ -97,7 +97,7 @@ list:
     year: 3
   aro:
     acronym: ARO
-    course_url: https://course.inf.ed.ac.uk/22-aro
+    course_url: https://course.inf.ed.ac.uk/aro
     credits: 20
     cw_exam_ratio:
     - 50
@@ -112,7 +112,7 @@ list:
     year: 4
   asr:
     acronym: ASR
-    course_url: https://course.inf.ed.ac.uk/22-asr
+    course_url: https://course.inf.ed.ac.uk/asr
     credits: 10
     cw_exam_ratio:
     - 50
@@ -127,7 +127,7 @@ list:
     year: 4
   bai-gp:
     acronym: BAI-GP
-    course_url: https://course.inf.ed.ac.uk/22-bai-gp
+    course_url: https://course.inf.ed.ac.uk/bai-gp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -142,7 +142,7 @@ list:
     year: 5
   bai-icdm:
     acronym: BAI-ICDM
-    course_url: https://course.inf.ed.ac.uk/22-bai-icdm
+    course_url: https://course.inf.ed.ac.uk/bai-icdm
     credits: 10
     cw_exam_ratio:
     - 100
@@ -157,7 +157,7 @@ list:
     year: 5
   bai-ip:
     acronym: BAI-IP
-    course_url: https://course.inf.ed.ac.uk/22-bai-ip
+    course_url: https://course.inf.ed.ac.uk/bai-ip
     credits: 80
     cw_exam_ratio:
     - 100
@@ -172,7 +172,7 @@ list:
     year: 5
   bdl:
     acronym: BDL
-    course_url: https://course.inf.ed.ac.uk/22-bdl
+    course_url: https://course.inf.ed.ac.uk/bdl
     credits: 10
     cw_exam_ratio:
     - 100
@@ -187,7 +187,7 @@ list:
     year: 4
   bio1:
     acronym: BIO1
-    course_url: https://course.inf.ed.ac.uk/22-bio1
+    course_url: https://course.inf.ed.ac.uk/bio1
     credits: 10
     cw_exam_ratio:
     - 100
@@ -202,7 +202,7 @@ list:
     year: 4
   card:
     acronym: CARD
-    course_url: https://course.inf.ed.ac.uk/22-card
+    course_url: https://course.inf.ed.ac.uk/card
     credits: 20
     cw_exam_ratio:
     - 40
@@ -217,7 +217,7 @@ list:
     year: 3
   ccn:
     acronym: CCN
-    course_url: https://course.inf.ed.ac.uk/22-ccn
+    course_url: https://course.inf.ed.ac.uk/ccn
     credits: 10
     cw_exam_ratio:
     - 100
@@ -232,7 +232,7 @@ list:
     year: 5
   ccs:
     acronym: CCS
-    course_url: https://course.inf.ed.ac.uk/22-ccs
+    course_url: https://course.inf.ed.ac.uk/ccs
     credits: 10
     cw_exam_ratio:
     - 40
@@ -247,7 +247,7 @@ list:
     year: 3
   cdi1:
     acronym: CDI1
-    course_url: https://course.inf.ed.ac.uk/22-cdi1
+    course_url: https://course.inf.ed.ac.uk/cdi1
     credits: 20
     cw_exam_ratio:
     - 100
@@ -262,7 +262,7 @@ list:
     year: 5
   cdi2:
     acronym: CDI2
-    course_url: https://course.inf.ed.ac.uk/22-cdi2
+    course_url: https://course.inf.ed.ac.uk/cdi2
     credits: 20
     cw_exam_ratio:
     - 100
@@ -277,7 +277,7 @@ list:
     year: 5
   cg:
     acronym: CG
-    course_url: https://course.inf.ed.ac.uk/22-cg
+    course_url: https://course.inf.ed.ac.uk/cg
     credits: 10
     cw_exam_ratio:
     - 100
@@ -292,7 +292,7 @@ list:
     year: 4
   cic:
     acronym: CiC
-    course_url: https://course.inf.ed.ac.uk/22-cic
+    course_url: https://course.inf.ed.ac.uk/cic
     credits: 20
     cw_exam_ratio:
     - 100
@@ -307,7 +307,7 @@ list:
     year: 4
   cns:
     acronym: CNS
-    course_url: https://course.inf.ed.ac.uk/22-cns
+    course_url: https://course.inf.ed.ac.uk/cns
     credits: 10
     cw_exam_ratio:
     - 25
@@ -322,7 +322,7 @@ list:
     year: 4
   comn:
     acronym: COMN
-    course_url: https://course.inf.ed.ac.uk/22-comn
+    course_url: https://course.inf.ed.ac.uk/comn
     credits: 20
     cw_exam_ratio:
     - 100
@@ -337,7 +337,7 @@ list:
     year: 3
   cqi:
     acronym: CQI
-    course_url: https://course.inf.ed.ac.uk/22-cqi
+    course_url: https://course.inf.ed.ac.uk/cqi
     credits: 10
     cw_exam_ratio:
     - 30
@@ -352,7 +352,7 @@ list:
     year: 5
   cs:
     acronym: CS
-    course_url: https://course.inf.ed.ac.uk/22-cs
+    course_url: https://course.inf.ed.ac.uk/cs
     credits: 20
     cw_exam_ratio:
     - 25
@@ -367,7 +367,7 @@ list:
     year: 3
   csai:
     acronym: CSAI
-    course_url: https://course.inf.ed.ac.uk/22-csai
+    course_url: https://course.inf.ed.ac.uk/csai
     credits: 10
     cw_exam_ratio:
     - 40
@@ -382,7 +382,7 @@ list:
     year: 5
   ct:
     acronym: CT
-    course_url: https://course.inf.ed.ac.uk/22-ct
+    course_url: https://course.inf.ed.ac.uk/ct
     credits: 20
     cw_exam_ratio:
     - 100
@@ -397,7 +397,7 @@ list:
     year: 3
   dbba:
     acronym: DBBA
-    course_url: https://course.inf.ed.ac.uk/22-dbba
+    course_url: https://course.inf.ed.ac.uk/dbba
     credits: 20
     cw_exam_ratio:
     - 50
@@ -412,7 +412,7 @@ list:
     year: 5
   diss:
     acronym: DISS
-    course_url: https://course.inf.ed.ac.uk/22-diss
+    course_url: https://course.inf.ed.ac.uk/diss
     credits: 60
     cw_exam_ratio:
     - 100
@@ -427,7 +427,7 @@ list:
     year: 5
   diss-dsti-dl:
     acronym: DISS-DSTI-DL
-    course_url: https://course.inf.ed.ac.uk/22-diss-dsti-dl
+    course_url: https://course.inf.ed.ac.uk/diss-dsti-dl
     credits: 60
     cw_exam_ratio:
     - 100
@@ -442,7 +442,7 @@ list:
     year: 5
   dmp:
     acronym: DMP
-    course_url: https://course.inf.ed.ac.uk/22-dmp
+    course_url: https://course.inf.ed.ac.uk/dmp
     credits: 20
     cw_exam_ratio:
     - 60
@@ -457,7 +457,7 @@ list:
     year: 2
   epl:
     acronym: EPL
-    course_url: https://course.inf.ed.ac.uk/22-epl
+    course_url: https://course.inf.ed.ac.uk/epl
     credits: 10
     cw_exam_ratio:
     - 25
@@ -472,7 +472,7 @@ list:
     year: 3
   exc:
     acronym: EXC
-    course_url: https://course.inf.ed.ac.uk/22-exc
+    course_url: https://course.inf.ed.ac.uk/exc
     credits: 10
     cw_exam_ratio:
     - 40
@@ -487,7 +487,7 @@ list:
     year: 4
   fnlp:
     acronym: FNLP
-    course_url: https://course.inf.ed.ac.uk/22-fnlp
+    course_url: https://course.inf.ed.ac.uk/fnlp
     credits: 20
     cw_exam_ratio:
     - 25
@@ -502,7 +502,7 @@ list:
     year: 3
   hci:
     acronym: HCI
-    course_url: https://course.inf.ed.ac.uk/22-hci
+    course_url: https://course.inf.ed.ac.uk/hci
     credits: 10
     cw_exam_ratio:
     - 100
@@ -517,7 +517,7 @@ list:
     year: 4
   iaml-dl:
     acronym: IAML-DL
-    course_url: https://course.inf.ed.ac.uk/22-iaml-dl
+    course_url: https://course.inf.ed.ac.uk/iaml-dl
     credits: 20
     cw_exam_ratio:
     - 30
@@ -532,7 +532,7 @@ list:
     year: 5
   iaml-pg2:
     acronym: IAML-PG2
-    course_url: https://course.inf.ed.ac.uk/22-iaml-pg2
+    course_url: https://course.inf.ed.ac.uk/iaml-pg2
     credits: 20
     cw_exam_ratio:
     - 30
@@ -547,7 +547,7 @@ list:
     year: 5
   idb:
     acronym: IDB
-    course_url: https://course.inf.ed.ac.uk/22-idb
+    course_url: https://course.inf.ed.ac.uk/idb
     credits: 20
     cw_exam_ratio:
     - 20
@@ -562,7 +562,7 @@ list:
     year: 3
   iel-08:
     acronym: IEL-08
-    course_url: https://course.inf.ed.ac.uk/22-iel-08
+    course_url: https://course.inf.ed.ac.uk/iel-08
     credits: 20
     cw_exam_ratio:
     - 100
@@ -577,7 +577,7 @@ list:
     year: 2
   ilp:
     acronym: ILP
-    course_url: https://course.inf.ed.ac.uk/22-ilp
+    course_url: https://course.inf.ed.ac.uk/ilp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -592,7 +592,7 @@ list:
     year: 3
   imc:
     acronym: IMC
-    course_url: https://course.inf.ed.ac.uk/22-imc
+    course_url: https://course.inf.ed.ac.uk/imc
     credits: 10
     cw_exam_ratio:
     - 30
@@ -607,7 +607,7 @@ list:
     year: 4
   inf1-cg:
     acronym: INF1-CG
-    course_url: https://course.inf.ed.ac.uk/22-inf1-cg
+    course_url: https://course.inf.ed.ac.uk/inf1-cg
     credits: 20
     cw_exam_ratio:
     - 100
@@ -622,7 +622,7 @@ list:
     year: 1
   inf1a:
     acronym: INF1A
-    course_url: https://course.inf.ed.ac.uk/22-inf1a
+    course_url: https://course.inf.ed.ac.uk/inf1a
     credits: 20
     cw_exam_ratio:
     - 100
@@ -637,7 +637,7 @@ list:
     year: 1
   inf1b:
     acronym: INF1B
-    course_url: https://course.inf.ed.ac.uk/22-inf1b
+    course_url: https://course.inf.ed.ac.uk/inf1b
     credits: 20
     cw_exam_ratio:
     - 100
@@ -652,7 +652,7 @@ list:
     year: 1
   inf2-fds:
     acronym: INF2-FDS
-    course_url: https://course.inf.ed.ac.uk/22-inf2-fds
+    course_url: https://course.inf.ed.ac.uk/inf2-fds
     credits: 20
     cw_exam_ratio:
     - 100
@@ -667,7 +667,7 @@ list:
     year: 2
   inf2-iads:
     acronym: INF2-IADS
-    course_url: https://course.inf.ed.ac.uk/22-inf2-iads
+    course_url: https://course.inf.ed.ac.uk/inf2-iads
     credits: 20
     cw_exam_ratio:
     - 40
@@ -682,7 +682,7 @@ list:
     year: 2
   inf2-sepp:
     acronym: INF2-SEPP
-    course_url: https://course.inf.ed.ac.uk/22-inf2-sepp
+    course_url: https://course.inf.ed.ac.uk/inf2-sepp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -697,7 +697,7 @@ list:
     year: 2
   inf2c-cs:
     acronym: INF2C-CS
-    course_url: https://course.inf.ed.ac.uk/22-inf2c-cs
+    course_url: https://course.inf.ed.ac.uk/inf2c-cs
     credits: 20
     cw_exam_ratio:
     - 50
@@ -712,7 +712,7 @@ list:
     year: 2
   inf2d:
     acronym: INF2D
-    course_url: https://course.inf.ed.ac.uk/22-inf2d
+    course_url: https://course.inf.ed.ac.uk/inf2d
     credits: 20
     cw_exam_ratio:
     - 30
@@ -727,7 +727,7 @@ list:
     year: 2
   ipp:
     acronym: IPP
-    course_url: https://course.inf.ed.ac.uk/22-ipp
+    course_url: https://course.inf.ed.ac.uk/ipp
     credits: 10
     cw_exam_ratio:
     - 100
@@ -742,7 +742,7 @@ list:
     year: 5
   ipp-dl:
     acronym: IPP-DL
-    course_url: https://course.inf.ed.ac.uk/22-ipp-dl
+    course_url: https://course.inf.ed.ac.uk/ipp-dl
     credits: 10
     cw_exam_ratio:
     - 100
@@ -757,7 +757,7 @@ list:
     year: 5
   ipp-ga:
     acronym: IPP-GA
-    course_url: https://course.inf.ed.ac.uk/22-ipp-ga
+    course_url: https://course.inf.ed.ac.uk/ipp-ga
     credits: 20
     cw_exam_ratio:
     - 100
@@ -772,7 +772,7 @@ list:
     year: 4
   ippo:
     acronym: IPPO
-    course_url: https://course.inf.ed.ac.uk/22-ippo
+    course_url: https://course.inf.ed.ac.uk/ippo
     credits: 10
     cw_exam_ratio:
     - 100
@@ -787,7 +787,7 @@ list:
     year: 5
   ippo-dl:
     acronym: IPPO-DL
-    course_url: https://course.inf.ed.ac.uk/22-ippo-dl
+    course_url: https://course.inf.ed.ac.uk/ippo-dl
     credits: 10
     cw_exam_ratio:
     - 100
@@ -802,7 +802,7 @@ list:
     year: 5
   iqc:
     acronym: IQC
-    course_url: https://course.inf.ed.ac.uk/22-iqc
+    course_url: https://course.inf.ed.ac.uk/iqc
     credits: 10
     cw_exam_ratio:
     - 25
@@ -817,7 +817,7 @@ list:
     year: 4
   irr:
     acronym: IRR
-    course_url: https://course.inf.ed.ac.uk/22-irr
+    course_url: https://course.inf.ed.ac.uk/irr
     credits: 10
     cw_exam_ratio:
     - 100
@@ -832,7 +832,7 @@ list:
     year: 5
   itcs:
     acronym: ITCS
-    course_url: https://course.inf.ed.ac.uk/22-itcs
+    course_url: https://course.inf.ed.ac.uk/itcs
     credits: 10
     cw_exam_ratio:
     - 20
@@ -847,7 +847,7 @@ list:
     year: 3
   ivc:
     acronym: IVC
-    course_url: https://course.inf.ed.ac.uk/22-ivc
+    course_url: https://course.inf.ed.ac.uk/ivc
     credits: 10
     cw_exam_ratio:
     - 50
@@ -862,7 +862,7 @@ list:
     year: 5
   ivc-dl:
     acronym: IVC-DL
-    course_url: https://course.inf.ed.ac.uk/22-ivc-dl
+    course_url: https://course.inf.ed.ac.uk/ivc-dl
     credits: 10
     cw_exam_ratio:
     - 30
@@ -877,7 +877,7 @@ list:
     year: 5
   mci:
     acronym: MCI
-    course_url: https://course.inf.ed.ac.uk/22-mci
+    course_url: https://course.inf.ed.ac.uk/mci
     credits: 10
     cw_exam_ratio:
     - 20
@@ -892,7 +892,7 @@ list:
     year: 5
   mdi:
     acronym: MDI
-    course_url: https://course.inf.ed.ac.uk/22-mdi
+    course_url: https://course.inf.ed.ac.uk/mdi
     credits: 60
     cw_exam_ratio:
     - 100
@@ -907,7 +907,7 @@ list:
     year: 5
   mip1:
     acronym: MIP1
-    course_url: https://course.inf.ed.ac.uk/22-mip1
+    course_url: https://course.inf.ed.ac.uk/mip1
     credits: 40
     cw_exam_ratio:
     - 100
@@ -922,7 +922,7 @@ list:
     year: 4
   mip2:
     acronym: MIP2
-    course_url: https://course.inf.ed.ac.uk/22-mip2
+    course_url: https://course.inf.ed.ac.uk/mip2
     credits: 40
     cw_exam_ratio:
     - 100
@@ -937,7 +937,7 @@ list:
     year: 4
   mlg:
     acronym: MLG
-    course_url: https://course.inf.ed.ac.uk/22-mlg
+    course_url: https://course.inf.ed.ac.uk/mlg
     credits: 20
     cw_exam_ratio:
     - 20
@@ -952,7 +952,7 @@ list:
     year: 3
   mlp:
     acronym: MLP
-    course_url: https://course.inf.ed.ac.uk/22-mlp
+    course_url: https://course.inf.ed.ac.uk/mlp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -967,7 +967,7 @@ list:
     year: 4
   mlpr:
     acronym: MLPR
-    course_url: https://course.inf.ed.ac.uk/22-mlpr
+    course_url: https://course.inf.ed.ac.uk/mlpr
     credits: 20
     cw_exam_ratio:
     - 35
@@ -982,7 +982,7 @@ list:
     year: 4
   mlt:
     acronym: MLT
-    course_url: https://course.inf.ed.ac.uk/22-mlt
+    course_url: https://course.inf.ed.ac.uk/mlt
     credits: 10
     cw_exam_ratio:
     - 30
@@ -997,7 +997,7 @@ list:
     year: 4
   mob:
     acronym: MOB
-    course_url: https://course.inf.ed.ac.uk/22-mob
+    course_url: https://course.inf.ed.ac.uk/mob
     credits: 10
     cw_exam_ratio:
     - 40
@@ -1012,7 +1012,7 @@ list:
     year: 3
   nat:
     acronym: NAT
-    course_url: https://course.inf.ed.ac.uk/22-nat
+    course_url: https://course.inf.ed.ac.uk/nat
     credits: 10
     cw_exam_ratio:
     - 50
@@ -1027,7 +1027,7 @@ list:
     year: 4
   nat-dl:
     acronym: NAT-DL
-    course_url: https://course.inf.ed.ac.uk/22-nat-dl
+    course_url: https://course.inf.ed.ac.uk/nat-dl
     credits: 10
     cw_exam_ratio:
     - 50
@@ -1042,7 +1042,7 @@ list:
     year: 5
   nlp-dr:
     acronym: NLP-DR
-    course_url: https://course.inf.ed.ac.uk/22-nlp-dr
+    course_url: https://course.inf.ed.ac.uk/nlp-dr
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1057,7 +1057,7 @@ list:
     year: 5
   nlp-gp:
     acronym: NLP-GP
-    course_url: https://course.inf.ed.ac.uk/22-nlp-gp
+    course_url: https://course.inf.ed.ac.uk/nlp-gp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1072,7 +1072,7 @@ list:
     year: 5
   nlp-ip:
     acronym: NLP-IP
-    course_url: https://course.inf.ed.ac.uk/22-nlp-ip
+    course_url: https://course.inf.ed.ac.uk/nlp-ip
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1087,7 +1087,7 @@ list:
     year: 5
   nlp-ip-80:
     acronym: NLP-IP-80
-    course_url: https://course.inf.ed.ac.uk/22-nlp-ip-80
+    course_url: https://course.inf.ed.ac.uk/nlp-ip-80
     credits: 80
     cw_exam_ratio:
     - 100
@@ -1102,7 +1102,7 @@ list:
     year: 5
   nlu+:
     acronym: NLU+
-    course_url: https://course.inf.ed.ac.uk/22-nlu+
+    course_url: https://course.inf.ed.ac.uk/nlu+
     credits: 20
     cw_exam_ratio:
     - 40
@@ -1117,7 +1117,7 @@ list:
     year: 4
   os:
     acronym: OS
-    course_url: https://course.inf.ed.ac.uk/22-os
+    course_url: https://course.inf.ed.ac.uk/os
     credits: 20
     cw_exam_ratio:
     - 50
@@ -1132,7 +1132,7 @@ list:
     year: 3
   pdiot:
     acronym: PDIoT
-    course_url: https://course.inf.ed.ac.uk/22-pdiot
+    course_url: https://course.inf.ed.ac.uk/pdiot
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1147,7 +1147,7 @@ list:
     year: 4
   pi:
     acronym: PI
-    course_url: https://course.inf.ed.ac.uk/22-pi
+    course_url: https://course.inf.ed.ac.uk/pi
     credits: 10
     cw_exam_ratio:
     - 100
@@ -1162,7 +1162,7 @@ list:
     year: 3
   pmr:
     acronym: PMR
-    course_url: https://course.inf.ed.ac.uk/22-pmr
+    course_url: https://course.inf.ed.ac.uk/pmr
     credits: 20
     cw_exam_ratio:
     - 25
@@ -1177,7 +1177,7 @@ list:
     year: 5
   ppls:
     acronym: PPLS
-    course_url: https://course.inf.ed.ac.uk/22-ppls
+    course_url: https://course.inf.ed.ac.uk/ppls
     credits: 10
     cw_exam_ratio:
     - 20
@@ -1192,7 +1192,7 @@ list:
     year: 4
   proj:
     acronym: PROJ
-    course_url: https://course.inf.ed.ac.uk/22-proj
+    course_url: https://course.inf.ed.ac.uk/proj
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1207,7 +1207,7 @@ list:
     year: 4
   proj-ga:
     acronym: PROJ-GA
-    course_url: https://course.inf.ed.ac.uk/22-proj-ga
+    course_url: https://course.inf.ed.ac.uk/proj-ga
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1222,7 +1222,7 @@ list:
     year: 4
   qcs:
     acronym: QCS
-    course_url: https://course.inf.ed.ac.uk/22-qcs
+    course_url: https://course.inf.ed.ac.uk/qcs
     credits: 10
     cw_exam_ratio:
     - 25
@@ -1237,7 +1237,7 @@ list:
     year: 4
   ra:
     acronym: RA
-    course_url: https://course.inf.ed.ac.uk/22-ra
+    course_url: https://course.inf.ed.ac.uk/ra
     credits: 10
     cw_exam_ratio:
     - 20
@@ -1252,7 +1252,7 @@ list:
     year: 4
   rl:
     acronym: RL
-    course_url: https://course.inf.ed.ac.uk/22-rl
+    course_url: https://course.inf.ed.ac.uk/rl
     credits: 10
     cw_exam_ratio:
     - 50
@@ -1267,7 +1267,7 @@ list:
     year: 5
   rmfc:
     acronym: RMFC
-    course_url: https://course.inf.ed.ac.uk/22-rmfc
+    course_url: https://course.inf.ed.ac.uk/rmfc
     credits: 10
     cw_exam_ratio:
     - 100
@@ -1282,7 +1282,7 @@ list:
     year: 5
   scm:
     acronym: SCM
-    course_url: https://course.inf.ed.ac.uk/22-scm
+    course_url: https://course.inf.ed.ac.uk/scm
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1297,7 +1297,7 @@ list:
     year: 5
   sdm:
     acronym: SDM
-    course_url: https://course.inf.ed.ac.uk/22-sdm
+    course_url: https://course.inf.ed.ac.uk/sdm
     credits: 20
     cw_exam_ratio:
     - 50
@@ -1312,7 +1312,7 @@ list:
     year: 3
   sdp:
     acronym: SDP
-    course_url: https://course.inf.ed.ac.uk/22-sdp
+    course_url: https://course.inf.ed.ac.uk/sdp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1327,7 +1327,7 @@ list:
     year: 3
   seng:
     acronym: SEng
-    course_url: https://course.inf.ed.ac.uk/22-seng
+    course_url: https://course.inf.ed.ac.uk/seng
     credits: 10
     cw_exam_ratio:
     - 30
@@ -1342,7 +1342,7 @@ list:
     year: 4
   sp:
     acronym: SP
-    course_url: https://course.inf.ed.ac.uk/22-sp
+    course_url: https://course.inf.ed.ac.uk/sp
     credits: 10
     cw_exam_ratio:
     - 30
@@ -1357,7 +1357,7 @@ list:
     year: 4
   spt:
     acronym: SPT
-    course_url: https://course.inf.ed.ac.uk/22-spt
+    course_url: https://course.inf.ed.ac.uk/spt
     credits: 20
     cw_exam_ratio:
     - 55
@@ -1372,7 +1372,7 @@ list:
     year: 5
   st:
     acronym: ST
-    course_url: https://course.inf.ed.ac.uk/22-st
+    course_url: https://course.inf.ed.ac.uk/st
     credits: 10
     cw_exam_ratio:
     - 100
@@ -1387,7 +1387,7 @@ list:
     year: 3
   thf:
     acronym: THF
-    course_url: https://course.inf.ed.ac.uk/22-thf
+    course_url: https://course.inf.ed.ac.uk/thf
     credits: 10
     cw_exam_ratio:
     - 33
@@ -1402,7 +1402,7 @@ list:
     year: 5
   tspl:
     acronym: TSPL
-    course_url: https://course.inf.ed.ac.uk/22-tspl
+    course_url: https://course.inf.ed.ac.uk/tspl
     credits: 10
     cw_exam_ratio:
     - 50
@@ -1417,7 +1417,7 @@ list:
     year: 4
   ttds:
     acronym: TTDS
-    course_url: https://course.inf.ed.ac.uk/22-ttds
+    course_url: https://course.inf.ed.ac.uk/ttds
     credits: 20
     cw_exam_ratio:
     - 70
@@ -1432,7 +1432,7 @@ list:
     year: 4
   wbppa:
     acronym: WBPPA
-    course_url: https://course.inf.ed.ac.uk/22-wbppa
+    course_url: https://course.inf.ed.ac.uk/wbppa
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1447,7 +1447,7 @@ list:
     year: 3
   wbppb:
     acronym: WBPPB
-    course_url: https://course.inf.ed.ac.uk/22-wbppb
+    course_url: https://course.inf.ed.ac.uk/wbppb
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1462,7 +1462,7 @@ list:
     year: 3
   wbppc:
     acronym: WBPPC
-    course_url: https://course.inf.ed.ac.uk/22-wbppc
+    course_url: https://course.inf.ed.ac.uk/wbppc
     credits: 20
     cw_exam_ratio:
     - 100
