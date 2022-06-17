@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 16/06/2022 07:30:01
+# Last update: 17/06/2022 07:30:01
 
-last_update: 16/06/2022 07:30:01
+last_update: 17/06/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -970,8 +970,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/mlpr
     credits: 20
     cw_exam_ratio:
-    - 35
-    - 65
+    - 25
+    - 75
     delivery: S1
     delivery_ordinal: 1
     diet: December; December
