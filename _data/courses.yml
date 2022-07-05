@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 17/06/2022 07:30:01
+# Last update: 05/07/2022 07:30:01
 
-last_update: 17/06/2022 07:30:01
+last_update: 05/07/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -575,6 +575,19 @@ list:
     level: 8
     name: Informatics Experiential Learning
     year: 2
+  iel-10:
+    acronym: IEL-10
+    course_url: https://course.inf.ed.ac.uk/iel-10
+    credits: 20
+    cw_exam_ratio: null
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: INFR10084
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10084.htm
+    level: 10
+    name: Informatics Experiential Learning (Level 10)
+    year: 3
   ilp:
     acronym: ILP
     course_url: https://course.inf.ed.ac.uk/ilp
