@@ -31,4 +31,4 @@ Formatting your thesis for binding:
 
 If you have done a two-part MInf, it is preferable to have both parts of your MInf in the same book. The best way to do this is to duplicate one of your parts and copy the Introduction to your Conclusion of the other one into it. You will most likely need to fix a bunch of errors with bibliography entries needing to be copied over or adding `\usepackage` statements. Then you can add `\part{Title of Part 1}` and `\part{Title of Part 2}` before each respective part so that the table of contents is formatted properly. You will then need to think of a new title for the project as a whole for the `\title{}` and merge the abstracts and acknowledgement sections. 
  - For two-part MInf, override the submityear with the years that you did the project in infthesis.cls like so `\gdef\@submityear{2020 -- 2022}`
- - 
+
