@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 05/07/2022 07:30:01
+# Last update: 06/07/2022 07:30:01
 
-last_update: 05/07/2022 07:30:01
+last_update: 06/07/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -1442,6 +1442,21 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11145.htm
     level: 11
     name: Text Technologies for Data Science
+    year: 4
+  usec:
+    acronym: USec
+    course_url: https://course.inf.ed.ac.uk/usec
+    credits: 10
+    cw_exam_ratio:
+    - 20
+    - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR11158
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11158.htm
+    level: 11
+    name: Usable Security and Privacy
     year: 4
   wbppa:
     acronym: WBPPA
