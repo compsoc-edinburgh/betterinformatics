@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 19/07/2022 07:30:01
+# Last update: 21/07/2022 07:30:01
 
-last_update: 19/07/2022 07:30:01
+last_update: 21/07/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -490,8 +490,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/exc
     credits: 10
     cw_exam_ratio:
-    - 40
-    - 60
+    - 0
+    - 100
     delivery: S1
     delivery_ordinal: 1
     diet: December; December
@@ -740,6 +740,96 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
+  infr11217:
+    acronym: INFR11217
+    course_url: https://course.inf.ed.ac.uk/infr11217
+    credits: 20
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR11217
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11217.htm
+    level: 11
+    name: Advanced Database Systems (UG)
+    year: 4
+  infr11218:
+    acronym: INFR11218
+    course_url: https://course.inf.ed.ac.uk/infr11218
+    credits: 10
+    cw_exam_ratio:
+    - 20
+    - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR11218
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11218.htm
+    level: 11
+    name: Algorithmic Game Theory and its Applications (UG)
+    year: 4
+  infr11219:
+    acronym: INFR11219
+    course_url: https://course.inf.ed.ac.uk/infr11219
+    credits: 10
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR11219
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11219.htm
+    level: 11
+    name: Automatic Speech Recognition (UG)
+    year: 4
+  infr11220:
+    acronym: INFR11220
+    course_url: https://course.inf.ed.ac.uk/infr11220
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR11220
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11220.htm
+    level: 11
+    name: Computer Graphics (UG)
+    year: 4
+  infr11221:
+    acronym: INFR11221
+    course_url: https://course.inf.ed.ac.uk/infr11221
+    credits: 10
+    cw_exam_ratio:
+    - 30
+    - 70
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR11221
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11221.htm
+    level: 11
+    name: Introduction to Modern Cryptography (UG)
+    year: 4
+  infr11222:
+    acronym: INFR11222
+    course_url: https://course.inf.ed.ac.uk/infr11222
+    credits: 10
+    cw_exam_ratio:
+    - 25
+    - 75
+    delivery: S1
+    delivery_ordinal: 1
+    diet: April/May
+    euclid_code: INFR11222
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11222.htm
+    level: 11
+    name: Introduction to Quantum Computing (UG)
+    year: 4
   ipp:
     acronym: IPP
     course_url: https://course.inf.ed.ac.uk/ipp
