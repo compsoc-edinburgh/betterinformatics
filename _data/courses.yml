@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 22/07/2022 07:30:01
+# Last update: 26/07/2022 07:30:01
 
-last_update: 22/07/2022 07:30:01
+last_update: 26/07/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -949,6 +949,81 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11230.htm
     level: 11
     name: Usable Security and Privacy (UG)
+    year: 4
+  infr11231:
+    acronym: INFR11231
+    course_url: https://course.inf.ed.ac.uk/infr11231
+    credits: 10
+    cw_exam_ratio:
+    - 40
+    - 60
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR11231
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11231.htm
+    level: 11
+    name: Case Studies in AI Ethics (CSAI) (UG)
+    year: 5
+  infr11232:
+    acronym: INFR11232
+    course_url: https://course.inf.ed.ac.uk/infr11232
+    credits: 10
+    cw_exam_ratio:
+    - 30
+    - 70
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR11232
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11232.htm
+    level: 11
+    name: Categories and Quantum Informatics (UG)
+    year: 5
+  infr11233:
+    acronym: INFR11233
+    course_url: https://course.inf.ed.ac.uk/infr11233
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR11233
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11233.htm
+    level: 11
+    name: Computational Cognitive Neuroscience (UG)
+    year: 5
+  infr11234:
+    acronym: INFR11234
+    course_url: https://course.inf.ed.ac.uk/infr11234
+    credits: 10
+    cw_exam_ratio:
+    - 20
+    - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR11234
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11234.htm
+    level: 11
+    name: Methods for Causal Inference (UG)
+    year: 5
+  infr11235:
+    acronym: INFR11235
+    course_url: https://course.inf.ed.ac.uk/infr11235
+    credits: 20
+    cw_exam_ratio:
+    - 25
+    - 75
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFR11235
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11235.htm
+    level: 11
+    name: Probabilistic Modelling and Reasoning (UG)
     year: 4
   ipp:
     acronym: IPP
