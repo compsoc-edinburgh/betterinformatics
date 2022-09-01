@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 22/08/2022 07:30:01
+# Last update: 01/09/2022 07:30:01
 
-last_update: 22/08/2022 07:30:01
+last_update: 01/09/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -239,7 +239,7 @@ list:
     - 60
     delivery: S1
     delivery_ordinal: 1
-    diet: April/May; April/May
+    diet: April/May
     euclid_code: INFR10054
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10054.htm
     level: 10
@@ -387,8 +387,8 @@ list:
     cw_exam_ratio:
     - 100
     - 0
-    delivery: S1
-    delivery_ordinal: 1
+    delivery: S2
+    delivery_ordinal: 2
     diet: ''
     euclid_code: INFR10065
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10065.htm
@@ -455,21 +455,6 @@ list:
     level: 8
     name: Discrete Mathematics and Probability
     year: 2
-  epcc11001:
-    acronym: EPCC11001
-    course_url: https://course.inf.ed.ac.uk/epcc11001
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: EPCC11001
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxepcc11001.htm
-    level: 11
-    name: Practical Software Development
-    year: 5
   epl:
     acronym: EPL
     course_url: https://course.inf.ed.ac.uk/epl
@@ -479,7 +464,7 @@ list:
     - 75
     delivery: S1
     delivery_ordinal: 1
-    diet: April/May; April/May
+    diet: April/May
     euclid_code: INFR10061
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10061.htm
     level: 10
@@ -494,7 +479,7 @@ list:
     - 100
     delivery: S1
     delivery_ordinal: 1
-    diet: December; December
+    diet: December
     euclid_code: INFR11088
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11088.htm
     level: 11
@@ -590,6 +575,19 @@ list:
     level: 8
     name: Informatics Experiential Learning
     year: 2
+  iel-10:
+    acronym: IEL-10
+    course_url: https://course.inf.ed.ac.uk/iel-10
+    credits: 20
+    cw_exam_ratio: null
+    delivery: FLEX
+    delivery_ordinal: 4
+    diet: ''
+    euclid_code: INFR10084
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10084.htm
+    level: 10
+    name: Informatics Experiential Learning (Level 10)
+    year: 3
   ilp:
     acronym: ILP
     course_url: https://course.inf.ed.ac.uk/ilp
@@ -740,351 +738,6 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
-  infr11217:
-    acronym: INFR11217
-    course_url: https://course.inf.ed.ac.uk/infr11217
-    credits: 20
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11217
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11217.htm
-    level: 11
-    name: Advanced Database Systems (UG)
-    year: 4
-  infr11218:
-    acronym: INFR11218
-    course_url: https://course.inf.ed.ac.uk/infr11218
-    credits: 10
-    cw_exam_ratio:
-    - 20
-    - 80
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11218
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11218.htm
-    level: 11
-    name: Algorithmic Game Theory and its Applications (UG)
-    year: 4
-  infr11219:
-    acronym: INFR11219
-    course_url: https://course.inf.ed.ac.uk/infr11219
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11219
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11219.htm
-    level: 11
-    name: Automatic Speech Recognition (UG)
-    year: 4
-  infr11220:
-    acronym: INFR11220
-    course_url: https://course.inf.ed.ac.uk/infr11220
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11220
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11220.htm
-    level: 11
-    name: Computer Graphics (UG)
-    year: 4
-  infr11221:
-    acronym: INFR11221
-    course_url: https://course.inf.ed.ac.uk/infr11221
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11221
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11221.htm
-    level: 11
-    name: Introduction to Modern Cryptography (UG)
-    year: 4
-  infr11222:
-    acronym: INFR11222
-    course_url: https://course.inf.ed.ac.uk/infr11222
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: April/May
-    euclid_code: INFR11222
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11222.htm
-    level: 11
-    name: Introduction to Quantum Computing (UG)
-    year: 4
-  infr11223:
-    acronym: INFR11223
-    course_url: https://course.inf.ed.ac.uk/infr11223
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR11223
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11223.htm
-    level: 11
-    name: Machine Learning Practical (UG)
-    year: 4
-  infr11224:
-    acronym: INFR11224
-    course_url: https://course.inf.ed.ac.uk/infr11224
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11224
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11224.htm
-    level: 11
-    name: Machine Learning Theory (UG)
-    year: 4
-  infr11225:
-    acronym: INFR11225
-    course_url: https://course.inf.ed.ac.uk/infr11225
-    credits: 20
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11225
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11225.htm
-    level: 11
-    name: Natural Language Understanding, Generation, and Machine Translation (UG)
-    year: 4
-  infr11226:
-    acronym: INFR11226
-    course_url: https://course.inf.ed.ac.uk/infr11226
-    credits: 10
-    cw_exam_ratio:
-    - 20
-    - 80
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11226
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11226.htm
-    level: 11
-    name: Parallel Programming Languages and Systems (UG)
-    year: 4
-  infr11227:
-    acronym: INFR11227
-    course_url: https://course.inf.ed.ac.uk/infr11227
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11227
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11227.htm
-    level: 11
-    name: Quantum Cyber Security (UG)
-    year: 4
-  infr11228:
-    acronym: INFR11228
-    course_url: https://course.inf.ed.ac.uk/infr11228
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11228
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11228.htm
-    level: 11
-    name: Security Engineering (UG)
-    year: 4
-  infr11229:
-    acronym: INFR11229
-    course_url: https://course.inf.ed.ac.uk/infr11229
-    credits: 20
-    cw_exam_ratio:
-    - 70
-    - 30
-    delivery: YR
-    delivery_ordinal: 3
-    diet: April/May
-    euclid_code: INFR11229
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11229.htm
-    level: 11
-    name: Text Technologies for Data Science (UG)
-    year: 4
-  infr11230:
-    acronym: INFR11230
-    course_url: https://course.inf.ed.ac.uk/infr11230
-    credits: 10
-    cw_exam_ratio:
-    - 20
-    - 80
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11230
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11230.htm
-    level: 11
-    name: Usable Security and Privacy (UG)
-    year: 4
-  infr11231:
-    acronym: INFR11231
-    course_url: https://course.inf.ed.ac.uk/infr11231
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11231
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11231.htm
-    level: 11
-    name: Case Studies in AI Ethics (CSAI) (UG)
-    year: 5
-  infr11232:
-    acronym: INFR11232
-    course_url: https://course.inf.ed.ac.uk/infr11232
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11232
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11232.htm
-    level: 11
-    name: Categories and Quantum Informatics (UG)
-    year: 5
-  infr11233:
-    acronym: INFR11233
-    course_url: https://course.inf.ed.ac.uk/infr11233
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11233
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11233.htm
-    level: 11
-    name: Computational Cognitive Neuroscience (UG)
-    year: 5
-  infr11234:
-    acronym: INFR11234
-    course_url: https://course.inf.ed.ac.uk/infr11234
-    credits: 10
-    cw_exam_ratio:
-    - 20
-    - 80
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11234
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11234.htm
-    level: 11
-    name: Methods for Causal Inference (UG)
-    year: 5
-  infr11235:
-    acronym: INFR11235
-    course_url: https://course.inf.ed.ac.uk/infr11235
-    credits: 20
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11235
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11235.htm
-    level: 11
-    name: Probabilistic Modelling and Reasoning (UG)
-    year: 4
-  infr11236:
-    acronym: INFR11236
-    course_url: https://course.inf.ed.ac.uk/infr11236
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11236
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11236.htm
-    level: 11
-    name: Reinforcement Learning (UG)
-    year: 5
-  infr11237:
-    acronym: INFR11237
-    course_url: https://course.inf.ed.ac.uk/infr11237
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR11237
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11237.htm
-    level: 11
-    name: Seminar in Cognitive Modelling (UG)
-    year: 5
-  infr11238:
-    acronym: INFR11238
-    course_url: https://course.inf.ed.ac.uk/infr11238
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11238
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11238.htm
-    level: 11
-    name: Blockchains and Distributed Ledgers (UG)
-    year: 4
-  infr11239:
-    acronym: INFR11239
-    course_url: https://course.inf.ed.ac.uk/infr11239
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11239
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11239.htm
-    level: 11
-    name: Principles and Design of IoT Systems (UG)
-    year: 4
   ipp:
     acronym: IPP
     course_url: https://course.inf.ed.ac.uk/ipp
@@ -1169,7 +822,7 @@ list:
     - 75
     delivery: S1
     delivery_ordinal: 1
-    diet: April/May; April/May
+    diet: April/May
     euclid_code: INFR11099
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11099.htm
     level: 11
@@ -1219,21 +872,6 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11140.htm
     level: 11
     name: Image and Vision Computing
-    year: 5
-  ivc-dl:
-    acronym: IVC-DL
-    course_url: https://course.inf.ed.ac.uk/ivc-dl
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11155
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11155.htm
-    level: 11
-    name: Image and Vision Computing (Distance Learning)
     year: 5
   mci:
     acronym: MCI
@@ -1334,7 +972,7 @@ list:
     - 75
     delivery: S1
     delivery_ordinal: 1
-    diet: December; December
+    diet: December
     euclid_code: INFR11130
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11130.htm
     level: 11
@@ -1754,7 +1392,7 @@ list:
     - 50
     delivery: S1
     delivery_ordinal: 1
-    diet: December; December
+    diet: December
     euclid_code: INFR11114
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11114.htm
     level: 11
@@ -1769,14 +1407,14 @@ list:
     - 30
     delivery: YR
     delivery_ordinal: 3
-    diet: April/May; April/May
+    diet: April/May
     euclid_code: INFR11145
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11145.htm
     level: 11
     name: Text Technologies for Data Science
     year: 4
   usec:
-    acronym: USEC
+    acronym: USec
     course_url: https://course.inf.ed.ac.uk/usec
     credits: 10
     cw_exam_ratio:
