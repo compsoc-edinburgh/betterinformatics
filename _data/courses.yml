@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 12/09/2022 07:30:01
+# Last update: 04/10/2022 07:30:01
 
-last_update: 12/09/2022 07:30:01
+last_update: 04/10/2022 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -838,8 +838,8 @@ list:
     delivery: S1
     delivery_ordinal: 1
     diet: April/May
-    euclid_code: INFR11099
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11099.htm
+    euclid_code: INFR11222
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11222.htm
     level: 11
     name: Introduction to Quantum Computing
     year: 4
@@ -898,8 +898,8 @@ list:
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
-    euclid_code: INFR11207
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11207.htm
+    euclid_code: INFR11234
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11234.htm
     level: 11
     name: Methods for Causal Inference
     year: 5
@@ -973,8 +973,8 @@ list:
     delivery: YR
     delivery_ordinal: 3
     diet: ''
-    euclid_code: INFR11132
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11132.htm
+    euclid_code: INFR11223
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11223.htm
     level: 11
     name: Machine Learning Practical
     year: 4
@@ -1003,8 +1003,8 @@ list:
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
-    euclid_code: INFR11202
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11202.htm
+    euclid_code: INFR11224
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11224.htm
     level: 11
     name: Machine Learning Theory
     year: 4
@@ -1123,8 +1123,8 @@ list:
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
-    euclid_code: INFR11157
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11157.htm
+    euclid_code: INFR11225
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11225.htm
     level: 11
     name: Natural Language Understanding, Generation, and Machine Translation
     year: 4
@@ -1144,7 +1144,7 @@ list:
     name: Operating Systems
     year: 3
   pdiot:
-    acronym: PDIoT
+    acronym: PDIOT
     course_url: https://course.inf.ed.ac.uk/pdiot
     credits: 20
     cw_exam_ratio:
@@ -1153,8 +1153,8 @@ list:
     delivery: S1
     delivery_ordinal: 1
     diet: ''
-    euclid_code: INFR11150
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11150.htm
+    euclid_code: INFR11239
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11239.htm
     level: 11
     name: Principles and Design of IoT Systems
     year: 4
@@ -1183,11 +1183,11 @@ list:
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
-    euclid_code: INFR11134
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11134.htm
+    euclid_code: INFR11235
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11235.htm
     level: 11
     name: Probabilistic Modelling and Reasoning
-    year: 5
+    year: 4
   ppls:
     acronym: PPLS
     course_url: https://course.inf.ed.ac.uk/ppls
@@ -1198,8 +1198,8 @@ list:
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
-    euclid_code: INFR11023
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11023.htm
+    euclid_code: INFR11226
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11226.htm
     level: 11
     name: Parallel Programming Languages and Systems
     year: 4
@@ -1243,8 +1243,8 @@ list:
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
-    euclid_code: INFR11187
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11187.htm
+    euclid_code: INFR11227
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11227.htm
     level: 11
     name: Quantum Cyber Security
     year: 4
@@ -1273,8 +1273,8 @@ list:
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
-    euclid_code: INFR11010
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11010.htm
+    euclid_code: INFR11236
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11236.htm
     level: 11
     name: Reinforcement Learning
     year: 5
@@ -1303,8 +1303,8 @@ list:
     delivery: YR
     delivery_ordinal: 3
     diet: ''
-    euclid_code: INFR11210
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11210.htm
+    euclid_code: INFR11237
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11237.htm
     level: 11
     name: Seminar in Cognitive Modelling
     year: 5
@@ -1339,7 +1339,7 @@ list:
     name: System Design Project
     year: 3
   seng:
-    acronym: SEng
+    acronym: SENG
     course_url: https://course.inf.ed.ac.uk/seng
     credits: 10
     cw_exam_ratio:
@@ -1348,8 +1348,8 @@ list:
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
-    euclid_code: INFR11208
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11208.htm
+    euclid_code: INFR11228
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11228.htm
     level: 11
     name: Security Engineering
     year: 4
@@ -1423,13 +1423,13 @@ list:
     delivery: YR
     delivery_ordinal: 3
     diet: April/May
-    euclid_code: INFR11145
-    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11145.htm
+    euclid_code: INFR11229
+    euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11229.htm
     level: 11
     name: Text Technologies for Data Science
     year: 4
   usec:
-    acronym: USec
+    acronym: USEC
     course_url: https://course.inf.ed.ac.uk/usec
     credits: 10
     cw_exam_ratio:
