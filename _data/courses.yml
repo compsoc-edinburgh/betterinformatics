@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 09/02/2023 07:30:01
+# Last update: 16/02/2023 07:30:01
 
-last_update: 09/02/2023 07:30:01
+last_update: 16/02/2023 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -942,7 +942,7 @@ list:
     - 80
     delivery: S1
     delivery_ordinal: 1
-    diet: December
+    diet: April/May
     euclid_code: INFR10086
     euclid_url: http://www.drps.ed.ac.uk/22-23/dpt/cxinfr10086.htm
     level: 10
