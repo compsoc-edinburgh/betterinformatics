@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 09/03/2023 07:30:01
+# Last update: 10/03/2023 07:30:01
 
-last_update: 09/03/2023 07:30:01
+last_update: 10/03/2023 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -170,6 +170,21 @@ list:
     level: 11
     name: Blockchains and Distributed Ledgers
     year: 4
+  bio1:
+    acronym: BIO1
+    course_url: https://course.inf.ed.ac.uk/23-bio1
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR11160
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11160.htm
+    level: 11
+    name: Bioinformatics 1
+    year: 4
   card:
     acronym: CARD
     course_url: https://course.inf.ed.ac.uk/23-card
@@ -200,6 +215,21 @@ list:
     level: 10
     name: Computational Cognitive Science
     year: 3
+  cdi1:
+    acronym: CDI1
+    course_url: https://course.inf.ed.ac.uk/23-cdi1
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR11094
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11094.htm
+    level: 11
+    name: Case Studies in Design Informatics 1
+    year: 5
   cdi2:
     acronym: CDI2
     course_url: https://course.inf.ed.ac.uk/23-cdi2
@@ -275,6 +305,21 @@ list:
     level: 11
     name: Case Studies in AI Ethics (CSAI)
     year: 5
+  csec-10:
+    acronym: CSEC-10
+    course_url: https://course.inf.ed.ac.uk/23-csec-10
+    credits: 20
+    cw_exam_ratio:
+    - 25
+    - 75
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR10067
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10067.htm
+    level: 10
+    name: Computer Security
+    year: 3
   ct:
     acronym: CT
     course_url: https://course.inf.ed.ac.uk/23-ct
@@ -304,6 +349,21 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11198.htm
     level: 11
     name: Data-driven Business and Behaviour Analytics
+    year: 5
+  diss-dsti-dl:
+    acronym: DISS-DSTI-DL
+    course_url: https://course.inf.ed.ac.uk/23-diss-dsti-dl
+    credits: 60
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: FLEX
+    delivery_ordinal: 4
+    diet: ''
+    euclid_code: INFD11003
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfd11003.htm
+    level: 11
+    name: Data Science, Technology and Innovation Dissertation
     year: 5
   dmp:
     acronym: DMP
@@ -468,6 +528,36 @@ list:
     level: 9
     name: Informatics Large Practical
     year: 3
+  inf1-cg:
+    acronym: INF1-CG
+    course_url: https://course.inf.ed.ac.uk/23-inf1-cg
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR08020
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr08020.htm
+    level: 8
+    name: Informatics 1 - Cognitive Science
+    year: 1
+  inf1a:
+    acronym: INF1A
+    course_url: https://course.inf.ed.ac.uk/23-inf1a
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR08025
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr08025.htm
+    level: 8
+    name: Informatics 1 - Introduction to Computation
+    year: 1
   inf1b:
     acronym: INF1B
     course_url: https://course.inf.ed.ac.uk/23-inf1b
@@ -483,6 +573,21 @@ list:
     level: 8
     name: Informatics 1 - Object Oriented Programming
     year: 1
+  inf2-fds:
+    acronym: INF2-FDS
+    course_url: https://course.inf.ed.ac.uk/23-inf2-fds
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: INFR08030
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr08030.htm
+    level: 8
+    name: Informatics 2 - Foundations of Data Science
+    year: 2
   inf2-sepp:
     acronym: INF2-SEPP
     course_url: https://course.inf.ed.ac.uk/23-inf2-sepp
@@ -662,6 +767,21 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11207.htm
     level: 11
     name: Methods for Causal Inference
+    year: 5
+  mdi:
+    acronym: MDI
+    course_url: https://course.inf.ed.ac.uk/23-mdi
+    credits: 60
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR11097
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11097.htm
+    level: 11
+    name: Masters Dissertation (Design Informatics)
     year: 5
   mlg:
     acronym: MLG
