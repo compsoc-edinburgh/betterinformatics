@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 10/03/2023 07:30:01
+# Last update: 13/03/2023 07:30:01
 
-last_update: 10/03/2023 07:30:01
+last_update: 13/03/2023 07:30:01
 list:
   adbs:
     acronym: ADBS
@@ -528,6 +528,21 @@ list:
     level: 9
     name: Informatics Large Practical
     year: 3
+  imc:
+    acronym: IMC
+    course_url: https://course.inf.ed.ac.uk/23-imc
+    credits: 10
+    cw_exam_ratio:
+    - 30
+    - 70
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR11131
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11131.htm
+    level: 11
+    name: Introduction to Modern Cryptography
+    year: 4
   inf1-cg:
     acronym: INF1-CG
     course_url: https://course.inf.ed.ac.uk/23-inf1-cg
