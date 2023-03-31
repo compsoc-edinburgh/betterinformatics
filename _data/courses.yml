@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 20/03/2023 07:30:01
+# Last update: 31/03/2023 07:30:01
 
-last_update: 20/03/2023 07:30:01
+last_update: 31/03/2023 07:30:01
 list:
   acp:
     acronym: ACP
@@ -677,6 +677,21 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr08030.htm
     level: 8
     name: Informatics 2 - Foundations of Data Science
+    year: 2
+  inf2-iads:
+    acronym: INF2-IADS
+    course_url: https://course.inf.ed.ac.uk/23-inf2-iads
+    credits: 20
+    cw_exam_ratio:
+    - 40
+    - 60
+    delivery: YR
+    delivery_ordinal: 3
+    diet: April/May
+    euclid_code: INFR08026
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr08026.htm
+    level: 8
+    name: Informatics 2 - Introduction to Algorithms and Data Structures
     year: 2
   inf2-sepp:
     acronym: INF2-SEPP
