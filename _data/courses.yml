@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 31/03/2023 07:30:01
+# Last update: 04/04/2023 07:30:01
 
-last_update: 31/03/2023 07:30:01
+last_update: 04/04/2023 07:30:01
 list:
   acp:
     acronym: ACP
@@ -738,6 +738,21 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
+  infr09053:
+    acronym: INFR09053
+    course_url: https://course.inf.ed.ac.uk/23-infr09053
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR09053
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr09053.htm
+    level: 9
+    name: Entrepreneurship and Innovation Project
+    year: 3
   infr10088:
     acronym: INFR10088
     course_url: https://course.inf.ed.ac.uk/23-infr10088
@@ -753,6 +768,21 @@ list:
     level: 10
     name: Modelling of Systems for Sustainability
     year: 4
+  infr10089:
+    acronym: INFR10089
+    course_url: https://course.inf.ed.ac.uk/23-infr10089
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR10089
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10089.htm
+    level: 10
+    name: Modelling Concurrent Systems
+    year: 3
   ipp:
     acronym: IPP
     course_url: https://course.inf.ed.ac.uk/23-ipp
