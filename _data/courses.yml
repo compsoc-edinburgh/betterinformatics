@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 04/04/2023 07:30:01
+# Last update: 06/04/2023 07:30:02
 
-last_update: 04/04/2023 07:30:01
+last_update: 06/04/2023 07:30:02
 list:
   acp:
     acronym: ACP
@@ -425,6 +425,36 @@ list:
     level: 8
     name: Discrete Mathematics and Probability
     year: 2
+  epcc11002:
+    acronym: EPCC11002
+    course_url: https://course.inf.ed.ac.uk/23-epcc11002
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: EPCC11002
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11002.htm
+    level: 11
+    name: Message-Passing Programming
+    year: 5
+  epcc11003:
+    acronym: EPCC11003
+    course_url: https://course.inf.ed.ac.uk/23-epcc11003
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: EPCC11003
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11003.htm
+    level: 11
+    name: Threaded Programming
+    year: 5
   epl:
     acronym: EPL
     course_url: https://course.inf.ed.ac.uk/23-epl
@@ -1036,7 +1066,7 @@ list:
     euclid_code: INFD11007
     euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfd11007.htm
     level: 11
-    name: Natural Computing
+    name: Natural Computing (Distance Learning)
     year: 5
   nlp-dr:
     acronym: NLP-DR
