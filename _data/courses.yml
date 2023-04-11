@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 06/04/2023 07:30:02
+# Last update: 11/04/2023 07:30:01
 
-last_update: 06/04/2023 07:30:02
+last_update: 11/04/2023 07:30:01
 list:
   acp:
     acronym: ACP
@@ -454,6 +454,81 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11003.htm
     level: 11
     name: Threaded Programming
+    year: 5
+  epcc11004:
+    acronym: EPCC11004
+    course_url: https://course.inf.ed.ac.uk/23-epcc11004
+    credits: 10
+    cw_exam_ratio:
+    - 10
+    - 90
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: EPCC11004
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11004.htm
+    level: 11
+    name: HPC Architectures
+    year: 5
+  epcc11005:
+    acronym: EPCC11005
+    course_url: https://course.inf.ed.ac.uk/23-epcc11005
+    credits: 10
+    cw_exam_ratio:
+    - 30
+    - 70
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: EPCC11005
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11005.htm
+    level: 11
+    name: Fundamentals of Data Management
+    year: 5
+  epcc11006:
+    acronym: EPCC11006
+    course_url: https://course.inf.ed.ac.uk/23-epcc11006
+    credits: 10
+    cw_exam_ratio:
+    - 25
+    - 75
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: EPCC11006
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11006.htm
+    level: 11
+    name: Numerical Algorithms for High Performance Computing
+    year: 5
+  epcc11007:
+    acronym: EPCC11007
+    course_url: https://course.inf.ed.ac.uk/23-epcc11007
+    credits: 10
+    cw_exam_ratio:
+    - 25
+    - 75
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: EPCC11007
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11007.htm
+    level: 11
+    name: Design and Analysis of Parallel Algorithms
+    year: 5
+  epcc11008:
+    acronym: EPCC11008
+    course_url: https://course.inf.ed.ac.uk/23-epcc11008
+    credits: 10
+    cw_exam_ratio:
+    - 80
+    - 20
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: EPCC11008
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11008.htm
+    level: 11
+    name: Project Preparation
     year: 5
   epl:
     acronym: EPL
