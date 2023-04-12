@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 11/04/2023 07:30:01
+# Last update: 12/04/2023 07:30:01
 
-last_update: 11/04/2023 07:30:01
+last_update: 12/04/2023 07:30:01
 list:
   acp:
     acronym: ACP
@@ -529,6 +529,96 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11008.htm
     level: 11
     name: Project Preparation
+    year: 5
+  epcc11009:
+    acronym: EPCC11009
+    course_url: https://course.inf.ed.ac.uk/23-epcc11009
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: EPCC11009
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11009.htm
+    level: 11
+    name: Performance Programming
+    year: 5
+  epcc11010:
+    acronym: EPCC11010
+    course_url: https://course.inf.ed.ac.uk/23-epcc11010
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: EPCC11010
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11010.htm
+    level: 11
+    name: Parallel Design Patterns
+    year: 5
+  epcc11011:
+    acronym: EPCC11011
+    course_url: https://course.inf.ed.ac.uk/23-epcc11011
+    credits: 10
+    cw_exam_ratio:
+    - 45
+    - 55
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: EPCC11011
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11011.htm
+    level: 11
+    name: Advanced Parallel Techniques
+    year: 5
+  epcc11012:
+    acronym: EPCC11012
+    course_url: https://course.inf.ed.ac.uk/23-epcc11012
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: EPCC11012
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11012.htm
+    level: 11
+    name: Advanced Message-Passing Programming
+    year: 5
+  epcc11013:
+    acronym: EPCC11013
+    course_url: https://course.inf.ed.ac.uk/23-epcc11013
+    credits: 10
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: EPCC11013
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11013.htm
+    level: 11
+    name: Machine Learning at Scale
+    year: 5
+  epcc11014:
+    acronym: EPCC11014
+    course_url: https://course.inf.ed.ac.uk/23-epcc11014
+    credits: 10
+    cw_exam_ratio:
+    - 25
+    - 75
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: EPCC11014
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxepcc11014.htm
+    level: 11
+    name: High Performance Data Analytics
     year: 5
   epl:
     acronym: EPL
