@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 12/04/2023 07:30:01
+# Last update: 19/04/2023 07:30:01
 
-last_update: 12/04/2023 07:30:01
+last_update: 19/04/2023 07:30:01
 list:
   acp:
     acronym: ACP
@@ -260,6 +260,21 @@ list:
     level: 11
     name: Case Studies in Design Informatics 2
     year: 5
+  cg:
+    acronym: CG
+    course_url: https://course.inf.ed.ac.uk/23-cg
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR11021
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11021.htm
+    level: 11
+    name: Computer Graphics
+    year: 4
   cggs:
     acronym: CGGS
     course_url: https://course.inf.ed.ac.uk/23-cggs
@@ -365,6 +380,19 @@ list:
     level: 10
     name: Computer Security
     year: 3
+  csec-11:
+    acronym: CSEC-11
+    course_url: https://course.inf.ed.ac.uk/23-csec-11
+    credits: 20
+    cw_exam_ratio: null
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: INFR11244
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11244.htm
+    level: 11
+    name: Computer Security (Level 11)
+    year: 5
   ct:
     acronym: CT
     course_url: https://course.inf.ed.ac.uk/23-ct
@@ -425,6 +453,21 @@ list:
     level: 8
     name: Discrete Mathematics and Probability
     year: 2
+  eip:
+    acronym: EIP
+    course_url: https://course.inf.ed.ac.uk/23-eip
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: INFR09053
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr09053.htm
+    level: 9
+    name: Entrepreneurship and Innovation Project
+    year: 3
   epcc11002:
     acronym: EPCC11002
     course_url: https://course.inf.ed.ac.uk/23-epcc11002
@@ -775,8 +818,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/23-iel-10
     credits: 20
     cw_exam_ratio: null
-    delivery: FLEX
-    delivery_ordinal: 4
+    delivery: YR
+    delivery_ordinal: 3
     diet: ''
     euclid_code: INFR10084
     euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10084.htm
@@ -933,36 +976,6 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
-  infr09053:
-    acronym: INFR09053
-    course_url: https://course.inf.ed.ac.uk/23-infr09053
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR09053
-    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr09053.htm
-    level: 9
-    name: Entrepreneurship and Innovation Project
-    year: 3
-  infr10088:
-    acronym: INFR10088
-    course_url: https://course.inf.ed.ac.uk/23-infr10088
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR10088
-    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10088.htm
-    level: 10
-    name: Modelling of Systems for Sustainability
-    year: 4
   infr10089:
     acronym: INFR10089
     course_url: https://course.inf.ed.ac.uk/23-infr10089
@@ -1008,6 +1021,21 @@ list:
     level: 11
     name: Informatics Project Proposal (Distance Learning)
     year: 5
+  ipp-ga:
+    acronym: IPP-GA
+    course_url: https://course.inf.ed.ac.uk/23-ipp-ga
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR10082
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10082.htm
+    level: 10
+    name: Informatics Project Proposal (Graduate Apprenticeship)
+    year: 4
   ippo:
     acronym: IPPO
     course_url: https://course.inf.ed.ac.uk/23-ippo
@@ -1128,6 +1156,19 @@ list:
     level: 11
     name: Methods for Causal Inference
     year: 5
+  mcs:
+    acronym: MCS
+    course_url: https://course.inf.ed.ac.uk/23-mcs
+    credits: 10
+    cw_exam_ratio: null
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR11248
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11248.htm
+    level: 11
+    name: Modelling Concurrent Systems (Level 11)
+    year: 4
   mdi:
     acronym: MDI
     course_url: https://course.inf.ed.ac.uk/23-mdi
@@ -1218,6 +1259,36 @@ list:
     level: 10
     name: Introduction to Mobile Robotics
     year: 3
+  moss:
+    acronym: MOSS
+    course_url: https://course.inf.ed.ac.uk/23-moss
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR10088
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10088.htm
+    level: 10
+    name: Modelling of Systems for Sustainability
+    year: 4
+  nat:
+    acronym: NAT
+    course_url: https://course.inf.ed.ac.uk/23-nat
+    credits: 10
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: INFR11161
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11161.htm
+    level: 11
+    name: Natural Computing
+    year: 4
   nat-dl:
     acronym: NAT-DL
     course_url: https://course.inf.ed.ac.uk/23-nat-dl
@@ -1382,6 +1453,21 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11023.htm
     level: 11
     name: Parallel Programming Languages and Systems
+    year: 4
+  proj-ga:
+    acronym: PROJ-GA
+    course_url: https://course.inf.ed.ac.uk/23-proj-ga
+    credits: 40
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: INFR10081
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10081.htm
+    level: 10
+    name: Honours Project (Data Science Graduate Apprenticeship)
     year: 4
   psml:
     acronym: PSML
@@ -1653,3 +1739,18 @@ list:
     level: 10
     name: Work-Based Professional Practice B in Data Analytics
     year: 3
+  wbppc:
+    acronym: WBPPC
+    course_url: https://course.inf.ed.ac.uk/23-wbppc
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: FLEX
+    delivery_ordinal: 4
+    diet: ''
+    euclid_code: INFR10083
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10083.htm
+    level: 10
+    name: Work-Based Professional Practice C in Data Analytics
+    year: 4
