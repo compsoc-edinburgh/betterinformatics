@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: 19/04/2023 07:30:01
+# Last update: 08/05/2023 07:30:01
 
-last_update: 19/04/2023 07:30:01
+last_update: 08/05/2023 07:30:01
 list:
   acp:
     acronym: ACP
@@ -976,21 +976,6 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: 2
-  infr10089:
-    acronym: INFR10089
-    course_url: https://course.inf.ed.ac.uk/23-infr10089
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR10089
-    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10089.htm
-    level: 10
-    name: Modelling Concurrent Systems
-    year: 3
   ipp:
     acronym: IPP
     course_url: https://course.inf.ed.ac.uk/23-ipp
@@ -1169,6 +1154,21 @@ list:
     level: 11
     name: Modelling Concurrent Systems (Level 11)
     year: 4
+  mcs-10:
+    acronym: MCS-10
+    course_url: https://course.inf.ed.ac.uk/23-mcs-10
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: INFR10089
+    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfr10089.htm
+    level: 10
+    name: Modelling Concurrent Systems (Level 10)
+    year: 3
   mdi:
     acronym: MDI
     course_url: https://course.inf.ed.ac.uk/23-mdi
