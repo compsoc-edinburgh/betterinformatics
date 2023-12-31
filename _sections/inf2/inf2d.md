@@ -9,8 +9,7 @@ pinned: true # temporary pinned as last inf exam
 
 - [MCQ Question Cache](/drive?next=1coz6nMPFCZqR8mBU6AiDiVz0r28WMSNaSH9YcY7c6R0)
 - [Quizlet](https://quizlet.com/293000769/inf2d-flash-cards/)
-- [Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
-](https://github.com/aimacode/aima-python)
+- [Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"](https://github.com/aimacode/aima-python)
 - [Alpha-Beta pruning interactive example](http://inst.eecs.berkeley.edu/~cs61b/fa14/ta-materials/apps/ab_tree_practice/)
 - [Another AB pruning example - allowing you to create your own tree](https://nmiljkovic.github.io/minimax/)
 - [Video on a-B pruning](https://www.youtube.com/watch?v=l-hh51ncgDI&t=294s) 
