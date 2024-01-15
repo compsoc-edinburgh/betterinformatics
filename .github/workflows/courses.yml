@@ -22,10 +22,10 @@ jobs:
     steps:
     
     # We need Python
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v2
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v5
       with:
-        python-version: 3.8
+        python-version: 3.11
     
     # We need to fetch the code where our courses.yml generator lives
     - name: Fetch bi-app code
