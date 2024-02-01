@@ -1,13 +1,13 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2024-01-18 20:03:36.951506)
+# Last update: Unknown (assuming now: 2024-02-01 19:13:53.586959)
 
-last_update: '2024-01-18T20:03:36.951506'
+last_update: '2024-02-01T19:13:53.586959'
 list:
   acp:
     acronym: ACP
-    course_url: https://course.inf.ed.ac.uk/acp
+    course_url: null
     credits: 10
     cw_exam_ratio:
     - 100
@@ -891,7 +891,7 @@ list:
     year: P
   ipp-dl:
     acronym: IPP-DL
-    course_url: https://course.inf.ed.ac.uk/ipp-dl
+    course_url: null
     credits: 10
     cw_exam_ratio:
     - 100
@@ -976,7 +976,7 @@ list:
     year: '3'
   ivc:
     acronym: IVC
-    course_url: https://course.inf.ed.ac.uk/ivc
+    course_url: null
     credits: 10
     cw_exam_ratio:
     - 50
@@ -1333,7 +1333,7 @@ list:
     year: '4'
   os:
     acronym: OS
-    course_url: https://course.inf.ed.ac.uk/os
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 50
@@ -1452,7 +1452,7 @@ list:
     year: '4'
   psml:
     acronym: PSML
-    course_url: https://course.inf.ed.ac.uk/psml
+    course_url: null
     credits: 10
     cw_exam_ratio:
     - 25
@@ -1537,7 +1537,7 @@ list:
     year: P
   rmfc:
     acronym: RMFC
-    course_url: https://course.inf.ed.ac.uk/rmfc
+    course_url: null
     credits: 10
     cw_exam_ratio:
     - 100
@@ -1588,7 +1588,7 @@ list:
     year: '4'
   sdm:
     acronym: SDM
-    course_url: https://course.inf.ed.ac.uk/sdm
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 50
@@ -1605,7 +1605,7 @@ list:
     year: '3'
   sdp:
     acronym: SDP
-    course_url: https://course.inf.ed.ac.uk/sdp
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 100
