@@ -9,14 +9,14 @@ links:
 ---
 
 - [Fox's notes](https://docs.google.com/viewer?url=https://github.com/compsoc-edinburgh/bi-cap/releases/latest/download/reference.pdf) ([src](https://github.com/compsoc-edinburgh/bi-cap))
-- Cheat sheet PDFs of the [definitions](/drive?next=1UXuWJupUwL2aSPcDRWroDzdB2AJecDXv) and [theorems](/drive?next=1-hBc0-HDryIddgAXvuInseQ_x-bsAarR) to save you time in the exam (no need to search through the textbook)
+- Cheat sheet PDFs of the [definitions and theorems](https://files.betterinformatics.com/document/exam-cheatsheet-for-definition-and-theorems-2018) to save you time in the exam (no need to search through the textbook)
 - [SympyGamma](http://www.sympygamma.com/) - a tool similar to WolframAlpha, but also offering explanation for derivations. 
 - [Answers for Essential calculus](http://slader.com/textbook/9781133112280-stewart-essential-calculus-early-transcendentals-2nd-edition/)
 - [Riemann sums](https://www.desmos.com/calculator/tgyr42ezjq) online calculator
 - [Lots of formulae](http://mei.org.uk/files/pdf/formula_book_mf2.pdf)
 - [Amazing mindmap](/static/year1/HL_Calculus_Option_Mind_Map.compressed.pdf)
 - Tests of Convergence: [cheat sheet](http://www.toomey.org/tutor/harolds_cheat_sheets/Harolds_Series_Convergence_Tests_Cheat_Sheet_2016.pdf), [flow chart](https://www.studystandard.com/document/21574/preview)
-- [Not All Things CAP - better cap cheat sheet](https://betterinformatics.com/drive?next=14_3SxkiZpwX2H90_S27cx4GnHumIJD36)
+- [Not All Things CAP - better cap cheat sheet]([https://betterinformatics.com/drive?next=14_3SxkiZpwX2H90_S27cx4GnHumIJD36](https://files.betterinformatics.com/document/not-all-things-cap-better-cheatsheet))
 
 <!--
 -   If you bought your book second-hand, you will need to buy a
