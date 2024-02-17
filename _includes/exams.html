@@ -1,6 +1,4 @@
-<div id='get-exam-timetable'>
-    <a href="#" class="btn">loading exams inline...</a>
-</div>
+<div id="get-exam-timetable">loading exams inline...</div>
 <div id='exam-timetable-table' style="display:none">
 
     Click on title/venue/date to expand.
@@ -40,15 +38,10 @@
     // console.log(pageCourses)
     const year = parseInt(`{{ page.year }}`);
 
-    const fail = () => {document.querySelector("#get-exam-timetable > a").innerText = "something broke, sorry"}
+    const fail = () => {document.querySelector("#get-exam-timetable").innerText = "something went wrong while trying to get exam data, sorry"}
     const success = (data) => {
-        const el = document.querySelector("#get-exam-timetable > a")
-        el.innerText = "view exams"
-        el.addEventListener('click', () => {
-            showExamTimetable(data.data);
-            document.querySelector('#get-exam-timetable').remove();
-            return false;
-        });
+        document.querySelector("#get-exam-timetable").style.display = "none";
+        showExamTimetable(data.data);
     }
 
     const readVenue = venues => {
@@ -139,7 +132,7 @@
     }
 
     window.addEventListener('load', () => {
-        fetch('https://betterinformatics.com/search/')
+        fetch('https://corsproxy.io/?' + encodeURIComponent('https://exams.is.ed.ac.uk/search/'))
             .then(r => r.json())
             .then(r => success(r))
             .catch(() => fail())
