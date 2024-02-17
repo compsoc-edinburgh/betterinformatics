@@ -4,45 +4,41 @@ layout: page
 title: "Shared Drive"
 ---
 
+<h3>BetterInformatics Drive Shutdown</h3>
+<p>
+    BetterInformatics Google Drive is shutting down in spring 2024.
+</p>
+<p>
+    Please migrate any files that you find useful on the Drive to
+    BetterInformatics File Collection:
+    <a href="https://files.betterinformatics.com">files.betterinformatics.com</a>
+</p>
 <div id="only-show-if-trying-to-access-item">
-    <h3>Redirecting...</h3>
     <p>
-        Due to exam season peak, we now allow read-only public nonrestricted access to items in the BetterInformatics drive. <br>
-        <a href="https://drive.google.com/open?id=" id="temp-drive-link">
-            Click here if you are not redirected automatically.
-        </a>
+        With that in mind, you can still access the files you're after <a id="temp-drive-link" href="https://drive.google.com/open?id=">here</a>.
+        <br />
+        Individual files should be publicly accessible without Google sign-in.
+        Contact admins if you have any issues.
     </p>
 </div>
 <div id="only-show-if-trying-to-access-root-folder" style="display:none">
-    
     <p>
-        Due to high exam season, we have made each subfolder within the drive available publicly as read-only,
-        so if you are looking for existing resources, <b>you can temporarily access all links on BetterInformatics.com
-        without becoming a member</b>.
+        With that in mind, you can still access the Drive to view or migrate old
+        documents. As a technical limitation of the Google Drive, you must go
+        through a manual registration process (this is one of the reasons we are
+        no longer using Drive), please email
+        <a href="mailto:admin@betterinformatics.com">admin@betterinformatics.com</a> following these steps:
     </p>
-    <p>
-        If you want to access the root folder, or collaborate your own additions to the Shared Drive, you will need
-        to become a member of the drive. Usually, we can do this automatically but our CoSign (DICE login) server
-        is down right now, which means we need to manually process your membership requests.
-    </p>
+    <ol>
+        <li>write "Better Informatics: please add me as a contributor to Google Drive" as your subject,</li>
+        <li>send the email from your university email address, so we know you are a student, and</li>
+        <li>include the email address of your Google account, so that you actually get access to the Drive.</li>
+    </ol>
     <p>
         Once you are a member, please <a href="https://drive.google.com/open?id=0AIKEqWfeWuQQUk9PVA">
             click here to access the Shared Drive
         </a>.
     </p>
-
-    <ul>
-        <li>
-            If you want collaborator (read/write) access to BetterInformatics' Team Drive, please email
-            <a href="mailto:admin@betterinformatics.com">admin@betterinformatics.com</a> and ask for access. Make sure you:
-
-            <ol>
-                <li>write "Better Informatics: please add me as a contributor to Google Drive" as your subject,</li>
-                <li>send the email from your university email address, so we know you are a student, and</li>
-                <li>include the email address of your Google account, so that you actually get access to the Drive.</li>
-            </ol>
-        </li>
-    </ul>
 </div>
 
 <script>
@@ -56,10 +52,6 @@ title: "Shared Drive"
         // they are trying to access the root folder.
         document.getElementById('only-show-if-trying-to-access-root-folder').style.display = 'block';
         document.getElementById('only-show-if-trying-to-access-item').style.display = 'none';
-    } else {
-        setTimeout(() => {
-            a.click();
-        }, 4000);
     }
 })()
 </script>
