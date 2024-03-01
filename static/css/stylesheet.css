@@ -575,7 +575,7 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
 
     #title {
         /* background: url("../img/betterinf-title-dark.png"); */
-        color: rgb(169, 169, 179);
+        color: rgb(214, 214, 224);
     }
 
     #menu {
@@ -592,7 +592,7 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     }
 
     .btn {
-        border-color: rgb(169, 169, 179);
+        border-color: rgb(214, 214, 224);
     }
 
     /* Mobile */
@@ -602,11 +602,16 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
         border-color: #ffb300;
     }
 
+    a {
+        color: #3d9bef;
+        text-decoration: none
+    }
+
     /* Dark mode extras */
 
-    html, html * {
+    html {
         background-color: rgb(34, 34, 34);
-        color: rgb(169, 169, 179);
+        color: rgb(214, 214, 224);
     }
 
     #content a:link {
