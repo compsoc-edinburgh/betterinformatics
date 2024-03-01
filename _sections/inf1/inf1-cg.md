@@ -8,7 +8,7 @@ course-acronym: inf1-cg
 - [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - really clear videos explaining neural networks and backprop
 - [Visualising Clustering](https://www.youtube.com/watch?v=wvsE8jm1GzE) - video from Google
 - [Deduction vs Induction](https://www.youtube.com/watch?v=iRcNQkWNWNk)
-- [Word learning models](/static/year1/Word Learning Models.pdf) - concept map with key ideas
+- [Word learning models](/static/year1/Word%20Learning%20Models.pdf) - concept map with key ideas
 - [Amazing flash cards](https://quizlet.com/OriginalCal/folders/cognitive-science/sets) - key definitions
 - [Full course notes and posters - 2018](https://betterinformatics.com/drive?next=1Tb7WG3bdE5vop2ZR2nGlrkUXxu-9y2zj)
 
