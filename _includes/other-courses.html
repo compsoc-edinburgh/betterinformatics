@@ -1,13 +1,24 @@
-<!-- Rendering all eligible courses -->
+{% comment %}
+Rendering all eligible courses
+{% endcomment %}
 <p>
 {% assign contentsWritten = false %}
 {% for section in site.sections %}
+    {% comment %}
+    Loop through all course Markdown pages
+    {% endcomment %}
     {% assign course = site.data.courses.list[section.course-acronym] %}
+    {% comment %}
+    Check if this course has a SCQF level that students in this year can take
+    {% endcomment %}
     {% if page.levels contains course.level and section.course-acronym != "proj" %}
         {% capture sectionID %}
             {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
         {% endcapture %}
 
+        {% comment %}
+        Bold the courses that are mainly for this year
+        {% endcomment %}
         {% if page.year == section.year %}<strong>{% endif %}
         <a href="/inf{{ section.year }}#{{ sectionID | strip }}">
         {% if contentsWritten == true %}&middot;{% endif %}

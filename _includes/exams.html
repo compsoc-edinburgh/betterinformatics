@@ -38,9 +38,19 @@
     // console.log(pageCourses)
     const year = parseInt(`{{ page.year }}`);
 
-    const fail = () => {document.querySelector("#get-exam-timetable").innerText = "something went wrong while trying to get exam data, sorry"}
+    // If the year page defines frontmatter containing SCQF levels,
+    // use that to filter the exams shown. Otherwise, we'll use
+    // the year. This is useful for e.g. Year 4 page showing exams
+    // for some level 10 courses too even if the main offered year is for Year 3, whereas Year 1 shouldn't show any Year 2 exams even if they might be SCQF 08.
+    const filter_by_levels = !!JSON.parse(`{{ page.levels | jsonify }}`); // false if not defined
+    const desiredLevels = JSON.parse(`{{ page.levels | jsonify }}`) || [];
+    const desiredYear = String(`{{ page.year }}`);
+
+    const fail = (e) => {
+        document.querySelector("#get-exam-timetable").innerText = "something went wrong while trying to get exam data, sorry";
+        console.log(e);
+    }
     const success = (data) => {
-        document.querySelector("#get-exam-timetable").style.display = "none";
         showExamTimetable(data.data);
     }
 
@@ -53,88 +63,111 @@
         return s.slice(0, -2);
     }
     const showExamTimetable = exams => {
-        exams.forEach(exam => {
-            if (exam.venues.length != 1) {
-                console.log(exam);
-            }
-        })
-        // console.log(exams)
         const ourCourses = [];
         Object.keys(courses.list).forEach(function(key) {
             const course = courses.list[key];
-            if (course.year == year) {
-                ourCourses[course.euclid_code] = course.acronym;
-            }
+            // Filter to just courses that are relevant to the year we are looking at.
+            // We will further filter this list by the exams that are available.
+            if (filter_by_levels && !desiredLevels.includes(course.level)) return;
+
+            if (!filter_by_levels && desiredYear !== course.year) return;
+
+            ourCourses[course.euclid_code] = course.acronym;
         });
 
         const results = [];
         exams.forEach(exam => {
-            exam.code = exam.title.split(" ")[0];
-            const acronym = ourCourses[exam.code];
-            // console.log(code);
-            if (acronym) {
-                const course = courses.list[acronym];
-                exam.acronym = acronym;
-                exam.venue = readVenue(exam.venues);
-                exam.title = exam.title.slice(exam.code.length + 3);
-                exam.date = "date";
-                console.log("Title", exam.title)
-                const timeText = exam.start_date + ' ' + exam.start_time.replace(" a.m.", "am").replace(" p.m.", "pm");
-                const time = moment(timeText, "dddd, Do MMMM YYYY hh:mma");
-                if (moment().isAfter(time)) {
-                    exam.time = "done!";
-                    return;
-                }
-                exam.timeRel = time.fromNow(true);
-                exam.timeAbs = timeText;
-                exam.time = moment.unix(time);
-
-                results.push(exam);
+            exam.code = exam.title.split(' ')[0];
+            // Remove colon suffix if it is there
+            if (exam.code[exam.code.length - 1] === ':') {
+                exam.code = exam.code.slice(0, -1);
             }
+
+            const acronym = ourCourses[exam.code];
+            // Only show exams for courses we previously
+            // filtered for by SCQF level.
+            if (!acronym) return;
+
+            console.log("Found Informatics course for year ", year, exam.title);
+            const course = courses.list[acronym];
+            exam.acronym = acronym;
+            exam.venue = readVenue(exam.venues);
+            // Slice away the course code, colon and space from the course title
+            exam.title = exam.title.slice(exam.code.length + 2);
+            exam.date = "date";
+            console.log("Title", exam.title)
+            const timeText = exam.start_date + ' ' + exam.start_time.replace(" a.m.", "am").replace(" p.m.", "pm");
+            const time = moment(timeText, "dddd, Do MMMM YYYY hh:mma");
+            if (moment().isAfter(time)) {
+                exam.time = "done!";
+                return;
+            }
+            exam.timeRel = "in " + time.fromNow(true);
+            exam.timeAbs = timeText;
+            exam.time = moment.unix(time);
+
+            results.push(exam);
         })
 
-        // console.log(results)
         results.sort((a, b) => {return a.time > b.time ? 1 : -1});
-        // console.log(results)
 
+        if (results.length === 0) {
+            document.querySelector("#get-exam-timetable").innerText = "No exams found for year " + year;
+            return;
+        }
+
+        document.querySelector("#get-exam-timetable").style.display = "none";
         const table = document.querySelector("#exam-timetable-table");
+        table.style.display = 'block'
         const body = table.querySelector('tbody');
         body.innerHTML = ''
 
-        const clickyText = (t, a, b) => {
-            t.addEventListener('click', () => {t.innerText = (t.innerText === b ? a : b)})
-            t.innerText = b
+        // On click, toggle expansions. Default with collapsed.
+        const clickyRow = (t, expanded, collapsed) => {
+            t.addEventListener('click', () => {
+                t.replaceChildren(...t.getAttribute('data-collapsed') === 'true' ? expanded : collapsed);
+                t.setAttribute('data-collapsed', t.getAttribute('data-collapsed') === 'true' ? 'false' : 'true');
+            });
+            t.replaceChildren(...collapsed);
+            t.setAttribute('data-collapsed', 'true');
         }
 
         results.forEach(exam => {
-            const t = document.createElement('td')
-            clickyText(t, exam.title, exam.acronym);
-            
-            let shortVenue = exam.venue.slice(0, 80)
-            if (shortVenue !== exam.venue) {
-                shortVenue + '...';
+            const shortTitle = document.createElement('td');
+            shortTitle.innerText = exam.acronym;
+
+            let shortVenueText = exam.venue.slice(0, 50);
+            if (shortVenueText !== exam.venue) {
+                shortVenueText += '...';
             }
-            const v = document.createElement('td')
-            clickyText(v, exam.venue, shortVenue);
-            
-            const d = document.createElement('td')
-            clickyText(d, exam.timeAbs, exam.timeRel);
+            const shortVenue = document.createElement('td');
+            shortVenue.innerText = shortVenueText;
 
-            const tr = document.createElement('tr')
-            tr.appendChild(t);
-            tr.appendChild(v);
-            tr.appendChild(d);
+            const shortDate = document.createElement('td');
+            shortDate.innerText = exam.timeRel;
 
-            body.appendChild(tr);
+            const longTitle = document.createElement('td');
+            longTitle.innerText = exam.title;
+
+            const longVenue = document.createElement('td');
+            longVenue.innerText = exam.venue;
+
+            const longDate = document.createElement('td');
+            longDate.innerText = exam.timeAbs;
+
+            const row = document.createElement('tr');
+
+            clickyRow(row, [longTitle, longVenue, longDate], [shortTitle, shortVenue, shortDate]);
+
+            body.appendChild(row);
         })
 
-        table.style.display = 'block'
     }
 
     window.addEventListener('load', () => {
         fetch('https://corsproxy.io/?' + encodeURIComponent('https://exams.is.ed.ac.uk/search/'))
             .then(r => r.json())
             .then(r => success(r))
-            .catch(() => fail())
+            .catch(e => fail(e))
     })
 </script>

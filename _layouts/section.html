@@ -42,8 +42,16 @@
                 <a href="http://course.inf.ed.ac.uk/{{ section.course-acronym }}">info</a>{% if course.cw_exam_ratio.first != 100 %},
                 <a href="https://exampapers.ed.ac.uk/search/{{ course.euclid_code }}">papers</a>
                 {% endif %}
-                {% if course.year != page.year %}
-                This course is misplaced. It should be on the year {{ course.year }} page.
+                {% assign course_year_string = course.year | append:"" %}
+                {% assign page_year_string = page.year | append:"" %}
+                {% comment %}
+                For postgraduate, BetterInformatics handles it as a numeric year 5 but the course data treats it as a string "P"
+                {% endcomment %}
+                {% if course_year_string == "P" %}
+                    {% assign course_year_string = "5" %}
+                {% endif %}
+                {% if course_year_string != page_year_string %}
+                This course is misplaced. It should be on the year {{ course_year_string }} page, not on {{ page_year_string }}.
                 {% endif %}
             {% endif %}
             </small>
