@@ -24,19 +24,38 @@
 
 ## Systems
 
-There are two main sources of Information on Better Informatics:
+There are two main sources of Information on Better Informatics which are integral:
 
-- GitHub: contains the content
+- GitHub: contains the knowledgebase and links
   - It means that the timeless content is backed up somewhere on a familiar, easy to use platform (GitHub)
   - The content is not vendor lock-in. It's just a Git repo!
   - Full history is maintained and there's a standard Git interface to the content.
-  - It's renderable (using Jekyll) to betterinformatics.com
-- Google Shared Drive: contains past paper solutions & other useful documents
-  - Google Docs is pretty fantastic for collaborative work, so it's an obvious solution that will never die.
-  - The reason we use a shared drive is because previously a regular Drive (non-shared) was used, and this was a mess of permissions. File authors don't stay at uni forever, and when they graduate, they would stay as file owners. It's important that existing students can administrate or manage all the files.
-  - Using a Shared Drive means that access management is centralised & all the current students own the file, rather than just the people that created them.
+  - It's renderable (using Jekyll) to [betterinformatics.com](https://betterinformatics.com)
+- File Collection: contains past papers solutions & other useful documents
+  - A web service hosted on Tardis infrastructure, dedicated to study collaboration and sharing documents
+  - Displays snippets from this GitHub repo as embedded knowledgebase articles
+  - Available at [files.betterinformatics.com](https://files.betterinformatics.com)
+  - Feature requests and contributions to the service itself is accepted on [our repo](https://git.tardisproject.uk/betterinformatics/edinburgh-community-solutions)
 
-There are other stuff involved, but these two systems are integral to the running of Better Informatics. Even if Tardis goes down, the website can fail over to GitHub Pages and all the content is readable. New people can't be added to Google Drive when the backend goes down, and links might break (this could be worked around!), but people can still access files directly in Google Drive.
+We have a third source, which is being phased out and gradually migrated to File Collection where suitable:
+
+- Google Shared Drive: contains past paper solutions & other useful documents
+  - You need to be added to a separate whitelist using your Gmail address to access this.
+  - For reasons of the migration to File Collection and how you can help out, see the FAQ in File Collection.
+
+Other services we have at Better Informatics include:
+
+- [The Marauders App](https://github.com/compsoc-edinburgh/mapp): an effort to create an interactive map of all university lab machines
+  - Currently offline, seeking contributors to try to revive it again
+- [The Course List Generator](https://github.com/compsoc-edinburgh/bi-app/tree/master/courses.yaml): a script to generate courses.yaml
+  - Runs every day on this repo's CI, generating an API of currently-running Informatics courses [available here](https://betterinformatics.com/courses.json)
+  - Feel free to hack on this API and make interesting projects! 
+- [Virtual Welcome Pack](https://github.com/compsoc-edinburgh/bi-welcome): interactive new-student guide
+  - Runs at welcome.betterinformatics.com
+  - Originally a student's undergraduate project, but is now open to contributions
+- Any project ideas? Feel free to build it and maybe incorporate it into Better Informatics!
+
+<sup><sub>Previously (pre-2020) the Better Informatics Jekyll page was hosted on Tardis, and offered some server-side code for automatic addition to Google Drive etc. After Tardis was temporarily shut down while it migrated to a new infrastructure, the Jekyll page has been hosted on GitHub Pages infrastructure with no moving parts (so you might see some code/text that mentions the previous infra -- feel free to update it!).</sub></sup>
 
 ## Design Philosophy
 
