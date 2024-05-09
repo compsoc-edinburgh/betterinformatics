@@ -7,7 +7,7 @@ course-acronym: fnlp
 links:
 ---
 - [(2019-20) Bora's Notes](https://notes.boramalper.org/foundations-of-natural-language-processing/)
-- *See shared drive for past papers and solutions.*
+- *See File Collection for past papers and solutions.*
 Addtional resources on discourse coherence:
 - http://homepages.inf.ed.ac.uk/alex/papers/iwcs4.pdf
 - https://www3.cs.stonybrook.edu/~ychoi/cse507/slides/06-discourse.pdf
