@@ -11,4 +11,5 @@ course-acronym: inf2-iads
 - [Unofficial Past Paper Solutions](https://betterinformatics.com/drive?next=11D73NDRY6leMFxxO1LoeqvEQL3mV-qC0)
 - [Course Notes INF2B - Algorithms (2018)](https://drive.google.com/drive/u/1/folders/1phoPeflx6KgZeOwH88la66J7Xa49UPLE)
 - [Community Solutions to CLRS (4th ed.)](https://walkccc.me/CLRS/)
+- [Stefi's Quizlet (22/23)](https://quizlet.com/mimacurson/folders/iads-stefi?i=1ru0hz&x=1xqt)
 - For all things iads: [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/featured)
