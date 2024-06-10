@@ -96,7 +96,7 @@ layout: page
 		pattern="((\|\|)|(&&)|(==)|([aA][Nn][dD])|([rR][Ee][Dd])|([Aa][Mm][Bb][Ee][Rr])|([Gg][Rr][Ee][Ee][Nn])|([Ii][Ff][Ff])|([Xx]?[Oo][Rr])|([Nn][Oo][Tt])|[RrAaGgTtFf!01^ ()?:]|[Tt][Rr][Uu][Ee]|[Ff][Aa][Ll][Ss][Ee])*"
 		placeholder="type your expression here" autofocus>
 
-		<input type="submit" value="render" onclick="return renderDiagram()">
+		<input type="submit" value="render" onclick="renderDiagram()">
 	</form>
 	<br>
 	<svg width="256" height="256"> </svg>
@@ -196,7 +196,8 @@ layout: page
 		return eval(expression.toString());
 	}
 
-	function renderDiagram(ev) {
+	function renderDiagram() {
+		event.preventDefault();
 		var expression = document.getElementById("prop").value.toLowerCase();
 		expression = replaceAll(expression, "and", "&&")
 		expression = replaceAll(expression, "xor", "^")
@@ -214,10 +215,21 @@ layout: page
 		}
 		
 		$("#errs").hide()
+		$("#errs").html("");
 		
 		d3.selectAll("#g0 path").classed("true", d => {
 				// console.log({e:expression,id: d.id, v:bval(expression, d.id)});
-				return bval (expression, d.id);
+				try {
+					return bval (expression, d.id);
+				} catch (e) {
+					$("#errs").show()
+					// If an error already exists, ignore repeating it for all cells
+					if ($("#errs").is(":empty")) {
+						$("#errs").append("<strong>" + e.name + ":</strong> " + e.message);
+					} else {
+						throw e;
+					}
+				}
 			}
 		);
 
