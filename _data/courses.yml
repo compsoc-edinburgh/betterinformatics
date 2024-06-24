@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2024-06-17 19:14:06.345636)
+# Last update: Unknown (assuming now: 2024-06-24 19:15:43.627643)
 
-last_update: '2024-06-17T19:14:06.345636'
+last_update: '2024-06-24T19:15:43.627643'
 list:
   acp:
     acronym: ACP
@@ -122,7 +122,7 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfd11030.htm
     euclid_url_shadow: null
     level: 11
-    name: Applied Machine Learning (Distance Learning)
+    name: Applied Machine Learning (Distance Learning) (Distance Learning)
     year: P
   anlp:
     acronym: ANLP
