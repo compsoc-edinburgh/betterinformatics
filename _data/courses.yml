@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2024-06-24 19:15:43.627643)
+# Last update: Unknown (assuming now: 2024-06-25 19:15:33.930090)
 
-last_update: '2024-06-24T19:15:43.627643'
+last_update: '2024-06-25T19:15:33.930090'
 list:
   acp:
     acronym: ACP
@@ -106,23 +106,6 @@ list:
     euclid_url_shadow: null
     level: 11
     name: Applied Machine Learning
-    year: P
-  aml-dl:
-    acronym: AML-DL
-    course_url: null
-    credits: 20
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: SEM2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFD11030
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/23-24/dpt/cxinfd11030.htm
-    euclid_url_shadow: null
-    level: 11
-    name: Applied Machine Learning (Distance Learning) (Distance Learning)
     year: P
   anlp:
     acronym: ANLP
