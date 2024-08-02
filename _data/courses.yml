@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2024-07-15 19:16:50.530550)
+# Last update: Unknown (assuming now: 2024-08-02 19:15:00.900348)
 
-last_update: '2024-07-15T19:16:50.530550'
+last_update: '2024-08-02T19:15:00.900348'
 list:
   acp:
     acronym: ACP
@@ -583,6 +583,23 @@ list:
     level: 10
     name: Elements of Programming Languages
     year: '3'
+  f-bair:
+    acronym: F-BAIR
+    course_url: null
+    credits: 30
+    cw_exam_ratio:
+    - 50
+    - 50
+    delivery: YR
+    delivery_ordinal: 3
+    diet: April/May
+    euclid_code: INFR11262
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11262.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Foundational Biomedical AI research
+    year: P
   fnlp:
     acronym: FNLP
     course_url: null
@@ -617,6 +634,40 @@ list:
     level: 11
     name: Formal Verification
     year: '4'
+  hci:
+    acronym: HCI
+    course_url: null
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: SEM1
+    delivery_ordinal: 1
+    diet: None
+    euclid_code: INFR11017
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11017.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Human-Computer Interaction (Level 11)
+    year: '4'
+  iaml-dl:
+    acronym: IAML-DL
+    course_url: null
+    credits: 20
+    cw_exam_ratio:
+    - 30
+    - 70
+    delivery: SEM2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: INFD11005
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfd11005.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Introductory Applied Machine Learning (Distance Learning)
+    year: P
   iaml-pg2:
     acronym: IAML-PG2
     course_url: null
@@ -1127,6 +1178,57 @@ list:
     level: 11
     name: Machine Learning Systems
     year: '4'
+  mlsp100:
+    acronym: MLSP100
+    course_url: null
+    credits: 100
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: None
+    euclid_code: INFR11271
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11271.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Machine Learning Systems Project (100 credits)
+    year: P
+  mlsp60:
+    acronym: MLSP60
+    course_url: null
+    credits: 60
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: SEM1
+    delivery_ordinal: 1
+    diet: None
+    euclid_code: INFR11270
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11270.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Machine Learning Systems Project (60 credits)
+    year: P
+  mlsp80:
+    acronym: MLSP80
+    course_url: null
+    credits: 80
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: SEM1
+    delivery_ordinal: 1
+    diet: None
+    euclid_code: INFR11272
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11272.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Machine Learning Systems Project (80 credits)
+    year: P
   mlt:
     acronym: MLT
     course_url: null
