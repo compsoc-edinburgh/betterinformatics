@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2024-08-02 19:15:00.900348)
+# Last update: Unknown (assuming now: 2024-08-05 19:17:13.126275)
 
-last_update: '2024-08-02T19:15:00.900348'
+last_update: '2024-08-05T19:17:13.126275'
 list:
   acp:
     acronym: ACP
@@ -1518,6 +1518,23 @@ list:
     level: 11
     name: Quantum Cyber Security
     year: '4'
+  qipo:
+    acronym: QIPO
+    course_url: null
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: None
+    euclid_code: INFR11267
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11267.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Quantum Informatics Practical Orientation
+    year: P
   rl:
     acronym: RL
     course_url: null
