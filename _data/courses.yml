@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2024-08-05 19:17:13.126275)
+# Last update: Unknown (assuming now: 2024-08-09 19:15:51.813377)
 
-last_update: '2024-08-05T19:17:13.126275'
+last_update: '2024-08-09T19:15:51.813377'
 list:
   acp:
     acronym: ACP
@@ -1518,6 +1518,23 @@ list:
     level: 11
     name: Quantum Cyber Security
     year: '4'
+  qigp:
+    acronym: QIGP
+    course_url: null
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: None
+    euclid_code: INFR11268
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11268.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Quantum Informatics Group Project
+    year: P
   qipo:
     acronym: QIPO
     course_url: null
