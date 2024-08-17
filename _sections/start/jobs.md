@@ -4,7 +4,6 @@ title: Jobs
 ---
 
 - [CompClarity](https://compclarity.com/) - Honest UK tech salary comparison website, built by a UoE Masters student
-- [GradFlow](https://www.gradflow.io/) - Track your (many) applications at big-tech graduate positions
 - [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig)
 - CourtneyThurston has some interesting articles:
   - [negotiating-major-swe-offers](https://github.com/CourtneyThurston/negotiating-major-swe-offers)
