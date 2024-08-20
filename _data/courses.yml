@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2024-08-09 19:15:51.813377)
+# Last update: Unknown (assuming now: 2024-08-20 19:15:11.931411)
 
-last_update: '2024-08-09T19:15:51.813377'
+last_update: '2024-08-20T19:15:11.931411'
 list:
   acp:
     acronym: ACP
@@ -248,11 +248,11 @@ list:
     course_url: null
     credits: 10
     cw_exam_ratio:
-    - 100
-    - 0
+    - 30
+    - 70
     delivery: SEM2
     delivery_ordinal: 2
-    diet: None
+    diet: April/May
     euclid_code: INFR11036
     euclid_code_shadow: INFR11233
     euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11036.htm
@@ -571,8 +571,8 @@ list:
     course_url: null
     credits: 10
     cw_exam_ratio:
-    - 25
-    - 75
+    - 20
+    - 80
     delivery: SEM1
     delivery_ordinal: 1
     diet: December
@@ -775,11 +775,11 @@ list:
     course_url: null
     credits: 20
     cw_exam_ratio:
-    - 100
-    - 0
+    - 40
+    - 60
     delivery: SEM2
     delivery_ordinal: 2
-    diet: None
+    diet: April/May
     euclid_code: INFR08020
     euclid_code_shadow: null
     euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr08020.htm
