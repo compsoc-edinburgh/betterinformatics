@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2024-08-20 19:15:11.931411)
+# Last update: Unknown (assuming now: 2024-08-22 19:15:20.943577)
 
-last_update: '2024-08-20T19:15:11.931411'
+last_update: '2024-08-22T19:15:20.943577'
 list:
   acp:
     acronym: ACP
@@ -175,40 +175,6 @@ list:
     level: 11
     name: Automatic Speech Recognition
     year: '4'
-  bai-gp:
-    acronym: BAI-GP
-    course_url: null
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: SEM2
-    delivery_ordinal: 2
-    diet: None
-    euclid_code: INFR11203
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11203.htm
-    euclid_url_shadow: null
-    level: 11
-    name: Group Research Project (Biomedical AI)
-    year: P
-  bai-ip:
-    acronym: BAI-IP
-    course_url: null
-    credits: 80
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: SB5+
-    delivery_ordinal: 4
-    diet: None
-    euclid_code: INFR11197
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11197.htm
-    euclid_url_shadow: null
-    level: 11
-    name: Individual Research Project (Biomedical AI)
-    year: P
   bdl:
     acronym: BDL
     course_url: null
@@ -617,23 +583,6 @@ list:
     level: 10
     name: Foundations of Natural Language Processing
     year: '3'
-  fv:
-    acronym: FV
-    course_url: null
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: SEM1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11129
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11129.htm
-    euclid_url_shadow: null
-    level: 11
-    name: Formal Verification
-    year: '4'
   hci:
     acronym: HCI
     course_url: null
