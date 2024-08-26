@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2024-08-22 19:15:20.943577)
+# Last update: Unknown (assuming now: 2024-08-26 19:15:51.963018)
 
-last_update: '2024-08-22T19:15:20.943577'
+last_update: '2024-08-26T19:15:51.963018'
 list:
   acp:
     acronym: ACP
@@ -1659,11 +1659,11 @@ list:
     course_url: null
     credits: 10
     cw_exam_ratio:
-    - 0
     - 100
+    - 0
     delivery: SEM2
     delivery_ordinal: 2
-    diet: April/May
+    diet: None
     euclid_code: INFR11141
     euclid_code_shadow: INFR11276
     euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11141.htm
