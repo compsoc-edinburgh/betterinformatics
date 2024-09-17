@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2024-09-10 19:16:31.381006)
+# Last update: Unknown (assuming now: 2024-09-17 19:15:52.405424)
 
-last_update: '2024-09-10T19:16:31.381006'
+last_update: '2024-09-17T19:15:52.405424'
 list:
   acp:
     acronym: ACP
@@ -92,7 +92,7 @@ list:
     year: '4'
   aml:
     acronym: AML
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/aml
     credits: 20
     cw_exam_ratio:
     - 40
@@ -186,9 +186,9 @@ list:
     delivery_ordinal: 1
     diet: December
     euclid_code: INFR11144
-    euclid_code_shadow: INFR11238
+    euclid_code_shadow: null
     euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11144.htm
-    euclid_url_shadow: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11238.htm
+    euclid_url_shadow: null
     level: 11
     name: Blockchains and Distributed Ledgers
     year: '4'
@@ -228,14 +228,14 @@ list:
     year: P
   ccs:
     acronym: CCS
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/ccs
     credits: 10
     cw_exam_ratio:
-    - 100
-    - 0
+    - 40
+    - 60
     delivery: SEM1
     delivery_ordinal: 1
-    diet: None
+    diet: December
     euclid_code: INFR10054
     euclid_code_shadow: null
     euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr10054.htm
@@ -279,7 +279,7 @@ list:
     year: '4'
   cgr:
     acronym: CGR
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/cgr
     credits: 10
     cw_exam_ratio:
     - 100
@@ -900,9 +900,9 @@ list:
     delivery_ordinal: 1
     diet: December
     euclid_code: INFR11256
-    euclid_code_shadow: INFR11222
+    euclid_code_shadow: null
     euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11256.htm
-    euclid_url_shadow: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11222.htm
+    euclid_url_shadow: null
     level: 11
     name: Introduction to Quantum Computing
     year: '4'
@@ -993,7 +993,7 @@ list:
     year: '4'
   mcs-10:
     acronym: MCS-10
-    course_url: https://course.inf.ed.ac.uk/mcs-10
+    course_url: null
     credits: 10
     cw_exam_ratio:
     - 60
@@ -1095,7 +1095,7 @@ list:
     year: '4'
   mlpr:
     acronym: MLPR
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/mlpr
     credits: 20
     cw_exam_ratio:
     - 25
@@ -1359,9 +1359,9 @@ list:
     delivery_ordinal: 1
     diet: None
     euclid_code: INFR11150
-    euclid_code_shadow: INFR11239
+    euclid_code_shadow: null
     euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11150.htm
-    euclid_url_shadow: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11239.htm
+    euclid_url_shadow: null
     level: 11
     name: Principles and Design of IoT Systems
     year: '4'
