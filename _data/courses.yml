@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2024-09-17 19:15:52.405424)
+# Last update: Unknown (assuming now: 2024-09-26 19:16:04.825160)
 
-last_update: '2024-09-17T19:15:52.405424'
+last_update: '2024-09-26T19:16:04.825160'
 list:
   acp:
     acronym: ACP
@@ -554,8 +554,8 @@ list:
     course_url: null
     credits: 30
     cw_exam_ratio:
-    - 50
-    - 50
+    - 40
+    - 60
     delivery: YR
     delivery_ordinal: 3
     diet: April/May
@@ -1554,7 +1554,7 @@ list:
     year: '4'
   scm:
     acronym: SCM
-    course_url: https://course.inf.ed.ac.uk/scm
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1648,9 +1648,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11263
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11282
     euclid_url: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11263.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/24-25/dpt/cxinfr11282.htm
     level: 11
     name: Topics in Biomedical Informatics
     year: '4'
