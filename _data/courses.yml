@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2024-09-27 19:17:00.707748)
+# Last update: Unknown (assuming now: 2024-10-01 19:16:43.444930)
 
-last_update: '2024-09-27T19:17:00.707748'
+last_update: '2024-10-01T19:16:43.444930'
 list:
   acp:
     acronym: ACP
@@ -1554,7 +1554,7 @@ list:
     year: '4'
   scm:
     acronym: SCM
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/scm
     credits: 20
     cw_exam_ratio:
     - 100
