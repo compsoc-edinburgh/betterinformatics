@@ -165,7 +165,7 @@
     }
 
     window.addEventListener('load', () => {
-        fetch('https://corsproxy.io/?' + encodeURIComponent('https://exams.is.ed.ac.uk/search/'))
+        fetch('https://corsproxy.io/?url=' + encodeURIComponent('https://exams.is.ed.ac.uk/search/'))
             .then(r => r.json())
             .then(r => success(r))
             .catch(e => fail(e))
