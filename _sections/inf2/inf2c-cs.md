@@ -11,6 +11,7 @@ course-acronym: inf2c-cs
 - [MIPS](/resources/mips) - <span style="font-size: 1.5rem">visit this page for lots of resources on MIPS</span>
 - Tools:
   - [myMars - a custom version of Mars with some minor additional features](https://github.com/qaisjp/myMARS/releases)
+    - [slightly better fork of myMars](https://github.com/yutotakano/myMARS)
   - [Orthodox MIPS - are all my instructions in "The Bible"?](http://labs.boramalper.org/orthodox-mips/)
   - [Coursework 1 (2017/18) Task B (pig latin) unit test](https://github.com/bnelo12/Pig-Latin-Unit-Tester)
   - [Compiler Explorer](https://godbolt.org/)
