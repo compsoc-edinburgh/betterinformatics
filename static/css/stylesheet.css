@@ -538,11 +538,13 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     }
 
     #menu {
-        background-image: url("../img/grey-light.png");
+        background-image: url("../img/gray-text-grayscale-nav.png");
+        background-size: cover;
     }
 
     #menu a {
-        background-image: url("../img/color-light.png");
+        background-image: url("../img/dark-text-colored-nav.png");
+        background-size: cover;
     }
 
     a:hover {
@@ -579,11 +581,13 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     }
 
     #menu {
-        background-image: url("../img/grey-dark.png");
+        background-image: url("../img/gray-text-grayscale-nav.png");
+        background-size: cover;
     }
 
     #menu a {
-        background-image: url("../img/color-dark.png");
+        background-image: url("../img/light-text-colored-nav.png");
+        background-size: cover;
     }
 
     a:hover {
