@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-05-06 19:17:56.452046)
+# Last update: Unknown (assuming now: 2025-05-07 19:19:28.319887)
 
-last_update: '2025-05-06T19:17:56.452046'
+last_update: '2025-05-07T19:19:28.319887'
 list:
   acp:
     acronym: ACP
@@ -1144,6 +1144,74 @@ list:
     level: 11
     name: Machine Learning Systems
     year: '4'
+  mlsp100:
+    acronym: MLSP100
+    course_url: https://course.inf.ed.ac.uk/mlsp100
+    credits: 100
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: None
+    euclid_code: INFR11271
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11271.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Machine Learning Systems Project (100 credits)
+    year: P
+  mlsp60:
+    acronym: MLSP60
+    course_url: https://course.inf.ed.ac.uk/mlsp60
+    credits: 60
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: None
+    euclid_code: INFR11270
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11270.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Machine Learning Systems Project (60 credits)
+    year: P
+  mlsp80:
+    acronym: MLSP80
+    course_url: https://course.inf.ed.ac.uk/mlsp80
+    credits: 80
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: None
+    euclid_code: INFR11272
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11272.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Machine Learning Systems Project (80 credits)
+    year: P
+  mob:
+    acronym: MOB
+    course_url: https://course.inf.ed.ac.uk/mob
+    credits: 20
+    cw_exam_ratio:
+    - 40
+    - 60
+    delivery: SEM2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: TEMP02152
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxtemp02152.htm
+    euclid_url_shadow: null
+    level: 10
+    name: Introduction to Mobile Robotics
+    year: '3'
   nlp-aip:
     acronym: NLP-AIP
     course_url: https://course.inf.ed.ac.uk/nlp-aip
@@ -1160,6 +1228,23 @@ list:
     euclid_url_shadow: null
     level: 11
     name: Applied Interdisciplinary Project
+    year: P
+  nlp-iep:
+    acronym: NLP-IEP
+    course_url: https://course.inf.ed.ac.uk/nlp-iep
+    credits: 60
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: SEM2
+    delivery_ordinal: 2
+    diet: None
+    euclid_code: INFR11257
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11257.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Individual Exploratory Project
     year: P
   nlp-rr:
     acronym: NLP-RR
