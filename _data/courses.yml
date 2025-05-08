@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-05-07 19:19:28.319887)
+# Last update: Unknown (assuming now: 2025-05-08 19:19:06.145286)
 
-last_update: '2025-05-07T19:19:28.319887'
+last_update: '2025-05-08T19:19:06.145286'
 list:
   acp:
     acronym: ACP
@@ -654,16 +654,16 @@ list:
   i-bair:
     acronym: I-BAIR
     course_url: https://course.inf.ed.ac.uk/i-bair
-    credits: 20
+    credits: 40
     cw_exam_ratio:
     - 100
     - 0
     delivery: YR
     delivery_ordinal: 3
     diet: None
-    euclid_code: INFR11274
+    euclid_code: INFR11293
     euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11274.htm
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11293.htm
     euclid_url_shadow: null
     level: 11
     name: Inter-Disciplinary Biomedical Artificial Intelligence Research
@@ -1205,9 +1205,9 @@ list:
     delivery: SEM2
     delivery_ordinal: 2
     diet: April/May
-    euclid_code: TEMP02152
+    euclid_code: INFR10090
     euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxtemp02152.htm
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr10090.htm
     euclid_url_shadow: null
     level: 10
     name: Introduction to Mobile Robotics
@@ -1517,23 +1517,6 @@ list:
     euclid_url_shadow: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11290.htm
     level: 11
     name: Robot and Reinforcement Learning
-    year: '4'
-  savm:
-    acronym: SAVM
-    course_url: https://course.inf.ed.ac.uk/savm
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: SEM1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11254
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11254.htm
-    euclid_url_shadow: null
-    level: 11
-    name: Simulation, Analysis, and Validation of Computational Models
     year: '4'
   scm:
     acronym: SCM
