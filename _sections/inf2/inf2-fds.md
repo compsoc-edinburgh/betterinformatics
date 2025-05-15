@@ -4,10 +4,6 @@ title: INF2-FDS - Foundations of Data Science
 course-acronym: inf2-fds
 ---
 
-(New course: Details are sparse. Please contribute!)
-
-50% coursework, 50% exam.
-
 - **General Reading**
   - [*Artificial Intelligence: A Modern Approach*](https://drive.google.com/file/d/0B24JIcotKbLUUWJBWXNvckpieFk/view) by Stuart Russell and Peter Norvig
   - [*Computational and Inferential Thinking*](https://www.inferentialthinking.com/chapters/intro) by Ani Adhikari and John DeNero
