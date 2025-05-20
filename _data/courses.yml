@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-05-08 19:19:06.145286)
+# Last update: Unknown (assuming now: 2025-05-20 19:18:20.989630)
 
-last_update: '2025-05-08T19:19:06.145286'
+last_update: '2025-05-20T19:18:20.989630'
 list:
   acp:
     acronym: ACP
@@ -957,23 +957,6 @@ list:
     level: 11
     name: Introduction to Quantum Programming and Semantics
     year: '5'
-  irr:
-    acronym: IRR
-    course_url: https://course.inf.ed.ac.uk/irr
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: SEM1
-    delivery_ordinal: 1
-    diet: None
-    euclid_code: INFR11136
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11136.htm
-    euclid_url_shadow: null
-    level: 11
-    name: Informatics Research Review
-    year: P
   itcs:
     acronym: ITCS
     course_url: https://course.inf.ed.ac.uk/itcs
@@ -1008,40 +991,6 @@ list:
     level: 11
     name: Methods for Causal Inference
     year: P
-  mcs:
-    acronym: MCS
-    course_url: https://course.inf.ed.ac.uk/mcs
-    credits: 10
-    cw_exam_ratio:
-    - 60
-    - 40
-    delivery: SEM1
-    delivery_ordinal: 1
-    diet: April/May
-    euclid_code: INFR11248
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11248.htm
-    euclid_url_shadow: null
-    level: 11
-    name: Modelling Concurrent Systems (Level 11)
-    year: '4'
-  mcs-10:
-    acronym: MCS-10
-    course_url: https://course.inf.ed.ac.uk/mcs-10
-    credits: 10
-    cw_exam_ratio:
-    - 60
-    - 40
-    delivery: SEM1
-    delivery_ordinal: 1
-    diet: April/May
-    euclid_code: INFR10089
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr10089.htm
-    euclid_url_shadow: null
-    level: 10
-    name: Modelling Concurrent Systems (Level 10)
-    year: '3'
   mdi:
     acronym: MDI
     course_url: https://course.inf.ed.ac.uk/mdi
