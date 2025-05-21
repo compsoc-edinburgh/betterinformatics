@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-05-20 19:18:20.989630)
+# Last update: Unknown (assuming now: 2025-05-21 19:18:43.694907)
 
-last_update: '2025-05-20T19:18:20.989630'
+last_update: '2025-05-21T19:18:43.694907'
 list:
   acp:
     acronym: ACP
@@ -615,7 +615,7 @@ list:
     euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11284.htm
     euclid_url_shadow: null
     level: 11
-    name: Machine Learning in Finanacial Services
+    name: Machine Learning in Financial Services
     year: P
   fnlp:
     acronym: FNLP
