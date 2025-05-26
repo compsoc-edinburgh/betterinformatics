@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-05-21 19:18:43.694907)
+# Last update: Unknown (assuming now: 2025-05-26 19:18:06.656905)
 
-last_update: '2025-05-21T19:18:43.694907'
+last_update: '2025-05-26T19:18:06.656905'
 list:
   acp:
     acronym: ACP
@@ -1432,23 +1432,6 @@ list:
     euclid_url_shadow: null
     level: 11
     name: Quantum Informatics Practical Orientation
-    year: P
-  rmfc:
-    acronym: RMFC
-    course_url: https://course.inf.ed.ac.uk/rmfc
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: SEM2
-    delivery_ordinal: 2
-    diet: None
-    euclid_code: INFR11216
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11216.htm
-    euclid_url_shadow: null
-    level: 11
-    name: Research Methods in Financial Computing
     year: P
   rrl:
     acronym: RRL
