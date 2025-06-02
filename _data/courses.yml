@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-05-26 19:18:06.656905)
+# Last update: Unknown (assuming now: 2025-06-02 19:18:25.942642)
 
-last_update: '2025-05-26T19:18:06.656905'
+last_update: '2025-06-02T19:18:25.942642'
 list:
   acp:
     acronym: ACP
@@ -922,6 +922,23 @@ list:
     euclid_url_shadow: null
     level: 11
     name: Informatics Project Proposal (Distance Learning)
+    year: P
+  ipp20:
+    acronym: IPP20
+    course_url: https://course.inf.ed.ac.uk/ipp20
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: SEM2
+    delivery_ordinal: 2
+    diet: None
+    euclid_code: INFR11291
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11291.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Informatics Project Proposal 20
     year: P
   iqc:
     acronym: IQC
