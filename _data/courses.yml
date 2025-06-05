@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-06-02 19:18:25.942642)
+# Last update: Unknown (assuming now: 2025-06-05 19:16:26.575526)
 
-last_update: '2025-06-02T19:18:25.942642'
+last_update: '2025-06-05T19:16:26.575526'
 list:
   acp:
     acronym: ACP
@@ -163,11 +163,11 @@ list:
     course_url: https://course.inf.ed.ac.uk/atml
     credits: 20
     cw_exam_ratio:
-    - 100
     - 0
+    - 100
     delivery: SEM2
     delivery_ordinal: 2
-    diet: None
+    diet: April/May
     euclid_code: INFR11286
     euclid_code_shadow: INFR11289
     euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11286.htm
