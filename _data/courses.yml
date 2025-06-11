@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-06-05 19:16:26.575526)
+# Last update: Unknown (assuming now: 2025-06-11 19:18:36.102484)
 
-last_update: '2025-06-05T19:16:26.575526'
+last_update: '2025-06-11T19:18:36.102484'
 list:
   acp:
     acronym: ACP
@@ -100,12 +100,12 @@ list:
     delivery: SEM2
     delivery_ordinal: 2
     diet: April/May
-    euclid_code: INFD11030
+    euclid_code: INFD11032
     euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfd11030.htm
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfd11032.htm
     euclid_url_shadow: null
     level: 11
-    name: Applied Machine Learning (Distance Learning) (Distance Learning)
+    name: Applied Machine Learning (Distance Learning)
     year: P
   anlp:
     acronym: ANLP
