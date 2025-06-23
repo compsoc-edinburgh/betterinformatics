@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-06-11 19:18:36.102484)
+# Last update: Unknown (assuming now: 2025-06-23 19:18:58.814767)
 
-last_update: '2025-06-11T19:18:36.102484'
+last_update: '2025-06-23T19:18:58.814767'
 list:
   acp:
     acronym: ACP
@@ -180,8 +180,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/atnlp
     credits: 20
     cw_exam_ratio:
-    - 40
-    - 60
+    - 30
+    - 70
     delivery: SEM2
     delivery_ordinal: 2
     diet: April/May
@@ -566,23 +566,6 @@ list:
     level: 10
     name: Elements of Programming Languages
     year: '3'
-  f-bair:
-    acronym: F-BAIR
-    course_url: https://course.inf.ed.ac.uk/f-bair
-    credits: 30
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: YR
-    delivery_ordinal: 3
-    diet: April/May
-    euclid_code: INFR11262
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11262.htm
-    euclid_url_shadow: null
-    level: 11
-    name: Foundational Biomedical Artificial Intelligence Research
-    year: P
   finet:
     acronym: FINET
     course_url: https://course.inf.ed.ac.uk/finet
@@ -762,7 +745,7 @@ list:
     - 60
     delivery: SEM2
     delivery_ordinal: 2
-    diet: None
+    diet: April/May
     euclid_code: INFR08020
     euclid_code_shadow: null
     euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr08020.htm
