@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-06-23 19:18:58.814767)
+# Last update: Unknown (assuming now: 2025-07-02 19:18:56.422380)
 
-last_update: '2025-06-23T19:18:58.814767'
+last_update: '2025-07-02T19:18:56.422380'
 list:
   acp:
     acronym: ACP
@@ -796,7 +796,7 @@ list:
     - 40
     delivery: YR
     delivery_ordinal: 3
-    diet: None
+    diet: April/May
     euclid_code: INFR08030
     euclid_code_shadow: null
     euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr08030.htm
