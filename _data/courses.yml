@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-07-02 19:18:56.422380)
+# Last update: Unknown (assuming now: 2025-07-14 19:19:05.110718)
 
-last_update: '2025-07-02T19:18:56.422380'
+last_update: '2025-07-14T19:19:05.110718'
 list:
   acp:
     acronym: ACP
@@ -73,6 +73,23 @@ list:
     level: 11
     name: Algorithmic Game Theory and its Applications
     year: '4'
+  aiqc:
+    acronym: AIQC
+    course_url: https://course.inf.ed.ac.uk/aiqc
+    credits: 10
+    cw_exam_ratio:
+    - 25
+    - 75
+    delivery: SEM1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: INFR11297
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11297.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Advanced Introduction to Quantum Computing
+    year: P
   aml:
     acronym: AML
     course_url: https://course.inf.ed.ac.uk/aml
@@ -95,11 +112,11 @@ list:
     course_url: https://course.inf.ed.ac.uk/aml-dl
     credits: 20
     cw_exam_ratio:
-    - 30
-    - 70
+    - 100
+    - 0
     delivery: SEM2
     delivery_ordinal: 2
-    diet: April/May
+    diet: None
     euclid_code: INFD11032
     euclid_code_shadow: null
     euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfd11032.htm
@@ -235,7 +252,7 @@ list:
     - 70
     delivery: SEM2
     delivery_ordinal: 2
-    diet: None
+    diet: April/May
     euclid_code: INFR11036
     euclid_code_shadow: INFR11233
     euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11036.htm
@@ -252,7 +269,7 @@ list:
     - 60
     delivery: SEM1
     delivery_ordinal: 1
-    diet: None
+    diet: December
     euclid_code: INFR10054
     euclid_code_shadow: null
     euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr10054.htm
@@ -1051,7 +1068,7 @@ list:
     - 80
     delivery: SEM2
     delivery_ordinal: 2
-    diet: None
+    diet: April/May
     euclid_code: INFR10086
     euclid_code_shadow: null
     euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr10086.htm
@@ -1185,8 +1202,8 @@ list:
     cw_exam_ratio:
     - 100
     - 0
-    delivery: SEM2
-    delivery_ordinal: 2
+    delivery: YR
+    delivery_ordinal: 3
     diet: None
     euclid_code: INFR11257
     euclid_code_shadow: null
@@ -1595,7 +1612,7 @@ list:
     - 80
     delivery: SEM2
     delivery_ordinal: 2
-    diet: None
+    diet: April/May
     euclid_code: INFR11158
     euclid_code_shadow: INFR11230
     euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11158.htm
@@ -1603,3 +1620,4 @@ list:
     level: 11
     name: Usable Security and Privacy
     year: P
+session: 2025-26
