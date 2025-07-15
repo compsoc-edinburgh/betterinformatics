@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-07-14 19:19:05.110718)
+# Last update: Unknown (assuming now: 2025-07-15 19:20:57.014808)
 
-last_update: '2025-07-14T19:19:05.110718'
+last_update: '2025-07-15T19:20:57.014808'
 list:
   acp:
     acronym: ACP
@@ -520,8 +520,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/dmp
     credits: 20
     cw_exam_ratio:
-    - 60
-    - 40
+    - 20
+    - 80
     delivery: SEM1
     delivery_ordinal: 1
     diet: December
