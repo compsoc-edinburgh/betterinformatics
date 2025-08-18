@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-08-15 19:18:33.657471)
+# Last update: Unknown (assuming now: 2025-08-18 19:20:04.460778)
 
-last_update: '2025-08-15T19:18:33.657471'
+last_update: '2025-08-18T19:20:04.460778'
 list:
   acp:
     acronym: ACP
@@ -92,7 +92,7 @@ list:
     year: P
   aml:
     acronym: AML
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/aml
     credits: 20
     cw_exam_ratio:
     - 40
@@ -262,7 +262,7 @@ list:
     year: P
   ccs:
     acronym: CCS
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/ccs
     credits: 10
     cw_exam_ratio:
     - 40
@@ -1027,7 +1027,7 @@ list:
     year: P
   mip1:
     acronym: MIP1
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/mip1
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1044,7 +1044,7 @@ list:
     year: '4'
   mip2:
     acronym: MIP2
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/mip2
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1265,7 +1265,7 @@ list:
     year: '3'
   pbi:
     acronym: PBI
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/pbi
     credits: 10
     cw_exam_ratio:
     - 20
@@ -1384,7 +1384,7 @@ list:
     year: '4'
   proj:
     acronym: PROJ
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/proj
     credits: 40
     cw_exam_ratio:
     - 100
