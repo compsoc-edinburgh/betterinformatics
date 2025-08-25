@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-08-18 19:20:04.460778)
+# Last update: Unknown (assuming now: 2025-08-25 19:18:34.645720)
 
-last_update: '2025-08-18T19:20:04.460778'
+last_update: '2025-08-25T19:18:34.645720'
 list:
   acp:
     acronym: ACP
@@ -398,7 +398,7 @@ list:
     year: P
   csec-10:
     acronym: CSEC-10
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/csec-10
     credits: 20
     cw_exam_ratio:
     - 25
@@ -415,7 +415,7 @@ list:
     year: '3'
   csec-11:
     acronym: CSEC-11
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/csec-11
     credits: 20
     cw_exam_ratio:
     - 30
@@ -500,7 +500,7 @@ list:
     year: P
   diss-dsti-dl:
     acronym: DISS-DSTI-DL
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/diss-dsti-dl
     credits: 60
     cw_exam_ratio:
     - 100
@@ -653,7 +653,7 @@ list:
     year: '4'
   i-bair:
     acronym: I-BAIR
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/i-bair
     credits: 40
     cw_exam_ratio:
     - 100
@@ -670,7 +670,7 @@ list:
     year: P
   idb:
     acronym: IDB
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/idb
     credits: 20
     cw_exam_ratio:
     - 20
@@ -687,7 +687,7 @@ list:
     year: '3'
   iel-08:
     acronym: IEL-08
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/iel-08
     credits: 20
     cw_exam_ratio:
     - 100
@@ -704,7 +704,7 @@ list:
     year: '2'
   iel-10:
     acronym: IEL-10
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/iel-10
     credits: 20
     cw_exam_ratio:
     - 100
@@ -857,7 +857,7 @@ list:
     year: '2'
   inf2c-cs:
     acronym: INF2C-CS
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/inf2c-cs
     credits: 20
     cw_exam_ratio:
     - 50
@@ -939,6 +939,23 @@ list:
     euclid_url_shadow: null
     level: 11
     name: Informatics Project Proposal 20
+    year: P
+  ipp20-dl:
+    acronym: IPP20-DL
+    course_url: https://course.inf.ed.ac.uk/ipp20-dl
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: SEM2
+    delivery_ordinal: 2
+    diet: None
+    euclid_code: INFD11031
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfd11031.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Informatics Project Proposal 20 (Distance Learning)
     year: P
   iqc:
     acronym: IQC
@@ -1078,7 +1095,7 @@ list:
     year: '3'
   mlp:
     acronym: MLP
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/mlp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1112,7 +1129,7 @@ list:
     year: '4'
   mlsp100:
     acronym: MLSP100
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/mlsp100
     credits: 100
     cw_exam_ratio:
     - 100
@@ -1129,7 +1146,7 @@ list:
     year: P
   mlsp60:
     acronym: MLSP60
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/mlsp60
     credits: 60
     cw_exam_ratio:
     - 100
@@ -1146,7 +1163,7 @@ list:
     year: P
   mlsp80:
     acronym: MLSP80
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/mlsp80
     credits: 80
     cw_exam_ratio:
     - 100
@@ -1180,7 +1197,7 @@ list:
     year: '3'
   nlp-aip:
     acronym: NLP-AIP
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/nlp-aip
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1214,7 +1231,7 @@ list:
     year: P
   nlp-iep:
     acronym: NLP-IEP
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/nlp-iep
     credits: 60
     cw_exam_ratio:
     - 100
@@ -1231,7 +1248,7 @@ list:
     year: P
   nlp-rr:
     acronym: NLP-RR
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/nlp-rr
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1248,7 +1265,7 @@ list:
     year: P
   os:
     acronym: OS
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/os
     credits: 20
     cw_exam_ratio:
     - 50
@@ -1299,7 +1316,7 @@ list:
     year: '4'
   pdp:
     acronym: PDP
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/pdp
     credits: 60
     cw_exam_ratio:
     - 100
@@ -1401,7 +1418,7 @@ list:
     year: '4'
   psml:
     acronym: PSML
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/psml
     credits: 10
     cw_exam_ratio:
     - 25
@@ -1435,7 +1452,7 @@ list:
     year: '4'
   qigp:
     acronym: QIGP
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/qigp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1452,7 +1469,7 @@ list:
     year: P
   qipo:
     acronym: QIPO
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/qipo
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1503,7 +1520,7 @@ list:
     year: P
   sdp:
     acronym: SDP
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/sdp
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1571,7 +1588,7 @@ list:
     year: '3'
   tbi:
     acronym: TBI
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/tbi
     credits: 10
     cw_exam_ratio:
     - 0
