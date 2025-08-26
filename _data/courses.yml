@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-08-25 19:18:34.645720)
+# Last update: Unknown (assuming now: 2025-08-26 19:18:36.668883)
 
-last_update: '2025-08-25T19:18:34.645720'
+last_update: '2025-08-26T19:18:36.668883'
 list:
   acp:
     acronym: ACP
@@ -231,8 +231,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/card
     credits: 20
     cw_exam_ratio:
-    - 40
-    - 60
+    - 30
+    - 70
     delivery: SEM1
     delivery_ordinal: 1
     diet: December
@@ -809,8 +809,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/inf2-fds
     credits: 20
     cw_exam_ratio:
-    - 60
-    - 40
+    - 50
+    - 50
     delivery: YR
     delivery_ordinal: 3
     diet: April/May
