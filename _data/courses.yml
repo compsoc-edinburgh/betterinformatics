@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-08-26 19:18:36.668883)
+# Last update: Unknown (assuming now: 2025-08-29 19:17:03.475096)
 
-last_update: '2025-08-26T19:18:36.668883'
+last_update: '2025-08-29T19:17:03.475096'
 list:
   acp:
     acronym: ACP
@@ -1268,8 +1268,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/os
     credits: 20
     cw_exam_ratio:
-    - 50
-    - 50
+    - 40
+    - 60
     delivery: SEM2
     delivery_ordinal: 2
     diet: April/May
