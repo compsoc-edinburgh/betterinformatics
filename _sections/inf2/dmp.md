@@ -13,7 +13,6 @@ DMMR and PwA has been merged to form this new course, DMP is now solely based on
 
 [**Online (flipped-classroom) version of this course. 10x better than the lectures.**](https://youtu.be/rdXw7Ps9vxc?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 
-Exam type: 100% Coursework.
 
 **Discrete Mathematics:** 
 
