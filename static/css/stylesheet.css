@@ -265,29 +265,25 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 36px
 }
 #menu {
-    width: 959px;
-    height: 192px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    background-image: url("../img/gray-text-grayscale-nav.png");
+    background-size: contain;
+    aspect-ratio: 1678 / 335; /* size of background image */
 }
 
 @media screen and (max-width: 970px) {
   .hide-on-small {
-    visibility: hidden;
-    clear: both;
-    float: left;
-    margin: 10px auto 5px 20px;
-    width: 28%;
-    display: none;
+    display: none !important;
   }
 }
 
 @media screen and (min-width: 971px) {
   .hide-on-big {
-    visibility: hidden;
-    clear: both;
-    float: left;
-    margin: 10px auto 5px 20px;
-    width: 28%;
-    display: none;
+    display: none !important;
   }
 }
 
@@ -297,10 +293,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #menu a {
-    width: 137px;
-    height: 192px;
-    display: block;
-    float: left;
+    background-size: cover;
+    aspect-ratio: 239 / 335;
     text-decoration: none;
     transition: .3s;
     opacity: 0
@@ -346,22 +340,22 @@ h1, h2, h3, h4, h5, h6 {
     background-position: 0 0
 }
 #btn_inf1 {
-    background-position: -137px 0
+    background-position: 16.67% 0
 }
 #btn_inf2 {
-    background-position: -274px 0
+    background-position: 33.33% 0
 }
 #btn_inf3 {
-    background-position: -411px 0
+    background-position: 50% 0
 }
 #btn_inf4 {
-    background-position: -548px 0
+    background-position: 66.66% 0
 }
 #btn_inf5 {
-    background-position: -685px 0
+    background-position: 83.33% 0
 }
 #btn_files {
-    background-position: -822px 0
+    background-position: 100% 0
 }
 
 @font-face {
@@ -539,12 +533,10 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
 
     #menu {
         background-image: url("../img/gray-text-grayscale-nav.png");
-        background-size: cover;
     }
 
     #menu a {
         background-image: url("../img/dark-text-colored-nav.png");
-        background-size: cover;
     }
 
     a:hover {
@@ -580,14 +572,8 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
         color: rgb(214, 214, 224);
     }
 
-    #menu {
-        background-image: url("../img/gray-text-grayscale-nav.png");
-        background-size: cover;
-    }
-
     #menu a {
         background-image: url("../img/light-text-colored-nav.png");
-        background-size: cover;
     }
 
     a:hover {
