@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-09-09 19:17:22.862092)
+# Last update: Unknown (assuming now: 2025-09-16 19:17:30.232697)
 
-last_update: '2025-09-09T19:17:22.862092'
+last_update: '2025-09-16T19:17:30.232697'
 list:
   acp:
     acronym: ACP
@@ -1129,7 +1129,7 @@ list:
     year: '4'
   mlsp100:
     acronym: MLSP100
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/mlsp100
     credits: 100
     cw_exam_ratio:
     - 100
@@ -1146,7 +1146,7 @@ list:
     year: P
   mlsp60:
     acronym: MLSP60
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/mlsp60
     credits: 60
     cw_exam_ratio:
     - 100
@@ -1163,7 +1163,7 @@ list:
     year: P
   mlsp80:
     acronym: MLSP80
-    course_url: null
+    course_url: https://course.inf.ed.ac.uk/mlsp80
     credits: 80
     cw_exam_ratio:
     - 100
