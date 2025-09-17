@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-09-16 19:17:30.232697)
+# Last update: Unknown (assuming now: 2025-09-17 19:17:17.156805)
 
-last_update: '2025-09-16T19:17:30.232697'
+last_update: '2025-09-17T19:17:17.156805'
 list:
   acp:
     acronym: ACP
@@ -1127,6 +1127,23 @@ list:
     level: 11
     name: Machine Learning Systems
     year: '4'
+  mlsir:
+    acronym: MLSIR
+    course_url: https://course.inf.ed.ac.uk/mlsir
+    credits: 40
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: None
+    euclid_code: INFR11292
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11292.htm
+    euclid_url_shadow: null
+    level: 11
+    name: ML Systems Internship Research and Engagement Report
+    year: P
   mlsp100:
     acronym: MLSP100
     course_url: https://course.inf.ed.ac.uk/mlsp100
@@ -1517,6 +1534,40 @@ list:
     euclid_url_shadow: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11237.htm
     level: 11
     name: Seminar in Cognitive Modelling
+    year: P
+  sdd-aibi-1:
+    acronym: SDD-AIBI-1
+    course_url: https://course.inf.ed.ac.uk/sdd-aibi-1
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: None
+    euclid_code: INFR11294
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11294.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Self-Directed Development in AI for Biomedical Innovation (Year 1)
+    year: P
+  sdd-aibi-2:
+    acronym: SDD-AIBI-2
+    course_url: https://course.inf.ed.ac.uk/sdd-aibi-2
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: None
+    euclid_code: INFR11295
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11295.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Self-Directed Development in AI for Biomedical Innovation (Year 2)
     year: P
   sdp:
     acronym: SDP
