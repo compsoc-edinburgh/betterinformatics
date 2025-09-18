@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-09-17 19:17:17.156805)
+# Last update: Unknown (assuming now: 2025-09-18 19:18:06.773058)
 
-last_update: '2025-09-17T19:17:17.156805'
+last_update: '2025-09-18T19:18:06.773058'
 list:
   acp:
     acronym: ACP
@@ -1484,6 +1484,23 @@ list:
     level: 11
     name: Quantum Informatics Group Project
     year: P
+  qiip:
+    acronym: QIIP
+    course_url: https://course.inf.ed.ac.uk/qiip
+    credits: 60
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: NONE
+    delivery_ordinal: 4
+    diet: None
+    euclid_code: INFR11273
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11273.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Quantum Informatics Individual Project
+    year: '1'
   qipo:
     acronym: QIPO
     course_url: null
@@ -1568,6 +1585,23 @@ list:
     euclid_url_shadow: null
     level: 11
     name: Self-Directed Development in AI for Biomedical Innovation (Year 2)
+    year: P
+  sdd-aibi-3:
+    acronym: SDD-AIBI-3
+    course_url: https://course.inf.ed.ac.uk/sdd-aibi-3
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: None
+    euclid_code: INFR11296
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11296.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Self-Directed Development in AI for Biomedical Innovation (Year 3)
     year: P
   sdp:
     acronym: SDP
@@ -1670,6 +1704,23 @@ list:
     euclid_url_shadow: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11276.htm
     level: 11
     name: 'The Human Factor: Working with Users'
+    year: P
+  tqi:
+    acronym: TQI
+    course_url: https://course.inf.ed.ac.uk/tqi
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: SEM1
+    delivery_ordinal: 1
+    diet: None
+    euclid_code: INFR11266
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr11266.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Topics in Quantum Informatics
     year: P
   ttds:
     acronym: TTDS
