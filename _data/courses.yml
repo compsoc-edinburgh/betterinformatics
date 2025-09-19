@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-09-18 19:18:06.773058)
+# Last update: Unknown (assuming now: 2025-09-19 19:17:16.336663)
 
-last_update: '2025-09-18T19:18:06.773058'
+last_update: '2025-09-19T19:17:16.336663'
 list:
   acp:
     acronym: ACP
@@ -950,12 +950,12 @@ list:
     delivery: SEM2
     delivery_ordinal: 2
     diet: None
-    euclid_code: INFD11031
+    euclid_code: INFD11033
     euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfd11031.htm
+    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfd11033.htm
     euclid_url_shadow: null
     level: 11
-    name: Informatics Project Proposal 20 (Distance Learning)
+    name: Informatics Project Proposal 20 (Distance Learning) (Distance Learning)
     year: P
   iqc:
     acronym: IQC
