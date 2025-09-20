@@ -1,12 +1,16 @@
 ---
-title: Calculus and its Applications
+title: Calculus and Algebra Fundamentals for Informatics
 year: 1
-semester: 2
+semester: 1
 archived: false
 links:
   - name: drps
     url: http://www.drps.ed.ac.uk/19-20/dpt/cxmath08058.htm
 ---
+
+Until 2024, a similar course called "Calculus and its Applications" ran. That course was mandatory for all Informatics students and ran in Sem 2. 
+
+CAFI on the other hand runs in Semester 1 and is only mandatory for those without an advanced maths background in high school. Beware when using checking old exams or other people's notes!
 
 - [Fox's notes](https://docs.google.com/viewer?url=https://github.com/compsoc-edinburgh/bi-cap/releases/latest/download/reference.pdf) ([src](https://github.com/compsoc-edinburgh/bi-cap))
 - Cheat sheet PDFs of the [definitions and theorems](https://files.betterinformatics.com/document/exam-cheatsheet-for-definition-and-theorems-2018) to save you time in the exam (no need to search through the textbook)
