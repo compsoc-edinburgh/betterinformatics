@@ -57,6 +57,8 @@ Other services we have at Better Informatics include:
 
 <sup><sub>Previously (pre-2020) the Better Informatics Jekyll page was hosted on Tardis, and offered some server-side code for automatic addition to Google Drive etc. After Tardis was temporarily shut down while it migrated to a new infrastructure, the Jekyll page has been hosted on GitHub Pages infrastructure with no moving parts (so you might see some code/text that mentions the previous infra -- feel free to update it!).</sub></sup>
 
+DNS records are managed in [our dedicated repository](https://github.com/compsoc-edinburgh/betterinformatics-dns).
+
 ## Design Philosophy
 
 Change can be good, but it's really important not to alienate users. Students are lazy and if it's hard to find something, they might not bother to find it, especially if they don't know it exists.
