@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-10-03 19:17:04.125675)
+# Last update: Unknown (assuming now: 2025-11-26 19:18:59.291361)
 
-last_update: '2025-10-03T19:17:04.125675'
+last_update: '2025-11-26T19:18:59.291361'
 list:
   acp:
     acronym: ACP
@@ -1491,8 +1491,8 @@ list:
     cw_exam_ratio:
     - 100
     - 0
-    delivery: SEM2
-    delivery_ordinal: 2
+    delivery: SB5
+    delivery_ordinal: 4
     diet: None
     euclid_code: INFR11273
     euclid_code_shadow: null
