@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-11-27 19:19:15.279769)
+# Last update: Unknown (assuming now: 2025-12-19 19:20:11.688977)
 
-last_update: '2025-11-27T19:19:15.279769'
+last_update: '2025-12-19T19:20:11.688977'
 list:
   acp:
     acronym: ACP
@@ -1520,7 +1520,7 @@ list:
     year: P
   rrl:
     acronym: RRL
-    course_url: https://course.inf.ed.ac.uk/rrl
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 30
