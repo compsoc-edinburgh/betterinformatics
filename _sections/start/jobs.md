@@ -3,7 +3,6 @@ year: start
 title: Jobs
 ---
 
-- [CompClarity](https://compclarity.com/) - Honest UK tech salary comparison website, built by a UoE Masters student
 - [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig)
 - CourtneyThurston has some interesting articles:
   - [negotiating-major-swe-offers](https://github.com/CourtneyThurston/negotiating-major-swe-offers)
