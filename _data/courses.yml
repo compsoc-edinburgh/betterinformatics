@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2025-12-19 19:20:11.688977)
+# Last update: Unknown (assuming now: 2026-01-13 19:24:49.165813)
 
-last_update: '2025-12-19T19:20:11.688977'
+last_update: '2026-01-13T19:24:49.165813'
 list:
   acp:
     acronym: ACP
@@ -466,7 +466,7 @@ list:
     year: '3'
   cv:
     acronym: CV
-    course_url: https://course.inf.ed.ac.uk/cv
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 50
