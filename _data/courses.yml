@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2026-01-13 19:24:49.165813)
+# Last update: Unknown (assuming now: 2026-02-03 19:46:31.930120)
 
-last_update: '2026-01-13T19:24:49.165813'
+last_update: '2026-02-03T19:46:31.930120'
 list:
   acp:
     acronym: ACP
@@ -1654,23 +1654,6 @@ list:
     level: 11
     name: Secure Programming
     year: '4'
-  st:
-    acronym: ST
-    course_url: https://course.inf.ed.ac.uk/st
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: SEM1
-    delivery_ordinal: 1
-    diet: None
-    euclid_code: INFR10057
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/25-26/dpt/cxinfr10057.htm
-    euclid_url_shadow: null
-    level: 10
-    name: Software Testing
-    year: '3'
   tbi:
     acronym: TBI
     course_url: null
