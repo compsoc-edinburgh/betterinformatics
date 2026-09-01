@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2026-08-13 19:56:32.866617)
+# Last update: Unknown (assuming now: 2026-09-01 21:39:10.377221)
 
-last_update: '2026-08-13T19:56:32.866617'
+last_update: '2026-09-01T21:39:10.377221'
 list:
   acp:
     acronym: ACP
@@ -16,9 +16,9 @@ list:
     delivery_ordinal: 2
     diet: None
     euclid_code: INFR11245
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11249
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11245.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11249.htm
     level: 11
     name: Applied Cloud Programming
     year: '4'
@@ -33,9 +33,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11199
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11217
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11199.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11217.htm
     level: 11
     name: Advanced Database Systems
     year: '4'
@@ -67,9 +67,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11020
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11218
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11020.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11218.htm
     level: 11
     name: Algorithmic Game Theory and its Applications
     year: '4'
@@ -169,9 +169,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11033
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11219
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11033.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11219.htm
     level: 11
     name: Automatic Speech Recognition
     year: '4'
@@ -186,9 +186,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11286
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11289
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11286.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11289.htm
     level: 11
     name: Advanced Topics in Machine Learning
     year: '4'
@@ -203,9 +203,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11287
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11288
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11287.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11288.htm
     level: 11
     name: Advanced Topics in Natural Language Processing
     year: '4'
@@ -254,9 +254,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11036
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11233
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11036.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11233.htm
     level: 11
     name: Computational Cognitive Neuroscience
     year: P
@@ -305,9 +305,9 @@ list:
     delivery_ordinal: 2
     diet: None
     euclid_code: INFR11241
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11247
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11241.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11247.htm
     level: 11
     name: 'Computer Graphics: Geometry and Simulation'
     year: '4'
@@ -458,9 +458,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11212
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11278
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11212.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11278.htm
     level: 11
     name: Computer Vision
     year: '4'
@@ -747,9 +747,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11131
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11221
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11131.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11221.htm
     level: 11
     name: Introduction to Modern Cryptography
     year: '4'
@@ -1019,9 +1019,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11207
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11234
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11207.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11234.htm
     level: 11
     name: Methods for Causal Inference
     year: P
@@ -1104,9 +1104,9 @@ list:
     delivery_ordinal: 3
     diet: None
     euclid_code: INFR11132
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11223
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11132.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11223.htm
     level: 11
     name: Machine Learning Practical
     year: '4'
@@ -1121,9 +1121,9 @@ list:
     delivery_ordinal: 1
     diet: None
     euclid_code: INFR11269
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11280
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11269.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11280.htm
     level: 11
     name: Machine Learning Systems
     year: '4'
@@ -1393,9 +1393,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11023
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11226
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11023.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11226.htm
     level: 11
     name: Parallel Programming Languages and Systems (Level 11)
     year: '4'
@@ -1427,9 +1427,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11240
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11252
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11240.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11252.htm
     level: 11
     name: Privacy and Security with Machine Learning
     year: '4'
@@ -1444,9 +1444,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11187
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11227
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11187.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11227.htm
     level: 11
     name: Quantum Cyber Security
     year: '4'
@@ -1512,9 +1512,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11285
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11290
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11285.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11290.htm
     level: 11
     name: Robot and Reinforcement Learning
     year: '4'
@@ -1529,9 +1529,9 @@ list:
     delivery_ordinal: 1
     diet: None
     euclid_code: INFR11210
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11237
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11210.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11237.htm
     level: 11
     name: Seminar in Cognitive Modelling
     year: P
@@ -1614,9 +1614,9 @@ list:
     delivery_ordinal: 1
     diet: December
     euclid_code: INFR11208
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11228
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11208.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11228.htm
     level: 11
     name: Security Engineering
     year: '4'
@@ -1648,9 +1648,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11263
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11282
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11263.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11282.htm
     level: 11
     name: Topics in Biomedical Informatics
     year: '4'
@@ -1699,9 +1699,9 @@ list:
     delivery_ordinal: 3
     diet: April/May
     euclid_code: INFR11145
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11229
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11145.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11229.htm
     level: 11
     name: Text Technologies for Data Science
     year: '4'
@@ -1716,9 +1716,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11158
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11230
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11158.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11230.htm
     level: 11
     name: Usable Security and Privacy
     year: P
