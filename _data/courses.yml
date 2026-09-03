@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2026-09-01 21:39:10.377221)
+# Last update: Unknown (assuming now: 2026-09-03 21:35:38.610256)
 
-last_update: '2026-09-01T21:39:10.377221'
+last_update: '2026-09-03T21:35:38.610256'
 list:
   acp:
     acronym: ACP
@@ -1110,23 +1110,6 @@ list:
     level: 11
     name: Machine Learning Practical
     year: '4'
-  mls:
-    acronym: MLS
-    course_url: https://course.inf.ed.ac.uk/mls
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: SEM1
-    delivery_ordinal: 1
-    diet: None
-    euclid_code: INFR11269
-    euclid_code_shadow: INFR11280
-    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11269.htm
-    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11280.htm
-    level: 11
-    name: Machine Learning Systems
-    year: '4'
   mlsir:
     acronym: MLSIR
     course_url: https://course.inf.ed.ac.uk/mlsir
@@ -1338,7 +1321,7 @@ list:
     cw_exam_ratio:
     - 100
     - 0
-    delivery: SB5+
+    delivery: FLEX
     delivery_ordinal: 4
     diet: None
     euclid_code: INFR11264
@@ -1637,6 +1620,23 @@ list:
     level: 11
     name: Secure Programming
     year: '4'
+  st:
+    acronym: ST
+    course_url: https://course.inf.ed.ac.uk/st
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: SEM1
+    delivery_ordinal: 1
+    diet: None
+    euclid_code: INFR10057
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr10057.htm
+    euclid_url_shadow: null
+    level: 10
+    name: Software Testing
+    year: '3'
   tbi:
     acronym: TBI
     course_url: https://course.inf.ed.ac.uk/tbi
