@@ -81,10 +81,10 @@ jobs:
     - name: Print JSON to file
       run: echo '${{ steps.yaml2json.outputs.data }}' > courses.json
         
-    - name: Upload courses to Spaces
+    - name: Upload courses to S3
       if: "steps.generate_yml.outputs.has_changed == 'true'"
-      run: aws s3 --endpoint https://ams3.digitaloceanspaces.com cp --acl public-read courses.json s3://compsoc/betterinformatics/courses.json
+      run: aws --endpoint-url https://minio.on.tardis.ac s3 cp --acl public-read bi/_data/courses.yml s3://${{ secrets.MINIO_BUCKET }}/courses.yml
       env:
-        AWS_ACCESS_KEY_ID: ${{ secrets.SPACES_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.SPACES_SECRET_ACCESS_KEY }}
-        AWS_DEFAULT_REGION: ams3
+        AWS_ACCESS_KEY_ID: ${{ secrets.MINIO_ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.MINIO_SECRET_KEY }}
+        AWS_DEFAULT_REGION: us-east-1
