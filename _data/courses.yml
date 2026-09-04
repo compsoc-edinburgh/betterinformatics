@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2026-09-03 21:35:38.610256)
+# Last update: Unknown (assuming now: 2026-09-04 21:18:24.043379)
 
-last_update: '2026-09-03T21:35:38.610256'
+last_update: '2026-09-04T21:18:24.043379'
 list:
   acp:
     acronym: ACP
@@ -906,23 +906,6 @@ list:
     level: 8
     name: Informatics 2D - Reasoning and Agents
     year: '2'
-  ipp:
-    acronym: IPP
-    course_url: https://course.inf.ed.ac.uk/ipp
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: SEM2
-    delivery_ordinal: 2
-    diet: None
-    euclid_code: INFR11147
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11147.htm
-    euclid_url_shadow: null
-    level: 11
-    name: Informatics Project Proposal
-    year: P
   ipp-dl:
     acronym: IPP-DL
     course_url: https://course.inf.ed.ac.uk/ipp-dl
@@ -1109,6 +1092,23 @@ list:
     euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11223.htm
     level: 11
     name: Machine Learning Practical
+    year: '4'
+  mls:
+    acronym: MLS
+    course_url: https://course.inf.ed.ac.uk/mls
+    credits: 20
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: SEM1
+    delivery_ordinal: 1
+    diet: None
+    euclid_code: INFR11269
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11269.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Machine Learning Systems
     year: '4'
   mlsir:
     acronym: MLSIR
@@ -1597,9 +1597,9 @@ list:
     delivery_ordinal: 1
     diet: December
     euclid_code: INFR11208
-    euclid_code_shadow: INFR11228
+    euclid_code_shadow: null
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11208.htm
-    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11228.htm
+    euclid_url_shadow: null
     level: 11
     name: Security Engineering
     year: '4'
