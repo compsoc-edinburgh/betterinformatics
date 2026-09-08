@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2026-09-04 21:18:24.043379)
+# Last update: Unknown (assuming now: 2026-09-08 21:42:42.334835)
 
-last_update: '2026-09-04T21:18:24.043379'
+last_update: '2026-09-08T21:42:42.334835'
 list:
   acp:
     acronym: ACP
@@ -288,9 +288,9 @@ list:
     delivery_ordinal: 2
     diet: None
     euclid_code: INFR11094
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11304
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11094.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11304.htm
     level: 11
     name: Case Studies in Design Informatics 1
     year: P
@@ -687,7 +687,7 @@ list:
     year: '3'
   iel-08:
     acronym: IEL-08
-    course_url: https://course.inf.ed.ac.uk/iel-08
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 100
@@ -704,7 +704,7 @@ list:
     year: '2'
   iel-10:
     acronym: IEL-10
-    course_url: https://course.inf.ed.ac.uk/iel-10
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 100
@@ -823,7 +823,7 @@ list:
     year: '1'
   inf2-cs:
     acronym: INF2-CS
-    course_url: https://course.inf.ed.ac.uk/inf2-cs
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 50
@@ -1274,9 +1274,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11303
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11306
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11303.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11306.htm
     level: 11
     name: Neurosymbolic AI
     year: '4'
@@ -1512,9 +1512,9 @@ list:
     delivery_ordinal: 1
     diet: None
     euclid_code: INFR11210
-    euclid_code_shadow: INFR11237
+    euclid_code_shadow: null
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11210.htm
-    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11237.htm
+    euclid_url_shadow: null
     level: 11
     name: Seminar in Cognitive Modelling
     year: P
@@ -1591,8 +1591,8 @@ list:
     course_url: https://course.inf.ed.ac.uk/seng
     credits: 10
     cw_exam_ratio:
-    - 30
-    - 70
+    - 0
+    - 100
     delivery: SEM1
     delivery_ordinal: 1
     diet: December
@@ -1665,9 +1665,9 @@ list:
     delivery_ordinal: 2
     diet: April/May
     euclid_code: INFR11302
-    euclid_code_shadow: null
+    euclid_code_shadow: INFR11305
     euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11302.htm
-    euclid_url_shadow: null
+    euclid_url_shadow: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11305.htm
     level: 11
     name: Topics in Programming Languages and Semantics
     year: '4'
