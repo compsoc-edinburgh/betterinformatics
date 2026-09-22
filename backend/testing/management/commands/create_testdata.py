@@ -527,11 +527,14 @@ class Command(BaseCommand):
                 objs.append(
                     CourseStats(
                         course_name=course_name,
-                        course_code=euclid_code.code,
+                        course_code=euclid_code,
                         mean_mark=mean_mark,
                         std_deviation=std_deviation,
                         academic_year=year,
                         course_organiser=current_organiser,
+                        source_name="internal",
+                        source_date=timezone.now().date(),
+                        percentiles={},
                     )
                 )
 
