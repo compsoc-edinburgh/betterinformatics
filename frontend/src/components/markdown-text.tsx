@@ -269,7 +269,7 @@ const MarkdownText: React.FC<Props> = ({
       return <div />;
     }
     return (
-      <div className={clsx(classes.wrapperStyle, classes.blockquoteStyle)}>
+      <div className={classes.wrapperStyle}>
         <ErrorBoundary fallback={errorMessage}>
           <MarkdownHooks
             urlTransform={(uri: string, _key, node) => {
