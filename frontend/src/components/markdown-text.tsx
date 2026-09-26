@@ -97,27 +97,27 @@ const createComponents = (
   addAnchors: boolean,
   languages?: Record<string, ComponentRenderer>,
 ): Components => ({
-  table: ({ children }) => {
+  table: ({ children, ...props }) => {
     return (
-      <Table style={{ width: "auto" }} withColumnBorders={true}>
+      <Table style={{ width: "auto" }} withColumnBorders={true} {...props}>
         {children}
       </Table>
     );
   },
-  tbody: ({ children }) => {
-    return <Table.Tbody>{children}</Table.Tbody>;
+  tbody: ({ children, ...props }) => {
+    return <Table.Tbody {...props}>{children}</Table.Tbody>;
   },
-  thead: ({ children }) => {
-    return <Table.Thead>{children}</Table.Thead>;
+  thead: ({ children, ...props }) => {
+    return <Table.Thead {...props}>{children}</Table.Thead>;
   },
-  td: ({ children }) => {
-    return <Table.Td>{children}</Table.Td>;
+  td: ({ children, ...props }) => {
+    return <Table.Td {...props}>{children}</Table.Td>;
   },
-  th: ({ children }) => {
-    return <Table.Th>{children}</Table.Th>;
+  th: ({ children, ...props }) => {
+    return <Table.Th {...props}>{children}</Table.Th>;
   },
-  tr: ({ children }) => {
-    return <Table.Tr>{children}</Table.Tr>;
+  tr: ({ children, ...props }) => {
+    return <Table.Tr {...props}>{children}</Table.Tr>;
   },
   p: ({ children }) => {
     return <p>{addMarks(children, regex)}</p>;
