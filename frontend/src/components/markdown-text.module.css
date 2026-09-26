@@ -47,6 +47,27 @@
       background: var(--mantine-color-gray-9);
     }
   }
+
+  & hr {
+    border: 0;
+    height: 1px;
+    background: var(--mantine-color-gray-3);
+    /* thank you csstricks */
+    background-image: linear-gradient(
+      to right,
+      var(--mantine-color-gray-3),
+      var(--mantine-color-gray-1)
+    );
+
+    @mixin dark {
+      background: var(--mantine-color-dark-4);
+      background-image: linear-gradient(
+        to right,
+        var(--mantine-color-dark-4),
+        var(--mantine-color-gray-9)
+      );
+    }
+  }
 }
 
 h1[id],
