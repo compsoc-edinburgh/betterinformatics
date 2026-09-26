@@ -141,7 +141,10 @@ export const ToCContainer: React.FC<{
         const scrollMarginTop =
           parseFloat(getComputedStyle(el).scrollMarginTop) || 0;
         return (
-          el.getBoundingClientRect().top + window.scrollY - scrollMarginTop
+          // Make sure to floor to avoid subpixel issues with integer scrollY
+          Math.floor(el.getBoundingClientRect().top) +
+          window.scrollY -
+          scrollMarginTop
         );
       });
       updateActiveIndex();
@@ -152,28 +155,27 @@ export const ToCContainer: React.FC<{
       const viewportHeight = window.innerHeight;
       const docHeight = document.documentElement.scrollHeight;
 
-      // At the very top of the page, always highlight the first heading
-      if (scrollY <= 1) {
-        setActiveIndex(0);
-        return;
-      }
       // At the very bottom of the page, always highlight the last heading
       if (scrollY + viewportHeight >= docHeight - 1) {
         setActiveIndex(entries.length - 1);
         return;
       }
 
-      // Otherwise, check at 20% down the viewport
-      const referenceLine = scrollY + viewportHeight * 0.2;
+      // Otherwise, check at the exact top position of the viewport
+      const referenceLine = scrollY;
       let index = offsets.findLastIndex(offset => offset <= referenceLine);
       if (index === -1) {
+        // At anything above first heading, highlight the first heading
         index = 0;
       }
       setActiveIndex(index);
     };
 
-    // Only re-measure on start on window resize
-    measure();
+    // Only re-measure on start or on window resize
+    // Wait at least 0.2s to guarantee accurate measurement if fade in finishes
+    // after all resizes, because getBoundingClientRect is affected by transform.
+    // keep value synced with css animation duration in page-article
+    const timeout = setTimeout(measure, 200);
     const resizeObserver = new ResizeObserver(() => measure());
     resizeObserver.observe(document.body);
 
@@ -182,6 +184,7 @@ export const ToCContainer: React.FC<{
     window.addEventListener("resize", updateActiveIndex);
 
     return () => {
+      clearTimeout(timeout);
       resizeObserver.disconnect();
       window.removeEventListener("scroll", updateActiveIndex);
       window.removeEventListener("resize", updateActiveIndex);
