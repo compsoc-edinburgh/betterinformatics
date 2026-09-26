@@ -2,6 +2,8 @@
   border-bottom: 1px solid var(--paper-border-color);
   animation: fadeInUp 0.2s ease-in-out;
   flex: 1;
+  /* calculate as 0 width for parent flexbox calcs so long child overflows */
+  contain: inline-size;
 
   @mixin larger-than $mantine-breakpoint-sm {
     border-bottom: unset;
