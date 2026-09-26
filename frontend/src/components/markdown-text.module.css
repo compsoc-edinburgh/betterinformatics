@@ -68,6 +68,17 @@
       );
     }
   }
+
+  & :not(pre) > code {
+    padding-inline: 0.125rem;
+    margin-inline: 0.125rem;
+    border-radius: var(--mantine-radius-sm);
+    background: var(--mantine-color-gray-2);
+
+    @mixin dark {
+      background: var(--mantine-color-dark-9);
+    }
+  }
 }
 
 h1[id],
