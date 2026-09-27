@@ -1,5 +1,10 @@
 # Changelog
 
+## v2026.09.27
+
+- Improve Guide Page styling ([\#171](https://github.com/compsoc-edinburgh/betterinformatics/pull/171)), ([\#172](https://github.com/compsoc-edinburgh/betterinformatics/pull/172))
+- Dev-related bugfixes ([\#168](https://github.com/compsoc-edinburgh/betterinformatics/pull/168)), ([\#170](https://github.com/compsoc-edinburgh/betterinformatics/pull/170))
+
 ## v2026.09.11
 
 - Domain migration! We're now on `betterinformatics.com`!
