@@ -1,14 +1,3 @@
-.blockquote-style {
-  & blockquote {
-    padding: 0.3rem 0 0.3rem 0.6rem;
-    border-left-style: solid;
-    border-left-width: 3px;
-    border-left-color: var(--mantine-color-gray-7);
-    color: var(--mantine-color-gray-7);
-    fill: var(--mantine-color-gray-7);
-  }
-}
-
 .wrapper-style {
   overflow-x: auto;
   overflow-y: hidden;
@@ -41,6 +30,54 @@
   /* Undo effect of .overlay class defined in the theme css */
   & .overlay {
     padding: unset;
+  }
+
+  & blockquote {
+    margin: 0;
+    padding: 0.3rem 0 0.3rem 0.6rem;
+    border-left-style: solid;
+    border-left-width: 3px;
+    border-left-color: var(--mantine-color-gray-7);
+    color: var(--mantine-color-gray-7);
+    background: var(--mantine-color-gray-1);
+
+    @mixin dark {
+      border-left-color: var(--mantine-color-gray-5);
+      color: var(--mantine-color-gray-5);
+      background: var(--mantine-color-gray-9);
+    }
+  }
+
+  & hr {
+    border: 0;
+    height: 1px;
+    background: var(--mantine-color-gray-3);
+    /* thank you csstricks */
+    background-image: linear-gradient(
+      to right,
+      var(--mantine-color-gray-3),
+      var(--mantine-color-gray-1)
+    );
+
+    @mixin dark {
+      background: var(--mantine-color-dark-4);
+      background-image: linear-gradient(
+        to right,
+        var(--mantine-color-dark-4),
+        var(--mantine-color-gray-9)
+      );
+    }
+  }
+
+  & :not(pre) > code {
+    padding-inline: 0.125rem;
+    margin-inline: 0.125rem;
+    border-radius: var(--mantine-radius-sm);
+    background: var(--mantine-color-gray-2);
+
+    @mixin dark {
+      background: var(--mantine-color-dark-9);
+    }
   }
 }
 

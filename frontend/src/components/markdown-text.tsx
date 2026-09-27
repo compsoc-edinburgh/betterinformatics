@@ -14,7 +14,6 @@ import { useMemo } from "react";
 import { escapeRegExp } from "lodash-es";
 import { Alert, Skeleton, Table } from "@mantine/core";
 import ErrorBoundary from "./error-boundary";
-import { clsx } from "clsx";
 import classes from "./markdown-text.module.css";
 
 const CodeBlock = React.lazy(() => import("./code-block"));
@@ -97,27 +96,27 @@ const createComponents = (
   addAnchors: boolean,
   languages?: Record<string, ComponentRenderer>,
 ): Components => ({
-  table: ({ children }) => {
+  table: ({ node: _node, children, ...props }) => {
     return (
-      <Table style={{ width: "auto" }} withColumnBorders={true}>
+      <Table style={{ width: "auto" }} withColumnBorders={true} {...props}>
         {children}
       </Table>
     );
   },
-  tbody: ({ children }) => {
-    return <Table.Tbody>{children}</Table.Tbody>;
+  tbody: ({ node: _node, children, ...props }) => {
+    return <Table.Tbody {...props}>{children}</Table.Tbody>;
   },
-  thead: ({ children }) => {
-    return <Table.Thead>{children}</Table.Thead>;
+  thead: ({ node: _node, children, ...props }) => {
+    return <Table.Thead {...props}>{children}</Table.Thead>;
   },
-  td: ({ children }) => {
-    return <Table.Td>{children}</Table.Td>;
+  td: ({ node: _node, children, ...props }) => {
+    return <Table.Td {...props}>{children}</Table.Td>;
   },
-  th: ({ children }) => {
-    return <Table.Th>{children}</Table.Th>;
+  th: ({ node: _node, children, ...props }) => {
+    return <Table.Th {...props}>{children}</Table.Th>;
   },
-  tr: ({ children }) => {
-    return <Table.Tr>{children}</Table.Tr>;
+  tr: ({ node: _node, children, ...props }) => {
+    return <Table.Tr {...props}>{children}</Table.Tr>;
   },
   p: ({ children }) => {
     return <p>{addMarks(children, regex)}</p>;
@@ -269,7 +268,7 @@ const MarkdownText: React.FC<Props> = ({
       return <div />;
     }
     return (
-      <div className={clsx(classes.wrapperStyle, classes.blockquoteStyle)}>
+      <div className={classes.wrapperStyle}>
         <ErrorBoundary fallback={errorMessage}>
           <MarkdownHooks
             urlTransform={(uri: string, _key, node) => {
