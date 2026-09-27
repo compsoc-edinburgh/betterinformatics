@@ -1,5 +1,12 @@
 # Changelog
 
+## v2026.09.27
+
+- Improve Guide Page styles ([\#172](https://github.com/compsoc-edinburgh/betterinformatics/pull/172))
+- Fix long unbreakable code tag overflowing guide pages ([\#171](https://github.com/compsoc-edinburgh/betterinformatics/pull/171))
+- Fix testdata creation being broken since 7eae12517 ([\#170](https://github.com/compsoc-edinburgh/betterinformatics/pull/170))
+- Aftermath cleanup of domain migration ([\#168](https://github.com/compsoc-edinburgh/betterinformatics/pull/168))
+
 ## v2026.09.11
 
 - Domain migration! We're now on `betterinformatics.com`!
