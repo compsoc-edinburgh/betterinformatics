@@ -172,6 +172,7 @@ def upload_dissertation(
     # Upload PDF to Minio
     # Assuming the bucket already exists or is created by Minio setup
     file_name = f"{title.replace(' ', '_')}_{pdf_file.name}"
+    file_name = s3_util.generate_filename(8, bucket_name + "/", file_name)
     s3_util.save_file_to_s3(
         bucket_name + "/",
         file_name,
@@ -392,6 +393,7 @@ def update_dissertation(
 
         # Upload PDF to Minio
         file_name = f"{dissertation.title.replace(' ', '_')}_{pdf_file.name}"
+        file_name = s3_util.generate_filename(8, bucket_name + "/", file_name)
         s3_util.save_file_to_s3(
             bucket_name + "/",
             file_name,
