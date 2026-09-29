@@ -169,6 +169,10 @@ def upload_dissertation(
     except Exception as e:
         return response.not_possible(f"Error redacting file: {str(e)}")
 
+    categories = Category.objects.filter(slug__in=data.relevant_categories.split(","))
+    if len(categories) != len(data.relevant_categories.split(",")):
+        return response.not_possible("One or more categories not found.")
+
     # Upload PDF to Minio
     # Assuming the bucket already exists or is created by Minio setup
     file_name = f"{title.replace(' ', '_')}_{pdf_file.name}"
@@ -194,9 +198,6 @@ def upload_dissertation(
         year=year,
     )
 
-    categories = Category.objects.filter(slug__in=data.relevant_categories.split(","))
-    if len(categories) != len(data.relevant_categories.split(",")):
-        return response.not_possible("One or more categories not found.")
     dissertation.relevant_categories.set(categories)
 
     return {"value": dissertation}
