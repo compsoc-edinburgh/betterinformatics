@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Fix dissertation being uploaded without valid category ([\#176](https://github.com/compsoc-edinburgh/betterinformatics/pull/176))
+- Fix filename clash in S3 for identically named dissertations ([\#175](https://github.com/compsoc-edinburgh/betterinformatics/pull/175))
+
 ## v2026.09.27
 
 - Improve Guide Page styling ([\#171](https://github.com/compsoc-edinburgh/betterinformatics/pull/171)), ([\#172](https://github.com/compsoc-edinburgh/betterinformatics/pull/172))
