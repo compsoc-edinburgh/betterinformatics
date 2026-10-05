@@ -142,9 +142,9 @@ def presigned_get_object(
         display_name = filename
 
     if inline:
-        content_disposition = "inline; filename=" + display_name
+        content_disposition = 'inline; filename="' + display_name + '"'
     else:
-        content_disposition = "attachment; filename=" + display_name
+        content_disposition = 'attachment; filename="' + display_name + '"'
     return s3_client.generate_presigned_url(
         ClientMethod="get_object",
         Params={
