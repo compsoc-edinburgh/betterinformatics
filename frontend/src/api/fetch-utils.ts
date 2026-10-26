@@ -35,9 +35,17 @@ export function verifyLoginCode(uun: string, code: string) {
 }
 
 export function logout(redirectUrl = window.location.pathname) {
-  window.location.href = `/api/auth/logout?rd=${encodeURIComponent(
-    redirectUrl,
-  )}`;
+  const form = document.createElement("form");
+  form.method = "POST";
+  form.action = `/api/auth/logout?rd=${encodeURIComponent(redirectUrl)}`;
+  const csrfInput = document.createElement("input");
+  csrfInput.type = "hidden";
+  csrfInput.name = "csrfmiddlewaretoken";
+  csrfInput.value = getCookie("csrftoken") ?? "";
+  form.appendChild(csrfInput);
+  document.body.appendChild(form);
+  form.submit();
+  document.body.removeChild(form);
 }
 
 export function getHeaders(requestInit?: RequestInit) {
