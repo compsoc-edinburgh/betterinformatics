@@ -136,10 +136,29 @@ class TestEdiAuth(ComsolTest):
 
         # Log out using the same HTTP client (NOT using self.post as that resets
         # the cookies)
-        response = self.client.get("/api/auth/logout")
+        response = self.client.post("/api/auth/logout")
         self.assertEqual(response.status_code, 302)
         self.assertNotIn("access_token", response.client.cookies.items())
 
         # Check that the client user cannot access the me endpoint
         response = self.client.get("/api/notification/unreadcount/")
         self.assertEqual(response.status_code, 401)
+
+    def test_get_logout_doesnt_work(self):
+        # Set the user for future requests to an arbitrary user
+        User.objects.get_or_create(username="s123456")
+        self.user = {
+            "username": "s123456",
+            "admin": False,
+        }
+
+        # Check that the user can access the me endpoint -- this also creates
+        # the Profile and NotificationSetting objects
+        response = self.get("/api/notification/unreadcount/")
+
+        # Attempt Log out using GET, should fail since not idempotent
+        response = self.client.get("/api/auth/logout")
+        self.assertEqual(response.status_code, 405)
+
+        response = self.client.get("/api/notification/unreadcount/")
+        self.assertEqual(response.status_code, 200)
