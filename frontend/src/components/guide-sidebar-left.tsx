@@ -95,13 +95,19 @@ export const GuideSideBarLeft: React.FC = () => {
     pages.pages.forEach(page => {
       if (page.parents.length > 0) {
         for (const parentSlug of page.parents) {
+          if (!Object.hasOwn(pageMap, parentSlug)) continue;
           pageMap[parentSlug].children ??= [];
           pageMap[parentSlug].children.push(pageMap[page.slug]);
         }
       }
     });
     return Object.values(pageMap)
-      .filter(node => !node.parents.length)
+      .filter(
+        node =>
+          !node.parents.some(parentSlug =>
+            Object.hasOwn(pageMap, parentSlug),
+          ),
+      )
       .map(node => {
         const { parents, ...rest } = node;
         return rest;
