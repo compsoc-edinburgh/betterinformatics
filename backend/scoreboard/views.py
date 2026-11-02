@@ -109,7 +109,11 @@ def userinfo(request, username):
 @response.request_get()
 @auth_check.require_login
 def scoreboard_top(request, scoretype):
-    limit = int(request.GET.get("limit", "10"))
+    limit = request.GET.get("limit", "10")
+    if not limit.isdecimal():
+        return response.not_possible("Limit must be a non-negative integer")
+
+    limit = int(limit)
     if limit > 10 and not auth_check.has_admin_rights(request):
         return response.not_allowed()
     return response.success(value=get_scoreboard_top(scoretype, limit))

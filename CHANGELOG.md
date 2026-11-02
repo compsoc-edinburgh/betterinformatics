@@ -1,5 +1,11 @@
 # Changelog
 
+## v2026.10.27
+
+- Security fix for image-based CSRF towards logout endpoint ([\#181](https://github.com/compsoc-edinburgh/betterinformatics/pull/181))
+- Show own anonymised documents in user profile ([\#180](https://github.com/compsoc-edinburgh/betterinformatics/pull/180))
+- Other minor bugfixes: ([\#176](https://github.com/compsoc-edinburgh/betterinformatics/pull/176)) ([\#175](https://github.com/compsoc-edinburgh/betterinformatics/pull/175)) ([\#177](https://github.com/compsoc-edinburgh/betterinformatics/pull/177))
+
 ## v2026.09.27
 
 - Improve Guide Page styling ([\#171](https://github.com/compsoc-edinburgh/betterinformatics/pull/171)), ([\#172](https://github.com/compsoc-edinburgh/betterinformatics/pull/172))

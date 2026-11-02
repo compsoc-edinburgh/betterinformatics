@@ -293,8 +293,9 @@ def list_documents(
         else:
             return not_allowed()
     elif username is not None:
-        # Return only documents that are not anonymised
-        objects = objects.filter(author__username=username, anonymised=False)
+        objects = objects.filter(author__username=username)
+        if username != request.user.username:
+            objects = objects.filter(anonymised=False)
     elif category is not None:
         objects = objects.filter(category__slug=category)
     else:  # if nothing is given, we return an empty result instead of giving back everything

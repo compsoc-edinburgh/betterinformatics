@@ -188,7 +188,7 @@ def update_name(request: HttpRequest):
     return response.success()
 
 
-@response.request_get()
+@response.request_post()
 def logout(request: HttpRequest):
     redirect_url = request.GET.get("rd", "/")
     response = HttpResponseRedirect(redirect_url)
