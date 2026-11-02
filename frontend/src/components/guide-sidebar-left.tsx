@@ -104,9 +104,7 @@ export const GuideSideBarLeft: React.FC = () => {
     return Object.values(pageMap)
       .filter(
         node =>
-          !node.parents.some(parentSlug =>
-            Object.hasOwn(pageMap, parentSlug),
-          ),
+          !node.parents.some(parentSlug => Object.hasOwn(pageMap, parentSlug)),
       )
       .map(node => {
         const { parents, ...rest } = node;
