@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Handle category-linked parents in guide sidebar ([\#179](https://github.com/compsoc-edinburgh/betterinformatics/pull/179))
+
 ## v2026.10.27
 
 - Security fix for image-based CSRF towards logout endpoint ([\#181](https://github.com/compsoc-edinburgh/betterinformatics/pull/181))
